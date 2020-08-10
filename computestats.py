@@ -188,8 +188,13 @@ def ind_stats(interpreted_list):
     stats['Ball Turnovers Forced'] = {}
     stats['Contact Turnovers Forced'] = {}
     stats['Beat Turnovers Forced'] = {}
+    stats['Resets Forced'] = {}
     stats['ISR Snitch Catches'] = {}
     stats['OSR Snitch Catches'] = {}
+    stats['Blue Cards'] = {}
+    stats['Yellow Cards'] = {}
+    stats['Second Yellow Cards'] = {}
+    stats['Straight Red Cards'] = {}
     qpd = 0
     t1 = None
     for pos in interpreted_list:
@@ -244,6 +249,33 @@ def ind_stats(interpreted_list):
                     stats['OSR Snitch Catches'][res[1]]=1
             
             qpd= qpd+30 if res[1].split('-')[0]==t1 else qpd-30
+        for extra in pos['extras']:
+            extra_type, extra_player = extra
+            if extra_type == 'B':
+                if extra_player in stats['Blue Cards']:
+                    stats['Blue Cards'][extra_player]+=1
+                else:
+                    stats['Blue Cards'][extra_player]=1
+            elif extra_type == 'Y':
+                if extra_player in stats['Yellow Cards']:
+                    stats['Yellow Cards'][extra_player]+=1
+                else:
+                    stats['Yellow Cards'][extra_player]=1
+            elif extra_type == '2Y':
+                if extra_player in stats['Second Yellow Cards']:
+                    stats['Second Yellow Cards'][extra_player]+=1
+                else:
+                    stats['Second Yellow Cards'][extra_player]=1
+            if extra_type == '1R':
+                if extra_player in stats['Straight Red Cards']:
+                    stats['Straight Red Cards'][extra_player]+=1
+                else:
+                    stats['Straight Red Cards'][extra_player]=1
+            if extra_type == 'R':
+                if extra_player in stats['Resets Forced']:
+                    stats['Resets Forced'][extra_player]+=1
+                else:
+                    stats['Resets Forced'][extra_player]=1
     df = pd.DataFrame(stats).dropna(how='all').fillna(0).astype(int).sort_values(by=['Goals','Assists','Errors'],ascending=[False,False,True])
     return df
 
