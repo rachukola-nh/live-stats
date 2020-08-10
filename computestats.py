@@ -3,31 +3,39 @@ import numpy as np
 import re
 import xlrd
 import sys, getopt
+import json
 from pathlib import Path
 
 
 TRANSLATION = {
     1:
-    {'G':'Goal by {0}',
-    'GD':'Goal on the drive by {0}',
-    'GS':'Goal on the shot by {0}',
-    'OG':'Own Goal',
-    'E': 'Error by {0}',
-    'ET': 'Turnover penalty on {0}',
-    'EB': 'Blue card on {0} forces turnover',
-    'EY': 'Yellow card on {0} forces turnover',
-     'ER':'Red card on {0} forces turnover',
-     'EM':'Missed shot by {0}. Turnover',
-     'EP':'Errant pass by {0}. Turnover',
-     'ED':'Drop by {0}. Turnover',
-     'RCA':'Snitch catch by {0} is GOOD.',
-     'OCA':'Snitch catch by {0} is GOOD.',
-     '2CA':'Snitch catch by {0} is GOOD.',
-     'RCB':'Snitch catch by {0} is GOOD.',
-     'OCB':'Snitch catch by {0} is GOOD.',
-     '2CB':'Snitch catch by {0} is GOOD.',
+    {'G':'Goal by {0}.',
+    'GD':'Goal on the drive by {0}.',
+    'GS':'Goal on the shot by {0}.',
+    'OG':'Own Goal.',
+    'E': 'Error by {0}.',
+    'ET': 'Turnover penalty on {0}.',
+    'EB': 'Blue card on {0} forces turnover.',
+    'EY': 'Yellow card on {0} forces turnover.',
+    'ER':'Red card on {0} forces turnover.',
+    'EM':'Missed shot by {0}. Turnover.',
+    'EP':'Errant pass by {0}. Turnover.',
+    'ED':'Drop by {0}. Turnover.',
+    'RCA':'Snitch catch by {0} is GOOD.',
+    'OCA':'Snitch catch by {0} is GOOD.',
+    '2CA':'Snitch catch by {0} is GOOD.',
+    'RCB':'Snitch catch by {0} is GOOD.',
+    'OCB':'Snitch catch by {0} is GOOD.',
+    '2CB':'Snitch catch by {0} is GOOD.',
+    'B':'blue card on {0}',
+    'R': 'reset forced by {0}',
+    'Y': 'yellow card on {0}',
+    '2Y': 'second yellow card on {0}, {0} is ejected from the game',
+    '1R': 'red card on {0},{0} is ejected from the game',
+    'SOP':'SNITCH ON PITCH begins'
     },
     2:{
+    'BU':'BROOMS UP! Quaffle Possession by {0}, Bludger Control by {1}',
     'G':'Goal by {0}, assist by {1}',
     'GD':'Goal on the drive by {0}, assist by {1}',
     'GS':'Goal on the shot by {0}, assist by {1}',
@@ -71,28 +79,38 @@ def get_brooms_up(header,roster,teams):
     qb = re.search(r'[Qq](\d+)',valb)
     ba = re.search(r'[Bb](\d+)',vala)
     bb = re.search(r'[Bb](\d+)',valb)
-    q_params = ('A',int(qa.groups()[0]))if qa else ('B',int(qb.groups()[0]))
-    b_params = ('A',int(ba.groups()[0]))if ba else ('B',int(bb.groups()[0]))
-    
-    return (get_name(roster,teams,*q_params),get_name(roster,teams,*b_params))
+    q_params = (int(qa.groups()[0]),'A')if qa else (int(qb.groups()[0]),'B')
+    b_params = (int(ba.groups()[0]),'A')if ba else (int(bb.groups()[0]),'B')
+    extras,offense,time = [],'Brooms Up','0000'
+    result = ['BU',get_name(roster,teams,*q_params),get_name(roster,teams,*b_params)]
+    return {'extras':extras,'offense':offense,'time':time,'result':result}
 
-def get_name(roster,teams,team,number):
+# Can take two forms of player_number, team
+# E.g to look up A-34
+# Either player_number = 'A34', team = None or
+# player_number = 34, team = 'A'
+# Can take a list of player_numbers (of one format only)
+def get_name(roster,teams,player_number,team=None):
+
+    if player_number is None:    #Nonexistent player
+        return None
+    if type(player_number)==list:
+        return ' and '.join([get_name(roster,teams,num,team) for num in player_number])
+    
+    #Convert 
+    team,number = (team,player_number) if team else (player_number[0],player_number[1:])
     team_name = teams[team]
     team_roster = roster[team]
-    if number is None:
-        return None
-    if type(number)==list:
-        return ' and '.join([get_name(roster,teams,team,num) for num in number])
-    elif number =='?':
+    if number =='?':
         return '{}-UNK'.format(team_name)
     else:
-        n = int(number)
+        n = int(float(number))
     if n in team_roster:
-        if team_roster[n]!=team_roster[n]:
-            return '{}-{}'.format(team_name,n)
+        if team_roster[n]!=team_roster[n]: #check for np.nan
+            return '{}-{}'.format(team_name,n) #insert TEAM-# if not in roster or TEAM-NAME if in roster
         else:
             return '{}-{}'.format(team_name,team_roster[n])
-    return '{}-UNK'.format(team_name)
+    return '{}-UNK'.format(team_name) #if number is not known, use TEAM-UNK
 
 def get_possessions(data_rows):
     possessions = []
@@ -116,34 +134,51 @@ def get_possessions(data_rows):
             if len([x for x in pos if x])>1:
                 possessions.append(pos)
     return possessions
+def get_extras(extra):
+    return [(x[:2],x[2:]) if x[0].isdigit() else (x[0],x[1:] if len(x)>1 else None) for x in extra.split(',')  ] if extra else []
+def process_extra(ex, roster,teams,offense,defense):
+    etype,eplayer = ex
+    if etype == 'S':
+        return ('SOP',1)
+    elif etype =='R':
+        return ('R',get_name(roster,teams,eplayer,defense))
+    elif etype =='B' or etype =='Y' or etype=='1R' or etype=='2Y':
+        return (etype,get_name(roster,teams,eplayer))
+    return None
 def interpret(pos,roster,teams):
     ex,team,time,result,primary,secondary = pos
-    offense = teams[team]
+    offense = team
+    defense = 'A' if team=='B' else 'B'
     primary_team = ''
     if result=='RCA':
         primary_team = 'A'
     elif result == 'RCB':
         primary_team = 'B'
     elif result[0]=='T':
-        primary_team = 'A' if team=='B' else 'B'
+        primary_team = defense
     else:
-        primary_team = team
+        primary_team = offense
     secondary_team = team
-    primary_name = get_name(roster,teams,primary_team,primary)
-    secondary_name = get_name(roster,teams,secondary_team,secondary)
-    extras = ex
+    primary_name = get_name(roster,teams,primary,primary_team)
+    secondary_name = get_name(roster,teams,secondary,secondary_team)
+    extras = [process_extra(extra,roster,teams,offense,defense) for extra in get_extras(ex)]
     params = [result]+[x for x in [primary_name,secondary_name] if x]
-    return {'extras':extras,'offense':offense, 'time':time, 'result':params}
+    return {'extras':extras,'offense':teams[offense], 'time':time, 'result':params}
     
 def gen_pbp(interpreted):
     params = interpreted['result']
     time = interpreted['time']
     offense = interpreted['offense']
+    extras = interpreted['extras']
     result = params[0]
     p = params[1:]
     l = len(p)
     time_str = '({0:02d}:{1:02d})'.format(int(time)//100,int(time)%100) if time else ''
-    return '{}{} possession: {}'.format(time_str,offense, TRANSLATION[l][result].format(*p))
+    base = '{}{} possession: {}'.format(time_str,offense, TRANSLATION[l][result].format(*p))
+    if extras:
+        base +=' During the play, '
+        base +=','.join([TRANSLATION[1][extra[0]].format(extra[1]) for extra in extras])
+    return base
     
 def ind_stats(interpreted_list):
     stats = {}
@@ -213,20 +248,25 @@ def ind_stats(interpreted_list):
     return df
 
 def process_file(ifile):
-    pbp_output_file = ifile.split('.xls')[0]+'_pbp.txt'
-    stats_output_file = ifile.split('.xls')[0]+'_stats.csv'
+    stem = ifile.split('.xls')[0]
+    pbp_output_file = stem+'_pbp.txt'
+    stats_output_file = stem+'_stats.csv'
+    json_output_file = stem+'_data.json'
     dat, ros = get_info(ifile)
     roster = get_roster(ros)
     header,data = get_info_from_data(dat)
     teams = get_teams_from_header(header)
     get_brooms_up(header,roster,teams)
     possessions = get_possessions(data)
-    interpreted = [interpret(pos,roster,teams) for pos in possessions]
+    interpreted = [get_brooms_up(header,roster,teams)]+[interpret(pos,roster,teams) for pos in possessions]
+    with open(json_output_file,'w+') as f:
+        json.dump({i:v for i,v in enumerate(interpreted)},f)
     play_by_play = [gen_pbp(i)+'\n' for i in interpreted]
     with open(pbp_output_file,'w+') as f:
         f.writelines(play_by_play)
     stats = ind_stats(interpreted)
     stats.to_csv(stats_output_file)
+    
 
 def main(argv):
     inputfile = ''

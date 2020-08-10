@@ -1,18 +1,19 @@
-UTSA possession: Pass by UTSA-NICK ED dropped by UTSA-8. Turnover
+(00:00)Brooms Up possession: BROOMS UP! Quaffle Possession by UTSA-NICK ED, Bludger Control by UTSA-CAMBRIE CODY
+UTSA possession: Pass by UTSA-NICK ED dropped by UTSA-8. Turnover During the play, blue card on UTSA-43
 TXST possession: Beat by UTSA-CAMBRIE CODY on TXST-20 forces a TURNOVER.
-UTSA possession: Missed shot by UTSA-8. Turnover
+UTSA possession: Missed shot by UTSA-8. Turnover.
 TXST possession: Goal on the shot by TXST-80, assist by TXST-41
 UTSA possession: Goal on the drive by UTSA-8, assist by UTSA-NICK ED
 TXST possession: Beat by UTSA-6 on TXST-80 forces a TURNOVER.
 UTSA possession: Errant pass from UTSA-NICK ED to UTSA-23. Turnover
-TXST possession: Goal on the shot by TXST-RENN LEBER
+TXST possession: Goal on the shot by TXST-RENN LEBER.
 UTSA possession: Pass by UTSA-NICK ED dropped by UTSA-8. Turnover
-TXST possession: Beat by UTSA-6 on TXST-80 forces a TURNOVER.
-UTSA possession: Missed shot by UTSA-23. Turnover
-TXST possession: Goal on the drive by TXST-RENN LEBER
+TXST possession: Beat by UTSA-6 on TXST-80 forces a TURNOVER. During the play, yellow card on UTSA-NICK ED
+UTSA possession: Missed shot by UTSA-23. Turnover.
+TXST possession: Goal on the drive by TXST-RENN LEBER.
 UTSA possession: Beat by TXST-83 on UTSA-43 forces a TURNOVER.
-TXST possession: Missed shot by TXST-RENN LEBER. Turnover
-UTSA possession: Goal on the shot by UTSA-JOHN MOLINA
+TXST possession: Missed shot by TXST-RENN LEBER. Turnover.
+UTSA possession: Goal on the shot by UTSA-JOHN MOLINA. During the play, yellow card on TXST-CHRISTIAN BOLA
 TXST possession: Pass by TXST-41 dropped by TXST-22. Turnover
 UTSA possession: Beat by TXST-MATT BLACKWOOD on UTSA-JOHN MOLINA forces a TURNOVER.
 TXST possession: Pass between TXST-41 and TXST-22 defended by UTSA-JOHN MOLINA. Turnover
@@ -26,11 +27,11 @@ UTSA possession: UTSA-37 passes to UTSA-23 at the hoops, GOAL.
 TXST possession: TXST-41 passes to TXST-22 at the hoops, GOAL.
 UTSA possession: Beat by TXST-3 on UTSA-23 forces a TURNOVER.
 TXST possession: TXST-13 passes to TXST-20 at the hoops, GOAL.
-UTSA possession: Goal on the drive by UTSA-NICK ED
+UTSA possession: Goal on the drive by UTSA-NICK ED.
 TXST possession: Beat by UTSA-CAMBRIE CODY on TXST-20 forces a TURNOVER.
 UTSA possession: Shot by UTSA-23 blocked by TXST-41. Turnover.
-TXST possession: Missed shot by TXST-20. Turnover
+TXST possession: Missed shot by TXST-20. Turnover.
 UTSA possession: Turnover forced by physical contact by TXST-41 on UTSA-NICK ED
-TXST possession: Goal on the drive by TXST-41
-UTSA possession: Goal on the drive by UTSA-23
+TXST possession: Goal on the drive by TXST-41.
+UTSA possession: Goal on the drive by UTSA-23.
 TXST possession: Snitch catch by TXST-14 is GOOD.
