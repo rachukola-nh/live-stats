@@ -1,1 +1,571 @@
-{"0": {"extras": [], "offense": "Brooms Up", "time": "0000", "result": ["BU", "TEXAS-DAVIS ROE", "TXST-RYAN NAWROCKI"]}, "1": {"extras": [], "offense": "TEXAS", "time": "0004", "result": ["TB", "TXST-BRADLEY HIMES", "TEXAS-DAVIS ROE"]}, "2": {"extras": [], "offense": "TXST", "time": "0035", "result": ["TB", "TEXAS-TATE KAY", "TXST-MICHAEL GENTEMPO"]}, "3": {"extras": [], "offense": "TEXAS", "time": "0044", "result": ["EM", "TEXAS-DAVIS ROE"]}, "4": {"extras": [], "offense": "TXST", "time": "0125", "result": ["TB", "TEXAS-TATE KAY", "TXST-ERIC REYES"]}, "5": {"extras": [], "offense": "TEXAS", "time": "0131", "result": ["GD", "TEXAS-DAVIS ROE"]}, "6": {"extras": [], "offense": "TXST", "time": "0202", "result": ["TB", "TEXAS-TATE KAY", "TXST-ERIC REYES"]}, "7": {"extras": [], "offense": "TEXAS", "time": "0208", "result": ["GD", "TEXAS-DAVIS ROE"]}, "8": {"extras": [["Y", "TEXAS-AIDAN PARSI"]], "offense": "TXST", "time": "0254", "result": ["GS", "TXST-MICHAEL GENTEMPO"]}, "9": {"extras": [], "offense": "TEXAS", "time": "0331", "result": ["TD", "TXST-MICHAEL GENTEMPO", "TEXAS-DAVIS ROE and TEXAS-KASYE BEVERS"]}, "10": {"extras": [], "offense": "TXST", "time": "0337", "result": ["TB", "TEXAS-TATE KAY", "TXST-CLAYTON CARLISLE"]}, "11": {"extras": [], "offense": "TEXAS", "time": "0424", "result": ["EM", "TEXAS-AIDAN PARSI"]}, "12": {"extras": [], "offense": "TXST", "time": "0450", "result": ["GP", "TXST-CLAYTON CARLISLE", "TXST-MICHAEL GENTEMPO"]}, "13": {"extras": [], "offense": "TEXAS", "time": "0530", "result": ["TB", "TXST-JESSICA MARKLE", "TEXAS-AIDAN PARSI"]}, "14": {"extras": [], "offense": "TXST", "time": "0540", "result": ["ED", "TXST-ERIC REYES", "TXST-MICHAEL GENTEMPO"]}, "15": {"extras": [], "offense": "TEXAS", "time": "0617", "result": ["GP", "TEXAS-KASYE BEVERS", "TEXAS-LUKE MEISSNER"]}, "16": {"extras": [], "offense": "TXST", "time": "0701", "result": ["TB", "TEXAS-JACK WANG", "TXST-AMBER BONHOMME"]}, "17": {"extras": [], "offense": "TEXAS", "time": "0725", "result": ["GP", "TEXAS-KASYE BEVERS", "TEXAS-DYLAN BOTTOMS"]}, "18": {"extras": [], "offense": "TXST", "time": "0804", "result": ["ED", "TXST-MARK MCQUAGE"]}, "19": {"extras": [], "offense": "TEXAS", "time": "0818", "result": ["ET", "TEXAS-JOSH JOHNSON"]}, "20": {"extras": [], "offense": "TXST", "time": "0854", "result": ["TD", "TEXAS-LUKE MEISSNER", "TXST-MARK MCQUAGE and TXST-AUDREY FRY"]}, "21": {"extras": [], "offense": "TEXAS", "time": "0955", "result": ["GS", "TEXAS-KASYE BEVERS", "TEXAS-DAVIS ROE"]}, "22": {"extras": [["R", "TEXAS-TATE KAY"]], "offense": "TXST", "time": "1051", "result": ["ED", "TXST-TIM NGUYEN", "TXST-DAVID AVILA"]}, "23": {"extras": [], "offense": "TEXAS", "time": "1103", "result": ["TB", "TXST-BAILEE FIELDS", "TEXAS-LUKE MEISSNER"]}, "24": {"extras": [["R", "TEXAS-KYLIE MCBRIDE"]], "offense": "TXST", "time": "1138", "result": ["TB", "TEXAS-KYLIE MCBRIDE", "TXST-TIM NGUYEN"]}, "25": {"extras": [], "offense": "TEXAS", "time": "1144", "result": ["GP", "TEXAS-JOSH JOHNSON", "TEXAS-DAVIS ROE"]}, "26": {"extras": [], "offense": "TXST", "time": "1214", "result": ["TD", "TEXAS-22", "TXST-DAVID AVILA and TXST-TIM NGUYEN"]}, "27": {"extras": [], "offense": "TEXAS", "time": "1243", "result": ["GD", "TEXAS-JAYDAN GILSTRAP"]}, "28": {"extras": [], "offense": "TXST", "time": "1307", "result": ["TL", "TEXAS-DAVIS ROE", "TXST-UNK"]}, "29": {"extras": [], "offense": "TEXAS", "time": "1356", "result": ["TB", "TXST-RYAN NAWROCKI", "TEXAS-JAYDAN GILSTRAP"]}, "30": {"extras": [], "offense": "TXST", "time": "1425", "result": ["TL", "TEXAS-22", "TXST-MELISSA KITE"]}, "31": {"extras": [["R", "TXST-BAILEE FIELDS"]], "offense": "TEXAS", "time": "1519", "result": ["GS", "TEXAS-AIDAN PARSI"]}, "32": {"extras": [], "offense": "TXST", "time": "1539", "result": ["TL", "TEXAS-JAYDAN GILSTRAP", "TXST-UNK"]}, "33": {"extras": [], "offense": "TEXAS", "time": "1606", "result": ["TC", "TXST-JUSTIN DUGIE", "TEXAS-22"]}, "34": {"extras": [], "offense": "TXST", "time": "1630", "result": ["TB", "TEXAS-RICHMOND KEELING", "TXST-JUSTIN DUGIE"]}, "35": {"extras": [], "offense": "TEXAS", "time": "1722", "result": ["TB", "TXST-KRIS DE LA FUENTE", "TEXAS-SPENCER FORBES"]}, "36": {"extras": [["SOP", 1]], "offense": "TXST", "time": "1810", "result": ["TL", "TEXAS-SPENCER FORBES", "TXST-JUSTIN DUGIE"]}, "37": {"extras": [], "offense": "TEXAS", "time": "1853", "result": ["GD", "TEXAS-JOSH JOHNSON"]}, "38": {"extras": [], "offense": "TXST", "time": "1908", "result": ["GD", "TXST-MELISSA KITE"]}, "39": {"extras": [], "offense": "TEXAS", "time": "1952", "result": ["GP", "TEXAS-SPENCER FORBES", "TEXAS-JOSH JOHNSON"]}, "40": {"extras": [], "offense": "TXST", "time": "2029", "result": ["ED", "TXST-CONNOR ELLSTON", "TXST-ERIC REYES"]}, "41": {"extras": [], "offense": "TEXAS", "time": "2041", "result": ["GD", "TEXAS-JOSH JOHNSON"]}, "42": {"extras": [["B", "TEXAS-JACK WANG"], ["Y", "TEXAS-DAVID HUBER"]], "offense": "TXST", "time": "2137", "result": ["GP", "TXST-CLAYTON CARLISLE", "TXST-ERIC REYES"]}, "43": {"extras": [], "offense": "TEXAS", "time": "2248", "result": ["TB", "TXST-BRADLEY HIMES", "TEXAS-GRAYSON BRIGGS"]}, "44": {"extras": [], "offense": "TXST", "time": "2344", "result": ["GP", "TXST-AMBER BONHOMME", "TXST-MICHAEL GENTEMPO"]}, "45": {"extras": [], "offense": "TEXAS", "time": "2405", "result": ["TB", "TXST-BRADLEY HIMES", "TEXAS-KASYE BEVERS"]}, "46": {"extras": [], "offense": "TXST", "time": "2421", "result": ["TD", "TEXAS-KASYE BEVERS", "TXST-MICHAEL GENTEMPO and TXST-AMBER BONHOMME"]}, "47": {"extras": [], "offense": "TEXAS", "time": "2441", "result": ["TB", "TXST-KRIS DE LA FUENTE", "TEXAS-DAVIS ROE"]}, "48": {"extras": [], "offense": "TXST", "time": "2449", "result": ["GD", "TXST-ERIC REYES"]}, "49": {"extras": [], "offense": "TEXAS", "time": "2518", "result": ["RCA", "TEXAS-DAVID HUBER"]}}
+{
+  "0": {
+    "result": [
+      "BU",
+      "TEXAS-DAVIS ROE",
+      "TXST-RYAN NAWROCKI"
+    ],
+    "offense": "Brooms Up",
+    "extras": [],
+    "time": "0000"
+  },
+  "1": {
+    "result": [
+      "TB",
+      "TXST-BRADLEY HIMES",
+      "TEXAS-DAVIS ROE"
+    ],
+    "offense": "TEXAS",
+    "defense": "TXST",
+    "extras": [],
+    "time": "0004"
+  },
+  "2": {
+    "result": [
+      "TB",
+      "TEXAS-TATE KAY",
+      "TXST-MICHAEL GENTEMPO"
+    ],
+    "offense": "TXST",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": "0035"
+  },
+  "3": {
+    "result": [
+      "EM",
+      "TEXAS-DAVIS ROE"
+    ],
+    "offense": "TEXAS",
+    "defense": "TXST",
+    "extras": [],
+    "time": "0044"
+  },
+  "4": {
+    "result": [
+      "TB",
+      "TEXAS-TATE KAY",
+      "TXST-ERIC REYES"
+    ],
+    "offense": "TXST",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": "0125"
+  },
+  "5": {
+    "result": [
+      "GD",
+      "TEXAS-DAVIS ROE"
+    ],
+    "offense": "TEXAS",
+    "defense": "TXST",
+    "extras": [],
+    "time": "0131"
+  },
+  "6": {
+    "result": [
+      "TB",
+      "TEXAS-TATE KAY",
+      "TXST-ERIC REYES"
+    ],
+    "offense": "TXST",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": "0202"
+  },
+  "7": {
+    "result": [
+      "GD",
+      "TEXAS-DAVIS ROE"
+    ],
+    "offense": "TEXAS",
+    "defense": "TXST",
+    "extras": [],
+    "time": "0208"
+  },
+  "8": {
+    "result": [
+      "GS",
+      "TXST-MICHAEL GENTEMPO"
+    ],
+    "offense": "TXST",
+    "defense": "TEXAS",
+    "extras": [
+      [
+        "Y",
+        "TEXAS-AIDAN PARSI"
+      ]
+    ],
+    "time": "0254"
+  },
+  "9": {
+    "result": [
+      "TD",
+      "TXST-MICHAEL GENTEMPO",
+      "TEXAS-DAVIS ROE and TEXAS-KASYE BEVERS"
+    ],
+    "offense": "TEXAS",
+    "defense": "TXST",
+    "extras": [],
+    "time": "0331"
+  },
+  "10": {
+    "result": [
+      "TB",
+      "TEXAS-TATE KAY",
+      "TXST-CLAYTON CARLISLE"
+    ],
+    "offense": "TXST",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": "0337"
+  },
+  "11": {
+    "result": [
+      "EM",
+      "TEXAS-AIDAN PARSI"
+    ],
+    "offense": "TEXAS",
+    "defense": "TXST",
+    "extras": [],
+    "time": "0424"
+  },
+  "12": {
+    "result": [
+      "GP",
+      "TXST-CLAYTON CARLISLE",
+      "TXST-MICHAEL GENTEMPO"
+    ],
+    "offense": "TXST",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": "0450"
+  },
+  "13": {
+    "result": [
+      "TB",
+      "TXST-JESSICA MARKLE",
+      "TEXAS-AIDAN PARSI"
+    ],
+    "offense": "TEXAS",
+    "defense": "TXST",
+    "extras": [],
+    "time": "0530"
+  },
+  "14": {
+    "result": [
+      "ED",
+      "TXST-ERIC REYES",
+      "TXST-MICHAEL GENTEMPO"
+    ],
+    "offense": "TXST",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": "0540"
+  },
+  "15": {
+    "result": [
+      "GP",
+      "TEXAS-KASYE BEVERS",
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "offense": "TEXAS",
+    "defense": "TXST",
+    "extras": [],
+    "time": "0617"
+  },
+  "16": {
+    "result": [
+      "TB",
+      "TEXAS-JACK WANG",
+      "TXST-AMBER BONHOMME"
+    ],
+    "offense": "TXST",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": "0701"
+  },
+  "17": {
+    "result": [
+      "GP",
+      "TEXAS-KASYE BEVERS",
+      "TEXAS-DYLAN BOTTOMS"
+    ],
+    "offense": "TEXAS",
+    "defense": "TXST",
+    "extras": [],
+    "time": "0725"
+  },
+  "18": {
+    "result": [
+      "ED",
+      "TXST-MARK MCQUAGE"
+    ],
+    "offense": "TXST",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": "0804"
+  },
+  "19": {
+    "result": [
+      "ET",
+      "TEXAS-JOSH JOHNSON"
+    ],
+    "offense": "TEXAS",
+    "defense": "TXST",
+    "extras": [],
+    "time": "0818"
+  },
+  "20": {
+    "result": [
+      "TD",
+      "TEXAS-LUKE MEISSNER",
+      "TXST-MARK MCQUAGE and TXST-AUDREY FRY"
+    ],
+    "offense": "TXST",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": "0854"
+  },
+  "21": {
+    "result": [
+      "GS",
+      "TEXAS-KASYE BEVERS",
+      "TEXAS-DAVIS ROE"
+    ],
+    "offense": "TEXAS",
+    "defense": "TXST",
+    "extras": [],
+    "time": "0955"
+  },
+  "22": {
+    "result": [
+      "ED",
+      "TXST-TIM NGUYEN",
+      "TXST-DAVID AVILA"
+    ],
+    "offense": "TXST",
+    "defense": "TEXAS",
+    "extras": [
+      [
+        "R",
+        "TEXAS-TATE KAY"
+      ]
+    ],
+    "time": "1051"
+  },
+  "23": {
+    "result": [
+      "TB",
+      "TXST-BAILEE FIELDS",
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "offense": "TEXAS",
+    "defense": "TXST",
+    "extras": [],
+    "time": "1103"
+  },
+  "24": {
+    "result": [
+      "TB",
+      "TEXAS-KYLIE MCBRIDE",
+      "TXST-TIM NGUYEN"
+    ],
+    "offense": "TXST",
+    "defense": "TEXAS",
+    "extras": [
+      [
+        "R",
+        "TEXAS-KYLIE MCBRIDE"
+      ]
+    ],
+    "time": "1138"
+  },
+  "25": {
+    "result": [
+      "GP",
+      "TEXAS-JOSH JOHNSON",
+      "TEXAS-DAVIS ROE"
+    ],
+    "offense": "TEXAS",
+    "defense": "TXST",
+    "extras": [],
+    "time": "1144"
+  },
+  "26": {
+    "result": [
+      "TD",
+      "TEXAS-MICHAEL JOHNSTON",
+      "TXST-DAVID AVILA and TXST-TIM NGUYEN"
+    ],
+    "offense": "TXST",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": "1214"
+  },
+  "27": {
+    "result": [
+      "GD",
+      "TEXAS-JAYDAN GILSTRAP"
+    ],
+    "offense": "TEXAS",
+    "defense": "TXST",
+    "extras": [],
+    "time": "1243"
+  },
+  "28": {
+    "result": [
+      "TL",
+      "TEXAS-DAVIS ROE",
+      "TXST-UNK"
+    ],
+    "offense": "TXST",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": "1307"
+  },
+  "29": {
+    "result": [
+      "TB",
+      "TXST-RYAN NAWROCKI",
+      "TEXAS-JAYDAN GILSTRAP"
+    ],
+    "offense": "TEXAS",
+    "defense": "TXST",
+    "extras": [],
+    "time": "1356"
+  },
+  "30": {
+    "result": [
+      "TL",
+      "TEXAS-MICHAEL JOHNSTON",
+      "TXST-MELISSA KITE"
+    ],
+    "offense": "TXST",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": "1425"
+  },
+  "31": {
+    "result": [
+      "GS",
+      "TEXAS-AIDAN PARSI"
+    ],
+    "offense": "TEXAS",
+    "defense": "TXST",
+    "extras": [
+      [
+        "R",
+        "TXST-BAILEE FIELDS"
+      ]
+    ],
+    "time": "1519"
+  },
+  "32": {
+    "result": [
+      "TL",
+      "TEXAS-JAYDAN GILSTRAP",
+      "TXST-UNK"
+    ],
+    "offense": "TXST",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": "1539"
+  },
+  "33": {
+    "result": [
+      "TC",
+      "TXST-JUSTIN DUGIE",
+      "TEXAS-MICHAEL JOHNSTON"
+    ],
+    "offense": "TEXAS",
+    "defense": "TXST",
+    "extras": [],
+    "time": "1606"
+  },
+  "34": {
+    "result": [
+      "TB",
+      "TEXAS-RICHMOND KEELING",
+      "TXST-JUSTIN DUGIE"
+    ],
+    "offense": "TXST",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": "1630"
+  },
+  "35": {
+    "result": [
+      "TB",
+      "TXST-KRIS DE LA FUENTE",
+      "TEXAS-SPENCER FORBES"
+    ],
+    "offense": "TEXAS",
+    "defense": "TXST",
+    "extras": [],
+    "time": "1722"
+  },
+  "36": {
+    "result": [
+      "TL",
+      "TEXAS-SPENCER FORBES",
+      "TXST-JUSTIN DUGIE"
+    ],
+    "offense": "TXST",
+    "defense": "TEXAS",
+    "extras": [
+      [
+        "SOP",
+        1
+      ]
+    ],
+    "time": "1810"
+  },
+  "37": {
+    "result": [
+      "GD",
+      "TEXAS-JOSH JOHNSON"
+    ],
+    "offense": "TEXAS",
+    "defense": "TXST",
+    "extras": [],
+    "time": "1853"
+  },
+  "38": {
+    "result": [
+      "GD",
+      "TXST-MELISSA KITE"
+    ],
+    "offense": "TXST",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": "1908"
+  },
+  "39": {
+    "result": [
+      "GP",
+      "TEXAS-SPENCER FORBES",
+      "TEXAS-JOSH JOHNSON"
+    ],
+    "offense": "TEXAS",
+    "defense": "TXST",
+    "extras": [],
+    "time": "1952"
+  },
+  "40": {
+    "result": [
+      "ED",
+      "TXST-CONNOR ELLSTON",
+      "TXST-ERIC REYES"
+    ],
+    "offense": "TXST",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": "2029"
+  },
+  "41": {
+    "result": [
+      "GD",
+      "TEXAS-JOSH JOHNSON"
+    ],
+    "offense": "TEXAS",
+    "defense": "TXST",
+    "extras": [],
+    "time": "2041"
+  },
+  "42": {
+    "result": [
+      "GP",
+      "TXST-CLAYTON CARLISLE",
+      "TXST-ERIC REYES"
+    ],
+    "offense": "TXST",
+    "defense": "TEXAS",
+    "extras": [
+      [
+        "B",
+        "TEXAS-JACK WANG"
+      ],
+      [
+        "Y",
+        "TEXAS-DAVID HUBER"
+      ]
+    ],
+    "time": "2137"
+  },
+  "43": {
+    "result": [
+      "TB",
+      "TXST-BRADLEY HIMES",
+      "TEXAS-GRAYSON BRIGGS"
+    ],
+    "offense": "TEXAS",
+    "defense": "TXST",
+    "extras": [],
+    "time": "2248"
+  },
+  "44": {
+    "result": [
+      "GP",
+      "TXST-AMBER BONHOMME",
+      "TXST-MICHAEL GENTEMPO"
+    ],
+    "offense": "TXST",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": "2344"
+  },
+  "45": {
+    "result": [
+      "TB",
+      "TXST-BRADLEY HIMES",
+      "TEXAS-KASYE BEVERS"
+    ],
+    "offense": "TEXAS",
+    "defense": "TXST",
+    "extras": [],
+    "time": "2405"
+  },
+  "46": {
+    "result": [
+      "TD",
+      "TEXAS-KASYE BEVERS",
+      "TXST-MICHAEL GENTEMPO and TXST-AMBER BONHOMME"
+    ],
+    "offense": "TXST",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": "2421"
+  },
+  "47": {
+    "result": [
+      "TB",
+      "TXST-KRIS DE LA FUENTE",
+      "TEXAS-DAVIS ROE"
+    ],
+    "offense": "TEXAS",
+    "defense": "TXST",
+    "extras": [],
+    "time": "2441"
+  },
+  "48": {
+    "result": [
+      "GD",
+      "TXST-ERIC REYES"
+    ],
+    "offense": "TXST",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": "2449"
+  },
+  "49": {
+    "result": [
+      "RCA",
+      "TEXAS-DAVID HUBER"
+    ],
+    "offense": "TEXAS",
+    "defense": "TXST",
+    "extras": [],
+    "time": "2518"
+  }
+}

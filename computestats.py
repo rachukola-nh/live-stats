@@ -56,7 +56,7 @@ def get_info(fname):
     data_sheet = xl_workbook.sheet_by_index(0)
     roster_sheet = xl_workbook.sheet_by_index(1)
     return data_sheet,roster_sheet
-    
+
 def get_roster(roster_sheet):
     datuu = [[s.value for s in r] for r in roster_sheet.get_rows()]
     coln = datuu.pop(0)
@@ -64,7 +64,7 @@ def get_roster(roster_sheet):
     df[''] = df[''].apply(lambda x: int(x))
     return df.replace(r'^\s*$', np.NaN, regex=True).set_index('').to_dict()
 def get_info_from_data(data_sheet):
-    raw = [[s.value for s in r] for r in data_sheet.get_rows()] 
+    raw = [[s.value for s in r] for r in data_sheet.get_rows()]
     header = [[s for s in row if s] for row in raw[1:4]]
     data = raw[6:]
     return header,data
@@ -96,8 +96,8 @@ def get_name(roster,teams,player_number,team=None):
         return None
     if type(player_number)==list:
         return ' and '.join([get_name(roster,teams,num,team) for num in player_number])
-    
-    #Convert 
+
+    #Convert
     team,number = (team,player_number) if team else (player_number[0],player_number[1:])
     team_name = teams[team]
     team_roster = roster[team]
@@ -163,8 +163,8 @@ def interpret(pos,roster,teams):
     secondary_name = get_name(roster,teams,secondary,secondary_team)
     extras = [process_extra(extra,roster,teams,offense,defense) for extra in get_extras(ex)]
     params = [result]+[x for x in [primary_name,secondary_name] if x]
-    return {'extras':extras,'offense':teams[offense], 'time':time, 'result':params}
-    
+    return {'extras':extras,'offense':teams[offense], 'defense':teams[defense],'time':time, 'result':params}
+
 def gen_pbp(interpreted):
     params = interpreted['result']
     time = interpreted['time']
@@ -179,7 +179,7 @@ def gen_pbp(interpreted):
         base +=' During the play, '
         base +=','.join([TRANSLATION[1][extra[0]].format(extra[1]) for extra in extras])
     return base
-    
+
 def ind_stats(interpreted_list):
     stats = {}
     stats['Goals'] = {}
@@ -236,7 +236,7 @@ def ind_stats(interpreted_list):
                 stats['Errors'][res[1]]+=1
             else:
                 stats['Errors'][res[1]]=1
-        elif res[0] in ['RCA','RCB','OCA','OCB','2CA','2CB']: 
+        elif res[0] in ['RCA','RCB','OCA','OCB','2CA','2CB']:
             if abs(qpd)<=30:
                 if res[1] in stats['ISR Snitch Catches']:
                     stats['ISR Snitch Catches'][res[1]]+=1
@@ -247,7 +247,7 @@ def ind_stats(interpreted_list):
                     stats['OSR Snitch Catches'][res[1]]+=1
                 else:
                     stats['OSR Snitch Catches'][res[1]]=1
-            
+
             qpd= qpd+30 if res[1].split('-')[0]==t1 else qpd-30
         for extra in pos['extras']:
             extra_type, extra_player = extra
@@ -292,13 +292,13 @@ def process_file(ifile):
     possessions = get_possessions(data)
     interpreted = [get_brooms_up(header,roster,teams)]+[interpret(pos,roster,teams) for pos in possessions]
     with open(json_output_file,'w+') as f:
-        json.dump({i:v for i,v in enumerate(interpreted)},f)
+        json.dump({i:v for i,v in enumerate(interpreted)},f,indent=2)
     play_by_play = [gen_pbp(i)+'\n' for i in interpreted]
     with open(pbp_output_file,'w+') as f:
         f.writelines(play_by_play)
     stats = ind_stats(interpreted)
     stats.to_csv(stats_output_file)
-    
+
 
 def main(argv):
     inputfile = ''
@@ -319,8 +319,8 @@ def main(argv):
         print('Please include an inputfile')
     else:
         process_file(inputfile)
-        
-        
-            
+
+
+
 if __name__ == "__main__":
     main(sys.argv[1:])

@@ -1,1 +1,440 @@
-{"0": {"extras": [], "offense": "Brooms Up", "time": "0000", "result": ["BU", "TEXAS-DAVIS ROE", "TEXAS-TATE KAY"]}, "1": {"extras": [], "offense": "TEXAS", "time": "0003", "result": ["TB", "UTSA-DANIEL WILLIAMS", "TEXAS-DAVIS ROE"]}, "2": {"extras": [], "offense": "UTSA", "time": "0042", "result": ["EM", "UTSA-RENN LEBER"]}, "3": {"extras": [], "offense": "TEXAS", "time": "0133", "result": ["EM", "TEXAS-LUKE MEISSNER"]}, "4": {"extras": [], "offense": "UTSA", "time": "0200", "result": ["TB", "TEXAS-TATE KAY", "UTSA-RENN LEBER"]}, "5": {"extras": [], "offense": "TEXAS", "time": "0210", "result": ["EM", "TEXAS-LUKE MEISSNER"]}, "6": {"extras": [], "offense": "UTSA", "time": "0311", "result": ["TB", "TEXAS-TATE KAY", "UTSA-CHRISTIAN CORTEZ"]}, "7": {"extras": [], "offense": "TEXAS", "time": "0334", "result": ["GD", "TEXAS-DAVIS ROE", "TEXAS-LUKE MEISSNER"]}, "8": {"extras": [], "offense": "UTSA", "time": "0345", "result": ["GD", "UTSA-RENN LEBER"]}, "9": {"extras": [], "offense": "TEXAS", "time": "0401", "result": ["TC", "UTSA-CHRISTIAN CORTEZ", "TEXAS-LUKE MEISSNER"]}, "10": {"extras": [], "offense": "UTSA", "time": "0448", "result": ["GD", "UTSA-CARLOS PRADO"]}, "11": {"extras": [], "offense": "TEXAS", "time": "0527", "result": ["ED", "TEXAS-CAROLINE TAO", "TEXAS-KASYE BEVERS"]}, "12": {"extras": [], "offense": "UTSA", "time": "0607", "result": ["TB", "TEXAS-JACK WANG", "UTSA-CARLOS PRADO"]}, "13": {"extras": [], "offense": "TEXAS", "time": "0625", "result": ["EP", "TEXAS-GRAYSON BRIGGS", "TEXAS-LUKE MEISSNER"]}, "14": {"extras": [], "offense": "UTSA", "time": "0646", "result": ["TC", "TEXAS-KASYE BEVERS", "UTSA-CARLOS PRADO"]}, "15": {"extras": [], "offense": "TEXAS", "time": "0732", "result": ["TB", "UTSA-DANIEL WILLIAMS", "TEXAS-MICHAEL JOHNSTON"]}, "16": {"extras": [], "offense": "UTSA", "time": "0735", "result": ["GD", "UTSA-CHRISTIAN CORTEZ"]}, "17": {"extras": [], "offense": "TEXAS", "time": "0810", "result": ["EP", "TEXAS-MICHAEL JOHNSTON", "TEXAS-JOHN ANDERSON"]}, "18": {"extras": [], "offense": "UTSA", "time": "0845", "result": ["TB", "TEXAS-RICHMOND KEELING", "UTSA-CARSYN DIETZ"]}, "19": {"extras": [], "offense": "TEXAS", "time": "0936", "result": ["GS", "TEXAS-KASYE BEVERS", "TEXAS-JOHN ANDERSON"]}, "20": {"extras": [], "offense": "UTSA", "time": "1000", "result": ["GP", "UTSA-TYLER ZREET", "UTSA-MATT BLACKWOOD"]}, "21": {"extras": [], "offense": "TEXAS", "time": "1012", "result": ["GP", "TEXAS-COLE BURKE", "TEXAS-JOHN ANDERSON"]}, "22": {"extras": [], "offense": "UTSA", "time": "1100", "result": ["EY", "UTSA-NATE SALDIVAR"]}, "23": {"extras": [], "offense": "TEXAS", "time": "1123", "result": ["GD", "TEXAS-JOHN ANDERSON"]}, "24": {"extras": [], "offense": "UTSA", "time": "1202", "result": ["TC", "TEXAS-MICHAEL JOHNSTON", "UTSA-MATT BLACKWOOD"]}, "25": {"extras": [], "offense": "TEXAS", "time": "1205", "result": ["GD", "TEXAS-MICHAEL JOHNSTON"]}, "26": {"extras": [], "offense": "UTSA", "time": "1308", "result": ["GD", "UTSA-TYLER ZREET"]}, "27": {"extras": [], "offense": "TEXAS", "time": "1347", "result": ["GD", "TEXAS-JOSH JOHNSON"]}, "28": {"extras": [], "offense": "UTSA", "time": "1406", "result": ["TD", "TEXAS-JOSH JOHNSON", "UTSA-CARLOS PRADO and UTSA-TYLER ZREET"]}, "29": {"extras": [], "offense": "TEXAS", "time": "1410", "result": ["GD", "TEXAS-JOSH JOHNSON"]}, "30": {"extras": [], "offense": "UTSA", "time": "1445", "result": ["GP", "UTSA-TYLER ZREET", "UTSA-CARSYN DIETZ"]}, "31": {"extras": [], "offense": "TEXAS", "time": "1515", "result": ["EP", "TEXAS-LUKE MEISSNER", "TEXAS-JAYDAN GILSTRAP"]}, "32": {"extras": [], "offense": "UTSA", "time": "1530", "result": ["GP", "UTSA-CARLOS PRADO", "UTSA-TYLER ZREET"]}, "33": {"extras": [], "offense": "TEXAS", "time": "1622", "result": ["ET", "TEXAS-LUKE MEISSNER"]}, "34": {"extras": [], "offense": "UTSA", "time": "1654", "result": ["TD", "TEXAS-JAYDAN GILSTRAP", "UTSA-AVERIE MESSENGER and UTSA-TYLER ZREET"]}, "35": {"extras": [["R", "UTSA-DANIEL WILLIAMS"]], "offense": "TEXAS", "time": "1753", "result": ["EM", "TEXAS-JOSH JOHNSON"]}, "36": {"extras": [], "offense": "UTSA", "time": "1825", "result": ["GD", "UTSA-CARLOS PRADO"]}, "37": {"extras": [], "offense": "TEXAS", "time": "1919", "result": ["GD", "TEXAS-LUKE MEISSNER"]}, "38": {"extras": [], "offense": "UTSA", "time": "2001", "result": ["TD", "TEXAS-LUKE MEISSNER", "UTSA-UNK"]}, "39": {"extras": [], "offense": "TEXAS", "time": "2011", "result": ["GS", "TEXAS-LUKE MEISSNER", "TEXAS-DAVIS ROE"]}, "40": {"extras": [], "offense": "UTSA", "time": "2027", "result": ["RCA", "UTSA-CHRISTIAN CORTEZ"]}}
+{
+  "0": {
+    "result": [
+      "BU",
+      "TEXAS-DAVIS ROE",
+      "TEXAS-TATE KAY"
+    ],
+    "offense": "Brooms Up",
+    "extras": [],
+    "time": "0000"
+  },
+  "1": {
+    "result": [
+      "TB",
+      "UTSA-DANIEL WILLIAMS",
+      "TEXAS-DAVIS ROE"
+    ],
+    "offense": "TEXAS",
+    "defense": "UTSA",
+    "extras": [],
+    "time": "0003"
+  },
+  "2": {
+    "result": [
+      "EM",
+      "UTSA-RENN LEBER"
+    ],
+    "offense": "UTSA",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": "0042"
+  },
+  "3": {
+    "result": [
+      "EM",
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "offense": "TEXAS",
+    "defense": "UTSA",
+    "extras": [],
+    "time": "0133"
+  },
+  "4": {
+    "result": [
+      "TB",
+      "TEXAS-TATE KAY",
+      "UTSA-RENN LEBER"
+    ],
+    "offense": "UTSA",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": "0200"
+  },
+  "5": {
+    "result": [
+      "EM",
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "offense": "TEXAS",
+    "defense": "UTSA",
+    "extras": [],
+    "time": "0210"
+  },
+  "6": {
+    "result": [
+      "TB",
+      "TEXAS-TATE KAY",
+      "UTSA-CHRISTIAN CORTEZ"
+    ],
+    "offense": "UTSA",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": "0311"
+  },
+  "7": {
+    "result": [
+      "GD",
+      "TEXAS-DAVIS ROE",
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "offense": "TEXAS",
+    "defense": "UTSA",
+    "extras": [],
+    "time": "0334"
+  },
+  "8": {
+    "result": [
+      "GD",
+      "UTSA-RENN LEBER"
+    ],
+    "offense": "UTSA",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": "0345"
+  },
+  "9": {
+    "result": [
+      "TC",
+      "UTSA-CHRISTIAN CORTEZ",
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "offense": "TEXAS",
+    "defense": "UTSA",
+    "extras": [],
+    "time": "0401"
+  },
+  "10": {
+    "result": [
+      "GD",
+      "UTSA-CARLOS PRADO"
+    ],
+    "offense": "UTSA",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": "0448"
+  },
+  "11": {
+    "result": [
+      "ED",
+      "TEXAS-CAROLINE TAO",
+      "TEXAS-KASYE BEVERS"
+    ],
+    "offense": "TEXAS",
+    "defense": "UTSA",
+    "extras": [],
+    "time": "0527"
+  },
+  "12": {
+    "result": [
+      "TB",
+      "TEXAS-JACK WANG",
+      "UTSA-CARLOS PRADO"
+    ],
+    "offense": "UTSA",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": "0607"
+  },
+  "13": {
+    "result": [
+      "EP",
+      "TEXAS-GRAYSON BRIGGS",
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "offense": "TEXAS",
+    "defense": "UTSA",
+    "extras": [],
+    "time": "0625"
+  },
+  "14": {
+    "result": [
+      "TC",
+      "TEXAS-KASYE BEVERS",
+      "UTSA-CARLOS PRADO"
+    ],
+    "offense": "UTSA",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": "0646"
+  },
+  "15": {
+    "result": [
+      "TB",
+      "UTSA-DANIEL WILLIAMS",
+      "TEXAS-MICHAEL JOHNSTON"
+    ],
+    "offense": "TEXAS",
+    "defense": "UTSA",
+    "extras": [],
+    "time": "0732"
+  },
+  "16": {
+    "result": [
+      "GD",
+      "UTSA-CHRISTIAN CORTEZ"
+    ],
+    "offense": "UTSA",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": "0735"
+  },
+  "17": {
+    "result": [
+      "EP",
+      "TEXAS-MICHAEL JOHNSTON",
+      "TEXAS-JOHN ANDERSON"
+    ],
+    "offense": "TEXAS",
+    "defense": "UTSA",
+    "extras": [],
+    "time": "0810"
+  },
+  "18": {
+    "result": [
+      "TB",
+      "TEXAS-RICHMOND KEELING",
+      "UTSA-CARSYN DIETZ"
+    ],
+    "offense": "UTSA",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": "0845"
+  },
+  "19": {
+    "result": [
+      "GS",
+      "TEXAS-KASYE BEVERS",
+      "TEXAS-JOHN ANDERSON"
+    ],
+    "offense": "TEXAS",
+    "defense": "UTSA",
+    "extras": [],
+    "time": "0936"
+  },
+  "20": {
+    "result": [
+      "GP",
+      "UTSA-TYLER ZREET",
+      "UTSA-MATT BLACKWOOD"
+    ],
+    "offense": "UTSA",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": "1000"
+  },
+  "21": {
+    "result": [
+      "GP",
+      "TEXAS-COLE BURKE",
+      "TEXAS-JOHN ANDERSON"
+    ],
+    "offense": "TEXAS",
+    "defense": "UTSA",
+    "extras": [],
+    "time": "1012"
+  },
+  "22": {
+    "result": [
+      "EY",
+      "UTSA-NATE SALDIVAR"
+    ],
+    "offense": "UTSA",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": "1100"
+  },
+  "23": {
+    "result": [
+      "GD",
+      "TEXAS-JOHN ANDERSON"
+    ],
+    "offense": "TEXAS",
+    "defense": "UTSA",
+    "extras": [],
+    "time": "1123"
+  },
+  "24": {
+    "result": [
+      "TC",
+      "TEXAS-MICHAEL JOHNSTON",
+      "UTSA-MATT BLACKWOOD"
+    ],
+    "offense": "UTSA",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": "1202"
+  },
+  "25": {
+    "result": [
+      "GD",
+      "TEXAS-MICHAEL JOHNSTON"
+    ],
+    "offense": "TEXAS",
+    "defense": "UTSA",
+    "extras": [],
+    "time": "1205"
+  },
+  "26": {
+    "result": [
+      "GD",
+      "UTSA-TYLER ZREET"
+    ],
+    "offense": "UTSA",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": "1308"
+  },
+  "27": {
+    "result": [
+      "GD",
+      "TEXAS-JOSH JOHNSON"
+    ],
+    "offense": "TEXAS",
+    "defense": "UTSA",
+    "extras": [],
+    "time": "1347"
+  },
+  "28": {
+    "result": [
+      "TD",
+      "TEXAS-JOSH JOHNSON",
+      "UTSA-CARLOS PRADO and UTSA-TYLER ZREET"
+    ],
+    "offense": "UTSA",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": "1406"
+  },
+  "29": {
+    "result": [
+      "GD",
+      "TEXAS-JOSH JOHNSON"
+    ],
+    "offense": "TEXAS",
+    "defense": "UTSA",
+    "extras": [],
+    "time": "1410"
+  },
+  "30": {
+    "result": [
+      "GP",
+      "UTSA-TYLER ZREET",
+      "UTSA-CARSYN DIETZ"
+    ],
+    "offense": "UTSA",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": "1445"
+  },
+  "31": {
+    "result": [
+      "EP",
+      "TEXAS-LUKE MEISSNER",
+      "TEXAS-JAYDAN GILSTRAP"
+    ],
+    "offense": "TEXAS",
+    "defense": "UTSA",
+    "extras": [],
+    "time": "1515"
+  },
+  "32": {
+    "result": [
+      "GP",
+      "UTSA-CARLOS PRADO",
+      "UTSA-TYLER ZREET"
+    ],
+    "offense": "UTSA",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": "1530"
+  },
+  "33": {
+    "result": [
+      "ET",
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "offense": "TEXAS",
+    "defense": "UTSA",
+    "extras": [],
+    "time": "1622"
+  },
+  "34": {
+    "result": [
+      "TD",
+      "TEXAS-JAYDAN GILSTRAP",
+      "UTSA-AVERIE MESSENGER and UTSA-TYLER ZREET"
+    ],
+    "offense": "UTSA",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": "1654"
+  },
+  "35": {
+    "result": [
+      "EM",
+      "TEXAS-JOSH JOHNSON"
+    ],
+    "offense": "TEXAS",
+    "defense": "UTSA",
+    "extras": [
+      [
+        "R",
+        "UTSA-DANIEL WILLIAMS"
+      ]
+    ],
+    "time": "1753"
+  },
+  "36": {
+    "result": [
+      "GD",
+      "UTSA-CARLOS PRADO"
+    ],
+    "offense": "UTSA",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": "1825"
+  },
+  "37": {
+    "result": [
+      "GD",
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "offense": "TEXAS",
+    "defense": "UTSA",
+    "extras": [],
+    "time": "1919"
+  },
+  "38": {
+    "result": [
+      "TD",
+      "TEXAS-LUKE MEISSNER",
+      "UTSA-UNK"
+    ],
+    "offense": "UTSA",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": "2001"
+  },
+  "39": {
+    "result": [
+      "GS",
+      "TEXAS-LUKE MEISSNER",
+      "TEXAS-DAVIS ROE"
+    ],
+    "offense": "TEXAS",
+    "defense": "UTSA",
+    "extras": [],
+    "time": "2011"
+  },
+  "40": {
+    "result": [
+      "RCA",
+      "UTSA-CHRISTIAN CORTEZ"
+    ],
+    "offense": "UTSA",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": "2027"
+  }
+}

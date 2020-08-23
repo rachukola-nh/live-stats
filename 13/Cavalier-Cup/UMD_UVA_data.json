@@ -1,0 +1,563 @@
+{
+  "0": {
+    "result": [
+      "BU",
+      "UMD-JOHN SHERIDAN",
+      "UMD-ZAIN BHAILA"
+    ],
+    "offense": "Brooms Up",
+    "extras": [],
+    "time": "0000"
+  },
+  "1": {
+    "result": [
+      "GD",
+      "UMD-JOHN SHERIDAN"
+    ],
+    "offense": "UMD",
+    "defense": "UVA",
+    "extras": [],
+    "time": ""
+  },
+  "2": {
+    "result": [
+      "GP",
+      "UVA-CARLEE KLEPPIN",
+      "UVA-BEN PHILLIPS"
+    ],
+    "offense": "UVA",
+    "defense": "UMD",
+    "extras": [],
+    "time": ""
+  },
+  "3": {
+    "result": [
+      "TC",
+      "UVA-CARLEE KLEPPIN",
+      "UMD-MACK MORGAN"
+    ],
+    "offense": "UMD",
+    "defense": "UVA",
+    "extras": [
+      [
+        "R",
+        "UVA-LANE BURGESS"
+      ]
+    ],
+    "time": ""
+  },
+  "4": {
+    "result": [
+      "EM",
+      "UVA-BEN PHILLIPS"
+    ],
+    "offense": "UVA",
+    "defense": "UMD",
+    "extras": [],
+    "time": ""
+  },
+  "5": {
+    "result": [
+      "EM",
+      "UMD-MACK MORGAN"
+    ],
+    "offense": "UMD",
+    "defense": "UVA",
+    "extras": [],
+    "time": ""
+  },
+  "6": {
+    "result": [
+      "EP",
+      "UVA-BEN PHILLIPS",
+      "UVA-MATTHEW COOPER"
+    ],
+    "offense": "UVA",
+    "defense": "UMD",
+    "extras": [],
+    "time": ""
+  },
+  "7": {
+    "result": [
+      "EM",
+      "UMD-MACK MORGAN"
+    ],
+    "offense": "UMD",
+    "defense": "UVA",
+    "extras": [],
+    "time": ""
+  },
+  "8": {
+    "result": [
+      "EP",
+      "UVA-MATTHEW COOPER",
+      "UVA-BEN PHILLIPS"
+    ],
+    "offense": "UVA",
+    "defense": "UMD",
+    "extras": [],
+    "time": ""
+  },
+  "9": {
+    "result": [
+      "ED",
+      "UMD-ABBY POTTER",
+      "UMD-MACK MORGAN"
+    ],
+    "offense": "UMD",
+    "defense": "UVA",
+    "extras": [],
+    "time": ""
+  },
+  "10": {
+    "result": [
+      "TB",
+      "UMD-44",
+      "UVA-LILY BIRCHFIELD"
+    ],
+    "offense": "UVA",
+    "defense": "UMD",
+    "extras": [],
+    "time": ""
+  },
+  "11": {
+    "result": [
+      "GS",
+      "UMD-UNK",
+      "UMD-ABBY POTTER"
+    ],
+    "offense": "UMD",
+    "defense": "UVA",
+    "extras": [],
+    "time": ""
+  },
+  "12": {
+    "result": [
+      "TL",
+      "UMD-JOHN SHERIDAN",
+      "UVA-BEN PHILLIPS"
+    ],
+    "offense": "UVA",
+    "defense": "UMD",
+    "extras": [],
+    "time": ""
+  },
+  "13": {
+    "result": [
+      "TC",
+      "UVA-BEN PHILLIPS",
+      "UMD-JOHN SHERIDAN"
+    ],
+    "offense": "UMD",
+    "defense": "UVA",
+    "extras": [],
+    "time": ""
+  },
+  "14": {
+    "result": [
+      "TB",
+      "UMD-ZAIN BHAILA",
+      "UVA-BEN PHILLIPS"
+    ],
+    "offense": "UVA",
+    "defense": "UMD",
+    "extras": [],
+    "time": ""
+  },
+  "15": {
+    "result": [
+      "TD",
+      "UVA-BEN PHILLIPS",
+      "UMD-NOAH RINDOCK and UMD-JOHN SHERIDAN"
+    ],
+    "offense": "UMD",
+    "defense": "UVA",
+    "extras": [],
+    "time": ""
+  },
+  "16": {
+    "result": [
+      "GS",
+      "UVA-BEN PHILLIPS"
+    ],
+    "offense": "UVA",
+    "defense": "UMD",
+    "extras": [],
+    "time": ""
+  },
+  "17": {
+    "result": [
+      "TL",
+      "UVA-BEN PHILLIPS",
+      "UMD-NOAH RINDOCK"
+    ],
+    "offense": "UMD",
+    "defense": "UVA",
+    "extras": [],
+    "time": ""
+  },
+  "18": {
+    "result": [
+      "EM",
+      "UVA-MATTHEW COOPER"
+    ],
+    "offense": "UVA",
+    "defense": "UMD",
+    "extras": [],
+    "time": ""
+  },
+  "19": {
+    "result": [
+      "TB",
+      "UVA-94",
+      "UMD-JOHN SHERIDAN"
+    ],
+    "offense": "UMD",
+    "defense": "UVA",
+    "extras": [],
+    "time": ""
+  },
+  "20": {
+    "result": [
+      "ED",
+      "UVA-MICHAEL HOWELL",
+      "UVA-BEN PHILLIPS"
+    ],
+    "offense": "UVA",
+    "defense": "UMD",
+    "extras": [],
+    "time": ""
+  },
+  "21": {
+    "result": [
+      "TL",
+      "UVA-BEN PHILLIPS",
+      "UMD-JERRICK KNIPPEL"
+    ],
+    "offense": "UMD",
+    "defense": "UVA",
+    "extras": [],
+    "time": ""
+  },
+  "22": {
+    "result": [
+      "GS",
+      "UVA-MICHAEL HOWELL"
+    ],
+    "offense": "UVA",
+    "defense": "UMD",
+    "extras": [],
+    "time": ""
+  },
+  "23": {
+    "result": [
+      "GS",
+      "UMD-NOAH RINDOCK"
+    ],
+    "offense": "UMD",
+    "defense": "UVA",
+    "extras": [],
+    "time": ""
+  },
+  "24": {
+    "result": [
+      "ED",
+      "UVA-MICHAEL HOWELL",
+      "UVA-BEN PHILLIPS"
+    ],
+    "offense": "UVA",
+    "defense": "UMD",
+    "extras": [],
+    "time": ""
+  },
+  "25": {
+    "result": [
+      "TD",
+      "UVA-MICHAEL HOWELL",
+      "UMD-MIKE SINDALL and UMD-JERRICK KNIPPEL"
+    ],
+    "offense": "UMD",
+    "defense": "UVA",
+    "extras": [
+      [
+        "R",
+        "UVA-68"
+      ]
+    ],
+    "time": ""
+  },
+  "26": {
+    "result": [
+      "TD",
+      "UMD-JERRICK KNIPPEL",
+      "UVA-CARLEE KLEPPIN and UVA-MICHAEL HOWELL"
+    ],
+    "offense": "UVA",
+    "defense": "UMD",
+    "extras": [],
+    "time": ""
+  },
+  "27": {
+    "result": [
+      "TB",
+      "UVA-94",
+      "UMD-JERRICK KNIPPEL"
+    ],
+    "offense": "UMD",
+    "defense": "UVA",
+    "extras": [],
+    "time": "1539"
+  },
+  "28": {
+    "result": [
+      "TD",
+      "UMD-MIKE SINDALL",
+      "UVA-MICHAEL HOWELL and UVA-ALLY CHIN"
+    ],
+    "offense": "UVA",
+    "defense": "UMD",
+    "extras": [],
+    "time": ""
+  },
+  "29": {
+    "result": [
+      "EY",
+      "UMD-JERRICK KNIPPEL"
+    ],
+    "offense": "UMD",
+    "defense": "UVA",
+    "extras": [],
+    "time": ""
+  },
+  "30": {
+    "result": [
+      "GD",
+      "UVA-MICHAEL HOWELL"
+    ],
+    "offense": "UVA",
+    "defense": "UMD",
+    "extras": [],
+    "time": ""
+  },
+  "31": {
+    "result": [
+      "EY",
+      "UMD-44"
+    ],
+    "offense": "UMD",
+    "defense": "UVA",
+    "extras": [],
+    "time": ""
+  },
+  "32": {
+    "result": [
+      "GD",
+      "UVA-MICHAEL HOWELL"
+    ],
+    "offense": "UVA",
+    "defense": "UMD",
+    "extras": [],
+    "time": "1758"
+  },
+  "33": {
+    "result": [
+      "GD",
+      "UMD-JOHN SHERIDAN"
+    ],
+    "offense": "UMD",
+    "defense": "UVA",
+    "extras": [
+      [
+        "B",
+        "UVA-HANNAH ROLLINS"
+      ]
+    ],
+    "time": ""
+  },
+  "34": {
+    "result": [
+      "GS",
+      "UVA-MATTHEW COOPER",
+      "UVA-MATTHEW STEELBERG"
+    ],
+    "offense": "UVA",
+    "defense": "UMD",
+    "extras": [],
+    "time": ""
+  },
+  "35": {
+    "result": [
+      "EP",
+      "UMD-MIKE SINDALL",
+      "UMD-ABBY POTTER"
+    ],
+    "offense": "UMD",
+    "defense": "UVA",
+    "extras": [
+      [
+        "R",
+        "UVA-LANE BURGESS"
+      ]
+    ],
+    "time": ""
+  },
+  "36": {
+    "result": [
+      "GP",
+      "UVA-BEN PHILLIPS",
+      "UVA-UNK"
+    ],
+    "offense": "UVA",
+    "defense": "UMD",
+    "extras": [],
+    "time": ""
+  },
+  "37": {
+    "result": [
+      "TL",
+      "UVA-UNK",
+      "UMD-MIKE SINDALL"
+    ],
+    "offense": "UMD",
+    "defense": "UVA",
+    "extras": [
+      [
+        "R",
+        "UVA-LANE BURGESS"
+      ]
+    ],
+    "time": ""
+  },
+  "38": {
+    "result": [
+      "ET",
+      "UVA-UNK"
+    ],
+    "offense": "UVA",
+    "defense": "UMD",
+    "extras": [],
+    "time": ""
+  },
+  "39": {
+    "result": [
+      "TL",
+      "UVA-BEN PHILLIPS",
+      "UMD-JOHN SHERIDAN"
+    ],
+    "offense": "UMD",
+    "defense": "UVA",
+    "extras": [],
+    "time": ""
+  },
+  "40": {
+    "result": [
+      "GP",
+      "UVA-MATTHEW COOPER",
+      "UVA-BEN PHILLIPS"
+    ],
+    "offense": "UVA",
+    "defense": "UMD",
+    "extras": [],
+    "time": ""
+  },
+  "41": {
+    "result": [
+      "TB",
+      "UVA-LANE BURGESS",
+      "UMD-NOAH RINDOCK"
+    ],
+    "offense": "UMD",
+    "defense": "UVA",
+    "extras": [],
+    "time": ""
+  },
+  "42": {
+    "result": [
+      "TL",
+      "UMD-NOAH RINDOCK",
+      "UVA-BEN PHILLIPS"
+    ],
+    "offense": "UVA",
+    "defense": "UMD",
+    "extras": [],
+    "time": ""
+  },
+  "43": {
+    "result": [
+      "GD",
+      "UMD-NOAH RINDOCK"
+    ],
+    "offense": "UMD",
+    "defense": "UVA",
+    "extras": [
+      [
+        "Y",
+        "UVA-MATTHEW COOPER"
+      ]
+    ],
+    "time": ""
+  },
+  "44": {
+    "result": [
+      "TB",
+      "UMD-47",
+      "UVA-6"
+    ],
+    "offense": "UVA",
+    "defense": "UMD",
+    "extras": [],
+    "time": ""
+  },
+  "45": {
+    "result": [
+      "GP",
+      "UMD-JOHN SHERIDAN",
+      "UMD-MACK MORGAN"
+    ],
+    "offense": "UMD",
+    "defense": "UVA",
+    "extras": [],
+    "time": "2521"
+  },
+  "46": {
+    "result": [
+      "EP",
+      "UVA-MATTHEW COOPER",
+      "UVA-BEN PHILLIPS"
+    ],
+    "offense": "UVA",
+    "defense": "UMD",
+    "extras": [],
+    "time": ""
+  },
+  "47": {
+    "result": [
+      "GD",
+      "UMD-JOHN SHERIDAN"
+    ],
+    "offense": "UMD",
+    "defense": "UVA",
+    "extras": [
+      [
+        "2Y",
+        "UVA-MATTHEW COOPER"
+      ],
+      [
+        "Y",
+        "UVA-BEN PHILLIPS"
+      ]
+    ],
+    "time": "2655"
+  },
+  "48": {
+    "result": [
+      "GS",
+      "UVA-MATTHEW STEELBERG",
+      "UVA-BEN PHILLIPS"
+    ],
+    "offense": "UVA",
+    "defense": "UMD",
+    "extras": [],
+    "time": "2758"
+  }
+}

@@ -1,0 +1,470 @@
+{
+  "0": {
+    "result": [
+      "BU",
+      "TEXAS-DAVIS ROE",
+      "KANSAS-23"
+    ],
+    "offense": "Brooms Up",
+    "extras": [],
+    "time": "0000"
+  },
+  "1": {
+    "result": [
+      "GS",
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "extras": [],
+    "time": ""
+  },
+  "2": {
+    "result": [
+      "TD",
+      "TEXAS-AIDAN PARSI",
+      "KANSAS-UNK"
+    ],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": ""
+  },
+  "3": {
+    "result": [
+      "GD",
+      "TEXAS-AIDAN PARSI"
+    ],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "extras": [],
+    "time": ""
+  },
+  "4": {
+    "result": [
+      "ED",
+      "KANSAS-UNK"
+    ],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": ""
+  },
+  "5": {
+    "result": [
+      "GD",
+      "TEXAS-DAVIS ROE"
+    ],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "extras": [],
+    "time": ""
+  },
+  "6": {
+    "result": [
+      "GP",
+      "KANSAS-UNK",
+      "KANSAS-UNK"
+    ],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": ""
+  },
+  "7": {
+    "result": [
+      "ED",
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "extras": [],
+    "time": ""
+  },
+  "8": {
+    "result": [
+      "GP",
+      "KANSAS-UNK",
+      "KANSAS-RACHEL HEALD"
+    ],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": ""
+  },
+  "9": {
+    "result": [
+      "EM",
+      "TEXAS-DAVIS ROE"
+    ],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "extras": [],
+    "time": ""
+  },
+  "10": {
+    "result": [
+      "EM",
+      "KANSAS-BRANDON TABOR"
+    ],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": ""
+  },
+  "11": {
+    "result": [
+      "EP",
+      "TEXAS-UNK",
+      "TEXAS-KASYE BEVERS"
+    ],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "extras": [],
+    "time": ""
+  },
+  "12": {
+    "result": [
+      "TB",
+      "TEXAS-JACK WANG",
+      "KANSAS-85"
+    ],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": ""
+  },
+  "13": {
+    "result": [
+      "GD",
+      "TEXAS-DAVIS ROE",
+      "TEXAS-JOSH JOHNSON"
+    ],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "extras": [
+      [
+        "Y",
+        "KANSAS-25"
+      ]
+    ],
+    "time": ""
+  },
+  "14": {
+    "result": [
+      "EP",
+      "KANSAS-85",
+      "KANSAS-RACHEL HEALD"
+    ],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": ""
+  },
+  "15": {
+    "result": [
+      "EM",
+      "TEXAS-JOSH JOHNSON"
+    ],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "extras": [],
+    "time": ""
+  },
+  "16": {
+    "result": [
+      "EP",
+      "KANSAS-RACHEL HEALD",
+      "KANSAS-25"
+    ],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": ""
+  },
+  "17": {
+    "result": [
+      "GP",
+      "TEXAS-KASYE BEVERS",
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "extras": [],
+    "time": ""
+  },
+  "18": {
+    "result": [
+      "TD",
+      "TEXAS-DYLAN BOTTOMS",
+      "KANSAS-RACHEL HEALD and KANSAS-85"
+    ],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": ""
+  },
+  "19": {
+    "result": [
+      "TD",
+      "KANSAS-RACHEL HEALD",
+      "TEXAS-JOSH JOHNSON and TEXAS-KASYE BEVERS"
+    ],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "extras": [],
+    "time": ""
+  },
+  "20": {
+    "result": [
+      "GS",
+      "KANSAS-85"
+    ],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": ""
+  },
+  "21": {
+    "result": [
+      "GD",
+      "TEXAS-LUKE MEISSNER",
+      "TEXAS-AIDAN PARSI"
+    ],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "extras": [],
+    "time": ""
+  },
+  "22": {
+    "result": [
+      "TC",
+      "TEXAS-AIDAN PARSI",
+      "KANSAS-BRANDON TABOR"
+    ],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": ""
+  },
+  "23": {
+    "result": [
+      "EY",
+      "TEXAS-JACK WANG"
+    ],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "extras": [],
+    "time": ""
+  },
+  "24": {
+    "result": [
+      "ED",
+      "KANSAS-72"
+    ],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": ""
+  },
+  "25": {
+    "result": [
+      "EM",
+      "TEXAS-AIDAN PARSI"
+    ],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "extras": [],
+    "time": ""
+  },
+  "26": {
+    "result": [
+      "GS",
+      "KANSAS-15",
+      "KANSAS-BRANDON TABOR"
+    ],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "extras": [
+      [
+        "Y",
+        "TEXAS-AIDAN PARSI"
+      ]
+    ],
+    "time": ""
+  },
+  "27": {
+    "result": [
+      "TC",
+      "KANSAS-15",
+      "TEXAS-GRAYSON BRIGGS"
+    ],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "extras": [],
+    "time": ""
+  },
+  "28": {
+    "result": [
+      "TD",
+      "TEXAS-DAVIS ROE",
+      "KANSAS-RACHEL HEALD and KANSAS-15"
+    ],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": ""
+  },
+  "29": {
+    "result": [
+      "ET",
+      "TEXAS-RICHMOND KEELING"
+    ],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "extras": [],
+    "time": ""
+  },
+  "30": {
+    "result": [
+      "ED",
+      "KANSAS-25",
+      "KANSAS-85"
+    ],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": ""
+  },
+  "31": {
+    "result": [
+      "GD",
+      "TEXAS-GRAYSON BRIGGS"
+    ],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "extras": [],
+    "time": ""
+  },
+  "32": {
+    "result": [
+      "TB",
+      "TEXAS-KYLIE MCBRIDE",
+      "KANSAS-85"
+    ],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": ""
+  },
+  "33": {
+    "result": [
+      "GD",
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "extras": [],
+    "time": ""
+  },
+  "34": {
+    "result": [
+      "EP",
+      "KANSAS-25"
+    ],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": ""
+  },
+  "35": {
+    "result": [
+      "GD",
+      "TEXAS-AIDAN PARSI"
+    ],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "extras": [],
+    "time": ""
+  },
+  "36": {
+    "result": [
+      "TB",
+      "TEXAS-JACK WANG",
+      "KANSAS-BRANDON TABOR"
+    ],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": ""
+  },
+  "37": {
+    "result": [
+      "GD",
+      "TEXAS-AIDAN PARSI"
+    ],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "extras": [
+      [
+        "Y",
+        "KANSAS-MIKE DEVINE"
+      ]
+    ],
+    "time": ""
+  },
+  "38": {
+    "result": [
+      "EP",
+      "KANSAS-BRANDON TABOR",
+      "KANSAS-17"
+    ],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": ""
+  },
+  "39": {
+    "result": [
+      "TC",
+      "KANSAS-IAN MCCABE",
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "extras": [],
+    "time": ""
+  },
+  "40": {
+    "result": [
+      "TB",
+      "TEXAS-TATE KAY",
+      "KANSAS-BRANDON TABOR"
+    ],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": ""
+  },
+  "41": {
+    "result": [
+      "GP",
+      "TEXAS-KASYE BEVERS",
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "extras": [],
+    "time": ""
+  },
+  "42": {
+    "result": [
+      "RCA",
+      "TEXAS-JOEY CASTELLANO"
+    ],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "extras": [],
+    "time": ""
+  }
+}
