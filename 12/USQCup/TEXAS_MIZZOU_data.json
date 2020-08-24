@@ -1,0 +1,390 @@
+{
+  "0": {
+    "offense": "Brooms Up",
+    "result": [
+      "BU",
+      "TEXAS-6",
+      "MIZZOU-15"
+    ],
+    "time": "0000",
+    "extras": []
+  },
+  "1": {
+    "offense": "TEXAS",
+    "result": [
+      "TB",
+      "MIZZOU-UNK",
+      "TEXAS-6"
+    ],
+    "time": "",
+    "defense": "MIZZOU",
+    "extras": []
+  },
+  "2": {
+    "offense": "MIZZOU",
+    "result": [
+      "GP",
+      "MIZZOU-UNK",
+      "MIZZOU-UNK"
+    ],
+    "time": "",
+    "defense": "TEXAS",
+    "extras": []
+  },
+  "3": {
+    "offense": "TEXAS",
+    "result": [
+      "GP",
+      "TEXAS-20",
+      "TEXAS-AIDAN PARSI"
+    ],
+    "time": "",
+    "defense": "MIZZOU",
+    "extras": []
+  },
+  "4": {
+    "offense": "MIZZOU",
+    "result": [
+      "TC",
+      "TEXAS-AIDAN PARSI",
+      "MIZZOU-UNK"
+    ],
+    "time": "",
+    "defense": "TEXAS",
+    "extras": []
+  },
+  "5": {
+    "offense": "TEXAS",
+    "result": [
+      "GS",
+      "TEXAS-2"
+    ],
+    "time": "",
+    "defense": "MIZZOU",
+    "extras": []
+  },
+  "6": {
+    "offense": "MIZZOU",
+    "result": [
+      "TD",
+      "TEXAS-2",
+      "MIZZOU-UNK and MIZZOU-UNK"
+    ],
+    "time": "",
+    "defense": "TEXAS",
+    "extras": []
+  },
+  "7": {
+    "offense": "TEXAS",
+    "result": [
+      "TB",
+      "MIZZOU-UNK",
+      "TEXAS-AIDAN PARSI"
+    ],
+    "time": "",
+    "defense": "MIZZOU",
+    "extras": []
+  },
+  "8": {
+    "offense": "MIZZOU",
+    "result": [
+      "GS",
+      "MIZZOU-UNK",
+      "MIZZOU-UNK"
+    ],
+    "time": "",
+    "defense": "TEXAS",
+    "extras": []
+  },
+  "9": {
+    "offense": "TEXAS",
+    "result": [
+      "EM",
+      "TEXAS-6"
+    ],
+    "time": "",
+    "defense": "MIZZOU",
+    "extras": []
+  },
+  "10": {
+    "offense": "MIZZOU",
+    "result": [
+      "TC",
+      "TEXAS-AIDAN PARSI",
+      "MIZZOU-UNK"
+    ],
+    "time": "",
+    "defense": "TEXAS",
+    "extras": []
+  },
+  "11": {
+    "offense": "TEXAS",
+    "result": [
+      "GP",
+      "TEXAS-2",
+      "TEXAS-28"
+    ],
+    "time": "",
+    "defense": "MIZZOU",
+    "extras": []
+  },
+  "12": {
+    "offense": "MIZZOU",
+    "result": [
+      "TD",
+      "TEXAS-2",
+      "MIZZOU-UNK and MIZZOU-UNK"
+    ],
+    "time": "",
+    "defense": "TEXAS",
+    "extras": []
+  },
+  "13": {
+    "offense": "TEXAS",
+    "result": [
+      "GD",
+      "TEXAS-2"
+    ],
+    "time": "",
+    "defense": "MIZZOU",
+    "extras": []
+  },
+  "14": {
+    "offense": "MIZZOU",
+    "result": [
+      "TB",
+      "TEXAS-KYLIE MCBRIDE",
+      "MIZZOU-UNK"
+    ],
+    "time": "",
+    "defense": "TEXAS",
+    "extras": []
+  },
+  "15": {
+    "offense": "TEXAS",
+    "result": [
+      "GD",
+      "TEXAS-DYLAN BOTTOMS"
+    ],
+    "time": "",
+    "defense": "MIZZOU",
+    "extras": []
+  },
+  "16": {
+    "offense": "MIZZOU",
+    "result": [
+      "TB",
+      "TEXAS-11",
+      "MIZZOU-UNK"
+    ],
+    "time": "",
+    "defense": "TEXAS",
+    "extras": []
+  },
+  "17": {
+    "offense": "TEXAS",
+    "result": [
+      "GD",
+      "TEXAS-28"
+    ],
+    "time": "",
+    "defense": "MIZZOU",
+    "extras": []
+  },
+  "18": {
+    "offense": "MIZZOU",
+    "result": [
+      "EP",
+      "MIZZOU-UNK",
+      "MIZZOU-UNK"
+    ],
+    "time": "",
+    "defense": "TEXAS",
+    "extras": []
+  },
+  "19": {
+    "offense": "TEXAS",
+    "result": [
+      "GS",
+      "TEXAS-28"
+    ],
+    "time": "",
+    "defense": "MIZZOU",
+    "extras": []
+  },
+  "20": {
+    "offense": "MIZZOU",
+    "result": [
+      "EM",
+      "MIZZOU-UNK"
+    ],
+    "time": "",
+    "defense": "TEXAS",
+    "extras": []
+  },
+  "21": {
+    "offense": "TEXAS",
+    "result": [
+      "TD",
+      "MIZZOU-UNK",
+      "TEXAS-DYLAN BOTTOMS and TEXAS-42"
+    ],
+    "time": "",
+    "defense": "MIZZOU",
+    "extras": []
+  },
+  "22": {
+    "offense": "MIZZOU",
+    "result": [
+      "TB",
+      "TEXAS-KYLIE MCBRIDE",
+      "MIZZOU-UNK"
+    ],
+    "time": "",
+    "defense": "TEXAS",
+    "extras": []
+  },
+  "23": {
+    "offense": "TEXAS",
+    "result": [
+      "TD",
+      "MIZZOU-UNK",
+      "TEXAS-AIDAN PARSI and TEXAS-28"
+    ],
+    "time": "",
+    "defense": "MIZZOU",
+    "extras": [
+      [
+        "R",
+        "MIZZOU-UNK"
+      ]
+    ]
+  },
+  "24": {
+    "offense": "MIZZOU",
+    "result": [
+      "GS",
+      "MIZZOU-UNK"
+    ],
+    "time": "",
+    "defense": "TEXAS",
+    "extras": []
+  },
+  "25": {
+    "offense": "TEXAS",
+    "result": [
+      "TC",
+      "MIZZOU-UNK",
+      "TEXAS-DYLAN BOTTOMS"
+    ],
+    "time": "",
+    "defense": "MIZZOU",
+    "extras": []
+  },
+  "26": {
+    "offense": "MIZZOU",
+    "result": [
+      "EM",
+      "MIZZOU-UNK"
+    ],
+    "time": "",
+    "defense": "TEXAS",
+    "extras": []
+  },
+  "27": {
+    "offense": "TEXAS",
+    "result": [
+      "GS",
+      "TEXAS-28"
+    ],
+    "time": "",
+    "defense": "MIZZOU",
+    "extras": []
+  },
+  "28": {
+    "offense": "MIZZOU",
+    "result": [
+      "GS",
+      "MIZZOU-UNK"
+    ],
+    "time": "",
+    "defense": "TEXAS",
+    "extras": []
+  },
+  "29": {
+    "offense": "TEXAS",
+    "result": [
+      "GD",
+      "TEXAS-6",
+      "TEXAS-MICHAEL JOHNSTON"
+    ],
+    "time": "",
+    "defense": "MIZZOU",
+    "extras": []
+  },
+  "30": {
+    "offense": "MIZZOU",
+    "result": [
+      "EP",
+      "MIZZOU-UNK",
+      "MIZZOU-UNK"
+    ],
+    "time": "",
+    "defense": "TEXAS",
+    "extras": []
+  },
+  "31": {
+    "offense": "TEXAS",
+    "result": [
+      "ED",
+      "TEXAS-UNK",
+      "TEXAS-UNK"
+    ],
+    "time": "",
+    "defense": "MIZZOU",
+    "extras": []
+  },
+  "32": {
+    "offense": "MIZZOU",
+    "result": [
+      "EP",
+      "MIZZOU-20",
+      "MIZZOU-6"
+    ],
+    "time": "",
+    "defense": "TEXAS",
+    "extras": []
+  },
+  "33": {
+    "offense": "TEXAS",
+    "result": [
+      "TL",
+      "MIZZOU-2",
+      "TEXAS-UNK"
+    ],
+    "time": "",
+    "defense": "MIZZOU",
+    "extras": []
+  },
+  "34": {
+    "offense": "MIZZOU",
+    "result": [
+      "TC",
+      "TEXAS-UNK",
+      "MIZZOU-6"
+    ],
+    "time": "",
+    "defense": "TEXAS",
+    "extras": []
+  },
+  "35": {
+    "offense": "TEXAS",
+    "result": [
+      "RCA",
+      "TEXAS-JOEY CASTELLANO"
+    ],
+    "time": "",
+    "defense": "MIZZOU",
+    "extras": []
+  }
+}

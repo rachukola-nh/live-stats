@@ -1,442 +1,442 @@
 {
   "0": {
+    "offense": "Brooms Up",
     "result": [
       "BU",
       "TEXAS-DAVIS ROE",
       "TEXAS-TATE KAY"
     ],
-    "offense": "Brooms Up",
-    "extras": [],
-    "time": "0000"
+    "time": "0000",
+    "extras": []
   },
   "1": {
+    "offense": "TEXAS",
     "result": [
       "TC",
       "TAMU-CAMERON VILLAMIL",
       "TEXAS-OLIVE JIM-DANIELS"
     ],
-    "offense": "TEXAS",
+    "time": "0019",
     "defense": "TAMU",
-    "extras": [],
-    "time": "0019"
+    "extras": []
   },
   "2": {
+    "offense": "TAMU",
     "result": [
       "TB",
       "TEXAS-TATE KAY",
       "TAMU-CONNOR MCINTYRE"
     ],
-    "offense": "TAMU",
+    "time": "0025",
     "defense": "TEXAS",
-    "extras": [],
-    "time": "0025"
+    "extras": []
   },
   "3": {
+    "offense": "TEXAS",
     "result": [
       "TC",
       "TAMU-HAYDAN ALTMAN",
       "TEXAS-DAVIS ROE"
     ],
-    "offense": "TEXAS",
+    "time": "0034",
     "defense": "TAMU",
-    "extras": [],
-    "time": "0034"
+    "extras": []
   },
   "4": {
+    "offense": "TAMU",
     "result": [
       "EP",
       "TAMU-CONNOR MCINTYRE",
       "TAMU-UNK"
     ],
-    "offense": "TAMU",
+    "time": "0101",
     "defense": "TEXAS",
-    "extras": [],
-    "time": "0101"
+    "extras": []
   },
   "5": {
+    "offense": "TEXAS",
     "result": [
       "GD",
       "TEXAS-JOSH JOHNSON"
     ],
-    "offense": "TEXAS",
+    "time": "0126",
     "defense": "TAMU",
-    "extras": [],
-    "time": "0126"
+    "extras": []
   },
   "6": {
+    "offense": "TAMU",
     "result": [
       "TB",
       "TEXAS-KYLIE MCBRIDE",
       "TAMU-HAYDAN ALTMAN"
     ],
-    "offense": "TAMU",
+    "time": "0156",
     "defense": "TEXAS",
-    "extras": [],
-    "time": "0156"
+    "extras": []
   },
   "7": {
+    "offense": "TEXAS",
     "result": [
       "GP",
       "TEXAS-KASYE BEVERS",
       "TEXAS-LUKE MEISSNER"
     ],
-    "offense": "TEXAS",
+    "time": "0243",
     "defense": "TAMU",
-    "extras": [],
-    "time": "0243"
+    "extras": []
   },
   "8": {
+    "offense": "TAMU",
     "result": [
       "GD",
       "TAMU-CONNOR MCINTYRE"
     ],
-    "offense": "TAMU",
+    "time": "0259",
     "defense": "TEXAS",
-    "extras": [],
-    "time": "0259"
+    "extras": []
   },
   "9": {
+    "offense": "TEXAS",
     "result": [
       "GD",
       "TEXAS-JOSH JOHNSON"
     ],
-    "offense": "TEXAS",
+    "time": "0333",
     "defense": "TAMU",
     "extras": [
       [
         "Y",
         "TAMU-CAMERON VILLAMIL"
       ]
-    ],
-    "time": "0333"
+    ]
   },
   "10": {
+    "offense": "TAMU",
     "result": [
       "GD",
       "TAMU-HAYDAN ALTMAN"
     ],
-    "offense": "TAMU",
+    "time": "0359",
     "defense": "TEXAS",
-    "extras": [],
-    "time": "0359"
+    "extras": []
   },
   "11": {
+    "offense": "TEXAS",
     "result": [
       "GD",
       "TEXAS-DAVIS ROE"
     ],
-    "offense": "TEXAS",
+    "time": "0435",
     "defense": "TAMU",
-    "extras": [],
-    "time": "0435"
+    "extras": []
   },
   "12": {
+    "offense": "TAMU",
     "result": [
       "ET",
       "TAMU-CONNOR MCINTYRE"
     ],
-    "offense": "TAMU",
+    "time": "0447",
     "defense": "TEXAS",
-    "extras": [],
-    "time": "0447"
+    "extras": []
   },
   "13": {
+    "offense": "TEXAS",
     "result": [
       "GD",
       "TEXAS-JOSH JOHNSON"
     ],
-    "offense": "TEXAS",
+    "time": "0502",
     "defense": "TAMU",
-    "extras": [],
-    "time": "0502"
+    "extras": []
   },
   "14": {
+    "offense": "TAMU",
     "result": [
       "EP",
       "TAMU-HAYDAN ALTMAN",
       "TAMU-RANDI DORAN"
     ],
-    "offense": "TAMU",
+    "time": "0522",
     "defense": "TEXAS",
-    "extras": [],
-    "time": "0522"
+    "extras": []
   },
   "15": {
+    "offense": "TEXAS",
     "result": [
       "EM",
       "TEXAS-DYLAN BOTTOMS"
     ],
-    "offense": "TEXAS",
+    "time": "0600",
     "defense": "TAMU",
-    "extras": [],
-    "time": "0600"
+    "extras": []
   },
   "16": {
+    "offense": "TAMU",
     "result": [
       "GP",
       "TAMU-CAMERON VILLAMIL",
       "TAMU-CONNOR MCINTYRE"
     ],
-    "offense": "TAMU",
+    "time": "0645",
     "defense": "TEXAS",
-    "extras": [],
-    "time": "0645"
+    "extras": []
   },
   "17": {
+    "offense": "TEXAS",
     "result": [
       "EM",
       "TEXAS-OLIVE JIM-DANIELS"
     ],
-    "offense": "TEXAS",
+    "time": "0746",
     "defense": "TAMU",
     "extras": [
       [
         "R",
-        "TAMU-0"
+        "TAMU-NICK ROY"
       ],
       [
         "Y",
         "TAMU-KODY FOX"
       ]
-    ],
-    "time": "0746"
+    ]
   },
   "18": {
+    "offense": "TAMU",
     "result": [
       "GD",
       "TAMU-CAMERON VILLAMIL"
     ],
-    "offense": "TAMU",
+    "time": "0758",
     "defense": "TEXAS",
-    "extras": [],
-    "time": "0758"
+    "extras": []
   },
   "19": {
+    "offense": "TEXAS",
     "result": [
       "EY",
       "TEXAS-JAYDAN GILSTRAP"
     ],
-    "offense": "TEXAS",
+    "time": "0825",
     "defense": "TAMU",
-    "extras": [],
-    "time": "0825"
+    "extras": []
   },
   "20": {
+    "offense": "TAMU",
     "result": [
       "TB",
       "TEXAS-KYLIE MCBRIDE",
       "TAMU-BLAINE MCCULLARS"
     ],
-    "offense": "TAMU",
+    "time": "0844",
     "defense": "TEXAS",
-    "extras": [],
-    "time": "0844"
+    "extras": []
   },
   "21": {
+    "offense": "TEXAS",
     "result": [
       "GS",
       "TEXAS-DAVIS ROE"
     ],
-    "offense": "TEXAS",
+    "time": "0925",
     "defense": "TAMU",
     "extras": [
       [
         "R",
         "TAMU-ALEX STEWART"
       ]
-    ],
-    "time": "0925"
+    ]
   },
   "22": {
+    "offense": "TAMU",
     "result": [
       "GP",
       "TAMU-CONNOR MCINTYRE",
       "TAMU-KODY FOX"
     ],
-    "offense": "TAMU",
+    "time": "1015",
     "defense": "TEXAS",
     "extras": [
       [
         "Y",
         "TEXAS-JOSH JOHNSON"
       ]
-    ],
-    "time": "1015"
+    ]
   },
   "23": {
+    "offense": "TEXAS",
     "result": [
       "GP",
       "TEXAS-KASYE BEVERS",
       "TEXAS-SPENCER FORBES"
     ],
-    "offense": "TEXAS",
+    "time": "1053",
     "defense": "TAMU",
-    "extras": [],
-    "time": "1053"
+    "extras": []
   },
   "24": {
+    "offense": "TAMU",
     "result": [
       "GD",
       "TAMU-KODY FOX"
     ],
-    "offense": "TAMU",
+    "time": "1133",
     "defense": "TEXAS",
-    "extras": [],
-    "time": "1133"
+    "extras": []
   },
   "25": {
+    "offense": "TEXAS",
     "result": [
       "GP",
       "TEXAS-KASYE BEVERS",
       "TEXAS-JOSH JOHNSON"
     ],
-    "offense": "TEXAS",
+    "time": "1154",
     "defense": "TAMU",
-    "extras": [],
-    "time": "1154"
+    "extras": []
   },
   "26": {
+    "offense": "TAMU",
     "result": [
       "GD",
       "TAMU-KODY FOX"
     ],
-    "offense": "TAMU",
+    "time": "1300",
     "defense": "TEXAS",
-    "extras": [],
-    "time": "1300"
+    "extras": []
   },
   "27": {
+    "offense": "TEXAS",
     "result": [
       "GP",
       "TEXAS-SPENCER FORBES",
       "TEXAS-JOSH JOHNSON"
     ],
-    "offense": "TEXAS",
+    "time": "1320",
     "defense": "TAMU",
-    "extras": [],
-    "time": "1320"
+    "extras": []
   },
   "28": {
+    "offense": "TAMU",
     "result": [
       "TC",
       "TEXAS-AIDAN PARSI",
       "TAMU-KODY FOX"
     ],
-    "offense": "TAMU",
+    "time": "1349",
     "defense": "TEXAS",
-    "extras": [],
-    "time": "1349"
+    "extras": []
   },
   "29": {
+    "offense": "TEXAS",
     "result": [
       "GP",
       "TEXAS-KASYE BEVERS",
       "TEXAS-SPENCER FORBES"
     ],
-    "offense": "TEXAS",
+    "time": "1453",
     "defense": "TAMU",
-    "extras": [],
-    "time": "1453"
+    "extras": []
   },
   "30": {
+    "offense": "TAMU",
     "result": [
       "EP",
       "TAMU-HAYDAN ALTMAN",
       "TAMU-ADRIENNE DEMOSS"
     ],
-    "offense": "TAMU",
+    "time": "1520",
     "defense": "TEXAS",
     "extras": [
       [
         "R",
         "TEXAS-JACK WANG"
       ]
-    ],
-    "time": "1520"
+    ]
   },
   "31": {
+    "offense": "TEXAS",
     "result": [
       "GS",
       "TEXAS-DYLAN BOTTOMS",
       "TEXAS-AIDAN PARSI"
     ],
-    "offense": "TEXAS",
+    "time": "1555",
     "defense": "TAMU",
-    "extras": [],
-    "time": "1555"
+    "extras": []
   },
   "32": {
+    "offense": "TAMU",
     "result": [
       "EP",
       "TAMU-HAYDAN ALTMAN",
       "TAMU-JACK MCBRIDE"
     ],
-    "offense": "TAMU",
+    "time": "1628",
     "defense": "TEXAS",
-    "extras": [],
-    "time": "1628"
+    "extras": []
   },
   "33": {
+    "offense": "TEXAS",
     "result": [
       "TD",
       "TAMU-JACK MCBRIDE",
       "TEXAS-AIDAN PARSI and TEXAS-KASYE BEVERS"
     ],
-    "offense": "TEXAS",
+    "time": "1650",
     "defense": "TAMU",
-    "extras": [],
-    "time": "1650"
+    "extras": []
   },
   "34": {
+    "offense": "TAMU",
     "result": [
       "GD",
       "TAMU-HAYDAN ALTMAN"
     ],
-    "offense": "TAMU",
+    "time": "1703",
     "defense": "TEXAS",
     "extras": [
       [
         "Y",
         "TEXAS-RICHMOND KEELING"
       ]
-    ],
-    "time": "1703"
+    ]
   },
   "35": {
+    "offense": "TEXAS",
     "result": [
       "EP",
       "TEXAS-DYLAN BOTTOMS",
       "TEXAS-SPENCER FORBES"
     ],
-    "offense": "TEXAS",
+    "time": "1830",
     "defense": "TAMU",
     "extras": [
       [
         "SOP",
         1
       ]
-    ],
-    "time": "1830"
+    ]
   },
   "36": {
+    "offense": "TAMU",
     "result": [
       "GP",
       "TAMU-ADRIENNE DEMOSS",
       "TAMU-CONNOR MCINTYRE"
     ],
-    "offense": "TAMU",
+    "time": "1850",
     "defense": "TEXAS",
-    "extras": [],
-    "time": "1850"
+    "extras": []
   },
   "37": {
+    "offense": "TEXAS",
     "result": [
       "RCA",
       "TEXAS-DAVID HUBER"
     ],
-    "offense": "TEXAS",
+    "time": "1914",
     "defense": "TAMU",
-    "extras": [],
-    "time": "1914"
+    "extras": []
   }
 }
