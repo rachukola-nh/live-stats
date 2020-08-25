@@ -1,0 +1,500 @@
+{
+  "0": {
+    "time": "0000",
+    "offense": "Brooms Up",
+    "result": [
+      "BU",
+      "TEXAS-DAVIS ROES",
+      "TEXAS-0"
+    ],
+    "extras": []
+  },
+  "1": {
+    "defense": "UCLA",
+    "offense": "TEXAS",
+    "time": "0025",
+    "result": [
+      "GD",
+      "TEXAS-DAVIS ROES"
+    ],
+    "extras": []
+  },
+  "2": {
+    "defense": "TEXAS",
+    "offense": "UCLA",
+    "time": "0058",
+    "result": [
+      "GS",
+      "UCLA-ELIZABETH NG",
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "extras": []
+  },
+  "3": {
+    "defense": "UCLA",
+    "offense": "TEXAS",
+    "time": "0130",
+    "result": [
+      "EM",
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "extras": []
+  },
+  "4": {
+    "defense": "TEXAS",
+    "offense": "UCLA",
+    "time": "0213",
+    "result": [
+      "TC",
+      "TEXAS-SPENCER FORBES",
+      "UCLA-ELIZABETH NG"
+    ],
+    "extras": []
+  },
+  "5": {
+    "defense": "UCLA",
+    "offense": "TEXAS",
+    "time": "0229",
+    "result": [
+      "EM",
+      "TEXAS-JOEY CASTELLANO"
+    ],
+    "extras": []
+  },
+  "6": {
+    "defense": "TEXAS",
+    "offense": "UCLA",
+    "time": "0254",
+    "result": [
+      "GD",
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "extras": []
+  },
+  "7": {
+    "defense": "UCLA",
+    "offense": "TEXAS",
+    "time": "0319",
+    "result": [
+      "EM",
+      "TEXAS-JOEY CASTELLANO"
+    ],
+    "extras": []
+  },
+  "8": {
+    "defense": "TEXAS",
+    "offense": "UCLA",
+    "time": "0402",
+    "result": [
+      "GD",
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "extras": []
+  },
+  "9": {
+    "defense": "UCLA",
+    "offense": "TEXAS",
+    "time": "0426",
+    "result": [
+      "TB",
+      "UCLA-ASHLEY GORE",
+      "TEXAS-OLIVE JIM-DANIELS"
+    ],
+    "extras": []
+  },
+  "10": {
+    "defense": "TEXAS",
+    "offense": "UCLA",
+    "time": "0442",
+    "result": [
+      "TB",
+      "TEXAS-KYLIE MCBRIDE",
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "extras": []
+  },
+  "11": {
+    "defense": "UCLA",
+    "offense": "TEXAS",
+    "time": "0519",
+    "result": [
+      "EP",
+      "TEXAS-AIDAN PARSI",
+      "TEXAS-KASYE BEVERS"
+    ],
+    "extras": []
+  },
+  "12": {
+    "defense": "TEXAS",
+    "offense": "UCLA",
+    "time": "0558",
+    "result": [
+      "GP",
+      "UCLA-ELIZABETH NG",
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "extras": []
+  },
+  "13": {
+    "defense": "UCLA",
+    "offense": "TEXAS",
+    "time": "0632",
+    "result": [
+      "TC",
+      "UCLA-34",
+      "TEXAS-DYLAN BOTTOMS"
+    ],
+    "extras": []
+  },
+  "14": {
+    "defense": "TEXAS",
+    "offense": "UCLA",
+    "time": "0643",
+    "result": [
+      "ED",
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "extras": []
+  },
+  "15": {
+    "defense": "UCLA",
+    "offense": "TEXAS",
+    "time": "0720",
+    "result": [
+      "EM",
+      "TEXAS-14"
+    ],
+    "extras": []
+  },
+  "16": {
+    "defense": "TEXAS",
+    "offense": "UCLA",
+    "time": "0756",
+    "result": [
+      "TD",
+      "TEXAS-14",
+      "UCLA-JONATHAN GARCIA-ROVETTA and UCLA-ELIZABETH NG"
+    ],
+    "extras": []
+  },
+  "17": {
+    "defense": "UCLA",
+    "offense": "TEXAS",
+    "time": "0810",
+    "result": [
+      "GS",
+      "TEXAS-GRAYSON BRIGGS"
+    ],
+    "extras": []
+  },
+  "18": {
+    "defense": "TEXAS",
+    "offense": "UCLA",
+    "time": "0835",
+    "result": [
+      "TB",
+      "TEXAS-JACK WANG",
+      "UCLA-24"
+    ],
+    "extras": [
+      [
+        "Y",
+        "TEXAS-GRAYSON BRIGGS"
+      ]
+    ]
+  },
+  "19": {
+    "defense": "UCLA",
+    "offense": "TEXAS",
+    "time": "0900",
+    "result": [
+      "EP",
+      "TEXAS-UNK",
+      "TEXAS-UNK"
+    ],
+    "extras": []
+  },
+  "20": {
+    "defense": "TEXAS",
+    "offense": "UCLA",
+    "time": "0921",
+    "result": [
+      "EP",
+      "UCLA-UNK",
+      "UCLA-UNK"
+    ],
+    "extras": []
+  },
+  "21": {
+    "defense": "UCLA",
+    "offense": "TEXAS",
+    "time": "1015",
+    "result": [
+      "GD",
+      "TEXAS-AIDAN PARSI"
+    ],
+    "extras": []
+  },
+  "22": {
+    "defense": "TEXAS",
+    "offense": "UCLA",
+    "time": "1034",
+    "result": [
+      "TB",
+      "TEXAS-JACK WANG",
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "extras": []
+  },
+  "23": {
+    "defense": "UCLA",
+    "offense": "TEXAS",
+    "time": "1117",
+    "result": [
+      "EM",
+      "TEXAS-AIDAN PARSI"
+    ],
+    "extras": [
+      [
+        "Y",
+        "UCLA-21"
+      ]
+    ]
+  },
+  "24": {
+    "defense": "TEXAS",
+    "offense": "UCLA",
+    "time": "1143",
+    "result": [
+      "TB",
+      "TEXAS-JACK WANG",
+      "UCLA-UNK"
+    ],
+    "extras": []
+  },
+  "25": {
+    "defense": "UCLA",
+    "offense": "TEXAS",
+    "time": "1205",
+    "result": [
+      "GD",
+      "TEXAS-JOHN ANDERSON"
+    ],
+    "extras": []
+  },
+  "26": {
+    "defense": "TEXAS",
+    "offense": "UCLA",
+    "time": "1240",
+    "result": [
+      "GP",
+      "UCLA-ELIZABETH NG",
+      "UCLA-17"
+    ],
+    "extras": []
+  },
+  "27": {
+    "defense": "UCLA",
+    "offense": "TEXAS",
+    "time": "1305",
+    "result": [
+      "GP",
+      "TEXAS-CARLY JORDAN",
+      "TEXAS-MICHAEL JOHNSTON"
+    ],
+    "extras": []
+  },
+  "28": {
+    "defense": "TEXAS",
+    "offense": "UCLA",
+    "time": "1344",
+    "result": [
+      "GP",
+      "UCLA-ELIZABETH NG",
+      "UCLA-3"
+    ],
+    "extras": []
+  },
+  "29": {
+    "defense": "UCLA",
+    "offense": "TEXAS",
+    "time": "1428",
+    "result": [
+      "TD",
+      "UCLA-JONATHAN GARCIA-ROVETTA",
+      "TEXAS-JOHN ANDERSON and TEXAS-CARLY JORDAN"
+    ],
+    "extras": [
+      [
+        "R",
+        "UCLA-JUSTIN VANLIGTEN"
+      ]
+    ]
+  },
+  "30": {
+    "defense": "TEXAS",
+    "offense": "UCLA",
+    "time": "1438",
+    "result": [
+      "EM",
+      "UCLA-3"
+    ],
+    "extras": []
+  },
+  "31": {
+    "defense": "UCLA",
+    "offense": "TEXAS",
+    "time": "1507",
+    "result": [
+      "GS",
+      "TEXAS-AIDAN PARSI"
+    ],
+    "extras": []
+  },
+  "32": {
+    "defense": "TEXAS",
+    "offense": "UCLA",
+    "time": "1550",
+    "result": [
+      "TB",
+      "TEXAS-KYLIE MCBRIDE",
+      "UCLA-ELIZABETH NG"
+    ],
+    "extras": []
+  },
+  "33": {
+    "defense": "UCLA",
+    "offense": "TEXAS",
+    "time": "1632",
+    "result": [
+      "TC",
+      "UCLA-3",
+      "TEXAS-DAVIS ROES"
+    ],
+    "extras": []
+  },
+  "34": {
+    "defense": "TEXAS",
+    "offense": "UCLA",
+    "time": "1658",
+    "result": [
+      "EP",
+      "UCLA-3",
+      "UCLA-UNK"
+    ],
+    "extras": [
+      [
+        "Y",
+        "TEXAS-DAVIS ROES"
+      ]
+    ]
+  },
+  "35": {
+    "defense": "UCLA",
+    "offense": "TEXAS",
+    "time": "1736",
+    "result": [
+      "EM",
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "extras": []
+  },
+  "36": {
+    "defense": "TEXAS",
+    "offense": "UCLA",
+    "time": "1801",
+    "result": [
+      "TC",
+      "TEXAS-DAVIS ROES",
+      "UCLA-UNK"
+    ],
+    "extras": [
+      [
+        "SOP",
+        1
+      ]
+    ]
+  },
+  "37": {
+    "defense": "UCLA",
+    "offense": "TEXAS",
+    "time": "1816",
+    "result": [
+      "GP",
+      "TEXAS-OLIVE JIM-DANIELS",
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "extras": []
+  },
+  "38": {
+    "defense": "TEXAS",
+    "offense": "UCLA",
+    "time": "1826",
+    "result": [
+      "T",
+      "TEXAS-OLIVE JIM-DANIELS",
+      "UCLA-UNK"
+    ],
+    "extras": []
+  },
+  "39": {
+    "defense": "UCLA",
+    "offense": "TEXAS",
+    "time": "1830",
+    "result": [
+      "GD",
+      "TEXAS-OLIVE JIM-DANIELS"
+    ],
+    "extras": []
+  },
+  "40": {
+    "defense": "TEXAS",
+    "offense": "UCLA",
+    "time": "1911",
+    "result": [
+      "GD",
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "extras": []
+  },
+  "41": {
+    "defense": "UCLA",
+    "offense": "TEXAS",
+    "time": "1943",
+    "result": [
+      "GS",
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "extras": []
+  },
+  "42": {
+    "defense": "TEXAS",
+    "offense": "UCLA",
+    "time": "2017",
+    "result": [
+      "EM",
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "extras": []
+  },
+  "43": {
+    "defense": "UCLA",
+    "offense": "TEXAS",
+    "time": "2023",
+    "result": [
+      "EM",
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "extras": []
+  },
+  "44": {
+    "defense": "TEXAS",
+    "offense": "UCLA",
+    "time": "2119",
+    "result": [
+      "RCA",
+      "TEXAS-JOSH JOHNSON"
+    ],
+    "extras": []
+  }
+}

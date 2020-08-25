@@ -1,12 +1,12 @@
-(00:00)Brooms Up possession: BROOMS UP! Quaffle Possession by UTSA-43, Bludger Control by UTSA-DANIEL WILLIAMS
-UTSA possession: Goal on the drive by UTSA-43.
+(00:00)Brooms Up possession: BROOMS UP! Quaffle Possession by UTSA-JAY STEWART, Bludger Control by UTSA-DANIEL WILLIAMS
+UTSA possession: Goal on the drive by UTSA-JAY STEWART.
 TEXAS possession: Goal on the drive by TEXAS-DAVIS ROE.
 UTSA possession: Beat by TEXAS-TATE KAY on UTSA-AVERIE MESSENGER forces a TURNOVER.
 TEXAS possession: Goal on the drive by TEXAS-LUKE MEISSNER.
 UTSA possession: Goal on the drive by UTSA-CARLOS PRADO.
-TEXAS possession: Missed shot by TEXAS-99. Turnover.
+TEXAS possession: Missed shot by TEXAS-COLE BURKE. Turnover.
 UTSA possession: Errant pass from UTSA-CHRISTIAN CORTEZ to UTSA-UNK. Turnover
-TEXAS possession: Missed shot by TEXAS-99. Turnover.
+TEXAS possession: Missed shot by TEXAS-COLE BURKE. Turnover.
 UTSA possession: Turnover forced by physical contact by TEXAS-DAVIS ROE on UTSA-MATT BLACKWOOD
 TEXAS possession: Beat by UTSA-DANIEL WILLIAMS on TEXAS-JOHN ANDERSON forces a TURNOVER.
 UTSA possession: Beat by TEXAS-TATE KAY on UTSA-CHRISTIAN CORTEZ forces a TURNOVER.
@@ -18,12 +18,12 @@ TEXAS possession: Drop by TEXAS-JAYDAN GILSTRAP. Turnover.
 UTSA possession: Pass between UTSA-MATT BLACKWOOD and UTSA-AVERIE MESSENGER defended by TEXAS-JOHN ANDERSON. Turnover
 TEXAS possession: Goal on the shot by TEXAS-JOHN ANDERSON.
 UTSA possession: Goal on the shot by UTSA-MATT BLACKWOOD.
-TEXAS possession: Turnover forced by physical contact by UTSA-55 on TEXAS-JAYDAN GILSTRAP During the play, reset forced by UTSA-DANIEL WILLIAMS
+TEXAS possession: Turnover forced by physical contact by UTSA-CHUCKY SEPULVEDA on TEXAS-JAYDAN GILSTRAP During the play, reset forced by UTSA-DANIEL WILLIAMS
 UTSA possession: Missed shot by UTSA-MATT BLACKWOOD. Turnover.
 TEXAS possession: Goal on the shot by TEXAS-MICHAEL JOHNSTON.
 UTSA possession: Drop by UTSA-AVERIE MESSENGER. Turnover.
-TEXAS possession: Turnover forced by physical contact by UTSA-55 on TEXAS-JOHN ANDERSON
-UTSA possession: Turnover forced by physical contact by TEXAS-JAYDAN GILSTRAP on UTSA-55
+TEXAS possession: Turnover forced by physical contact by UTSA-CHUCKY SEPULVEDA on TEXAS-JOHN ANDERSON
+UTSA possession: Turnover forced by physical contact by TEXAS-JAYDAN GILSTRAP on UTSA-CHUCKY SEPULVEDA
 TEXAS possession: Missed shot by TEXAS-GRAYSON BRIGGS. Turnover.
 UTSA possession: Pass between UTSA-UNK defended by TEXAS-GRAYSON BRIGGS. Turnover
 TEXAS possession: Goal on the drive by TEXAS-DAVIS ROE.

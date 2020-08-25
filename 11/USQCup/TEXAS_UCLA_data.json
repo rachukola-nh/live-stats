@@ -1,0 +1,416 @@
+{
+  "0": {
+    "time": "0000",
+    "result": [
+      "BU",
+      "TEXAS-CULLEN FRIDAY",
+      "TEXAS-DAVID HUBER"
+    ],
+    "offense": "Brooms Up",
+    "extras": []
+  },
+  "1": {
+    "defense": "UCLA",
+    "time": "0009",
+    "result": [
+      "GP",
+      "TEXAS-ERIN MCBRIDE",
+      "TEXAS-CULLEN FRIDAY"
+    ],
+    "offense": "TEXAS",
+    "extras": []
+  },
+  "2": {
+    "defense": "TEXAS",
+    "time": "0047",
+    "result": [
+      "GS",
+      "UCLA-ELIZABETH NG",
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "offense": "UCLA",
+    "extras": []
+  },
+  "3": {
+    "defense": "UCLA",
+    "time": "0130",
+    "result": [
+      "GS",
+      "TEXAS-NICK MARINO"
+    ],
+    "offense": "TEXAS",
+    "extras": [
+      [
+        "R",
+        "UCLA-UNK"
+      ]
+    ]
+  },
+  "4": {
+    "defense": "TEXAS",
+    "time": "0200",
+    "result": [
+      "TB",
+      "TEXAS-EDDIE MOLINA",
+      "UCLA-16"
+    ],
+    "offense": "UCLA",
+    "extras": []
+  },
+  "5": {
+    "defense": "UCLA",
+    "time": "0207",
+    "result": [
+      "EM",
+      "TEXAS-AIDAN PARSI"
+    ],
+    "offense": "TEXAS",
+    "extras": []
+  },
+  "6": {
+    "defense": "TEXAS",
+    "time": "0233",
+    "result": [
+      "TB",
+      "TEXAS-EDDIE MOLINA",
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "offense": "UCLA",
+    "extras": []
+  },
+  "7": {
+    "defense": "UCLA",
+    "time": "0237",
+    "result": [
+      "GD",
+      "TEXAS-NICK MARINO"
+    ],
+    "offense": "TEXAS",
+    "extras": []
+  },
+  "8": {
+    "defense": "TEXAS",
+    "time": "0335",
+    "result": [
+      "TD",
+      "TEXAS-CULLEN FRIDAY",
+      "UCLA-UNK and UCLA-16"
+    ],
+    "offense": "UCLA",
+    "extras": []
+  },
+  "9": {
+    "defense": "UCLA",
+    "time": "0403",
+    "result": [
+      "GP",
+      "TEXAS-ERIN MCBRIDE",
+      "TEXAS-NICK MARINO"
+    ],
+    "offense": "TEXAS",
+    "extras": []
+  },
+  "10": {
+    "defense": "TEXAS",
+    "time": "0513",
+    "result": [
+      "GS",
+      "UCLA-32",
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "offense": "UCLA",
+    "extras": []
+  },
+  "11": {
+    "defense": "UCLA",
+    "time": "0537",
+    "result": [
+      "EM",
+      "TEXAS-AIDAN PARSI"
+    ],
+    "offense": "TEXAS",
+    "extras": []
+  },
+  "12": {
+    "defense": "TEXAS",
+    "time": "0625",
+    "result": [
+      "TB",
+      "TEXAS-EDDIE MOLINA",
+      "UCLA-32"
+    ],
+    "offense": "UCLA",
+    "extras": [
+      [
+        "R",
+        "TEXAS-HALLIE PACE"
+      ]
+    ]
+  },
+  "13": {
+    "defense": "UCLA",
+    "time": "0628",
+    "result": [
+      "GD",
+      "TEXAS-NICK MARINO"
+    ],
+    "offense": "TEXAS",
+    "extras": []
+  },
+  "14": {
+    "defense": "TEXAS",
+    "time": "0716",
+    "result": [
+      "GP",
+      "UCLA-ELIZABETH NG",
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "offense": "UCLA",
+    "extras": []
+  },
+  "15": {
+    "defense": "UCLA",
+    "time": "0758",
+    "result": [
+      "EP",
+      "TEXAS-JOEY CASTELLANO",
+      "TEXAS-MICHAEL JOHNSTON"
+    ],
+    "offense": "TEXAS",
+    "extras": []
+  },
+  "16": {
+    "defense": "TEXAS",
+    "time": "0803",
+    "result": [
+      "GD",
+      "UCLA-32"
+    ],
+    "offense": "UCLA",
+    "extras": []
+  },
+  "17": {
+    "defense": "UCLA",
+    "time": "0835",
+    "result": [
+      "ED",
+      "TEXAS-SOPHIA DESALVO",
+      "TEXAS-NICK MARINO"
+    ],
+    "offense": "TEXAS",
+    "extras": []
+  },
+  "18": {
+    "defense": "TEXAS",
+    "time": "0913",
+    "result": [
+      "TB",
+      "TEXAS-OMAR GARZA",
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "offense": "UCLA",
+    "extras": [
+      [
+        "R",
+        "TEXAS-OMAR GARZA"
+      ]
+    ]
+  },
+  "19": {
+    "defense": "UCLA",
+    "time": "0918",
+    "result": [
+      "GS",
+      "TEXAS-NICK MARINO"
+    ],
+    "offense": "TEXAS",
+    "extras": []
+  },
+  "20": {
+    "defense": "TEXAS",
+    "time": "0958",
+    "result": [
+      "TD",
+      "TEXAS-MICHAEL JOHNSTON",
+      "UCLA-RYAN HARRIS and UCLA-UNK"
+    ],
+    "offense": "UCLA",
+    "extras": []
+  },
+  "21": {
+    "defense": "UCLA",
+    "time": "1027",
+    "result": [
+      "GS",
+      "TEXAS-MICHAEL JOHNSTON"
+    ],
+    "offense": "TEXAS",
+    "extras": []
+  },
+  "22": {
+    "defense": "TEXAS",
+    "time": "1115",
+    "result": [
+      "GD",
+      "UCLA-RYAN HARRIS"
+    ],
+    "offense": "UCLA",
+    "extras": []
+  },
+  "23": {
+    "defense": "UCLA",
+    "time": "1207",
+    "result": [
+      "EP",
+      "TEXAS-AUSTIN DICKSON",
+      "TEXAS-CATHERINE HABERL"
+    ],
+    "offense": "TEXAS",
+    "extras": []
+  },
+  "24": {
+    "defense": "TEXAS",
+    "time": "1305",
+    "result": [
+      "TL",
+      "TEXAS-JOHN ANDERSON",
+      "UCLA-RYAN HARRIS"
+    ],
+    "offense": "UCLA",
+    "extras": []
+  },
+  "25": {
+    "defense": "UCLA",
+    "time": "1327",
+    "result": [
+      "TL",
+      "UCLA-RYAN HARRIS",
+      "TEXAS-AIDAN PARSI"
+    ],
+    "offense": "TEXAS",
+    "extras": []
+  },
+  "26": {
+    "defense": "TEXAS",
+    "time": "1354",
+    "result": [
+      "TD",
+      "TEXAS-JOHN ANDERSON",
+      "UCLA-ELIZABETH NG and UCLA-UNK"
+    ],
+    "offense": "UCLA",
+    "extras": []
+  },
+  "27": {
+    "defense": "UCLA",
+    "time": "1432",
+    "result": [
+      "TC",
+      "UCLA-RYAN HARRIS",
+      "TEXAS-CATHERINE HABERL"
+    ],
+    "offense": "TEXAS",
+    "extras": []
+  },
+  "28": {
+    "defense": "TEXAS",
+    "time": "1530",
+    "result": [
+      "GP",
+      "UCLA-ASHLEY GORE",
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "offense": "UCLA",
+    "extras": []
+  },
+  "29": {
+    "defense": "UCLA",
+    "time": "1602",
+    "result": [
+      "GP",
+      "TEXAS-NICK MARINO",
+      "TEXAS-CULLEN FRIDAY"
+    ],
+    "offense": "TEXAS",
+    "extras": []
+  },
+  "30": {
+    "defense": "TEXAS",
+    "time": "1633",
+    "result": [
+      "EP",
+      "UCLA-UNK",
+      "UCLA-ASHLEY GORE"
+    ],
+    "offense": "UCLA",
+    "extras": []
+  },
+  "31": {
+    "defense": "UCLA",
+    "time": "1706",
+    "result": [
+      "GD",
+      "TEXAS-NICK MARINO",
+      "TEXAS-DYLAN BOTTOMS"
+    ],
+    "offense": "TEXAS",
+    "extras": []
+  },
+  "32": {
+    "defense": "TEXAS",
+    "time": "1808",
+    "result": [
+      "EM",
+      "UCLA-32"
+    ],
+    "offense": "UCLA",
+    "extras": [
+      [
+        "SOP",
+        1
+      ]
+    ]
+  },
+  "33": {
+    "defense": "UCLA",
+    "time": "1838",
+    "result": [
+      "GD",
+      "TEXAS-CULLEN FRIDAY"
+    ],
+    "offense": "TEXAS",
+    "extras": []
+  },
+  "34": {
+    "defense": "TEXAS",
+    "time": "1913",
+    "result": [
+      "TB",
+      "TEXAS-EDDIE MOLINA",
+      "UCLA-CHRISTIAN KRIEGER"
+    ],
+    "offense": "UCLA",
+    "extras": []
+  },
+  "35": {
+    "defense": "UCLA",
+    "time": "1918",
+    "result": [
+      "GP",
+      "TEXAS-NICK MARINO",
+      "TEXAS-ERIN MCBRIDE"
+    ],
+    "offense": "TEXAS",
+    "extras": []
+  },
+  "36": {
+    "defense": "TEXAS",
+    "time": "1929",
+    "result": [
+      "RCA",
+      "TEXAS-DAVID HUBER"
+    ],
+    "offense": "UCLA",
+    "extras": []
+  }
+}

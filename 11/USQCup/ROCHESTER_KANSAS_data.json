@@ -1,0 +1,422 @@
+{
+  "0": {
+    "time": "0000",
+    "result": [
+      "BU",
+      "KANSAS-IAN MCCABE",
+      "ROCHESTER-TIM KWAN"
+    ],
+    "offense": "Brooms Up",
+    "extras": []
+  },
+  "1": {
+    "time": "0014",
+    "result": [
+      "GD",
+      "KANSAS-IAN MCCABE"
+    ],
+    "offense": "KANSAS",
+    "defense": "ROCHESTER",
+    "extras": []
+  },
+  "2": {
+    "time": "0058",
+    "result": [
+      "EM",
+      "ROCHESTER-SAMANTHA DINGA"
+    ],
+    "offense": "ROCHESTER",
+    "defense": "KANSAS",
+    "extras": []
+  },
+  "3": {
+    "time": "0129",
+    "result": [
+      "GD",
+      "KANSAS-MATT DWYER"
+    ],
+    "offense": "KANSAS",
+    "defense": "ROCHESTER",
+    "extras": []
+  },
+  "4": {
+    "time": "0158",
+    "result": [
+      "GS",
+      "ROCHESTER-BASEM ASHKAR"
+    ],
+    "offense": "ROCHESTER",
+    "defense": "KANSAS",
+    "extras": []
+  },
+  "5": {
+    "time": "0227",
+    "result": [
+      "TD",
+      "ROCHESTER-BASEM ASHKAR",
+      "KANSAS-BEN ENGELS and KANSAS-MATT DWYER"
+    ],
+    "offense": "KANSAS",
+    "defense": "ROCHESTER",
+    "extras": []
+  },
+  "6": {
+    "time": "0238",
+    "result": [
+      "TC",
+      "KANSAS-KEVIN MCMORRIS",
+      "ROCHESTER-BASEM ASHKAR"
+    ],
+    "offense": "ROCHESTER",
+    "defense": "KANSAS",
+    "extras": []
+  },
+  "7": {
+    "time": "0310",
+    "result": [
+      "GS",
+      "KANSAS-BRYAN WEARY",
+      "KANSAS-MATT DWYER"
+    ],
+    "offense": "KANSAS",
+    "defense": "ROCHESTER",
+    "extras": []
+  },
+  "8": {
+    "time": "0329",
+    "result": [
+      "GP",
+      "ROCHESTER-SAMANTHA DINGA",
+      "ROCHESTER-33"
+    ],
+    "offense": "ROCHESTER",
+    "defense": "KANSAS",
+    "extras": []
+  },
+  "9": {
+    "time": "0425",
+    "result": [
+      "TC",
+      "ROCHESTER-BASEM ASHKAR",
+      "KANSAS-BRYAN WEARY"
+    ],
+    "offense": "KANSAS",
+    "defense": "ROCHESTER",
+    "extras": []
+  },
+  "10": {
+    "time": "0453",
+    "result": [
+      "GD",
+      "ROCHESTER-BASEM ASHKAR"
+    ],
+    "offense": "ROCHESTER",
+    "defense": "KANSAS",
+    "extras": []
+  },
+  "11": {
+    "time": "0546",
+    "result": [
+      "GD",
+      "KANSAS-BRYAN WEARY"
+    ],
+    "offense": "KANSAS",
+    "defense": "ROCHESTER",
+    "extras": [
+      [
+        "Y",
+        "ROCHESTER-BASEM ASHKAR"
+      ]
+    ]
+  },
+  "12": {
+    "time": "0617",
+    "result": [
+      "TB",
+      "KANSAS-ADAM MCMORRIS",
+      "ROCHESTER-MIKE PASCUTOI"
+    ],
+    "offense": "ROCHESTER",
+    "defense": "KANSAS",
+    "extras": []
+  },
+  "13": {
+    "time": "0622",
+    "result": [
+      "GS",
+      "KANSAS-BRYAN WEARY"
+    ],
+    "offense": "KANSAS",
+    "defense": "ROCHESTER",
+    "extras": []
+  },
+  "14": {
+    "time": "0656",
+    "result": [
+      "TB",
+      "KANSAS-RYLEY ANDREWS",
+      "ROCHESTER-BASEM ASHKAR"
+    ],
+    "offense": "ROCHESTER",
+    "defense": "KANSAS",
+    "extras": [
+      [
+        "R",
+        "KANSAS-RYLEY ANDREWS"
+      ]
+    ]
+  },
+  "15": {
+    "time": "0705",
+    "result": [
+      "TD",
+      "ROCHESTER-SAMANTHA DINGA",
+      "KANSAS-RACHEL HEALD and KANSAS-MIKE DEVINE"
+    ],
+    "offense": "KANSAS",
+    "defense": "ROCHESTER",
+    "extras": []
+  },
+  "16": {
+    "time": "0745",
+    "result": [
+      "GS",
+      "ROCHESTER-MIKE PASCUTOI"
+    ],
+    "offense": "ROCHESTER",
+    "defense": "KANSAS",
+    "extras": []
+  },
+  "17": {
+    "time": "0814",
+    "result": [
+      "TB",
+      "ROCHESTER-PERRY WANG",
+      "KANSAS-MATT DWYER"
+    ],
+    "offense": "KANSAS",
+    "defense": "ROCHESTER",
+    "extras": []
+  },
+  "18": {
+    "time": "0819",
+    "result": [
+      "GD",
+      "ROCHESTER-BASEM ASHKAR"
+    ],
+    "offense": "ROCHESTER",
+    "defense": "KANSAS",
+    "extras": []
+  },
+  "19": {
+    "time": "0859",
+    "result": [
+      "TB",
+      "ROCHESTER-PERRY WANG",
+      "KANSAS-BEN ENGELS"
+    ],
+    "offense": "KANSAS",
+    "defense": "ROCHESTER",
+    "extras": []
+  },
+  "20": {
+    "time": "0936",
+    "result": [
+      "TC",
+      "KANSAS-UNK",
+      "ROCHESTER-EMMA FOLEY"
+    ],
+    "offense": "ROCHESTER",
+    "defense": "KANSAS",
+    "extras": []
+  },
+  "21": {
+    "time": "1008",
+    "result": [
+      "EM",
+      "KANSAS-MATT DWYER"
+    ],
+    "offense": "KANSAS",
+    "defense": "ROCHESTER",
+    "extras": []
+  },
+  "22": {
+    "time": "1035",
+    "result": [
+      "TB",
+      "KANSAS-ADAM MCMORRIS",
+      "ROCHESTER-EMMA FOLEY"
+    ],
+    "offense": "ROCHESTER",
+    "defense": "KANSAS",
+    "extras": []
+  },
+  "23": {
+    "time": "1130",
+    "result": [
+      "TD",
+      "ROCHESTER-33",
+      "KANSAS-BEN ENGELS and KANSAS-MATT DWYER"
+    ],
+    "offense": "KANSAS",
+    "defense": "ROCHESTER",
+    "extras": [
+      [
+        "R",
+        "ROCHESTER-TIM KWAN"
+      ]
+    ]
+  },
+  "24": {
+    "time": "1135",
+    "result": [
+      "GD",
+      "ROCHESTER-BASEM ASHKAR"
+    ],
+    "offense": "ROCHESTER",
+    "defense": "KANSAS",
+    "extras": []
+  },
+  "25": {
+    "time": "1218",
+    "result": [
+      "EP",
+      "KANSAS-KEVIN MCMORRIS",
+      "KANSAS-BRANDON TABOR"
+    ],
+    "offense": "KANSAS",
+    "defense": "ROCHESTER",
+    "extras": []
+  },
+  "26": {
+    "time": "1252",
+    "result": [
+      "GD",
+      "ROCHESTER-BASEM ASHKAR"
+    ],
+    "offense": "ROCHESTER",
+    "defense": "KANSAS",
+    "extras": []
+  },
+  "27": {
+    "time": "1330",
+    "result": [
+      "EM",
+      "KANSAS-MIKE DEVINE"
+    ],
+    "offense": "KANSAS",
+    "defense": "ROCHESTER",
+    "extras": []
+  },
+  "28": {
+    "time": "1401",
+    "result": [
+      "GD",
+      "ROCHESTER-BASEM ASHKAR"
+    ],
+    "offense": "ROCHESTER",
+    "defense": "KANSAS",
+    "extras": []
+  },
+  "29": {
+    "time": "1444",
+    "result": [
+      "GS",
+      "KANSAS-KEVIN MCMORRIS"
+    ],
+    "offense": "KANSAS",
+    "defense": "ROCHESTER",
+    "extras": []
+  },
+  "30": {
+    "time": "1609",
+    "result": [
+      "GS",
+      "ROCHESTER-MIKE PASCUTOI"
+    ],
+    "offense": "ROCHESTER",
+    "defense": "KANSAS",
+    "extras": [
+      [
+        "R",
+        "KANSAS-RYLEY ANDREWS"
+      ]
+    ]
+  },
+  "31": {
+    "time": "1651",
+    "result": [
+      "TB",
+      "ROCHESTER-TIM KWAN",
+      "KANSAS-BRANDON TABOR"
+    ],
+    "offense": "KANSAS",
+    "defense": "ROCHESTER",
+    "extras": []
+  },
+  "32": {
+    "time": "1745",
+    "result": [
+      "EP",
+      "ROCHESTER-BASEM ASHKAR",
+      "ROCHESTER-OWYN GUINNIP"
+    ],
+    "offense": "ROCHESTER",
+    "defense": "KANSAS",
+    "extras": [
+      [
+        "R",
+        "KANSAS-15"
+      ]
+    ]
+  },
+  "33": {
+    "time": "1837",
+    "result": [
+      "G",
+      "KANSAS-UNK"
+    ],
+    "offense": "KANSAS",
+    "defense": "ROCHESTER",
+    "extras": [
+      [
+        "SOP",
+        1
+      ],
+      [
+        "Y",
+        "ROCHESTER-MIKE PASCUTOI"
+      ]
+    ]
+  },
+  "34": {
+    "time": "1850",
+    "result": [
+      "G",
+      "ROCHESTER-UNK"
+    ],
+    "offense": "ROCHESTER",
+    "defense": "KANSAS",
+    "extras": []
+  },
+  "35": {
+    "time": "1918",
+    "result": [
+      "G",
+      "KANSAS-UNK"
+    ],
+    "offense": "KANSAS",
+    "defense": "ROCHESTER",
+    "extras": []
+  },
+  "36": {
+    "time": "2003",
+    "result": [
+      "RCA",
+      "ROCHESTER-MIKE PASCUTOI"
+    ],
+    "offense": "ROCHESTER",
+    "defense": "KANSAS",
+    "extras": []
+  }
+}
