@@ -1,54 +1,54 @@
-(00:00)Brooms Up possession: BROOMS UP! Quaffle Possession by TEXAS-DAVIS ROE, Bludger Control by TEXAS-DAVID HUBER
-(00:26)TEXAS possession: Goal on the shot by TEXAS-LUKE MEISSNER.
-(01:03)CAL possession: Missed shot by CAL-ELIJAH PHIPPS. Turnover.
-(01:43)TEXAS possession: Goal on the drive by TEXAS-LUKE MEISSNER.
-(02:38)CAL possession: Pass between CAL-ELIJAH PHIPPS and CAL-MADDI ERDALL defended by TEXAS-DAVIS ROE. Turnover
-(03:26)TEXAS possession: Goal on the drive by TEXAS-LUKE MEISSNER.
-(03:49)CAL possession: Pass by CAL-MADDI ERDALL dropped by CAL-AJ MORGAN. Turnover
-(04:18)TEXAS possession: Pass between TEXAS-LUKE MEISSNER and TEXAS-KASYE BEVERS defended by CAL-RYAN PFENNING. Turnover
-(04:23)CAL possession: Turnover forced by physical contact by TEXAS-AIDAN PARSI on CAL-RYAN PFENNING
-(04:53)TEXAS possession: Goal on the shot by TEXAS-LUKE MEISSNER.
-(05:36)CAL possession: Pass between CAL-RYAN PFENNING and CAL-ELIJAH PHIPPS defended by TEXAS-DAVIS ROE. Turnover
-(06:16)TEXAS possession: TEXAS-DAVIS ROE passes to TEXAS-KASYE BEVERS at the hoops, GOAL.
-(06:50)CAL possession: CAL-RYAN PFENNING passes to CAL-ELIJAH PHIPPS at the hoops, GOAL.
-(07:17)TEXAS possession: TEXAS-LUKE MEISSNER passes to TEXAS-KASYE BEVERS at the hoops, GOAL.
-(07:44)CAL possession: Pass between CAL-RYAN PFENNING and CAL-ELIJAH PHIPPS defended by TEXAS-DYLAN BOTTOMS. Turnover
-(08:14)TEXAS possession: Beat by CAL-CONNOR HUGHES on TEXAS-JOSH JOHNSON forces a TURNOVER.
-(08:16)CAL possession: Errant pass from CAL-MADDI ERDALL to CAL-AJ MORGAN. Turnover
-(08:41)TEXAS possession: Goal on the shot by TEXAS-LUKE MEISSNER.
-(09:21)CAL possession: CAL-RYAN PFENNING passes to CAL-MADDI ERDALL at the hoops, GOAL.
-(09:56)TEXAS possession: Beat by CAL-IVAN AVALOS on TEXAS-JOSH JOHNSON forces a TURNOVER.
-(10:16)CAL possession: Pass between CAL-RYAN PFENNING and CAL-ELIJAH PHIPPS defended by TEXAS-JOSH JOHNSON. Turnover
-(11:02)TEXAS possession: Turnover forced by physical contact by CAL-ELIJAH PHIPPS on TEXAS-JOSH JOHNSON
-(11:41)CAL possession: Pass between CAL-RYAN PFENNING and CAL-MADDI ERDALL defended by TEXAS-KASYE BEVERS. Turnover
-(12:10)TEXAS possession: Beat by CAL-UNK on TEXAS-LUKE MEISSNER forces a TURNOVER.
-(12:30)CAL possession: Pass by CAL-RYAN PFENNING dropped by CAL-AJ MORGAN. Turnover
-(13:17)TEXAS possession: Goal on the drive by TEXAS-DYLAN BOTTOMS.
-(13:52)CAL possession: CAL-RYAN PFENNING passes to CAL-ELIJAH PHIPPS at the hoops, GOAL.
-(14:26)TEXAS possession: Errant pass from TEXAS-GRAYSON BRIGGS to TEXAS-MICHAEL JOHNSTON. Turnover
-(14:57)CAL possession: Pass between CAL-RYAN PFENNING and CAL-ELIJAH PHIPPS defended by TEXAS-GRAYSON BRIGGS. Turnover
-(15:25)TEXAS possession: Goal on the drive by TEXAS-DAVIS ROE, assist by TEXAS-LUKE MEISSNER
-(15:53)CAL possession: Errant pass from CAL-RYAN PFENNING to CAL-AJ MORGAN. Turnover
-(16:28)TEXAS possession: Goal on the shot by TEXAS-GRAYSON BRIGGS.
-(16:58)CAL possession: Pass between CAL-RYAN PFENNING and CAL-AJ MORGAN defended by TEXAS-MICHAEL JOHNSTON. Turnover
-(17:09)TEXAS possession: Turnover forced by physical contact by CAL-ELIJAH PHIPPS on TEXAS-MICHAEL JOHNSTON
-(17:46)CAL possession: CAL-RYAN PFENNING passes to CAL-AJ MORGAN at the hoops, GOAL.
-(18:29)TEXAS possession: TEXAS-DAVIS ROE passes to TEXAS-ABBY WADE at the hoops, GOAL.
-(18:29)CAL possession: Beat by TEXAS-TATE KAY on CAL-MADDI ERDALL forces a TURNOVER.
-(19:01)TEXAS possession: Beat by CAL-CONNOR HUGHES on TEXAS-AIDAN PARSI forces a TURNOVER.
-(19:47)CAL possession: Beat by TEXAS-TATE KAY on CAL-RYAN PFENNING forces a TURNOVER.
-(21:00)TEXAS possession: Beat by CAL-CONNOR HUGHES on TEXAS-LUKE MEISSNER forces a TURNOVER.
-(21:38)CAL possession: Pass between CAL-RYAN PFENNING and CAL-MADDI ERDALL defended by TEXAS-LUKE MEISSNER. Turnover During the play, blue card on TEXAS-AIDAN PARSI
-(22:26)TEXAS possession: Beat by CAL-CONNOR HUGHES on TEXAS-LUKE MEISSNER forces a TURNOVER.
-(22:34)CAL possession: Pass between CAL-MADDI ERDALL and CAL-ERIC SHEN defended by TEXAS-LUKE MEISSNER. Turnover
-(22:56)TEXAS possession: Beat by CAL-IVAN AVALOS on TEXAS-KASYE BEVERS forces a TURNOVER.
-(23:12)CAL possession: Pass between CAL-RYAN PFENNING and CAL-MADDI ERDALL defended by TEXAS-KASYE BEVERS. Turnover
-(23:33)TEXAS possession: Beat by CAL-CONNOR HUGHES on TEXAS-JOSH JOHNSON forces a TURNOVER.
-(24:06)CAL possession: Pass between CAL-RYAN PFENNING and CAL-MADDI ERDALL defended by TEXAS-LUKE MEISSNER. Turnover
-(25:21)TEXAS possession: Pass by TEXAS-ANN SCHELIGA dropped by TEXAS-GRAYSON BRIGGS. Turnover
-(25:46)CAL possession: Pass between CAL-RYAN PFENNING and CAL-MADDI ERDALL defended by TEXAS-LUKE MEISSNER. Turnover
-(26:27)TEXAS possession: Goal on the drive by TEXAS-JOSH JOHNSON.
-(27:30)CAL possession: Pass by CAL-RYAN PFENNING dropped by CAL-MADDI ERDALL. Turnover
-(28:15)TEXAS possession: Beat by CAL-CONNOR HUGHES on TEXAS-DAVIS ROE forces a TURNOVER.
-(28:20)CAL possession: Missed shot by CAL-ELIJAH PHIPPS. Turnover.
-TEXAS possession: Snitch catch by TEXAS-JOEY CASTELLANO is GOOD.
+(00:00)Brooms Up possession: BROOMS UP! Quaffle Possession by ['TEXAS-DAVIS ROE'], Bludger Control by ['TEXAS-DAVID HUBER']
+(00:26)TEXAS possession: Goal on the shot by ['TEXAS-LUKE MEISSNER'].
+(01:03)CAL possession: Missed shot by ['CAL-ELIJAH PHIPPS']. Turnover.
+(01:43)TEXAS possession: Goal on the drive by ['TEXAS-LUKE MEISSNER'].
+(02:38)CAL possession: Pass between ['CAL-ELIJAH PHIPPS', 'CAL-MADDI ERDALL'] defended by ['TEXAS-DAVIS ROE']. Turnover
+(03:26)TEXAS possession: Goal on the drive by ['TEXAS-LUKE MEISSNER'].
+(03:49)CAL possession: Pass by ['CAL-MADDI ERDALL'] dropped by ['CAL-AJ MORGAN']. Turnover
+(04:18)TEXAS possession: Pass between ['TEXAS-LUKE MEISSNER', 'TEXAS-KASYE BEVERS'] defended by ['CAL-RYAN PFENNING']. Turnover
+(04:23)CAL possession: Turnover forced by physical contact by ['TEXAS-AIDAN PARSI'] on ['CAL-RYAN PFENNING']
+(04:53)TEXAS possession: Goal on the shot by ['TEXAS-LUKE MEISSNER'].
+(05:36)CAL possession: Pass between ['CAL-RYAN PFENNING', 'CAL-ELIJAH PHIPPS'] defended by ['TEXAS-DAVIS ROE']. Turnover
+(06:16)TEXAS possession: ['TEXAS-DAVIS ROE'] passes to ['TEXAS-KASYE BEVERS'] at the hoops, GOAL.
+(06:50)CAL possession: ['CAL-RYAN PFENNING'] passes to ['CAL-ELIJAH PHIPPS'] at the hoops, GOAL.
+(07:17)TEXAS possession: ['TEXAS-LUKE MEISSNER'] passes to ['TEXAS-KASYE BEVERS'] at the hoops, GOAL.
+(07:44)CAL possession: Pass between ['CAL-RYAN PFENNING', 'CAL-ELIJAH PHIPPS'] defended by ['TEXAS-DYLAN BOTTOMS']. Turnover
+(08:14)TEXAS possession: Beat by ['CAL-CONNOR HUGHES'] on ['TEXAS-JOSH JOHNSON'] forces a TURNOVER.
+(08:16)CAL possession: Errant pass from ['CAL-MADDI ERDALL'] to ['CAL-AJ MORGAN']. Turnover
+(08:41)TEXAS possession: Goal on the shot by ['TEXAS-LUKE MEISSNER'].
+(09:21)CAL possession: ['CAL-RYAN PFENNING'] passes to ['CAL-MADDI ERDALL'] at the hoops, GOAL.
+(09:56)TEXAS possession: Beat by ['CAL-IVAN AVALOS'] on ['TEXAS-JOSH JOHNSON'] forces a TURNOVER.
+(10:16)CAL possession: Pass between ['CAL-RYAN PFENNING', 'CAL-ELIJAH PHIPPS'] defended by ['TEXAS-JOSH JOHNSON']. Turnover
+(11:02)TEXAS possession: Turnover forced by physical contact by ['CAL-ELIJAH PHIPPS'] on ['TEXAS-JOSH JOHNSON']
+(11:41)CAL possession: Pass between ['CAL-RYAN PFENNING', 'CAL-MADDI ERDALL'] defended by ['TEXAS-KASYE BEVERS']. Turnover
+(12:10)TEXAS possession: Beat by ['CAL-UNK'] on ['TEXAS-LUKE MEISSNER'] forces a TURNOVER.
+(12:30)CAL possession: Pass by ['CAL-RYAN PFENNING'] dropped by ['CAL-AJ MORGAN']. Turnover
+(13:17)TEXAS possession: Goal on the drive by ['TEXAS-DYLAN BOTTOMS'].
+(13:52)CAL possession: ['CAL-RYAN PFENNING'] passes to ['CAL-ELIJAH PHIPPS'] at the hoops, GOAL.
+(14:26)TEXAS possession: Errant pass from ['TEXAS-GRAYSON BRIGGS'] to ['TEXAS-MICHAEL JOHNSTON']. Turnover
+(14:57)CAL possession: Pass between ['CAL-RYAN PFENNING', 'CAL-ELIJAH PHIPPS'] defended by ['TEXAS-GRAYSON BRIGGS']. Turnover
+(15:25)TEXAS possession: Goal on the drive by ['TEXAS-DAVIS ROE'], assist by ['TEXAS-LUKE MEISSNER']
+(15:53)CAL possession: Errant pass from ['CAL-RYAN PFENNING'] to ['CAL-AJ MORGAN']. Turnover
+(16:28)TEXAS possession: Goal on the shot by ['TEXAS-GRAYSON BRIGGS'].
+(16:58)CAL possession: Pass between ['CAL-RYAN PFENNING', 'CAL-AJ MORGAN'] defended by ['TEXAS-MICHAEL JOHNSTON']. Turnover
+(17:09)TEXAS possession: Turnover forced by physical contact by ['CAL-ELIJAH PHIPPS'] on ['TEXAS-MICHAEL JOHNSTON']
+(17:46)CAL possession: ['CAL-RYAN PFENNING'] passes to ['CAL-AJ MORGAN'] at the hoops, GOAL.
+(18:29)TEXAS possession: ['TEXAS-DAVIS ROE'] passes to ['TEXAS-ABBY WADE'] at the hoops, GOAL.
+(18:29)CAL possession: Beat by ['TEXAS-TATE KAY'] on ['CAL-MADDI ERDALL'] forces a TURNOVER.
+(19:01)TEXAS possession: Beat by ['CAL-CONNOR HUGHES'] on ['TEXAS-AIDAN PARSI'] forces a TURNOVER.
+(19:47)CAL possession: Beat by ['TEXAS-TATE KAY'] on ['CAL-RYAN PFENNING'] forces a TURNOVER.
+(21:00)TEXAS possession: Beat by ['CAL-CONNOR HUGHES'] on ['TEXAS-LUKE MEISSNER'] forces a TURNOVER.
+(21:38)CAL possession: Pass between ['CAL-RYAN PFENNING', 'CAL-MADDI ERDALL'] defended by ['TEXAS-LUKE MEISSNER']. Turnover During the play, blue card on TEXAS-AIDAN PARSI
+(22:26)TEXAS possession: Beat by ['CAL-CONNOR HUGHES'] on ['TEXAS-LUKE MEISSNER'] forces a TURNOVER.
+(22:34)CAL possession: Pass between ['CAL-MADDI ERDALL', 'CAL-ERIC SHEN'] defended by ['TEXAS-LUKE MEISSNER']. Turnover
+(22:56)TEXAS possession: Beat by ['CAL-IVAN AVALOS'] on ['TEXAS-KASYE BEVERS'] forces a TURNOVER.
+(23:12)CAL possession: Pass between ['CAL-RYAN PFENNING', 'CAL-MADDI ERDALL'] defended by ['TEXAS-KASYE BEVERS']. Turnover
+(23:33)TEXAS possession: Beat by ['CAL-CONNOR HUGHES'] on ['TEXAS-JOSH JOHNSON'] forces a TURNOVER.
+(24:06)CAL possession: Pass between ['CAL-RYAN PFENNING', 'CAL-MADDI ERDALL'] defended by ['TEXAS-LUKE MEISSNER']. Turnover
+(25:21)TEXAS possession: Pass by ['TEXAS-ANN SCHELIGA'] dropped by ['TEXAS-GRAYSON BRIGGS']. Turnover
+(25:46)CAL possession: Pass between ['CAL-RYAN PFENNING', 'CAL-MADDI ERDALL'] defended by ['TEXAS-LUKE MEISSNER']. Turnover
+(26:27)TEXAS possession: Goal on the drive by ['TEXAS-JOSH JOHNSON'].
+(27:30)CAL possession: Pass by ['CAL-RYAN PFENNING'] dropped by ['CAL-MADDI ERDALL']. Turnover
+(28:15)TEXAS possession: Beat by ['CAL-CONNOR HUGHES'] on ['TEXAS-DAVIS ROE'] forces a TURNOVER.
+(28:20)CAL possession: Missed shot by ['CAL-ELIJAH PHIPPS']. Turnover.
+TEXAS possession: Snitch catch by ['TEXAS-JOEY CASTELLANO'] is GOOD.

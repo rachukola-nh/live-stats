@@ -1,0 +1,49 @@
+(00:00)Brooms Up possession: BROOMS UP! Quaffle Possession by ['TEXAS-NICK MARINO'], Bludger Control by ['TAMU-NICK ROY']
+TAMU possession: Goal on the drive by ['TAMU-UNK'].
+TEXAS possession: Pass by ['TEXAS-NICK MARINO'] dropped by ['TEXAS-ERIN MCBRIDE']. Turnover
+TEXAS possession: ['TEXAS-DYLAN BOTTOMS'] passes to ['TEXAS-ERIN MCBRIDE'] at the hoops, GOAL.
+TAMU possession: Pass between ['TAMU-UNK', 'TAMU-LOGAN ZAHN'] defended by ['TEXAS-DYLAN BOTTOMS']. Turnover
+TEXAS possession: Beat by ['TAMU-ALEX STEWART'] on ['TEXAS-CULLEN FRIDAY'] forces a TURNOVER.
+TAMU possession: Pass between ['TAMU-UNK', 'TAMU-LOGAN ZAHN'] defended by ['TEXAS-CULLEN FRIDAY']. Turnover
+TEXAS possession: Goal on the drive by ['TEXAS-ERIN MCBRIDE'], assist by ['TEXAS-NICK MARINO']
+TAMU possession: Errant pass from ['TAMU-UNK'] to ['TAMU-RACHEL NICOLETTI']. Turnover
+TEXAS possession: Goal on the drive by ['TEXAS-CULLEN FRIDAY'].
+TAMU possession: Beat by ['TEXAS-HALLIE PACE'] on ['TAMU-RACHEL NICOLETTI'] forces a TURNOVER.
+TEXAS possession: Errant pass from ['TEXAS-NICK MARINO'] to ['TEXAS-DYLAN BOTTOMS']. Turnover
+TAMU possession: Beat by ['TEXAS-HALLIE PACE'] on ['TAMU-RACHEL NICOLETTI'] forces a TURNOVER.
+TEXAS possession: Turnover forced by physical contact by ['TAMU-UNK'] on ['TEXAS-MICHAEL JOHNSTON']
+TAMU possession: Beat by ['TEXAS-EDDIE MOLINA'] on ['TAMU-LOUIS SANCHEZ'] forces a TURNOVER.
+TEXAS possession: Missed shot by ['TEXAS-DAVID HUBER']. Turnover.
+TAMU possession: Beat by ['TEXAS-JOCELYN WHISTLER'] on ['TAMU-MIKE MILLER'] forces a TURNOVER.
+TEXAS possession: Goal on the drive by ['TEXAS-JOHN ANDERSON'].
+TAMU possession: Pass between ['TAMU-15', 'TAMU-LANDIS WALTHER'] defended by ['TEXAS-MICHAEL JOHNSTON']. Turnover
+TEXAS possession: Missed shot by ['TEXAS-JOHN ANDERSON']. Turnover. During the play, yellow card on TAMU-ALEX STEWART
+TAMU possession: ['TAMU-UNK'] passes to ['TAMU-LANDIS WALTHER'] at the hoops, GOAL.
+TEXAS possession: ['TEXAS-MICHAEL JOHNSTON'] passes to ['TEXAS-CATHERINE HABERL'] at the hoops, GOAL.
+TAMU possession: Goal on the drive by ['TAMU-LANDIS WALTHER'], assist by ['TAMU-UNK']
+TEXAS possession: Beat by ['TAMU-DANIEL SOBARZO'] on ['TEXAS-CATHERINE HABERL'] forces a TURNOVER.
+TAMU possession: Pass by ['TAMU-15'] dropped by ['TAMU-JESSICA HEMBREE']. Turnover
+TEXAS possession: Missed shot by ['TEXAS-CULLEN FRIDAY']. Turnover.
+TAMU possession: Pass between ['TAMU-JUAN ACEVEDO', 'TAMU-RACHEL NICOLETTI'] defended by ['TEXAS-CULLEN FRIDAY']. Turnover
+TEXAS possession: Pass between ['TEXAS-MICHAEL JOHNSTON', 'TEXAS-19'] defended by ['TAMU-15']. Turnover
+TAMU possession: ['TAMU-JUAN ACEVEDO'] passes to ['TAMU-UNK'] at the hoops, GOAL.
+TEXAS possession: Goal on the shot by ['TEXAS-NICK MARINO'], assist by ['TEXAS-CULLEN FRIDAY']
+TAMU possession: Pass by ['TAMU-DANIEL SOBARZO'] dropped by ['TAMU-JESSICA HEMBREE']. Turnover
+TEXAS possession: Turnover forced by physical contact by ['TAMU-JUAN ACEVEDO'] on ['TEXAS-ANDRES GARZA']
+TAMU possession: ['TAMU-1'] passes to ['TAMU-12'] at the hoops, GOAL.
+TEXAS possession: Goal on the shot by ['TEXAS-ANDRES GARZA'], assist by ['TEXAS-NICK MARINO']
+TAMU possession: Errant pass from ['TAMU-RACHEL NICOLETTI'] to ['TAMU-UNK']. Turnover
+TEXAS possession: ['TEXAS-NICK MARINO'] passes to ['TEXAS-ANDRES GARZA'] at the hoops, GOAL.
+TAMU possession: Beat by ['TEXAS-HALLIE PACE'] on ['TAMU-UNK'] forces a TURNOVER.
+TEXAS possession: Pass by ['TEXAS-AUSTIN DICKSON'] dropped by ['TEXAS-NICK MARINO']. Turnover During the play, reset forced by TAMU-NICK ROY
+TAMU possession: Missed shot by ['TAMU-1']. Turnover.
+TEXAS possession: Shot by ['TEXAS-NICK MARINO'] blocked by ['TAMU-1']. Turnover. During the play, SNITCH ON PITCH begins
+TAMU possession: ['TAMU-1'] passes to ['TAMU-DANIEL SOBARZO'] at the hoops, GOAL.
+TEXAS possession: Beat by ['TAMU-ALEX STEWART'] on ['TEXAS-CULLEN FRIDAY'] forces a TURNOVER.
+TAMU possession: ['TAMU-UNK'] passes to ['TAMU-LANDIS WALTHER'] at the hoops, GOAL.
+TEXAS possession: Turnover forced by physical contact by ['TAMU-DANIEL SOBARZO'] on ['TEXAS-ERIN MCBRIDE']
+TAMU possession: Beat by ['TEXAS-TATE KAY'] on ['TAMU-DANIEL SOBARZO'] forces a TURNOVER.
+TEXAS possession: Turnover forced by physical contact by ['TAMU-LOUIS SANCHEZ'] on ['TEXAS-ERIN MCBRIDE']
+TAMU possession: Pass between ['TAMU-LOUIS SANCHEZ', 'TAMU-LANDIS WALTHER'] defended by ['TEXAS-CULLEN FRIDAY']. Turnover During the play, reset forced by TEXAS-TATE KAY
+TEXAS possession: Goal on the shot by ['TEXAS-CULLEN FRIDAY'].
+TAMU possession: Snitch catch by ['TAMU-JUAN ACEVEDO'] is GOOD.

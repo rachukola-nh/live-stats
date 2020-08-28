@@ -1,38 +1,38 @@
-(00:00)Brooms Up possession: BROOMS UP! Quaffle Possession by TEXAS-DAVIS ROE, Bludger Control by TEXAS-TATE KAY
-(00:19)TEXAS possession: Turnover forced by physical contact by TAMU-CAMERON VILLAMIL on TEXAS-OLIVE JIM-DANIELS
-(00:25)TAMU possession: Beat by TEXAS-TATE KAY on TAMU-CONNOR MCINTYRE forces a TURNOVER.
-(00:34)TEXAS possession: Turnover forced by physical contact by TAMU-HAYDAN ALTMAN on TEXAS-DAVIS ROE
-(01:01)TAMU possession: Errant pass from TAMU-CONNOR MCINTYRE to TAMU-UNK. Turnover
-(01:26)TEXAS possession: Goal on the drive by TEXAS-JOSH JOHNSON.
-(01:56)TAMU possession: Beat by TEXAS-KYLIE MCBRIDE on TAMU-HAYDAN ALTMAN forces a TURNOVER.
-(02:43)TEXAS possession: TEXAS-LUKE MEISSNER passes to TEXAS-KASYE BEVERS at the hoops, GOAL.
-(02:59)TAMU possession: Goal on the drive by TAMU-CONNOR MCINTYRE.
-(03:33)TEXAS possession: Goal on the drive by TEXAS-JOSH JOHNSON. During the play, yellow card on TAMU-CAMERON VILLAMIL
-(03:59)TAMU possession: Goal on the drive by TAMU-HAYDAN ALTMAN.
-(04:35)TEXAS possession: Goal on the drive by TEXAS-DAVIS ROE.
-(04:47)TAMU possession: Turnover penalty on TAMU-CONNOR MCINTYRE.
-(05:02)TEXAS possession: Goal on the drive by TEXAS-JOSH JOHNSON.
-(05:22)TAMU possession: Errant pass from TAMU-HAYDAN ALTMAN to TAMU-RANDI DORAN. Turnover
-(06:00)TEXAS possession: Missed shot by TEXAS-DYLAN BOTTOMS. Turnover.
-(06:45)TAMU possession: TAMU-CONNOR MCINTYRE passes to TAMU-CAMERON VILLAMIL at the hoops, GOAL.
-(07:46)TEXAS possession: Missed shot by TEXAS-OLIVE JIM-DANIELS. Turnover. During the play, reset forced by TAMU-NICK ROY,yellow card on TAMU-KODY FOX
-(07:58)TAMU possession: Goal on the drive by TAMU-CAMERON VILLAMIL.
-(08:25)TEXAS possession: Yellow card on TEXAS-JAYDAN GILSTRAP forces turnover.
-(08:44)TAMU possession: Beat by TEXAS-KYLIE MCBRIDE on TAMU-BLAINE MCCULLARS forces a TURNOVER.
-(09:25)TEXAS possession: Goal on the shot by TEXAS-DAVIS ROE. During the play, reset forced by TAMU-ALEX STEWART
-(10:15)TAMU possession: TAMU-KODY FOX passes to TAMU-CONNOR MCINTYRE at the hoops, GOAL. During the play, yellow card on TEXAS-JOSH JOHNSON
-(10:53)TEXAS possession: TEXAS-SPENCER FORBES passes to TEXAS-KASYE BEVERS at the hoops, GOAL.
-(11:33)TAMU possession: Goal on the drive by TAMU-KODY FOX.
-(11:54)TEXAS possession: TEXAS-JOSH JOHNSON passes to TEXAS-KASYE BEVERS at the hoops, GOAL.
-(13:00)TAMU possession: Goal on the drive by TAMU-KODY FOX.
-(13:20)TEXAS possession: TEXAS-JOSH JOHNSON passes to TEXAS-SPENCER FORBES at the hoops, GOAL.
-(13:49)TAMU possession: Turnover forced by physical contact by TEXAS-AIDAN PARSI on TAMU-KODY FOX
-(14:53)TEXAS possession: TEXAS-SPENCER FORBES passes to TEXAS-KASYE BEVERS at the hoops, GOAL.
-(15:20)TAMU possession: Errant pass from TAMU-HAYDAN ALTMAN to TAMU-ADRIENNE DEMOSS. Turnover During the play, reset forced by TEXAS-JACK WANG
-(15:55)TEXAS possession: Goal on the shot by TEXAS-DYLAN BOTTOMS, assist by TEXAS-AIDAN PARSI
-(16:28)TAMU possession: Errant pass from TAMU-HAYDAN ALTMAN to TAMU-JACK MCBRIDE. Turnover
-(16:50)TEXAS possession: Pass between TEXAS-AIDAN PARSI and TEXAS-KASYE BEVERS defended by TAMU-JACK MCBRIDE. Turnover
-(17:03)TAMU possession: Goal on the drive by TAMU-HAYDAN ALTMAN. During the play, yellow card on TEXAS-RICHMOND KEELING
-(18:30)TEXAS possession: Errant pass from TEXAS-DYLAN BOTTOMS to TEXAS-SPENCER FORBES. Turnover During the play, SNITCH ON PITCH begins
-(18:50)TAMU possession: TAMU-CONNOR MCINTYRE passes to TAMU-ADRIENNE DEMOSS at the hoops, GOAL.
-(19:14)TEXAS possession: Snitch catch by TEXAS-DAVID HUBER is GOOD.
+(00:00)Brooms Up possession: BROOMS UP! Quaffle Possession by ['TEXAS-DAVIS ROE'], Bludger Control by ['TEXAS-TATE KAY']
+(00:19)TEXAS possession: Turnover forced by physical contact by ['TAMU-CAMERON VILLAMIL'] on ['TEXAS-OLIVE JIM-DANIELS']
+(00:25)TAMU possession: Beat by ['TEXAS-TATE KAY'] on ['TAMU-CONNOR MCINTYRE'] forces a TURNOVER.
+(00:34)TEXAS possession: Turnover forced by physical contact by ['TAMU-HAYDAN ALTMAN'] on ['TEXAS-DAVIS ROE']
+(01:01)TAMU possession: Errant pass from ['TAMU-CONNOR MCINTYRE'] to ['TAMU-UNK']. Turnover
+(01:26)TEXAS possession: Goal on the drive by ['TEXAS-JOSH JOHNSON'].
+(01:56)TAMU possession: Beat by ['TEXAS-KYLIE MCBRIDE'] on ['TAMU-HAYDAN ALTMAN'] forces a TURNOVER.
+(02:43)TEXAS possession: ['TEXAS-LUKE MEISSNER'] passes to ['TEXAS-KASYE BEVERS'] at the hoops, GOAL.
+(02:59)TAMU possession: Goal on the drive by ['TAMU-CONNOR MCINTYRE'].
+(03:33)TEXAS possession: Goal on the drive by ['TEXAS-JOSH JOHNSON']. During the play, yellow card on TAMU-CAMERON VILLAMIL
+(03:59)TAMU possession: Goal on the drive by ['TAMU-HAYDAN ALTMAN'].
+(04:35)TEXAS possession: Goal on the drive by ['TEXAS-DAVIS ROE'].
+(04:47)TAMU possession: Turnover penalty on ['TAMU-CONNOR MCINTYRE'].
+(05:02)TEXAS possession: Goal on the drive by ['TEXAS-JOSH JOHNSON'].
+(05:22)TAMU possession: Errant pass from ['TAMU-HAYDAN ALTMAN'] to ['TAMU-RANDI DORAN']. Turnover
+(06:00)TEXAS possession: Missed shot by ['TEXAS-DYLAN BOTTOMS']. Turnover.
+(06:45)TAMU possession: ['TAMU-CONNOR MCINTYRE'] passes to ['TAMU-CAMERON VILLAMIL'] at the hoops, GOAL.
+(07:46)TEXAS possession: Missed shot by ['TEXAS-OLIVE JIM-DANIELS']. Turnover. During the play, reset forced by TAMU-NICK ROY,yellow card on TAMU-KODY FOX
+(07:58)TAMU possession: Goal on the drive by ['TAMU-CAMERON VILLAMIL'].
+(08:25)TEXAS possession: Yellow card on ['TEXAS-JAYDAN GILSTRAP'] forces turnover.
+(08:44)TAMU possession: Beat by ['TEXAS-KYLIE MCBRIDE'] on ['TAMU-BLAINE MCCULLARS'] forces a TURNOVER.
+(09:25)TEXAS possession: Goal on the shot by ['TEXAS-DAVIS ROE']. During the play, reset forced by TAMU-ALEX STEWART
+(10:15)TAMU possession: ['TAMU-KODY FOX'] passes to ['TAMU-CONNOR MCINTYRE'] at the hoops, GOAL. During the play, yellow card on TEXAS-JOSH JOHNSON
+(10:53)TEXAS possession: ['TEXAS-SPENCER FORBES'] passes to ['TEXAS-KASYE BEVERS'] at the hoops, GOAL.
+(11:33)TAMU possession: Goal on the drive by ['TAMU-KODY FOX'].
+(11:54)TEXAS possession: ['TEXAS-JOSH JOHNSON'] passes to ['TEXAS-KASYE BEVERS'] at the hoops, GOAL.
+(13:00)TAMU possession: Goal on the drive by ['TAMU-KODY FOX'].
+(13:20)TEXAS possession: ['TEXAS-JOSH JOHNSON'] passes to ['TEXAS-SPENCER FORBES'] at the hoops, GOAL.
+(13:49)TAMU possession: Turnover forced by physical contact by ['TEXAS-AIDAN PARSI'] on ['TAMU-KODY FOX']
+(14:53)TEXAS possession: ['TEXAS-SPENCER FORBES'] passes to ['TEXAS-KASYE BEVERS'] at the hoops, GOAL.
+(15:20)TAMU possession: Errant pass from ['TAMU-HAYDAN ALTMAN'] to ['TAMU-ADRIENNE DEMOSS']. Turnover During the play, reset forced by TEXAS-JACK WANG
+(15:55)TEXAS possession: Goal on the shot by ['TEXAS-DYLAN BOTTOMS'], assist by ['TEXAS-AIDAN PARSI']
+(16:28)TAMU possession: Errant pass from ['TAMU-HAYDAN ALTMAN'] to ['TAMU-JACK MCBRIDE']. Turnover
+(16:50)TEXAS possession: Pass between ['TEXAS-AIDAN PARSI', 'TEXAS-KASYE BEVERS'] defended by ['TAMU-JACK MCBRIDE']. Turnover
+(17:03)TAMU possession: Goal on the drive by ['TAMU-HAYDAN ALTMAN']. During the play, yellow card on TEXAS-RICHMOND KEELING
+(18:30)TEXAS possession: Errant pass from ['TEXAS-DYLAN BOTTOMS'] to ['TEXAS-SPENCER FORBES']. Turnover During the play, SNITCH ON PITCH begins
+(18:50)TAMU possession: ['TAMU-CONNOR MCINTYRE'] passes to ['TAMU-ADRIENNE DEMOSS'] at the hoops, GOAL.
+(19:14)TEXAS possession: Snitch catch by ['TEXAS-DAVID HUBER'] is GOOD.

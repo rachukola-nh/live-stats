@@ -82,8 +82,8 @@ def get_brooms_up(header,roster,teams):
     q_params = (int(qa.groups()[0]),'A')if qa else (int(qb.groups()[0]),'B')
     b_params = (int(ba.groups()[0]),'A')if ba else (int(bb.groups()[0]),'B')
     extras,offense,time = [],'Brooms Up','0000'
-    result = ['BU',get_name(roster,teams,*q_params),get_name(roster,teams,*b_params)]
-    return {'extras':extras,'offense':offense,'time':time,'result':result}
+    result,primary,secondary ='BU',get_name(roster,teams,*q_params),get_name(roster,teams,*b_params)
+    return {'extras':extras,'offense':offense,'time':time,'result':result,'primary':[primary],'secondary':[secondary],'period':'FLOOR'}
 
 # Can take two forms of player_number, team
 # E.g to look up A-34
@@ -129,7 +129,7 @@ def get_possessions(data_rows):
             if vals[i+2]!='':
                 secondary = [x for x in vals[i+2].split(',')] if type(vals[i+2])==str else vals[i+2]
             else:
-                secondary = None
+                secondary = []
             pos = (extras,team,time,result,primary,secondary)
             if len([x for x in pos if x])>1:
                 possessions.append(pos)
@@ -162,18 +162,30 @@ def interpret(pos,roster,teams):
     primary_name = get_name(roster,teams,primary,primary_team)
     secondary_name = get_name(roster,teams,secondary,secondary_team)
     extras = [process_extra(extra,roster,teams,offense,defense) for extra in get_extras(ex)]
-    params = [result]+[x for x in [primary_name,secondary_name] if x]
-    return {'extras':extras,'offense':teams[offense], 'defense':teams[defense],'time':time, 'result':params}
+    secondary_name = secondary_name.split(' and ') if secondary_name else []
+    primary_name = primary_name.split(' and ') if primary_name else []
+    period = ''
+    if len(time)>=3:
+        if time[0:2]=='SD':
+            period ='2OT'
+        elif time[0:2] =='OT':
+            period ='OT'
+        period ='SOP' if time >'1800' else 'FLOOR'
+    return {'extras':extras,'offense':teams[offense], 'defense':teams[defense],'time':time, 'result':result, 'primary':primary_name,'secondary':secondary_name,'period':period}
 
 def gen_pbp(interpreted):
-    params = interpreted['result']
+    result = interpreted['result']
     time = interpreted['time']
     offense = interpreted['offense']
     extras = interpreted['extras']
-    result = params[0]
-    p = params[1:]
+    p = [x for x in [interpreted['primary'],interpreted['secondary']] if x]
     l = len(p)
-    time_str = '({0:02d}:{1:02d})'.format(int(time)//100,int(time)%100) if time else ''
+
+    try:
+        itime = int(time)
+        time_str = '({0:02d}:{1:02d})'.format(itime//100,itime%100)
+    except:
+        time_str = '({})'.format(time) if time else ''
     base = '{}{} possession: {}'.format(time_str,offense, TRANSLATION[l][result].format(*p))
     if extras:
         base +=' During the play, '
@@ -199,88 +211,92 @@ def ind_stats(interpreted_list):
     t1 = None
     for pos in interpreted_list:
         res = pos['result']
-        if res[0]=='TB':
-            if res[1] in stats['Beat Turnovers Forced']:
-                stats['Beat Turnovers Forced'][res[1]]+=1
-            else:
-                stats['Beat Turnovers Forced'][res[1]]=1
-        elif res[0] in ('TD','TL'):
-            if res[1] in stats['Ball Turnovers Forced']:
-                stats['Ball Turnovers Forced'][res[1]]+=1
-            else:
-                stats['Ball Turnovers Forced'][res[1]]=1
-        elif res[0]=='TC':
-            if res[1] in stats['Contact Turnovers Forced']:
-                stats['Contact Turnovers Forced'][res[1]]+=1
-            else:
-                stats['Contact Turnovers Forced'][res[1]]=1
-        elif res[0][0]=='G':
-            if not t1:
-                t1= pos['offense']
-                qpd = 10
-            elif t1==pos['offense']:
-                qpd+=10
-            else:
-                qpd-=10
-            if res[1] in stats['Goals']:
-                stats['Goals'][res[1]]+=1
-            else:
-                stats['Goals'][res[1]]=1
-            if len(res)>2 and res[2]:
-                if res[2] in stats['Assists']:
-                    stats['Assists'][res[2]]+=1
+        primary = pos['primary']
+        secondary = pos['secondary']
+        for p,s in zip(primary,secondary):
+            if res=='TB':
+                if p in stats['Beat Turnovers Forced']:
+                    stats['Beat Turnovers Forced'][p]+=1
                 else:
-                    stats['Assists'][res[2]]=1
-        elif res[0][0]=='E':
-            if res[1] in stats['Errors']:
-                stats['Errors'][res[1]]+=1
-            else:
-                stats['Errors'][res[1]]=1
-        elif res[0] in ['RCA','RCB','OCA','OCB','2CA','2CB']:
-            if abs(qpd)<=30:
-                if res[1] in stats['ISR Snitch Catches']:
-                    stats['ISR Snitch Catches'][res[1]]+=1
+                    stats['Beat Turnovers Forced'][p]=1
+            elif res in ('TD','TL'):
+                if p in stats['Ball Turnovers Forced']:
+                    stats['Ball Turnovers Forced'][p]+=1
                 else:
-                    stats['ISR Snitch Catches'][res[1]]=1
-            else:
-                if res[1] in stats['OSR Snitch Catches']:
-                    stats['OSR Snitch Catches'][res[1]]+=1
+                    stats['Ball Turnovers Forced'][p]=1
+            elif res=='TC':
+                if p in stats['Contact Turnovers Forced']:
+                    stats['Contact Turnovers Forced'][p]+=1
                 else:
-                    stats['OSR Snitch Catches'][res[1]]=1
+                    stats['Contact Turnovers Forced'][p]=1
+            elif res[0]=='G':
+                if not t1:
+                    t1= pos['offense']
+                    qpd = 10
+                elif t1==pos['offense']:
+                    qpd+=10
+                else:
+                    qpd-=10
+                if p in stats['Goals']:
+                    stats['Goals'][p]+=1
+                else:
+                    stats['Goals'][p]=1
+                if s:
+                    if s in stats['Assists']:
+                        stats['Assists'][s]+=1
+                    else:
+                        stats['Assists'][s]=1
+            elif res[0]=='E':
+                if res[1] in stats['Errors']:
+                    stats['Errors'][p]+=1
+                else:
+                    stats['Errors'][p]=1
+            elif res in ['RCA','RCB','OCA','OCB','2CA','2CB']:
+                if abs(qpd)<=30:
+                    if p in stats['ISR Snitch Catches']:
+                        stats['ISR Snitch Catches'][p]+=1
+                    else:
+                        stats['ISR Snitch Catches'][p]=1
+                else:
+                    if p in stats['OSR Snitch Catches']:
+                        stats['OSR Snitch Catches'][p]+=1
+                    else:
+                        stats['OSR Snitch Catches'][p]=1
 
-            qpd= qpd+30 if res[1].split('-')[0]==t1 else qpd-30
-        for extra in pos['extras']:
-            extra_type, extra_player = extra
-            if extra_type == 'B':
-                if extra_player in stats['Blue Cards']:
-                    stats['Blue Cards'][extra_player]+=1
-                else:
-                    stats['Blue Cards'][extra_player]=1
-            elif extra_type == 'Y':
-                if extra_player in stats['Yellow Cards']:
-                    stats['Yellow Cards'][extra_player]+=1
-                else:
-                    stats['Yellow Cards'][extra_player]=1
-            elif extra_type == '2Y':
-                if extra_player in stats['Second Yellow Cards']:
-                    stats['Second Yellow Cards'][extra_player]+=1
-                else:
-                    stats['Second Yellow Cards'][extra_player]=1
-            if extra_type == '1R':
-                if extra_player in stats['Straight Red Cards']:
-                    stats['Straight Red Cards'][extra_player]+=1
-                else:
-                    stats['Straight Red Cards'][extra_player]=1
-            if extra_type == 'R':
-                if extra_player in stats['Resets Forced']:
-                    stats['Resets Forced'][extra_player]+=1
-                else:
-                    stats['Resets Forced'][extra_player]=1
+                qpd= qpd+30 if p.split('-')[0]==t1 else qpd-30
+            for extra in pos['extras']:
+                extra_type, extra_player = extra
+                if extra_type == 'B':
+                    if extra_player in stats['Blue Cards']:
+                        stats['Blue Cards'][extra_player]+=1
+                    else:
+                        stats['Blue Cards'][extra_player]=1
+                elif extra_type == 'Y':
+                    if extra_player in stats['Yellow Cards']:
+                        stats['Yellow Cards'][extra_player]+=1
+                    else:
+                        stats['Yellow Cards'][extra_player]=1
+                elif extra_type == '2Y':
+                    if extra_player in stats['Second Yellow Cards']:
+                        stats['Second Yellow Cards'][extra_player]+=1
+                    else:
+                        stats['Second Yellow Cards'][extra_player]=1
+                if extra_type == '1R':
+                    if extra_player in stats['Straight Red Cards']:
+                        stats['Straight Red Cards'][extra_player]+=1
+                    else:
+                        stats['Straight Red Cards'][extra_player]=1
+                if extra_type == 'R':
+                    if extra_player in stats['Resets Forced']:
+                        stats['Resets Forced'][extra_player]+=1
+                    else:
+                        stats['Resets Forced'][extra_player]=1
     df = pd.DataFrame(stats).dropna(how='all').fillna(0).astype(int).sort_values(by=['Goals','Assists','Errors'],ascending=[False,False,True])
     return df
 
 def process_file(ifile):
     stem = ifile.split('.xls')[0]
+    print('Processing Game: {}'.format(stem),end='')
     pbp_output_file = stem+'_pbp.txt'
     stats_output_file = stem+'_stats.csv'
     json_output_file = stem+'_data.json'
@@ -293,11 +309,15 @@ def process_file(ifile):
     interpreted = [get_brooms_up(header,roster,teams)]+[interpret(pos,roster,teams) for pos in possessions]
     with open(json_output_file,'w+') as f:
         json.dump({i:v for i,v in enumerate(interpreted)},f,indent=2)
+    print('.',end='')
     play_by_play = [gen_pbp(i)+'\n' for i in interpreted]
     with open(pbp_output_file,'w+') as f:
         f.writelines(play_by_play)
-    stats = ind_stats(interpreted)
-    stats.to_csv(stats_output_file)
+    print('.',end='')
+    #stats = ind_stats(interpreted)
+    #print('.',end='')
+    #stats.to_csv(stats_output_file)
+    print('Complete')
 
 
 def main(argv):
@@ -314,7 +334,10 @@ def main(argv):
             recursive = True
     if recursive:
         for path in Path('').rglob('*.xlsx'):
-            process_file(str(path))
+            try:
+                process_file(str(path))
+            except xlrd.biffh.XLRDError as e:
+                print('Unable to read {}'.format(path))
     elif not inputfile:
         print('Please include an inputfile')
     else:

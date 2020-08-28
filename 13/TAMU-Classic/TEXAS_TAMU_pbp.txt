@@ -1,36 +1,36 @@
-(00:00)Brooms Up possession: BROOMS UP! Quaffle Possession by TEXAS-DAVIS ROE, Bludger Control by TAMU-SAMUEL SOBARZO
-TEXAS possession: Turnover forced by physical contact by TAMU-CONNOR MCINTYRE on TEXAS-CAROLINE TAO
-TAMU possession: Turnover forced by physical contact by TEXAS-DAVIS ROE on TAMU-TYLER PEARSON
-TEXAS possession: Missed shot by TEXAS-DAVIS ROE. Turnover.
-TAMU possession: Beat by TEXAS-TATE KAY on TAMU-TYLER PEARSON forces a TURNOVER.
-TEXAS possession: Goal on the drive by TEXAS-DAVIS ROE.
-TAMU possession: Errant pass from TAMU-CONNOR MCINTYRE to TAMU-HAYDAN ALTMAN. Turnover
-TEXAS possession: Turnover forced by physical contact by TAMU-CONNOR MCINTYRE on TEXAS-JAYDAN GILSTRAP
-TAMU possession: Missed shot by TAMU-LANDIS WALTHER. Turnover. During the play, reset forced by TEXAS-KASYE BEVERS
-TEXAS possession: Goal on the shot by TEXAS-JAYDAN GILSTRAP, assist by TEXAS-DAVIS ROE During the play, yellow card on TAMU-SAMUEL SOBARZO
-TAMU possession: Pass by TAMU-CONNOR MCINTYRE dropped by TAMU-LANDIS WALTHER. Turnover
-TEXAS possession: Goal on the drive by TEXAS-JOSH JOHNSON, assist by TEXAS-JOHN ANDERSON
-TAMU possession: Goal on the drive by TAMU-HAYDAN ALTMAN.
-TEXAS possession: Beat by TAMU-MILES TRAVIS on TEXAS-JOSH JOHNSON forces a TURNOVER.
-TAMU possession: Goal on the shot by TAMU-MIGUEL SOBARZO.
-TEXAS possession: Missed shot by TEXAS-JOSH JOHNSON. Turnover.
-TAMU possession: Pass by TAMU-CONNOR MCINTYRE dropped by TAMU-TYLER PEARSON. Turnover
-TEXAS possession: Goal on the drive by TEXAS-JOSH JOHNSON.
-TAMU possession: Goal on the shot by TAMU-CONNOR MCINTYRE.
-TEXAS possession: Goal on the shot by TEXAS-JOHN ANDERSON.
-TAMU possession: Errant pass from TAMU-MIGUEL SOBARZO to TAMU-MCKENZIE ONEAL. Turnover
-TEXAS possession: Missed shot by TEXAS-COLE BURKE. Turnover.
-TAMU possession: Pass between TAMU-MIGUEL SOBARZO and TAMU-TYLER PEARSON defended by TEXAS-SPENCER FORBES. Turnover
-TEXAS possession: Missed shot by TEXAS-GRAYSON BRIGGS. Turnover.
-TAMU possession: Beat by TEXAS-KASYE BEVERS on TAMU-HAYDAN ALTMAN forces a TURNOVER.
-TEXAS possession: Errant pass from TEXAS-GRAYSON BRIGGS to TEXAS-SPENCER FORBES. Turnover
-TAMU possession: Missed shot by TAMU-HAYDAN ALTMAN. Turnover.
-TEXAS possession: TEXAS-SPENCER FORBES passes to TEXAS-COLE BURKE at the hoops, GOAL.
-TAMU possession: Missed shot by TAMU-CONNOR MCINTYRE. Turnover.
-TEXAS possession: Goal on the shot by TEXAS-DAVIS ROE, assist by TEXAS-MICHAEL JOHNSTON
-TAMU possession: Beat by TEXAS-TATE KAY on TAMU-TYLER PEARSON forces a TURNOVER.
-TEXAS possession: TEXAS-DAVIS ROE passes to TEXAS-CAROLINE TAO at the hoops, GOAL.
-TAMU possession: Pass between TAMU-TYLER PEARSON and TAMU-CONNOR MCINTYRE defended by TEXAS-DAVIS ROE. Turnover During the play, SNITCH ON PITCH begins
-TEXAS possession: Goal on the drive by TEXAS-DAVIS ROE.
-TAMU possession: Shot by TAMU-MIGUEL SOBARZO blocked by TEXAS-LUKE MEISSNER. Turnover.
-TEXAS possession: Snitch catch by TEXAS-JOHN ANDERSON is GOOD.
+(00:00)Brooms Up possession: BROOMS UP! Quaffle Possession by ['TEXAS-DAVIS ROE'], Bludger Control by ['TAMU-SAMUEL SOBARZO']
+TEXAS possession: Turnover forced by physical contact by ['TAMU-CONNOR MCINTYRE'] on ['TEXAS-CAROLINE TAO']
+TAMU possession: Turnover forced by physical contact by ['TEXAS-DAVIS ROE'] on ['TAMU-TYLER PEARSON']
+TEXAS possession: Missed shot by ['TEXAS-DAVIS ROE']. Turnover.
+TAMU possession: Beat by ['TEXAS-TATE KAY'] on ['TAMU-TYLER PEARSON'] forces a TURNOVER.
+TEXAS possession: Goal on the drive by ['TEXAS-DAVIS ROE'].
+TAMU possession: Errant pass from ['TAMU-CONNOR MCINTYRE'] to ['TAMU-HAYDAN ALTMAN']. Turnover
+TEXAS possession: Turnover forced by physical contact by ['TAMU-CONNOR MCINTYRE'] on ['TEXAS-JAYDAN GILSTRAP']
+TAMU possession: Missed shot by ['TAMU-LANDIS WALTHER']. Turnover. During the play, reset forced by TEXAS-KASYE BEVERS
+TEXAS possession: Goal on the shot by ['TEXAS-JAYDAN GILSTRAP'], assist by ['TEXAS-DAVIS ROE'] During the play, yellow card on TAMU-SAMUEL SOBARZO
+TAMU possession: Pass by ['TAMU-CONNOR MCINTYRE'] dropped by ['TAMU-LANDIS WALTHER']. Turnover
+TEXAS possession: Goal on the drive by ['TEXAS-JOSH JOHNSON'], assist by ['TEXAS-JOHN ANDERSON']
+TAMU possession: Goal on the drive by ['TAMU-HAYDAN ALTMAN'].
+TEXAS possession: Beat by ['TAMU-MILES TRAVIS'] on ['TEXAS-JOSH JOHNSON'] forces a TURNOVER.
+TAMU possession: Goal on the shot by ['TAMU-MIGUEL SOBARZO'].
+TEXAS possession: Missed shot by ['TEXAS-JOSH JOHNSON']. Turnover.
+TAMU possession: Pass by ['TAMU-CONNOR MCINTYRE'] dropped by ['TAMU-TYLER PEARSON']. Turnover
+TEXAS possession: Goal on the drive by ['TEXAS-JOSH JOHNSON'].
+TAMU possession: Goal on the shot by ['TAMU-CONNOR MCINTYRE'].
+TEXAS possession: Goal on the shot by ['TEXAS-JOHN ANDERSON'].
+TAMU possession: Errant pass from ['TAMU-MIGUEL SOBARZO'] to ['TAMU-MCKENZIE ONEAL']. Turnover
+TEXAS possession: Missed shot by ['TEXAS-COLE BURKE']. Turnover.
+TAMU possession: Pass between ['TAMU-MIGUEL SOBARZO', 'TAMU-TYLER PEARSON'] defended by ['TEXAS-SPENCER FORBES']. Turnover
+TEXAS possession: Missed shot by ['TEXAS-GRAYSON BRIGGS']. Turnover.
+TAMU possession: Beat by ['TEXAS-KASYE BEVERS'] on ['TAMU-HAYDAN ALTMAN'] forces a TURNOVER.
+TEXAS possession: Errant pass from ['TEXAS-GRAYSON BRIGGS'] to ['TEXAS-SPENCER FORBES']. Turnover
+TAMU possession: Missed shot by ['TAMU-HAYDAN ALTMAN']. Turnover.
+TEXAS possession: ['TEXAS-SPENCER FORBES'] passes to ['TEXAS-COLE BURKE'] at the hoops, GOAL.
+TAMU possession: Missed shot by ['TAMU-CONNOR MCINTYRE']. Turnover.
+TEXAS possession: Goal on the shot by ['TEXAS-DAVIS ROE'], assist by ['TEXAS-MICHAEL JOHNSTON']
+TAMU possession: Beat by ['TEXAS-TATE KAY'] on ['TAMU-TYLER PEARSON'] forces a TURNOVER.
+TEXAS possession: ['TEXAS-DAVIS ROE'] passes to ['TEXAS-CAROLINE TAO'] at the hoops, GOAL.
+TAMU possession: Pass between ['TAMU-TYLER PEARSON', 'TAMU-CONNOR MCINTYRE'] defended by ['TEXAS-DAVIS ROE']. Turnover During the play, SNITCH ON PITCH begins
+TEXAS possession: Goal on the drive by ['TEXAS-DAVIS ROE'].
+TAMU possession: Shot by ['TAMU-MIGUEL SOBARZO'] blocked by ['TEXAS-LUKE MEISSNER']. Turnover.
+TEXAS possession: Snitch catch by ['TEXAS-JOHN ANDERSON'] is GOOD.

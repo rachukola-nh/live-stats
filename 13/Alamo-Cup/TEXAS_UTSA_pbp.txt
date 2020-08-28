@@ -1,43 +1,43 @@
-(00:00)Brooms Up possession: BROOMS UP! Quaffle Possession by UTSA-JAY STEWART, Bludger Control by UTSA-DANIEL WILLIAMS
-UTSA possession: Goal on the drive by UTSA-JAY STEWART.
-TEXAS possession: Goal on the drive by TEXAS-DAVIS ROE.
-UTSA possession: Beat by TEXAS-TATE KAY on UTSA-AVERIE MESSENGER forces a TURNOVER.
-TEXAS possession: Goal on the drive by TEXAS-LUKE MEISSNER.
-UTSA possession: Goal on the drive by UTSA-CARLOS PRADO.
-TEXAS possession: Missed shot by TEXAS-COLE BURKE. Turnover.
-UTSA possession: Errant pass from UTSA-CHRISTIAN CORTEZ to UTSA-UNK. Turnover
-TEXAS possession: Missed shot by TEXAS-COLE BURKE. Turnover.
-UTSA possession: Turnover forced by physical contact by TEXAS-DAVIS ROE on UTSA-MATT BLACKWOOD
-TEXAS possession: Beat by UTSA-DANIEL WILLIAMS on TEXAS-JOHN ANDERSON forces a TURNOVER.
-UTSA possession: Beat by TEXAS-TATE KAY on UTSA-CHRISTIAN CORTEZ forces a TURNOVER.
-(07:22)TEXAS possession: Missed shot by TEXAS-JOHN ANDERSON. Turnover.
-(08:00)UTSA possession: Missed shot by UTSA-CHRISTIAN CORTEZ. Turnover.
-TEXAS possession: Missed shot by TEXAS-JAYDAN GILSTRAP. Turnover.
-UTSA possession: Goal by UTSA-TYLER ZREET. During the play, yellow card on TEXAS-JAYDAN GILSTRAP
-TEXAS possession: Drop by TEXAS-JAYDAN GILSTRAP. Turnover.
-UTSA possession: Pass between UTSA-MATT BLACKWOOD and UTSA-AVERIE MESSENGER defended by TEXAS-JOHN ANDERSON. Turnover
-TEXAS possession: Goal on the shot by TEXAS-JOHN ANDERSON.
-UTSA possession: Goal on the shot by UTSA-MATT BLACKWOOD.
-TEXAS possession: Turnover forced by physical contact by UTSA-CHUCKY SEPULVEDA on TEXAS-JAYDAN GILSTRAP During the play, reset forced by UTSA-DANIEL WILLIAMS
-UTSA possession: Missed shot by UTSA-MATT BLACKWOOD. Turnover.
-TEXAS possession: Goal on the shot by TEXAS-MICHAEL JOHNSTON.
-UTSA possession: Drop by UTSA-AVERIE MESSENGER. Turnover.
-TEXAS possession: Turnover forced by physical contact by UTSA-CHUCKY SEPULVEDA on TEXAS-JOHN ANDERSON
-UTSA possession: Turnover forced by physical contact by TEXAS-JAYDAN GILSTRAP on UTSA-CHUCKY SEPULVEDA
-TEXAS possession: Missed shot by TEXAS-GRAYSON BRIGGS. Turnover.
-UTSA possession: Pass between UTSA-UNK defended by TEXAS-GRAYSON BRIGGS. Turnover
-TEXAS possession: Goal on the drive by TEXAS-DAVIS ROE.
-UTSA possession: Missed shot by UTSA-AVERIE MESSENGER. Turnover.
-TEXAS possession: TEXAS-DAVIS ROE passes to TEXAS-CAROLINE TAO at the hoops, GOAL.
-UTSA possession: Goal on the drive by UTSA-TYLER ZREET. During the play, yellow card on TEXAS-LUKE MEISSNER
-TEXAS possession: Goal on the shot by TEXAS-LUKE MEISSNER.
-UTSA possession: UTSA-RENN LEBER passes to UTSA-CARLOS PRADO at the hoops, GOAL.
-TEXAS possession: Errant pass from TEXAS-JOSH JOHNSON to TEXAS-UNK. Turnover
-UTSA possession: Goal on the drive by UTSA-CARLOS PRADO.
-TEXAS possession: Goal on the drive by TEXAS-LUKE MEISSNER. During the play, SNITCH ON PITCH begins
-UTSA possession: Goal by UTSA-UNK.
-TEXAS possession: Goal by TEXAS-UNK.
-UTSA possession: Goal by UTSA-UNK.
-TEXAS possession: Beat by UTSA-DANIEL WILLIAMS on TEXAS-KASYE BEVERS forces a TURNOVER.
-UTSA possession: Turnover forced by physical contact by TEXAS-DAVIS ROE on UTSA-TYLER ZREET
-TEXAS possession: Snitch catch by TEXAS-JOHN ANDERSON is GOOD.
+(00:00)Brooms Up possession: BROOMS UP! Quaffle Possession by ['UTSA-JAY STEWART'], Bludger Control by ['UTSA-DANIEL WILLIAMS']
+UTSA possession: Goal on the drive by ['UTSA-JAY STEWART'].
+TEXAS possession: Goal on the drive by ['TEXAS-DAVIS ROE'].
+UTSA possession: Beat by ['TEXAS-TATE KAY'] on ['UTSA-AVERIE MESSENGER'] forces a TURNOVER.
+TEXAS possession: Goal on the drive by ['TEXAS-LUKE MEISSNER'].
+UTSA possession: Goal on the drive by ['UTSA-CARLOS PRADO'].
+TEXAS possession: Missed shot by ['TEXAS-COLE BURKE']. Turnover.
+UTSA possession: Errant pass from ['UTSA-CHRISTIAN CORTEZ'] to ['UTSA-UNK']. Turnover
+TEXAS possession: Missed shot by ['TEXAS-COLE BURKE']. Turnover.
+UTSA possession: Turnover forced by physical contact by ['TEXAS-DAVIS ROE'] on ['UTSA-MATT BLACKWOOD']
+TEXAS possession: Beat by ['UTSA-DANIEL WILLIAMS'] on ['TEXAS-JOHN ANDERSON'] forces a TURNOVER.
+UTSA possession: Beat by ['TEXAS-TATE KAY'] on ['UTSA-CHRISTIAN CORTEZ'] forces a TURNOVER.
+(07:22)TEXAS possession: Missed shot by ['TEXAS-JOHN ANDERSON']. Turnover.
+(08:00)UTSA possession: Missed shot by ['UTSA-CHRISTIAN CORTEZ']. Turnover.
+TEXAS possession: Missed shot by ['TEXAS-JAYDAN GILSTRAP']. Turnover.
+UTSA possession: Goal by ['UTSA-TYLER ZREET']. During the play, yellow card on TEXAS-JAYDAN GILSTRAP
+TEXAS possession: Drop by ['TEXAS-JAYDAN GILSTRAP']. Turnover.
+UTSA possession: Pass between ['UTSA-MATT BLACKWOOD', 'UTSA-AVERIE MESSENGER'] defended by ['TEXAS-JOHN ANDERSON']. Turnover
+TEXAS possession: Goal on the shot by ['TEXAS-JOHN ANDERSON'].
+UTSA possession: Goal on the shot by ['UTSA-MATT BLACKWOOD'].
+TEXAS possession: Turnover forced by physical contact by ['UTSA-CHUCKY SEPULVEDA'] on ['TEXAS-JAYDAN GILSTRAP'] During the play, reset forced by UTSA-DANIEL WILLIAMS
+UTSA possession: Missed shot by ['UTSA-MATT BLACKWOOD']. Turnover.
+TEXAS possession: Goal on the shot by ['TEXAS-MICHAEL JOHNSTON'].
+UTSA possession: Drop by ['UTSA-AVERIE MESSENGER']. Turnover.
+TEXAS possession: Turnover forced by physical contact by ['UTSA-CHUCKY SEPULVEDA'] on ['TEXAS-JOHN ANDERSON']
+UTSA possession: Turnover forced by physical contact by ['TEXAS-JAYDAN GILSTRAP'] on ['UTSA-CHUCKY SEPULVEDA']
+TEXAS possession: Missed shot by ['TEXAS-GRAYSON BRIGGS']. Turnover.
+UTSA possession: Pass between ['UTSA-UNK'] defended by ['TEXAS-GRAYSON BRIGGS']. Turnover
+TEXAS possession: Goal on the drive by ['TEXAS-DAVIS ROE'].
+UTSA possession: Missed shot by ['UTSA-AVERIE MESSENGER']. Turnover.
+TEXAS possession: ['TEXAS-DAVIS ROE'] passes to ['TEXAS-CAROLINE TAO'] at the hoops, GOAL.
+UTSA possession: Goal on the drive by ['UTSA-TYLER ZREET']. During the play, yellow card on TEXAS-LUKE MEISSNER
+TEXAS possession: Goal on the shot by ['TEXAS-LUKE MEISSNER'].
+UTSA possession: ['UTSA-RENN LEBER'] passes to ['UTSA-CARLOS PRADO'] at the hoops, GOAL.
+TEXAS possession: Errant pass from ['TEXAS-JOSH JOHNSON'] to ['TEXAS-UNK']. Turnover
+UTSA possession: Goal on the drive by ['UTSA-CARLOS PRADO'].
+TEXAS possession: Goal on the drive by ['TEXAS-LUKE MEISSNER']. During the play, SNITCH ON PITCH begins
+UTSA possession: Goal by ['UTSA-UNK'].
+TEXAS possession: Goal by ['TEXAS-UNK'].
+UTSA possession: Goal by ['UTSA-UNK'].
+TEXAS possession: Beat by ['UTSA-DANIEL WILLIAMS'] on ['TEXAS-KASYE BEVERS'] forces a TURNOVER.
+UTSA possession: Turnover forced by physical contact by ['TEXAS-DAVIS ROE'] on ['UTSA-TYLER ZREET']
+TEXAS possession: Snitch catch by ['TEXAS-JOHN ANDERSON'] is GOOD.

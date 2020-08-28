@@ -1,690 +1,857 @@
 {
   "0": {
-    "result": [
-      "BU",
-      "TEXAS-DAVIS ROE",
+    "primary": [
+      "TEXAS-DAVIS ROE"
+    ],
+    "extras": [],
+    "offense": "Brooms Up",
+    "time": "0000",
+    "secondary": [
       "TEXAS-DAVID HUBER"
     ],
-    "offense": "Brooms Up",
-    "extras": [],
-    "time": "0000"
+    "result": "BU",
+    "period": "FLOOR"
   },
   "1": {
-    "result": [
-      "TD",
-      "CAL-AJ MORGAN",
-      "TEXAS-LUKE MEISSNER and TEXAS-OLIVE JIM-DANIELS"
+    "primary": [
+      "CAL-AJ MORGAN"
     ],
     "time": "0026",
+    "result": "TD",
     "offense": "TEXAS",
+    "defense": "CAL",
+    "secondary": [
+      "TEXAS-LUKE MEISSNER",
+      "TEXAS-OLIVE JIM-DANIELS"
+    ],
     "extras": [],
-    "defense": "CAL"
+    "period": "FLOOR"
   },
   "2": {
-    "result": [
-      "EM",
+    "primary": [
       "CAL-MATTHEW WALKER"
     ],
     "time": "0052",
+    "result": "EM",
     "offense": "CAL",
+    "defense": "TEXAS",
+    "secondary": [],
     "extras": [],
-    "defense": "TEXAS"
+    "period": "FLOOR"
   },
   "3": {
-    "result": [
-      "GP",
-      "TEXAS-KASYE BEVERS",
-      "TEXAS-NATHAN LEWIS"
+    "primary": [
+      "TEXAS-KASYE BEVERS"
     ],
     "time": "0142",
+    "result": "GP",
     "offense": "TEXAS",
+    "defense": "CAL",
+    "secondary": [
+      "TEXAS-NATHAN LEWIS"
+    ],
     "extras": [],
-    "defense": "CAL"
+    "period": "FLOOR"
   },
   "4": {
-    "result": [
-      "GS",
+    "primary": [
       "CAL-MATTHEW WALKER"
     ],
     "time": "0215",
+    "result": "GS",
     "offense": "CAL",
+    "defense": "TEXAS",
+    "secondary": [],
     "extras": [],
-    "defense": "TEXAS"
+    "period": "FLOOR"
   },
   "5": {
-    "result": [
-      "TD",
-      "CAL-MATTHEW WALKER",
-      "TEXAS-NATHAN LEWIS and TEXAS-KASYE BEVERS"
+    "primary": [
+      "CAL-MATTHEW WALKER"
     ],
     "time": "0245",
+    "result": "TD",
     "offense": "TEXAS",
+    "defense": "CAL",
+    "secondary": [
+      "TEXAS-NATHAN LEWIS",
+      "TEXAS-KASYE BEVERS"
+    ],
     "extras": [],
-    "defense": "CAL"
+    "period": "FLOOR"
   },
   "6": {
-    "result": [
-      "EY",
+    "primary": [
       "CAL-23"
     ],
     "time": "0305",
+    "result": "EY",
     "offense": "CAL",
+    "defense": "TEXAS",
+    "secondary": [],
     "extras": [],
-    "defense": "TEXAS"
+    "period": "FLOOR"
   },
   "7": {
-    "result": [
-      "TD",
-      "CAL-AJ MORGAN",
-      "TEXAS-MICHAEL JOHNSTON and TEXAS-NATHAN LEWIS"
+    "primary": [
+      "CAL-AJ MORGAN"
     ],
     "time": "0316",
+    "result": "TD",
     "offense": "TEXAS",
+    "defense": "CAL",
+    "secondary": [
+      "TEXAS-MICHAEL JOHNSTON",
+      "TEXAS-NATHAN LEWIS"
+    ],
     "extras": [],
-    "defense": "CAL"
+    "period": "FLOOR"
   },
   "8": {
-    "result": [
-      "TB",
-      "TEXAS-TATE KAY",
-      "CAL-MATTHEW WALKER"
+    "primary": [
+      "TEXAS-TATE KAY"
     ],
     "time": "0346",
+    "result": "TB",
     "offense": "CAL",
+    "defense": "TEXAS",
+    "secondary": [
+      "CAL-MATTHEW WALKER"
+    ],
     "extras": [],
-    "defense": "TEXAS"
+    "period": "FLOOR"
   },
   "9": {
-    "result": [
-      "GD",
+    "primary": [
       "TEXAS-DAVIS ROE"
     ],
     "time": "0351",
+    "result": "GD",
     "offense": "TEXAS",
+    "defense": "CAL",
+    "secondary": [],
     "extras": [],
-    "defense": "CAL"
+    "period": "FLOOR"
   },
   "10": {
-    "result": [
-      "TD",
-      "TEXAS-NATHAN LEWIS",
-      "CAL-UNK and CAL-UNK"
+    "primary": [
+      "TEXAS-NATHAN LEWIS"
     ],
     "time": "0444",
+    "result": "TD",
     "offense": "CAL",
-    "extras": [],
-    "defense": "TEXAS"
-  },
-  "11": {
-    "result": [
-      "TC",
-      "CAL-AJ MORGAN",
-      "TEXAS-MICHAEL JOHNSTON"
-    ],
-    "time": "0510",
-    "offense": "TEXAS",
-    "extras": [],
-    "defense": "CAL"
-  },
-  "12": {
-    "result": [
-      "EP",
+    "defense": "TEXAS",
+    "secondary": [
       "CAL-UNK",
       "CAL-UNK"
     ],
+    "extras": [],
+    "period": "FLOOR"
+  },
+  "11": {
+    "primary": [
+      "CAL-AJ MORGAN"
+    ],
+    "time": "0510",
+    "result": "TC",
+    "offense": "TEXAS",
+    "defense": "CAL",
+    "secondary": [
+      "TEXAS-MICHAEL JOHNSTON"
+    ],
+    "extras": [],
+    "period": "FLOOR"
+  },
+  "12": {
+    "primary": [
+      "CAL-UNK"
+    ],
     "time": "0544",
+    "result": "EP",
     "offense": "CAL",
+    "defense": "TEXAS",
+    "secondary": [
+      "CAL-UNK"
+    ],
     "extras": [
       [
         "Y",
         "TEXAS-DAVIS ROE"
       ]
     ],
-    "defense": "TEXAS"
+    "period": "FLOOR"
   },
   "13": {
-    "result": [
-      "EM",
+    "primary": [
       "TEXAS-LUKE MEISSNER"
     ],
     "time": "0627",
+    "result": "EM",
     "offense": "TEXAS",
+    "defense": "CAL",
+    "secondary": [],
     "extras": [
       [
         "Y",
         "CAL-CHANUN ONG"
       ]
     ],
-    "defense": "CAL"
+    "period": "FLOOR"
   },
   "14": {
-    "result": [
-      "EP",
-      "CAL-UNK",
+    "primary": [
       "CAL-UNK"
     ],
     "time": "0640",
+    "result": "EP",
     "offense": "CAL",
+    "defense": "TEXAS",
+    "secondary": [
+      "CAL-UNK"
+    ],
     "extras": [],
-    "defense": "TEXAS"
+    "period": "FLOOR"
   },
   "15": {
-    "result": [
-      "ER",
+    "primary": [
       "TEXAS-OLIVE JIM-DANIELS"
     ],
     "time": "0655",
+    "result": "ER",
     "offense": "TEXAS",
+    "defense": "CAL",
+    "secondary": [],
     "extras": [],
-    "defense": "CAL"
+    "period": "FLOOR"
   },
   "16": {
-    "result": [
-      "EP",
-      "CAL-UNK",
+    "primary": [
       "CAL-UNK"
     ],
     "time": "0720",
+    "result": "EP",
     "offense": "CAL",
+    "defense": "TEXAS",
+    "secondary": [
+      "CAL-UNK"
+    ],
     "extras": [],
-    "defense": "TEXAS"
+    "period": "FLOOR"
   },
   "17": {
-    "result": [
-      "GD",
+    "primary": [
       "TEXAS-JOSH JOHNSON"
     ],
     "time": "0735",
+    "result": "GD",
     "offense": "TEXAS",
+    "defense": "CAL",
+    "secondary": [],
     "extras": [
       [
         "Y",
         "CAL-MICHAEL SERAYDARIAN"
       ]
     ],
-    "defense": "CAL"
+    "period": "FLOOR"
   },
   "18": {
-    "result": [
-      "EP",
-      "CAL-UNK",
+    "primary": [
       "CAL-UNK"
     ],
     "time": "0825",
+    "result": "EP",
     "offense": "CAL",
+    "defense": "TEXAS",
+    "secondary": [
+      "CAL-UNK"
+    ],
     "extras": [],
-    "defense": "TEXAS"
+    "period": "FLOOR"
   },
   "19": {
-    "result": [
-      "GD",
-      "TEXAS-JOSH JOHNSON",
-      "TEXAS-LUKE MEISSNER"
+    "primary": [
+      "TEXAS-JOSH JOHNSON"
     ],
     "time": "0856",
+    "result": "GD",
     "offense": "TEXAS",
+    "defense": "CAL",
+    "secondary": [
+      "TEXAS-LUKE MEISSNER"
+    ],
     "extras": [
       [
         "Y",
         "CAL-MADDI ERDALL"
       ]
     ],
-    "defense": "CAL"
+    "period": "FLOOR"
   },
   "20": {
-    "result": [
-      "EM",
+    "primary": [
       "CAL-MATTHEW WALKER"
     ],
     "time": "0934",
+    "result": "EM",
     "offense": "CAL",
+    "defense": "TEXAS",
+    "secondary": [],
     "extras": [],
-    "defense": "TEXAS"
+    "period": "FLOOR"
   },
   "21": {
-    "result": [
-      "EP",
-      "TEXAS-JOSH JOHNSON",
-      "TEXAS-DAVIS ROE"
+    "primary": [
+      "TEXAS-JOSH JOHNSON"
     ],
     "time": "0945",
+    "result": "EP",
     "offense": "TEXAS",
+    "defense": "CAL",
+    "secondary": [
+      "TEXAS-DAVIS ROE"
+    ],
     "extras": [],
-    "defense": "CAL"
+    "period": "FLOOR"
   },
   "22": {
-    "result": [
-      "EP",
-      "CAL-AJ MORGAN",
-      "CAL-UNK"
+    "primary": [
+      "CAL-AJ MORGAN"
     ],
     "time": "1034",
+    "result": "EP",
     "offense": "CAL",
+    "defense": "TEXAS",
+    "secondary": [
+      "CAL-UNK"
+    ],
     "extras": [],
-    "defense": "TEXAS"
+    "period": "FLOOR"
   },
   "23": {
-    "result": [
-      "GD",
+    "primary": [
       "TEXAS-DAVIS ROE"
     ],
     "time": "1051",
+    "result": "GD",
     "offense": "TEXAS",
+    "defense": "CAL",
+    "secondary": [],
     "extras": [],
-    "defense": "CAL"
+    "period": "FLOOR"
   },
   "24": {
-    "result": [
-      "TD",
-      "TEXAS-UNK",
-      "CAL-UNK and CAL-UNK"
+    "primary": [
+      "TEXAS-UNK"
     ],
     "time": "1128",
+    "result": "TD",
     "offense": "CAL",
+    "defense": "TEXAS",
+    "secondary": [
+      "CAL-UNK",
+      "CAL-UNK"
+    ],
     "extras": [],
-    "defense": "TEXAS"
+    "period": "FLOOR"
   },
   "25": {
-    "result": [
-      "GD",
+    "primary": [
       "TEXAS-AIDAN PARSI"
     ],
     "time": "1158",
+    "result": "GD",
     "offense": "TEXAS",
+    "defense": "CAL",
+    "secondary": [],
     "extras": [],
-    "defense": "CAL"
+    "period": "FLOOR"
   },
   "26": {
-    "result": [
-      "TD",
-      "TEXAS-SPENCER FORBES",
-      "CAL-10 and CAL-UNK"
+    "primary": [
+      "TEXAS-SPENCER FORBES"
     ],
     "time": "1229",
+    "result": "TD",
     "offense": "CAL",
+    "defense": "TEXAS",
+    "secondary": [
+      "CAL-RYAN PFENNING",
+      "CAL-UNK"
+    ],
     "extras": [],
-    "defense": "TEXAS"
+    "period": "FLOOR"
   },
   "27": {
-    "result": [
-      "TC",
-      "CAL-UNK",
-      "TEXAS-GRAYSON BRIGGS"
+    "primary": [
+      "CAL-UNK"
     ],
     "time": "1244",
+    "result": "TC",
     "offense": "TEXAS",
+    "defense": "CAL",
+    "secondary": [
+      "TEXAS-GRAYSON BRIGGS"
+    ],
     "extras": [
       [
         "Y",
         "CAL-ELIJAH PHIPPS"
       ]
     ],
-    "defense": "CAL"
+    "period": "FLOOR"
   },
   "28": {
-    "result": [
-      "GP",
-      "CAL-ELIJAH PHIPPS",
-      "CAL-10"
+    "primary": [
+      "CAL-ELIJAH PHIPPS"
     ],
     "time": "1359",
+    "result": "GP",
     "offense": "CAL",
+    "defense": "TEXAS",
+    "secondary": [
+      "CAL-RYAN PFENNING"
+    ],
     "extras": [
       [
         "R",
         "TEXAS-AIDAN PARSI"
       ]
     ],
-    "defense": "TEXAS"
+    "period": "FLOOR"
   },
   "29": {
-    "result": [
-      "EM",
+    "primary": [
       "TEXAS-AIDAN PARSI"
     ],
     "time": "1435",
+    "result": "EM",
     "offense": "TEXAS",
+    "defense": "CAL",
+    "secondary": [],
     "extras": [],
-    "defense": "CAL"
+    "period": "FLOOR"
   },
   "30": {
-    "result": [
-      "EM",
+    "primary": [
       "CAL-ELIJAH PHIPPS"
     ],
     "time": "1510",
+    "result": "EM",
     "offense": "CAL",
+    "defense": "TEXAS",
+    "secondary": [],
     "extras": [],
-    "defense": "TEXAS"
+    "period": "FLOOR"
   },
   "31": {
-    "result": [
-      "TC",
-      "CAL-10",
-      "TEXAS-CARLY JORDAN"
+    "primary": [
+      "CAL-RYAN PFENNING"
     ],
     "time": "1545",
+    "result": "TC",
     "offense": "TEXAS",
+    "defense": "CAL",
+    "secondary": [
+      "TEXAS-CARLY JORDAN"
+    ],
     "extras": [],
-    "defense": "CAL"
+    "period": "FLOOR"
   },
   "32": {
-    "result": [
-      "TC",
-      "TEXAS-JOEY CASTELLANO",
-      "CAL-ELIJAH PHIPPS"
+    "primary": [
+      "TEXAS-JOEY CASTELLANO"
     ],
     "time": "1554",
+    "result": "TC",
     "offense": "CAL",
+    "defense": "TEXAS",
+    "secondary": [
+      "CAL-ELIJAH PHIPPS"
+    ],
     "extras": [],
-    "defense": "TEXAS"
+    "period": "FLOOR"
   },
   "33": {
-    "result": [
-      "GD",
+    "primary": [
       "TEXAS-JOEY CASTELLANO"
     ],
     "time": "1629",
+    "result": "GD",
     "offense": "TEXAS",
+    "defense": "CAL",
+    "secondary": [],
     "extras": [
       [
         "2Y",
         "CAL-ELIJAH PHIPPS"
       ]
     ],
-    "defense": "CAL"
+    "period": "FLOOR"
   },
   "34": {
-    "result": [
-      "EB",
-      "CAL-10"
+    "primary": [
+      "CAL-RYAN PFENNING"
     ],
     "time": "1745",
+    "result": "EB",
     "offense": "CAL",
+    "defense": "TEXAS",
+    "secondary": [],
     "extras": [],
-    "defense": "TEXAS"
+    "period": "FLOOR"
   },
   "35": {
-    "result": [
-      "GP",
-      "TEXAS-CARLY JORDAN",
-      "TEXAS-NATHAN LEWIS"
+    "primary": [
+      "TEXAS-CARLY JORDAN"
     ],
     "time": "1811",
+    "result": "GP",
     "offense": "TEXAS",
+    "defense": "CAL",
+    "secondary": [
+      "TEXAS-NATHAN LEWIS"
+    ],
     "extras": [
       [
         "SOP",
         1
       ]
     ],
-    "defense": "CAL"
+    "period": "SOP"
   },
   "36": {
-    "result": [
-      "TC",
-      "TEXAS-DYLAN BOTTOMS",
-      "CAL-UNK"
+    "primary": [
+      "TEXAS-DYLAN BOTTOMS"
     ],
     "time": "1848",
+    "result": "TC",
     "offense": "CAL",
+    "defense": "TEXAS",
+    "secondary": [
+      "CAL-UNK"
+    ],
     "extras": [],
-    "defense": "TEXAS"
+    "period": "SOP"
   },
   "37": {
-    "result": [
-      "EM",
+    "primary": [
       "TEXAS-DYLAN BOTTOMS"
     ],
     "time": "1911",
+    "result": "EM",
     "offense": "TEXAS",
+    "defense": "CAL",
+    "secondary": [],
     "extras": [],
-    "defense": "CAL"
+    "period": "SOP"
   },
   "38": {
-    "result": [
-      "EP",
-      "CAL-10",
-      "CAL-UNK"
+    "primary": [
+      "CAL-RYAN PFENNING"
     ],
     "time": "1954",
+    "result": "EP",
     "offense": "CAL",
-    "extras": [],
-    "defense": "TEXAS"
-  },
-  "39": {
-    "result": [
-      "TB",
-      "CAL-UNK",
-      "TEXAS-CARLY JORDAN"
-    ],
-    "time": "2019",
-    "offense": "TEXAS",
-    "extras": [],
-    "defense": "CAL"
-  },
-  "40": {
-    "result": [
-      "EP",
-      "CAL-10",
+    "defense": "TEXAS",
+    "secondary": [
       "CAL-UNK"
     ],
+    "extras": [],
+    "period": "SOP"
+  },
+  "39": {
+    "primary": [
+      "CAL-UNK"
+    ],
+    "time": "2019",
+    "result": "TB",
+    "offense": "TEXAS",
+    "defense": "CAL",
+    "secondary": [
+      "TEXAS-CARLY JORDAN"
+    ],
+    "extras": [],
+    "period": "SOP"
+  },
+  "40": {
+    "primary": [
+      "CAL-RYAN PFENNING"
+    ],
     "time": "2055",
+    "result": "EP",
     "offense": "CAL",
+    "defense": "TEXAS",
+    "secondary": [
+      "CAL-UNK"
+    ],
     "extras": [
       [
         "Y",
         "TEXAS-TATE KAY"
       ]
     ],
-    "defense": "TEXAS"
+    "period": "SOP"
   },
   "41": {
-    "result": [
-      "TD",
-      "CAL-SUVAM NAYAK",
-      "TEXAS-DYLAN BOTTOMS and TEXAS-SPENCER FORBES"
+    "primary": [
+      "CAL-SUVAM NAYAK"
     ],
     "time": "2142",
+    "result": "TD",
     "offense": "TEXAS",
+    "defense": "CAL",
+    "secondary": [
+      "TEXAS-DYLAN BOTTOMS",
+      "TEXAS-SPENCER FORBES"
+    ],
     "extras": [],
-    "defense": "CAL"
+    "period": "SOP"
   },
   "42": {
-    "result": [
-      "EP",
-      "CAL-10",
-      "CAL-UNK"
+    "primary": [
+      "CAL-RYAN PFENNING"
     ],
     "time": "2208",
+    "result": "EP",
     "offense": "CAL",
-    "extras": [],
-    "defense": "TEXAS"
-  },
-  "43": {
-    "result": [
-      "TD",
-      "CAL-UNK",
-      "TEXAS-SPENCER FORBES and TEXAS-KASYE BEVERS"
-    ],
-    "time": "2307",
-    "offense": "TEXAS",
-    "extras": [],
-    "defense": "CAL"
-  },
-  "44": {
-    "result": [
-      "TB",
-      "TEXAS-RICHMOND KEELING",
+    "defense": "TEXAS",
+    "secondary": [
       "CAL-UNK"
     ],
-    "time": "2340",
-    "offense": "CAL",
     "extras": [],
-    "defense": "TEXAS"
+    "period": "SOP"
+  },
+  "43": {
+    "primary": [
+      "CAL-UNK"
+    ],
+    "time": "2307",
+    "result": "TD",
+    "offense": "TEXAS",
+    "defense": "CAL",
+    "secondary": [
+      "TEXAS-SPENCER FORBES",
+      "TEXAS-KASYE BEVERS"
+    ],
+    "extras": [],
+    "period": "SOP"
+  },
+  "44": {
+    "primary": [
+      "TEXAS-RICHMOND KEELING"
+    ],
+    "time": "2340",
+    "result": "TB",
+    "offense": "CAL",
+    "defense": "TEXAS",
+    "secondary": [
+      "CAL-UNK"
+    ],
+    "extras": [],
+    "period": "SOP"
   },
   "45": {
-    "result": [
-      "EM",
+    "primary": [
       "TEXAS-MICHAEL JOHNSTON"
     ],
     "time": "2423",
+    "result": "EM",
     "offense": "TEXAS",
+    "defense": "CAL",
+    "secondary": [],
     "extras": [],
-    "defense": "CAL"
+    "period": "SOP"
   },
   "46": {
-    "result": [
-      "GP",
-      "CAL-MADDI ERDALL",
-      "CAL-10"
-    ],
-    "time": "2439",
-    "offense": "CAL",
-    "extras": [],
-    "defense": "TEXAS"
-  },
-  "47": {
-    "result": [
-      "TB",
-      "CAL-UNK",
-      "TEXAS-CARLY JORDAN"
-    ],
-    "time": "2549",
-    "offense": "TEXAS",
-    "extras": [],
-    "defense": "CAL"
-  },
-  "48": {
-    "result": [
-      "TC",
-      "TEXAS-KASYE BEVERS",
+    "primary": [
       "CAL-MADDI ERDALL"
     ],
-    "time": "2606",
+    "time": "2439",
+    "result": "GP",
     "offense": "CAL",
+    "defense": "TEXAS",
+    "secondary": [
+      "CAL-RYAN PFENNING"
+    ],
     "extras": [],
-    "defense": "TEXAS"
+    "period": "SOP"
+  },
+  "47": {
+    "primary": [
+      "CAL-UNK"
+    ],
+    "time": "2549",
+    "result": "TB",
+    "offense": "TEXAS",
+    "defense": "CAL",
+    "secondary": [
+      "TEXAS-CARLY JORDAN"
+    ],
+    "extras": [],
+    "period": "SOP"
+  },
+  "48": {
+    "primary": [
+      "TEXAS-KASYE BEVERS"
+    ],
+    "time": "2606",
+    "result": "TC",
+    "offense": "CAL",
+    "defense": "TEXAS",
+    "secondary": [
+      "CAL-MADDI ERDALL"
+    ],
+    "extras": [],
+    "period": "SOP"
   },
   "49": {
-    "result": [
-      "TC",
-      "CAL-10",
-      "TEXAS-MICHAEL JOHNSTON"
+    "primary": [
+      "CAL-RYAN PFENNING"
     ],
     "time": "2610",
+    "result": "TC",
     "offense": "TEXAS",
+    "defense": "CAL",
+    "secondary": [
+      "TEXAS-MICHAEL JOHNSTON"
+    ],
     "extras": [],
-    "defense": "CAL"
+    "period": "SOP"
   },
   "50": {
-    "result": [
-      "GD",
+    "primary": [
       "CAL-UNK"
     ],
     "time": "2615",
+    "result": "GD",
     "offense": "CAL",
+    "defense": "TEXAS",
+    "secondary": [],
     "extras": [],
-    "defense": "TEXAS"
+    "period": "SOP"
   },
   "51": {
-    "result": [
-      "TB",
-      "CAL-UNK",
-      "TEXAS-MICHAEL JOHNSTON"
-    ],
-    "time": "2649",
-    "offense": "TEXAS",
-    "extras": [],
-    "defense": "CAL"
-  },
-  "52": {
-    "result": [
-      "TB",
-      "TEXAS-RICHMOND KEELING",
+    "primary": [
       "CAL-UNK"
     ],
-    "time": "2750",
-    "offense": "CAL",
+    "time": "2649",
+    "result": "TB",
+    "offense": "TEXAS",
+    "defense": "CAL",
+    "secondary": [
+      "TEXAS-MICHAEL JOHNSTON"
+    ],
     "extras": [],
-    "defense": "TEXAS"
+    "period": "SOP"
+  },
+  "52": {
+    "primary": [
+      "TEXAS-RICHMOND KEELING"
+    ],
+    "time": "2750",
+    "result": "TB",
+    "offense": "CAL",
+    "defense": "TEXAS",
+    "secondary": [
+      "CAL-UNK"
+    ],
+    "extras": [],
+    "period": "SOP"
   },
   "53": {
-    "result": [
-      "EM",
+    "primary": [
       "TEXAS-LUKE MEISSNER"
     ],
     "time": "2810",
+    "result": "EM",
     "offense": "TEXAS",
+    "defense": "CAL",
+    "secondary": [],
     "extras": [],
-    "defense": "CAL"
+    "period": "SOP"
   },
   "54": {
-    "result": [
-      "GP",
-      "CAL-MADDI ERDALL",
-      "CAL-10"
+    "primary": [
+      "CAL-MADDI ERDALL"
     ],
     "time": "2834",
+    "result": "GP",
     "offense": "CAL",
+    "defense": "TEXAS",
+    "secondary": [
+      "CAL-RYAN PFENNING"
+    ],
     "extras": [],
-    "defense": "TEXAS"
+    "period": "SOP"
   },
   "55": {
-    "result": [
-      "TC",
-      "CAL-MATT THURA",
-      "TEXAS-AIDAN PARSI"
+    "primary": [
+      "CAL-MATT THURA"
     ],
     "time": "2916",
+    "result": "TC",
     "offense": "TEXAS",
+    "defense": "CAL",
+    "secondary": [
+      "TEXAS-AIDAN PARSI"
+    ],
     "extras": [],
-    "defense": "CAL"
+    "period": "SOP"
   },
   "56": {
-    "result": [
-      "GP",
-      "CAL-MADDI ERDALL",
-      "CAL-10"
+    "primary": [
+      "CAL-MADDI ERDALL"
     ],
     "time": "2928",
+    "result": "GP",
     "offense": "CAL",
+    "defense": "TEXAS",
+    "secondary": [
+      "CAL-RYAN PFENNING"
+    ],
     "extras": [
       [
         "Y",
         "TEXAS-AIDAN PARSI"
       ]
     ],
-    "defense": "TEXAS"
+    "period": "SOP"
   },
   "57": {
-    "result": [
-      "GD",
+    "primary": [
       "TEXAS-AIDAN PARSI"
     ],
     "time": "2953",
+    "result": "GD",
     "offense": "TEXAS",
+    "defense": "CAL",
+    "secondary": [],
     "extras": [],
-    "defense": "CAL"
+    "period": "SOP"
   },
   "58": {
-    "result": [
-      "G",
+    "primary": [
       "CAL-MADDI ERDALL"
     ],
     "time": "3026",
+    "result": "G",
     "offense": "CAL",
+    "defense": "TEXAS",
+    "secondary": [],
     "extras": [],
-    "defense": "TEXAS"
+    "period": "SOP"
   },
   "59": {
-    "result": [
-      "RCA",
+    "primary": [
       "TEXAS-DAVID HUBER"
     ],
     "time": "3050",
+    "result": "RCA",
     "offense": "TEXAS",
+    "defense": "CAL",
+    "secondary": [],
     "extras": [],
-    "defense": "CAL"
+    "period": "SOP"
   }
 }

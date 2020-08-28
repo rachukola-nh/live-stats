@@ -1,0 +1,36 @@
+import json
+import sys
+import getopt
+from pathlib import Path
+def main(argv):
+    outputfile = 'all_plays.json'
+    recursive = False
+    try:
+      opts, args = getopt.getopt(argv,"o:",['outputfile='])
+    except getopt.GetoptError:
+      sys.exit(2)
+    for opt,arg in opts:
+        if opt in ('-o','--outputfile'):
+            inputfile = arg
+    js = []
+    for path in Path('').rglob('*.json'):
+        try:
+            season,tournament,_ = str(path).split("\\")
+        except:
+            continue
+        game_json = {}
+        with open(str(path)) as f:
+            game_json =json.load(f)
+        for k,v in game_json.items():
+            v['possession_number']=int(k)
+            v['season']=season
+            v['tournament']= tournament
+            v['game']=str(path)
+            js.append(v)
+    with open(outputfile,'w+') as o:
+        json.dump(js,o,indent=2)
+
+
+
+if __name__ == "__main__":
+    main(sys.argv[1:])

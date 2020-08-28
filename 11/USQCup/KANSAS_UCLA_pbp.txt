@@ -1,0 +1,72 @@
+(00:00)Brooms Up possession: BROOMS UP! Quaffle Possession by ['UCLA-32'], Bludger Control by ['KANSAS-ADAM MCMORRIS']
+KANSAS possession: Pass between ['KANSAS-25', 'KANSAS-10'] defended by ['UCLA-JONATHAN GARCIA-ROVETTA']. Turnover
+UCLA possession: Pass by ['UCLA-JONATHAN GARCIA-ROVETTA'] dropped by ['UCLA-ELIZABETH NG']. Turnover
+KANSAS possession: ['KANSAS-10'] passes to ['KANSAS-BRANDON TABOR'] at the hoops, GOAL.
+UCLA possession: Goal on the drive by ['UCLA-JONATHAN GARCIA-ROVETTA'].
+KANSAS possession: Shot by ['KANSAS-RACHEL HEALD'] blocked by ['UCLA-JONATHAN GARCIA-ROVETTA']. Turnover.
+UCLA possession: Turnover forced by physical contact by ['KANSAS-BRANDON TABOR'] on ['UCLA-16']
+KANSAS possession: Shot by ['KANSAS-RACHEL HEALD'] blocked by ['UCLA-32']. Turnover.
+UCLA possession: Goal on the drive by ['UCLA-32'].
+KANSAS possession: Pass between ['KANSAS-MIKE DEVINE', 'KANSAS-KEVIN MCMORRIS'] defended by ['UCLA-JONATHAN GARCIA-ROVETTA']. Turnover
+UCLA possession: ['UCLA-ELIZABETH NG'] passes to ['UCLA-JONATHAN GARCIA-ROVETTA'] at the hoops, GOAL.
+KANSAS possession: Missed shot by ['KANSAS-RACHEL HEALD']. Turnover.
+UCLA possession: Missed shot by ['UCLA-ELIZABETH NG']. Turnover.
+KANSAS possession: Goal on the drive by ['KANSAS-MIKE DEVINE'].
+UCLA possession: Pass between ['UCLA-RYAN HARRIS', 'UCLA-ELIZABETH NG'] defended by ['KANSAS-MATT DWYER']. Turnover
+KANSAS possession: Beat by ['UCLA-JUSTIN VANLIGTEN'] on ['KANSAS-53'] forces a TURNOVER. During the play, yellow card on UCLA-ELIZABETH NG
+UCLA possession: Errant pass from ['UCLA-RYAN HARRIS'] to ['UCLA-UNK']. Turnover During the play, reset forced by KANSAS-JAKE SIMON
+KANSAS possession: Shot by ['KANSAS-OLIVIA FEDERICO'] blocked by ['UCLA-20']. Turnover.
+UCLA possession: Goal on the drive by ['UCLA-RYAN HARRIS'].
+KANSAS possession: Goal on the shot by ['KANSAS-MATT DWYER'].
+UCLA possession: Pass between ['UCLA-RYAN HARRIS', 'UCLA-ELIZABETH NG'] defended by ['KANSAS-MATT DWYER']. Turnover
+KANSAS possession: ['KANSAS-53'] passes to ['KANSAS-RACHEL HEALD'] at the hoops, GOAL.
+UCLA possession: Beat by ['KANSAS-RACHEL ENGLAND'] on ['UCLA-CHRISTIAN KRIEGER'] forces a TURNOVER.
+KANSAS possession: Goal on the shot by ['KANSAS-MATT DWYER'].
+UCLA possession: Goal on the drive by ['UCLA-JONATHAN GARCIA-ROVETTA'].
+KANSAS possession: Pass between ['KANSAS-RACHEL HEALD', 'KANSAS-BRANDON TABOR'] defended by ['UCLA-CHRISTIAN KRIEGER']. Turnover
+UCLA possession: Errant pass from ['UCLA-32'] to ['UCLA-ELIZABETH NG']. Turnover During the play, reset forced by KANSAS-96
+KANSAS possession: Goal on the drive by ['KANSAS-BRANDON TABOR'].
+UCLA possession: Goal on the shot by ['UCLA-JONATHAN GARCIA-ROVETTA'].
+KANSAS possession: Goal on the drive by ['KANSAS-23'].
+UCLA possession: ['UCLA-32'] passes to ['UCLA-JONATHAN GARCIA-ROVETTA'] at the hoops, GOAL. During the play, SNITCH ON PITCH begins
+KANSAS possession: Errant pass from ['KANSAS-RACHEL HEALD'] to ['KANSAS-OLIVIA FEDERICO']. Turnover
+UCLA possession: Pass between ['UCLA-32', 'UCLA-20'] defended by ['KANSAS-OLIVIA FEDERICO']. Turnover
+KANSAS possession: Missed shot by ['KANSAS-BRANDON TABOR']. Turnover.
+UCLA possession: Goal on the drive by ['UCLA-RYAN HARRIS'].
+KANSAS possession: Goal on the drive by ['KANSAS-BRANDON TABOR'], assist by ['KANSAS-25']
+UCLA possession: Goal on the drive by ['UCLA-20'], assist by ['UCLA-RYAN HARRIS']
+KANSAS possession: Goal on the drive by ['KANSAS-BRANDON TABOR'], assist by ['KANSAS-RACHEL HEALD']
+UCLA possession: Beat by ['KANSAS-JAKE SIMON'] on ['UCLA-RYAN HARRIS'] forces a TURNOVER.
+KANSAS possession: Goal on the drive by ['KANSAS-BRANDON TABOR'], assist by ['KANSAS-RACHEL HEALD']
+UCLA possession: Goal by ['UCLA-UNK']. During the play, yellow card on KANSAS-ADAM MCMORRIS
+KANSAS possession: Beat by ['UCLA-7'] on ['KANSAS-25'] forces a TURNOVER. During the play, yellow card on UCLA-JUSTIN VANLIGTEN
+UCLA possession: Goal on the shot by ['UCLA-32'], assist by ['UCLA-RYAN HARRIS'] During the play, yellow card on KANSAS-10
+KANSAS possession: Goal on the drive by ['KANSAS-KEVIN MCMORRIS'], assist by ['KANSAS-25']
+UCLA possession: Turnover forced by physical contact by ['KANSAS-10'] on ['UCLA-JONATHAN GARCIA-ROVETTA']
+KANSAS possession: Shot by ['KANSAS-BRANDON TABOR'] blocked by ['UCLA-ELIZABETH NG']. Turnover.
+UCLA possession: Goal on the drive by ['UCLA-32'].
+KANSAS possession: Goal on the drive by ['KANSAS-BRANDON TABOR'].
+UCLA possession: Goal on the drive by ['UCLA-JONATHAN GARCIA-ROVETTA'].
+KANSAS possession: Goal on the drive by ['KANSAS-25'].
+UCLA possession: Error by ['UCLA-UNK'].
+KANSAS possession: Beat by ['UCLA-JUSTIN VANLIGTEN'] on ['KANSAS-25'] forces a TURNOVER.
+UCLA possession: Goal on the drive by ['UCLA-RYAN HARRIS'].
+KANSAS possession: Missed shot by ['KANSAS-10']. Turnover.
+UCLA possession: Goal on the drive by ['UCLA-RYAN HARRIS'].
+KANSAS possession: Goal on the shot by ['KANSAS-10'].
+UCLA possession: Goal on the drive by ['UCLA-JONATHAN GARCIA-ROVETTA'].
+KANSAS possession: Error by ['KANSAS-UNK'].
+UCLA possession: Goal on the shot by ['UCLA-JONATHAN GARCIA-ROVETTA'].
+KANSAS possession: Pass between ['KANSAS-UNK', 'KANSAS-KEVIN MCMORRIS'] defended by ['UCLA-RYAN HARRIS']. Turnover
+UCLA possession: Goal on the drive by ['UCLA-RYAN HARRIS'].
+KANSAS possession: Goal by ['KANSAS-UNK'].
+UCLA possession: Snitch catch by ['KANSAS-UNK'] is GOOD.
+UCLA possession: Turnover forced by physical contact by ['KANSAS-10'] on ['UCLA-32']
+KANSAS possession: Errant pass from ['KANSAS-25'] to ['KANSAS-10']. Turnover During the play, yellow card on UCLA-CHRISTIAN KRIEGER
+UCLA possession: Errant pass from ['UCLA-UNK'] to ['UCLA-RYAN HARRIS']. Turnover
+KANSAS possession: Goal on the drive by ['KANSAS-ELI DORSEY'].
+UCLA possession: Goal on the drive by ['UCLA-RYAN HARRIS'], assist by ['UCLA-JONATHAN GARCIA-ROVETTA']
+KANSAS possession: Goal on the drive by ['KANSAS-25'].
+UCLA possession: Beat by ['KANSAS-JAKE SIMON'] on ['UCLA-JONATHAN GARCIA-ROVETTA'] forces a TURNOVER.
+KANSAS possession: Goal on the drive by ['KANSAS-25'].
+UCLA possession: Turnover forced by physical contact by ['KANSAS-25'] on ['UCLA-CHRISTIAN KRIEGER']

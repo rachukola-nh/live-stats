@@ -1,421 +1,523 @@
 {
   "0": {
-    "time": "0000",
+    "primary": [
+      "TEXAS-DAVIS ROE"
+    ],
     "extras": [],
     "offense": "Brooms Up",
-    "result": [
-      "BU",
-      "TEXAS-DAVIS ROE",
+    "time": "0000",
+    "secondary": [
       "TEXAS-DAVID HUBER"
-    ]
+    ],
+    "result": "BU",
+    "period": "FLOOR"
   },
   "1": {
+    "primary": [
+      "TEXAS-KASYE BEVERS"
+    ],
     "time": "",
-    "defense": "TAMU",
-    "extras": [],
+    "result": "GD",
     "offense": "TEXAS",
-    "result": [
-      "GD",
-      "TEXAS-KASYE BEVERS",
+    "defense": "TAMU",
+    "secondary": [
       "TEXAS-LUKE MEISSNER"
-    ]
+    ],
+    "extras": [],
+    "period": ""
   },
   "2": {
+    "primary": [
+      "TEXAS-KYLIE MCBRIDE"
+    ],
     "time": "",
+    "result": "TB",
+    "offense": "TAMU",
     "defense": "TEXAS",
+    "secondary": [
+      "TAMU-LANDIS WALTHER"
+    ],
     "extras": [
       [
         "R",
         "TEXAS-TATE KAY"
       ]
     ],
-    "offense": "TAMU",
-    "result": [
-      "TB",
-      "TEXAS-KYLIE MCBRIDE",
-      "TAMU-LANDIS WALTHER"
-    ]
+    "period": ""
   },
   "3": {
-    "time": "",
-    "defense": "TAMU",
-    "extras": [],
-    "offense": "TEXAS",
-    "result": [
-      "EM",
+    "primary": [
       "TEXAS-GRAYSON BRIGGS"
-    ]
+    ],
+    "time": "",
+    "result": "EM",
+    "offense": "TEXAS",
+    "defense": "TAMU",
+    "secondary": [],
+    "extras": [],
+    "period": ""
   },
   "4": {
-    "time": "",
-    "defense": "TEXAS",
-    "extras": [],
-    "offense": "TAMU",
-    "result": [
-      "EM",
+    "primary": [
       "TAMU-LANDIS WALTHER"
-    ]
+    ],
+    "time": "",
+    "result": "EM",
+    "offense": "TAMU",
+    "defense": "TEXAS",
+    "secondary": [],
+    "extras": [],
+    "period": ""
   },
   "5": {
+    "primary": [
+      "TEXAS-KASYE BEVERS"
+    ],
     "time": "",
-    "defense": "TAMU",
-    "extras": [],
+    "result": "GP",
     "offense": "TEXAS",
-    "result": [
-      "GP",
-      "TEXAS-KASYE BEVERS",
+    "defense": "TAMU",
+    "secondary": [
       "TEXAS-LUKE MEISSNER"
-    ]
+    ],
+    "extras": [],
+    "period": ""
   },
   "6": {
+    "primary": [
+      "TEXAS-LUKE MEISSNER"
+    ],
     "time": "",
-    "defense": "TEXAS",
-    "extras": [],
+    "result": "TD",
     "offense": "TAMU",
-    "result": [
-      "TD",
-      "TEXAS-LUKE MEISSNER",
-      "TAMU-LOUIS SANCHEZ and TAMU-LANDIS WALTHER"
-    ]
+    "defense": "TEXAS",
+    "secondary": [
+      "TAMU-LOUIS SANCHEZ",
+      "TAMU-LANDIS WALTHER"
+    ],
+    "extras": [],
+    "period": ""
   },
   "7": {
+    "primary": [
+      "TEXAS-GRAYSON BRIGGS"
+    ],
     "time": "",
-    "defense": "TAMU",
-    "extras": [],
+    "result": "GD",
     "offense": "TEXAS",
-    "result": [
-      "GD",
-      "TEXAS-GRAYSON BRIGGS",
+    "defense": "TAMU",
+    "secondary": [
       "TEXAS-LUKE MEISSNER"
-    ]
+    ],
+    "extras": [],
+    "period": ""
   },
   "8": {
+    "primary": [
+      "TAMU-HAYDAN ALTMAN"
+    ],
     "time": "",
+    "result": "EP",
+    "offense": "TAMU",
     "defense": "TEXAS",
+    "secondary": [
+      "TAMU-LANDIS WALTHER"
+    ],
     "extras": [
       [
         "Y",
         "TEXAS-LUKE MEISSNER"
       ]
     ],
-    "offense": "TAMU",
-    "result": [
-      "EP",
-      "TAMU-HAYDAN ALTMAN",
-      "TAMU-LANDIS WALTHER"
-    ]
+    "period": ""
   },
   "9": {
-    "time": "",
-    "defense": "TAMU",
-    "extras": [],
-    "offense": "TEXAS",
-    "result": [
-      "EM",
+    "primary": [
       "TEXAS-AIDAN PARSI"
-    ]
+    ],
+    "time": "",
+    "result": "EM",
+    "offense": "TEXAS",
+    "defense": "TAMU",
+    "secondary": [],
+    "extras": [],
+    "period": ""
   },
   "10": {
+    "primary": [
+      "TEXAS-KYLIE MCBRIDE"
+    ],
     "time": "",
+    "result": "TB",
+    "offense": "TAMU",
     "defense": "TEXAS",
+    "secondary": [
+      "TAMU-LOUIS SANCHEZ"
+    ],
     "extras": [
       [
         "R",
         "TEXAS-GRAYSON BRIGGS"
       ]
     ],
-    "offense": "TAMU",
-    "result": [
-      "TB",
-      "TEXAS-KYLIE MCBRIDE",
-      "TAMU-LOUIS SANCHEZ"
-    ]
+    "period": ""
   },
   "11": {
-    "time": "",
-    "defense": "TAMU",
-    "extras": [],
-    "offense": "TEXAS",
-    "result": [
-      "EM",
+    "primary": [
       "TEXAS-KASYE BEVERS"
-    ]
+    ],
+    "time": "",
+    "result": "EM",
+    "offense": "TEXAS",
+    "defense": "TAMU",
+    "secondary": [],
+    "extras": [],
+    "period": ""
   },
   "12": {
+    "primary": [
+      "TAMU-ADRIENNE DEMOSS"
+    ],
     "time": "",
-    "defense": "TEXAS",
-    "extras": [],
+    "result": "GP",
     "offense": "TAMU",
-    "result": [
-      "GP",
-      "TAMU-ADRIENNE DEMOSS",
+    "defense": "TEXAS",
+    "secondary": [
       "TAMU-LOUIS SANCHEZ"
-    ]
+    ],
+    "extras": [],
+    "period": ""
   },
   "13": {
+    "primary": [
+      "TAMU-NICK ROY"
+    ],
     "time": "",
-    "defense": "TAMU",
-    "extras": [],
+    "result": "TB",
     "offense": "TEXAS",
-    "result": [
-      "TB",
-      "TAMU-NICK ROY",
+    "defense": "TAMU",
+    "secondary": [
       "TEXAS-LUKE MEISSNER"
-    ]
+    ],
+    "extras": [],
+    "period": ""
   },
   "14": {
+    "primary": [
+      "TAMU-ADRIENNE DEMOSS"
+    ],
     "time": "",
-    "defense": "TEXAS",
-    "extras": [],
+    "result": "GP",
     "offense": "TAMU",
-    "result": [
-      "GP",
-      "TAMU-ADRIENNE DEMOSS",
+    "defense": "TEXAS",
+    "secondary": [
       "TAMU-LOUIS SANCHEZ"
-    ]
+    ],
+    "extras": [],
+    "period": ""
   },
   "15": {
-    "time": "",
-    "defense": "TAMU",
-    "extras": [],
-    "offense": "TEXAS",
-    "result": [
-      "GD",
+    "primary": [
       "TEXAS-AIDAN PARSI"
-    ]
+    ],
+    "time": "",
+    "result": "GD",
+    "offense": "TEXAS",
+    "defense": "TAMU",
+    "secondary": [],
+    "extras": [],
+    "period": ""
   },
   "16": {
+    "primary": [
+      "TEXAS-SOPHIA DESALVO"
+    ],
     "time": "",
-    "defense": "TEXAS",
-    "extras": [],
+    "result": "TB",
     "offense": "TAMU",
-    "result": [
-      "TB",
-      "TEXAS-SOPHIA DESALVO",
+    "defense": "TEXAS",
+    "secondary": [
       "TAMU-ADRIENNE DEMOSS"
-    ]
+    ],
+    "extras": [],
+    "period": ""
   },
   "17": {
+    "primary": [
+      "TEXAS-MICHAEL JOHNSTON"
+    ],
     "time": "",
-    "defense": "TAMU",
-    "extras": [],
+    "result": "GS",
     "offense": "TEXAS",
-    "result": [
-      "GS",
-      "TEXAS-MICHAEL JOHNSTON",
+    "defense": "TAMU",
+    "secondary": [
       "TEXAS-LUKE MEISSNER"
-    ]
+    ],
+    "extras": [],
+    "period": ""
   },
   "18": {
-    "time": "",
-    "defense": "TEXAS",
-    "extras": [],
-    "offense": "TAMU",
-    "result": [
-      "GS",
+    "primary": [
       "TAMU-LOUIS SANCHEZ"
-    ]
+    ],
+    "time": "",
+    "result": "GS",
+    "offense": "TAMU",
+    "defense": "TEXAS",
+    "secondary": [],
+    "extras": [],
+    "period": ""
   },
   "19": {
+    "primary": [
+      "TAMU-ADRIENNE DEMOSS"
+    ],
     "time": "",
-    "defense": "TAMU",
-    "extras": [],
+    "result": "TC",
     "offense": "TEXAS",
-    "result": [
-      "TC",
-      "TAMU-ADRIENNE DEMOSS",
+    "defense": "TAMU",
+    "secondary": [
       "TEXAS-LUKE MEISSNER"
-    ]
+    ],
+    "extras": [],
+    "period": ""
   },
   "20": {
+    "primary": [
+      "TEXAS-CARLY JORDAN"
+    ],
     "time": "",
-    "defense": "TEXAS",
-    "extras": [],
+    "result": "TC",
     "offense": "TAMU",
-    "result": [
-      "TC",
-      "TEXAS-27",
+    "defense": "TEXAS",
+    "secondary": [
       "TAMU-MIGUEL SOBARZO"
-    ]
+    ],
+    "extras": [],
+    "period": ""
   },
   "21": {
-    "time": "",
-    "defense": "TAMU",
-    "extras": [],
-    "offense": "TEXAS",
-    "result": [
-      "GS",
+    "primary": [
       "TEXAS-MICHAEL JOHNSTON"
-    ]
+    ],
+    "time": "",
+    "result": "GS",
+    "offense": "TEXAS",
+    "defense": "TAMU",
+    "secondary": [],
+    "extras": [],
+    "period": ""
   },
   "22": {
+    "primary": [
+      "TEXAS-LUKE MEISSNER"
+    ],
     "time": "",
-    "defense": "TEXAS",
-    "extras": [],
+    "result": "TD",
     "offense": "TAMU",
-    "result": [
-      "TD",
-      "TEXAS-LUKE MEISSNER",
-      "TAMU-CAMERON VILLAMIL and TAMU-MALIK DOUGLAS"
-    ]
+    "defense": "TEXAS",
+    "secondary": [
+      "TAMU-CAMERON VILLAMIL",
+      "TAMU-MALIK DOUGLAS"
+    ],
+    "extras": [],
+    "period": ""
   },
   "23": {
-    "time": "",
-    "defense": "TAMU",
-    "extras": [],
-    "offense": "TEXAS",
-    "result": [
-      "GS",
+    "primary": [
       "TEXAS-MICHAEL JOHNSTON"
-    ]
+    ],
+    "time": "",
+    "result": "GS",
+    "offense": "TEXAS",
+    "defense": "TAMU",
+    "secondary": [],
+    "extras": [],
+    "period": ""
   },
   "24": {
+    "primary": [
+      "TAMU-MALIK DOUGLAS"
+    ],
     "time": "",
-    "defense": "TEXAS",
-    "extras": [],
+    "result": "GS",
     "offense": "TAMU",
-    "result": [
-      "GS",
-      "TAMU-MALIK DOUGLAS",
+    "defense": "TEXAS",
+    "secondary": [
       "TAMU-MIGUEL SOBARZO"
-    ]
+    ],
+    "extras": [],
+    "period": ""
   },
   "25": {
+    "primary": [
+      "TAMU-CAMERON VILLAMIL"
+    ],
     "time": "",
-    "defense": "TAMU",
-    "extras": [],
+    "result": "TC",
     "offense": "TEXAS",
-    "result": [
-      "TC",
-      "TAMU-CAMERON VILLAMIL",
+    "defense": "TAMU",
+    "secondary": [
       "TEXAS-MICHAEL JOHNSTON"
-    ]
+    ],
+    "extras": [],
+    "period": ""
   },
   "26": {
+    "primary": [
+      "TEXAS-NATHAN LEWIS"
+    ],
     "time": "",
-    "defense": "TEXAS",
-    "extras": [],
+    "result": "TD",
     "offense": "TAMU",
-    "result": [
-      "TD",
-      "TEXAS-14",
-      "TAMU-MIGUEL SOBARZO and TAMU-MALIK DOUGLAS"
-    ]
+    "defense": "TEXAS",
+    "secondary": [
+      "TAMU-MIGUEL SOBARZO",
+      "TAMU-MALIK DOUGLAS"
+    ],
+    "extras": [],
+    "period": ""
   },
   "27": {
+    "primary": [
+      "TEXAS-OLIVE JIM-DANIELS"
+    ],
     "time": "",
+    "result": "GP",
+    "offense": "TEXAS",
     "defense": "TAMU",
+    "secondary": [
+      "TEXAS-NATHAN LEWIS"
+    ],
     "extras": [
       [
         "B",
         "TAMU-CAMERON VILLAMIL"
       ]
     ],
-    "offense": "TEXAS",
-    "result": [
-      "GP",
-      "TEXAS-OLIVE JIM-DANIELS",
-      "TEXAS-14"
-    ]
+    "period": ""
   },
   "28": {
-    "time": "",
-    "defense": "TEXAS",
-    "extras": [],
-    "offense": "TAMU",
-    "result": [
-      "EM",
+    "primary": [
       "TAMU-MALIK DOUGLAS"
-    ]
+    ],
+    "time": "",
+    "result": "EM",
+    "offense": "TAMU",
+    "defense": "TEXAS",
+    "secondary": [],
+    "extras": [],
+    "period": ""
   },
   "29": {
+    "primary": [
+      "TEXAS-NATHAN LEWIS"
+    ],
     "time": "",
-    "defense": "TAMU",
-    "extras": [],
+    "result": "EP",
     "offense": "TEXAS",
-    "result": [
-      "EP",
-      "TEXAS-14",
+    "defense": "TAMU",
+    "secondary": [
       "TEXAS-OLIVE JIM-DANIELS"
-    ]
+    ],
+    "extras": [],
+    "period": ""
   },
   "30": {
+    "primary": [
+      "TAMU-RANDI DORAN"
+    ],
     "time": "",
-    "defense": "TEXAS",
-    "extras": [],
+    "result": "GP",
     "offense": "TAMU",
-    "result": [
-      "GP",
-      "TAMU-RANDI DORAN",
+    "defense": "TEXAS",
+    "secondary": [
       "TAMU-CAMERON VILLAMIL"
-    ]
+    ],
+    "extras": [],
+    "period": ""
   },
   "31": {
+    "primary": [
+      "TAMU-NICK ROY"
+    ],
     "time": "",
-    "defense": "TAMU",
-    "extras": [],
+    "result": "TB",
     "offense": "TEXAS",
-    "result": [
-      "TB",
-      "TAMU-NICK ROY",
+    "defense": "TAMU",
+    "secondary": [
       "TEXAS-KASYE BEVERS"
-    ]
+    ],
+    "extras": [],
+    "period": ""
   },
   "32": {
+    "primary": [
+      "TEXAS-NATHAN LEWIS"
+    ],
     "time": "",
-    "defense": "TEXAS",
-    "extras": [],
+    "result": "TC",
     "offense": "TAMU",
-    "result": [
-      "TC",
-      "TEXAS-14",
+    "defense": "TEXAS",
+    "secondary": [
       "TAMU-MALIK DOUGLAS"
-    ]
+    ],
+    "extras": [],
+    "period": ""
   },
   "33": {
+    "primary": [
+      "TAMU-NATHON SANCHEZ"
+    ],
     "time": "",
+    "result": "TL",
+    "offense": "TEXAS",
     "defense": "TAMU",
+    "secondary": [
+      "TEXAS-KASYE BEVERS"
+    ],
     "extras": [
       [
         "SOP",
         1
       ]
     ],
-    "offense": "TEXAS",
-    "result": [
-      "TL",
-      "TAMU-NATHON SANCHEZ",
-      "TEXAS-KASYE BEVERS"
-    ]
+    "period": ""
   },
   "34": {
-    "time": "",
-    "defense": "TEXAS",
-    "extras": [],
-    "offense": "TAMU",
-    "result": [
-      "G",
+    "primary": [
       "TAMU-UNK"
-    ]
+    ],
+    "time": "",
+    "result": "G",
+    "offense": "TAMU",
+    "defense": "TEXAS",
+    "secondary": [],
+    "extras": [],
+    "period": ""
   },
   "35": {
-    "time": "",
-    "defense": "TAMU",
-    "extras": [],
-    "offense": "TEXAS",
-    "result": [
-      "G",
+    "primary": [
       "TEXAS-UNK"
-    ]
+    ],
+    "time": "",
+    "result": "G",
+    "offense": "TEXAS",
+    "defense": "TAMU",
+    "secondary": [],
+    "extras": [],
+    "period": ""
   },
   "36": {
-    "time": "",
-    "defense": "TEXAS",
-    "extras": [],
-    "offense": "TAMU",
-    "result": [
-      "RCA",
+    "primary": [
       "TEXAS-JOHN ANDERSON"
-    ]
+    ],
+    "time": "",
+    "result": "RCA",
+    "offense": "TAMU",
+    "defense": "TEXAS",
+    "secondary": [],
+    "extras": [],
+    "period": ""
   }
 }
