@@ -27,8 +27,9 @@ def main(argv):
             v['tournament']= tournament
             v['game']=str(path)
             js.append(v)
+    sorted_plays = sorted(js,key=lambda x: (x['game'],x['possession_number']))
     with open(outputfile,'w+') as o:
-        json.dump(js,o,indent=2)
+        json.dump(sorted_plays,o,indent=2)
 
 
 

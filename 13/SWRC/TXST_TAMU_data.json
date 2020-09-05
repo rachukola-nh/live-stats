@@ -1,622 +1,622 @@
 {
   "0": {
+    "extras": [],
+    "period": "FLOOR",
+    "offense": "Brooms Up",
     "primary": [
       "TAMU-CONNOR MCINTYRE"
     ],
-    "extras": [],
-    "offense": "Brooms Up",
-    "time": "0000",
+    "result": "BU",
     "secondary": [
       "TXST-BRADLEY HIMES"
     ],
-    "result": "BU",
-    "period": "FLOOR"
+    "time": "0000"
   },
   "1": {
+    "extras": [],
+    "period": "",
+    "offense": "TAMU",
     "primary": [
       "TXST-BRADLEY HIMES"
     ],
-    "time": "",
     "result": "TB",
-    "offense": "TAMU",
-    "defense": "TXST",
     "secondary": [
       "TAMU-TYLER PEARSON"
     ],
-    "extras": [],
-    "period": ""
+    "time": "",
+    "defense": "TXST"
   },
   "2": {
+    "extras": [],
+    "period": "",
+    "offense": "TXST",
     "primary": [
       "TAMU-MEHGAN ORSACK"
     ],
-    "time": "",
     "result": "TB",
-    "offense": "TXST",
-    "defense": "TAMU",
     "secondary": [
       "TXST-TIM NGUYEN"
     ],
-    "extras": [],
-    "period": ""
+    "time": "",
+    "defense": "TAMU"
   },
   "3": {
+    "extras": [],
+    "period": "",
+    "offense": "TAMU",
     "primary": [
       "TAMU-HAYDAN ALTMAN"
     ],
-    "time": "",
     "result": "GS",
-    "offense": "TAMU",
-    "defense": "TXST",
     "secondary": [],
-    "extras": [],
-    "period": ""
+    "time": "",
+    "defense": "TXST"
   },
   "4": {
+    "extras": [],
+    "period": "",
+    "offense": "TXST",
     "primary": [
       "TXST-IAN GAONA"
     ],
-    "time": "",
     "result": "GP",
-    "offense": "TXST",
-    "defense": "TAMU",
     "secondary": [
       "TXST-TIM NGUYEN"
     ],
-    "extras": [],
-    "period": ""
+    "time": "",
+    "defense": "TAMU"
   },
   "5": {
+    "extras": [],
+    "period": "",
+    "offense": "TAMU",
     "primary": [
       "TAMU-CONNOR MCINTYRE"
     ],
-    "time": "",
     "result": "GD",
-    "offense": "TAMU",
-    "defense": "TXST",
     "secondary": [
       "TAMU-HAYDAN ALTMAN"
     ],
-    "extras": [],
-    "period": ""
+    "time": "",
+    "defense": "TXST"
   },
   "6": {
+    "extras": [],
+    "period": "",
+    "offense": "TXST",
     "primary": [
       "TAMU-CONNOR MCINTYRE"
     ],
-    "time": "",
     "result": "TD",
-    "offense": "TXST",
-    "defense": "TAMU",
     "secondary": [
       "TXST-BRANDON MACDOWRA",
       "TXST-IAN GAONA"
     ],
-    "extras": [],
-    "period": ""
+    "time": "",
+    "defense": "TAMU"
   },
   "7": {
+    "extras": [],
+    "period": "",
+    "offense": "TAMU",
     "primary": [
       "TXST-TIM NGUYEN"
     ],
-    "time": "",
     "result": "TC",
-    "offense": "TAMU",
-    "defense": "TXST",
     "secondary": [
       "TAMU-CONNOR MCINTYRE"
     ],
-    "extras": [],
-    "period": ""
+    "time": "",
+    "defense": "TXST"
   },
   "8": {
+    "extras": [],
+    "period": "",
+    "offense": "TXST",
     "primary": [
       "TAMU-LANDIS WALTHER"
     ],
-    "time": "",
     "result": "TL",
-    "offense": "TXST",
-    "defense": "TAMU",
     "secondary": [
       "TXST-TIM NGUYEN"
     ],
-    "extras": [],
-    "period": ""
+    "time": "",
+    "defense": "TAMU"
   },
   "9": {
+    "extras": [],
+    "period": "",
+    "offense": "TAMU",
     "primary": [
       "TXST-BRANDON MACDOWRA"
     ],
-    "time": "",
     "result": "TC",
-    "offense": "TAMU",
-    "defense": "TXST",
     "secondary": [
       "TAMU-TYLER PEARSON"
     ],
-    "extras": [],
-    "period": ""
+    "time": "",
+    "defense": "TXST"
   },
   "10": {
+    "extras": [],
+    "period": "",
+    "offense": "TXST",
     "primary": [
       "TXST-IAN GAONA"
     ],
-    "time": "",
     "result": "GD",
-    "offense": "TXST",
-    "defense": "TAMU",
     "secondary": [],
-    "extras": [],
-    "period": ""
+    "time": "",
+    "defense": "TAMU"
   },
   "11": {
+    "extras": [],
+    "period": "",
+    "offense": "TAMU",
     "primary": [
       "TXST-NICK ED"
     ],
-    "time": "",
     "result": "TL",
-    "offense": "TAMU",
-    "defense": "TXST",
     "secondary": [
       "TAMU-LANDIS WALTHER"
     ],
-    "extras": [],
-    "period": ""
+    "time": "",
+    "defense": "TXST"
   },
   "12": {
+    "extras": [],
+    "period": "",
+    "offense": "TXST",
     "primary": [
       "TXST-MELISSA KITE"
     ],
-    "time": "",
     "result": "ED",
-    "offense": "TXST",
-    "defense": "TAMU",
     "secondary": [
       "TXST-NICK ED"
     ],
-    "extras": [],
-    "period": ""
+    "time": "",
+    "defense": "TAMU"
   },
   "13": {
-    "primary": [
-      "TAMU-HAYDAN ALTMAN"
-    ],
-    "time": "",
-    "result": "GD",
-    "offense": "TAMU",
-    "defense": "TXST",
-    "secondary": [],
     "extras": [
       [
         "R",
         "TXST-JOHN MOLINA"
       ]
     ],
-    "period": ""
+    "period": "",
+    "offense": "TAMU",
+    "primary": [
+      "TAMU-HAYDAN ALTMAN"
+    ],
+    "result": "GD",
+    "secondary": [],
+    "time": "",
+    "defense": "TXST"
   },
   "14": {
+    "extras": [],
+    "period": "",
+    "offense": "TXST",
     "primary": [
       "TXST-CLAYTON CARLISLE"
     ],
-    "time": "",
     "result": "ED",
-    "offense": "TXST",
-    "defense": "TAMU",
     "secondary": [
       "TXST-NICK ED"
     ],
-    "extras": [],
-    "period": ""
+    "time": "",
+    "defense": "TAMU"
   },
   "15": {
+    "extras": [],
+    "period": "",
+    "offense": "TAMU",
     "primary": [
       "TXST-NICK ED"
     ],
-    "time": "",
     "result": "TL",
-    "offense": "TAMU",
-    "defense": "TXST",
     "secondary": [
       "TAMU-RANDI DORAN"
     ],
-    "extras": [],
-    "period": ""
+    "time": "",
+    "defense": "TXST"
   },
   "16": {
+    "extras": [],
+    "period": "",
+    "offense": "TXST",
     "primary": [
       "TAMU-SHANIAH CARROLL"
     ],
-    "time": "",
     "result": "TB",
-    "offense": "TXST",
-    "defense": "TAMU",
     "secondary": [
       "TXST-CLAYTON CARLISLE"
     ],
-    "extras": [],
-    "period": ""
+    "time": "",
+    "defense": "TAMU"
   },
   "17": {
+    "extras": [],
+    "period": "",
+    "offense": "TAMU",
     "primary": [
       "TAMU-JOHN GHERING"
     ],
-    "time": "",
     "result": "ER",
-    "offense": "TAMU",
-    "defense": "TXST",
     "secondary": [],
-    "extras": [],
-    "period": ""
+    "time": "",
+    "defense": "TXST"
   },
   "18": {
-    "primary": [
-      "TXST-NICK ED"
-    ],
-    "time": "",
-    "result": "GS",
-    "offense": "TXST",
-    "defense": "TAMU",
-    "secondary": [],
     "extras": [
       [
         "Y",
         "TAMU-TYLER PEARSON"
       ]
     ],
-    "period": ""
-  },
-  "19": {
-    "primary": [
-      "TAMU-CONNOR MCINTYRE"
-    ],
-    "time": "",
-    "result": "EP",
-    "offense": "TAMU",
-    "defense": "TXST",
-    "secondary": [
-      "TAMU-87"
-    ],
-    "extras": [],
-    "period": ""
-  },
-  "20": {
-    "primary": [
-      "TXST-CLAYTON CARLISLE"
-    ],
-    "time": "",
-    "result": "GP",
+    "period": "",
     "offense": "TXST",
-    "defense": "TAMU",
-    "secondary": [
-      "TXST-CALEB RATLIFF"
-    ],
-    "extras": [],
-    "period": ""
-  },
-  "21": {
-    "primary": [
-      "TXST-JOHN MOLINA"
-    ],
-    "time": "",
-    "result": "TB",
-    "offense": "TAMU",
-    "defense": "TXST",
-    "secondary": [
-      "TAMU-13"
-    ],
-    "extras": [],
-    "period": ""
-  },
-  "22": {
-    "primary": [
-      "TAMU-CAMERON VILLAMIL"
-    ],
-    "time": "",
-    "result": "TL",
-    "offense": "TXST",
-    "defense": "TAMU",
-    "secondary": [
-      "TXST-IAN GAONA"
-    ],
-    "extras": [],
-    "period": ""
-  },
-  "23": {
-    "primary": [
-      "TXST-MIKE MORROW"
-    ],
-    "time": "",
-    "result": "TC",
-    "offense": "TAMU",
-    "defense": "TXST",
-    "secondary": [
-      "TAMU-CAMERON VILLAMIL"
-    ],
-    "extras": [],
-    "period": ""
-  },
-  "24": {
     "primary": [
       "TXST-NICK ED"
     ],
-    "time": "",
     "result": "GS",
-    "offense": "TXST",
-    "defense": "TAMU",
     "secondary": [],
-    "extras": [],
-    "period": ""
+    "time": "",
+    "defense": "TAMU"
   },
-  "25": {
+  "19": {
+    "extras": [],
+    "period": "",
+    "offense": "TAMU",
     "primary": [
-      "TAMU-HAYDAN ALTMAN"
+      "TAMU-CONNOR MCINTYRE"
+    ],
+    "result": "EP",
+    "secondary": [
+      "TAMU-87"
     ],
     "time": "",
-    "result": "GD",
+    "defense": "TXST"
+  },
+  "20": {
+    "extras": [],
+    "period": "",
+    "offense": "TXST",
+    "primary": [
+      "TXST-CLAYTON CARLISLE"
+    ],
+    "result": "GP",
+    "secondary": [
+      "TXST-CALEB RATLIFF"
+    ],
+    "time": "",
+    "defense": "TAMU"
+  },
+  "21": {
+    "extras": [],
+    "period": "",
     "offense": "TAMU",
-    "defense": "TXST",
+    "primary": [
+      "TXST-JOHN MOLINA"
+    ],
+    "result": "TB",
+    "secondary": [
+      "TAMU-13"
+    ],
+    "time": "",
+    "defense": "TXST"
+  },
+  "22": {
+    "extras": [],
+    "period": "",
+    "offense": "TXST",
+    "primary": [
+      "TAMU-CAMERON VILLAMIL"
+    ],
+    "result": "TL",
+    "secondary": [
+      "TXST-IAN GAONA"
+    ],
+    "time": "",
+    "defense": "TAMU"
+  },
+  "23": {
+    "extras": [],
+    "period": "",
+    "offense": "TAMU",
+    "primary": [
+      "TXST-MIKE MORROW"
+    ],
+    "result": "TC",
+    "secondary": [
+      "TAMU-CAMERON VILLAMIL"
+    ],
+    "time": "",
+    "defense": "TXST"
+  },
+  "24": {
+    "extras": [],
+    "period": "",
+    "offense": "TXST",
+    "primary": [
+      "TXST-NICK ED"
+    ],
+    "result": "GS",
     "secondary": [],
+    "time": "",
+    "defense": "TAMU"
+  },
+  "25": {
     "extras": [
       [
         "R",
         "TXST-MAYA HINEBAUGH"
       ]
     ],
-    "period": ""
+    "period": "",
+    "offense": "TAMU",
+    "primary": [
+      "TAMU-HAYDAN ALTMAN"
+    ],
+    "result": "GD",
+    "secondary": [],
+    "time": "",
+    "defense": "TXST"
   },
   "26": {
+    "extras": [],
+    "period": "",
+    "offense": "TXST",
     "primary": [
       "TXST-IAN GAONA"
     ],
-    "time": "",
     "result": "EP",
-    "offense": "TXST",
-    "defense": "TAMU",
     "secondary": [
       "TXST-JANETTE GARCIA"
     ],
-    "extras": [],
-    "period": ""
+    "time": "",
+    "defense": "TAMU"
   },
   "27": {
-    "primary": [
-      "TXST-TIM NGUYEN"
-    ],
-    "time": "",
-    "result": "TC",
-    "offense": "TAMU",
-    "defense": "TXST",
-    "secondary": [
-      "TAMU-HAYDAN ALTMAN"
-    ],
     "extras": [
       [
         "R",
         "TXST-CAMERON OGILVIE"
       ]
     ],
-    "period": ""
-  },
-  "28": {
+    "period": "",
+    "offense": "TAMU",
     "primary": [
       "TXST-TIM NGUYEN"
     ],
-    "time": "",
-    "result": "GP",
-    "offense": "TXST",
-    "defense": "TAMU",
+    "result": "TC",
     "secondary": [
-      "TXST-NICK ED"
-    ],
-    "extras": [],
-    "period": ""
-  },
-  "29": {
-    "primary": [
-      "TAMU-TYLER PEARSON"
-    ],
-    "time": "",
-    "result": "EP",
-    "offense": "TAMU",
-    "defense": "TXST",
-    "secondary": [],
-    "extras": [],
-    "period": ""
-  },
-  "30": {
-    "primary": [
-      "TXST-NICK ED"
-    ],
-    "time": "",
-    "result": "ED",
-    "offense": "TXST",
-    "defense": "TAMU",
-    "secondary": [
-      "TXST-CALEB RATLIFF"
-    ],
-    "extras": [],
-    "period": ""
-  },
-  "31": {
-    "primary": [
-      "TAMU-CONNOR MCINTYRE"
-    ],
-    "time": "",
-    "result": "GS",
-    "offense": "TAMU",
-    "defense": "TXST",
-    "secondary": [],
-    "extras": [],
-    "period": ""
-  },
-  "32": {
-    "primary": [
       "TAMU-HAYDAN ALTMAN"
     ],
     "time": "",
-    "result": "TD",
+    "defense": "TXST"
+  },
+  "28": {
+    "extras": [],
+    "period": "",
     "offense": "TXST",
-    "defense": "TAMU",
+    "primary": [
+      "TXST-TIM NGUYEN"
+    ],
+    "result": "GP",
+    "secondary": [
+      "TXST-NICK ED"
+    ],
+    "time": "",
+    "defense": "TAMU"
+  },
+  "29": {
+    "extras": [],
+    "period": "",
+    "offense": "TAMU",
+    "primary": [
+      "TAMU-TYLER PEARSON"
+    ],
+    "result": "EP",
+    "secondary": [],
+    "time": "",
+    "defense": "TXST"
+  },
+  "30": {
+    "extras": [],
+    "period": "",
+    "offense": "TXST",
+    "primary": [
+      "TXST-NICK ED"
+    ],
+    "result": "ED",
+    "secondary": [
+      "TXST-CALEB RATLIFF"
+    ],
+    "time": "",
+    "defense": "TAMU"
+  },
+  "31": {
+    "extras": [],
+    "period": "",
+    "offense": "TAMU",
+    "primary": [
+      "TAMU-CONNOR MCINTYRE"
+    ],
+    "result": "GS",
+    "secondary": [],
+    "time": "",
+    "defense": "TXST"
+  },
+  "32": {
+    "extras": [],
+    "period": "",
+    "offense": "TXST",
+    "primary": [
+      "TAMU-HAYDAN ALTMAN"
+    ],
+    "result": "TD",
     "secondary": [
       "TXST-TIM NGUYEN",
       "TXST-SARAH BROOKS"
     ],
-    "extras": [],
-    "period": ""
+    "time": "",
+    "defense": "TAMU"
   },
   "33": {
+    "extras": [],
+    "period": "",
+    "offense": "TAMU",
     "primary": [
       "TAMU-TYLER PEARSON"
     ],
-    "time": "",
     "result": "ED",
-    "offense": "TAMU",
-    "defense": "TXST",
     "secondary": [],
-    "extras": [],
-    "period": ""
+    "time": "",
+    "defense": "TXST"
   },
   "34": {
+    "extras": [],
+    "period": "",
+    "offense": "TXST",
     "primary": [
       "TXST-SARAH BROOKS"
     ],
-    "time": "",
     "result": "ED",
-    "offense": "TXST",
-    "defense": "TAMU",
     "secondary": [],
-    "extras": [],
-    "period": ""
+    "time": "",
+    "defense": "TAMU"
   },
   "35": {
+    "extras": [],
+    "period": "",
+    "offense": "TAMU",
     "primary": [
       "TAMU-87"
     ],
-    "time": "",
     "result": "EM",
-    "offense": "TAMU",
-    "defense": "TXST",
     "secondary": [],
-    "extras": [],
-    "period": ""
+    "time": "",
+    "defense": "TXST"
   },
   "36": {
-    "primary": [
-      "TXST-BRANDON MACDOWRA"
-    ],
-    "time": "",
-    "result": "EM",
-    "offense": "TXST",
-    "defense": "TAMU",
-    "secondary": [],
     "extras": [
       [
         "SOP",
         1
       ]
     ],
-    "period": ""
+    "period": "",
+    "offense": "TXST",
+    "primary": [
+      "TXST-BRANDON MACDOWRA"
+    ],
+    "result": "EM",
+    "secondary": [],
+    "time": "",
+    "defense": "TAMU"
   },
   "37": {
+    "extras": [],
+    "period": "",
+    "offense": "TAMU",
     "primary": [
       "TXST-CAMERON OGILVIE"
     ],
-    "time": "",
     "result": "TB",
-    "offense": "TAMU",
-    "defense": "TXST",
     "secondary": [
       "TAMU-CAMERON VILLAMIL"
     ],
-    "extras": [],
-    "period": ""
+    "time": "",
+    "defense": "TXST"
   },
   "38": {
+    "extras": [],
+    "period": "",
+    "offense": "TXST",
     "primary": [
       "TXST-TIM NGUYEN"
     ],
-    "time": "",
     "result": "GD",
-    "offense": "TXST",
-    "defense": "TAMU",
     "secondary": [],
-    "extras": [],
-    "period": ""
+    "time": "",
+    "defense": "TAMU"
   },
   "39": {
+    "extras": [],
+    "period": "",
+    "offense": "TAMU",
     "primary": [
       "TXST-BRANDON MACDOWRA"
     ],
-    "time": "",
     "result": "TL",
-    "offense": "TAMU",
-    "defense": "TXST",
     "secondary": [
       "TAMU-HAYDAN ALTMAN"
     ],
-    "extras": [],
-    "period": ""
+    "time": "",
+    "defense": "TXST"
   },
   "40": {
+    "extras": [],
+    "period": "",
+    "offense": "TXST",
     "primary": [
       "TXST-BRANDON MACDOWRA"
     ],
-    "time": "",
     "result": "GD",
-    "offense": "TXST",
-    "defense": "TAMU",
     "secondary": [],
-    "extras": [],
-    "period": ""
+    "time": "",
+    "defense": "TAMU"
   },
   "41": {
+    "extras": [],
+    "period": "",
+    "offense": "TAMU",
     "primary": [
       "TAMU-RANDI DORAN"
     ],
-    "time": "",
     "result": "GP",
-    "offense": "TAMU",
-    "defense": "TXST",
     "secondary": [
       "TAMU-LANDIS WALTHER"
     ],
-    "extras": [],
-    "period": ""
+    "time": "",
+    "defense": "TXST"
   },
   "42": {
+    "extras": [],
+    "period": "",
+    "offense": "TXST",
     "primary": [
       "TXST-UNK"
     ],
-    "time": "",
     "result": "G",
-    "offense": "TXST",
-    "defense": "TAMU",
     "secondary": [],
-    "extras": [],
-    "period": ""
+    "time": "",
+    "defense": "TAMU"
   },
   "43": {
+    "extras": [],
+    "period": "",
+    "offense": "TAMU",
     "primary": [
       "TAMU-LANDIS WALTHER"
     ],
-    "time": "",
     "result": "GD",
-    "offense": "TAMU",
-    "defense": "TXST",
     "secondary": [],
-    "extras": [],
-    "period": ""
+    "time": "",
+    "defense": "TXST"
   },
   "44": {
+    "extras": [],
+    "period": "",
+    "offense": "TXST",
     "primary": [
       "TXST-JOHN ALVAREZ"
     ],
-    "time": "",
     "result": "RCA",
-    "offense": "TXST",
-    "defense": "TAMU",
     "secondary": [],
-    "extras": [],
-    "period": ""
+    "time": "",
+    "defense": "TAMU"
   }
 }

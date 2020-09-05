@@ -79,8 +79,11 @@ def get_brooms_up(header,roster,teams):
     qb = re.search(r'[Qq](\d+)',valb)
     ba = re.search(r'[Bb](\d+)',vala)
     bb = re.search(r'[Bb](\d+)',valb)
-    q_params = (int(qa.groups()[0]),'A')if qa else (int(qb.groups()[0]),'B')
-    b_params = (int(ba.groups()[0]),'A')if ba else (int(bb.groups()[0]),'B')
+    q_params, b_params = [None,None], [None,None]
+    if qa or qb:
+        q_params = (int(qa.groups()[0]),'A')if qa else (int(qb.groups()[0]),'B')
+    if ba or bb:
+        b_params = (int(ba.groups()[0]),'A')if ba else (int(bb.groups()[0]),'B')
     extras,offense,time = [],'Brooms Up','0000'
     result,primary,secondary ='BU',get_name(roster,teams,*q_params),get_name(roster,teams,*b_params)
     return {'extras':extras,'offense':offense,'time':time,'result':result,'primary':[primary],'secondary':[secondary],'period':'FLOOR'}
@@ -247,7 +250,7 @@ def ind_stats(interpreted_list):
                     else:
                         stats['Assists'][s]=1
             elif res[0]=='E':
-                if res[1] in stats['Errors']:
+                if p in stats['Errors']:
                     stats['Errors'][p]+=1
                 else:
                     stats['Errors'][p]=1
@@ -314,9 +317,9 @@ def process_file(ifile):
     with open(pbp_output_file,'w+') as f:
         f.writelines(play_by_play)
     print('.',end='')
-    #stats = ind_stats(interpreted)
-    #print('.',end='')
-    #stats.to_csv(stats_output_file)
+    stats = ind_stats(interpreted)
+    print('.',end='')
+    stats.to_csv(stats_output_file)
     print('Complete')
 
 
