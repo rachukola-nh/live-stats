@@ -1,0 +1,38 @@
+(00:00)Brooms Up possession: BROOMS UP! Quaffle Possession by ['ROCHESTER-MADDISON JORDAN'], Bludger Control by ['ROCHESTER-TIM KWAN']
+ROCHESTER possession: Beat by ['TEXAS-EDDIE MOLINA'] on ['ROCHESTER-JUSTIN KING'] forces a TURNOVER.
+TEXAS possession: Pass between ['TEXAS-AIDAN PARSI', 'TEXAS-JOHN ANDERSON'] defended by ['ROCHESTER-JUSTIN KING']. Turnover
+ROCHESTER possession: Goal on the shot by ['ROCHESTER-BASEM ASHKAR'].
+TEXAS possession: Missed shot by ['TEXAS-AIDAN PARSI']. Turnover.
+ROCHESTER possession: Goal on the drive by ['ROCHESTER-BASEM ASHKAR'].
+TEXAS possession: Goal on the drive by ['TEXAS-AIDAN PARSI']. During the play, reset forced by ROCHESTER-PERRY WANG
+ROCHESTER possession: Goal on the shot by ['ROCHESTER-BASEM ASHKAR'].
+TEXAS possession: Missed shot by ['TEXAS-JOHN ANDERSON']. Turnover.
+ROCHESTER possession: Missed shot by ['ROCHESTER-BASEM ASHKAR']. Turnover.
+TEXAS possession: ['TEXAS-JOHN ANDERSON'] passes to ['TEXAS-ERIN MCBRIDE'] at the hoops, GOAL.
+ROCHESTER possession: Beat by ['TEXAS-EDDIE MOLINA'] on ['ROCHESTER-MIKE PASCUTOI'] forces a TURNOVER.
+TEXAS possession: Pass between ['TEXAS-MICHAEL JOHNSTON', 'TEXAS-ERIN MCBRIDE'] defended by ['ROCHESTER-BASEM ASHKAR']. Turnover
+ROCHESTER possession: Turnover forced by physical contact by ['TEXAS-MICHAEL JOHNSTON'] on ['ROCHESTER-BASEM ASHKAR']
+TEXAS possession: Beat by ['ROCHESTER-STEVEN BELITZKY'] on ['TEXAS-JOHN ANDERSON'] forces a TURNOVER.
+ROCHESTER possession: Beat by ['TEXAS-HALLIE PACE'] on ['ROCHESTER-EMMA FOLEY'] forces a TURNOVER. During the play, reset forced by TEXAS-EDDIE MOLINA
+TEXAS possession: ['TEXAS-JOHN ANDERSON'] passes to ['TEXAS-AIDAN PARSI'] at the hoops, GOAL.
+ROCHESTER possession: Goal on the shot by ['ROCHESTER-BASEM ASHKAR'].
+TEXAS possession: Pass by ['TEXAS-AUSTIN DICKSON'] dropped by ['TEXAS-AIDAN PARSI']. Turnover
+ROCHESTER possession: Turnover forced by physical contact by ['TEXAS-AUSTIN DICKSON'] on ['ROCHESTER-MADDISON JORDAN']
+TEXAS possession: Missed shot by ['TEXAS-AUSTIN DICKSON']. Turnover.
+ROCHESTER possession: ['ROCHESTER-BASEM ASHKAR'] passes to ['ROCHESTER-MADDISON JORDAN'] at the hoops, GOAL.
+TEXAS possession: ['TEXAS-AIDAN PARSI'] passes to ['TEXAS-CULLEN FRIDAY'] at the hoops, GOAL.
+ROCHESTER possession: Pass between ['ROCHESTER-BASEM ASHKAR', 'ROCHESTER-MADDISON JORDAN'] defended by ['TEXAS-CULLEN FRIDAY']. Turnover During the play, reset forced by TEXAS-TATE KAY
+TEXAS possession: Goal on the shot by ['TEXAS-DYLAN BOTTOMS'].
+ROCHESTER possession: Missed shot by ['ROCHESTER-BASEM ASHKAR']. Turnover.
+TEXAS possession: Goal on the drive by ['TEXAS-CULLEN FRIDAY'].
+ROCHESTER possession: ['ROCHESTER-BASEM ASHKAR'] passes to ['ROCHESTER-JUSTIN KING'] at the hoops, GOAL.
+TEXAS possession: Missed shot by ['TEXAS-CULLEN FRIDAY']. Turnover.
+ROCHESTER possession: Pass between ['ROCHESTER-OWYN GUINNIP', 'ROCHESTER-JUSTIN KING'] defended by ['TEXAS-SOPHIA DESALVO']. Turnover
+TEXAS possession: Beat by ['ROCHESTER-TIM KWAN'] on ['TEXAS-SOPHIA DESALVO'] forces a TURNOVER.
+ROCHESTER possession: Missed shot by ['ROCHESTER-BASEM ASHKAR']. Turnover.
+TEXAS possession: Goal on the drive by ['TEXAS-JOHN ANDERSON']. During the play, SNITCH ON PITCH begins
+ROCHESTER possession: Goal by ['ROCHESTER-UNK'].
+TEXAS possession: Goal on the shot by ['TEXAS-AIDAN PARSI'].
+ROCHESTER possession: Shot by ['ROCHESTER-SAMANTHA DINGA'] blocked by ['TEXAS-AIDAN PARSI']. Turnover.
+TEXAS possession: Goal on the drive by ['TEXAS-JOHN ANDERSON'].
+ROCHESTER possession: Snitch catch by ['ROCHESTER-MIKE PASCUTOI'] is GOOD.

@@ -1,0 +1,628 @@
+{
+  "0": {
+    "extras": [],
+    "period": "FLOOR",
+    "offense": "Brooms Up",
+    "primary": [
+      "KANSAS-IAN MCCABE"
+    ],
+    "result": "BU",
+    "secondary": [
+      "KANSAS-JAKE SIMON"
+    ],
+    "time": "0000"
+  },
+  "1": {
+    "extras": [],
+    "period": "",
+    "offense": "KANSAS",
+    "primary": [
+      "KANSAS-IAN MCCABE"
+    ],
+    "result": "GD",
+    "secondary": [],
+    "time": "",
+    "defense": "TXST"
+  },
+  "2": {
+    "extras": [],
+    "period": "",
+    "offense": "TXST",
+    "primary": [
+      "KANSAS-RACHEL HEALD"
+    ],
+    "result": "TL",
+    "secondary": [
+      "TXST-4"
+    ],
+    "time": "",
+    "defense": "KANSAS"
+  },
+  "3": {
+    "extras": [],
+    "period": "",
+    "offense": "KANSAS",
+    "primary": [
+      "KANSAS-IAN MCCABE"
+    ],
+    "result": "GS",
+    "secondary": [
+      "KANSAS-BEN ENGLES"
+    ],
+    "time": "",
+    "defense": "TXST"
+  },
+  "4": {
+    "extras": [],
+    "period": "",
+    "offense": "TXST",
+    "primary": [
+      "TXST-4"
+    ],
+    "result": "ET",
+    "secondary": [],
+    "time": "",
+    "defense": "KANSAS"
+  },
+  "5": {
+    "extras": [],
+    "period": "",
+    "offense": "KANSAS",
+    "primary": [
+      "TXST-RYAN NAWROCKI"
+    ],
+    "result": "TB",
+    "secondary": [
+      "KANSAS-BEN ENGLES"
+    ],
+    "time": "",
+    "defense": "TXST"
+  },
+  "6": {
+    "extras": [],
+    "period": "",
+    "offense": "TXST",
+    "primary": [
+      "TXST-MELISSA KITE"
+    ],
+    "result": "GP",
+    "secondary": [
+      "TXST-4"
+    ],
+    "time": "",
+    "defense": "KANSAS"
+  },
+  "7": {
+    "extras": [],
+    "period": "",
+    "offense": "KANSAS",
+    "primary": [
+      "KANSAS-RACHEL HEALD"
+    ],
+    "result": "EM",
+    "secondary": [],
+    "time": "",
+    "defense": "TXST"
+  },
+  "8": {
+    "extras": [],
+    "period": "",
+    "offense": "TXST",
+    "primary": [
+      "KANSAS-RACHEL HEALD"
+    ],
+    "result": "TL",
+    "secondary": [
+      "TXST-JENNA BOLLWEG"
+    ],
+    "time": "",
+    "defense": "KANSAS"
+  },
+  "9": {
+    "extras": [],
+    "period": "",
+    "offense": "KANSAS",
+    "primary": [
+      "KANSAS-BRANDON TABOR"
+    ],
+    "result": "GP",
+    "secondary": [
+      "KANSAS-RACHEL HEALD"
+    ],
+    "time": "",
+    "defense": "TXST"
+  },
+  "10": {
+    "extras": [],
+    "period": "",
+    "offense": "TXST",
+    "primary": [
+      "KANSAS-JAKE SIMON"
+    ],
+    "result": "TB",
+    "secondary": [
+      "TXST-BRANDON MACDOWRA"
+    ],
+    "time": "",
+    "defense": "KANSAS"
+  },
+  "11": {
+    "extras": [],
+    "period": "",
+    "offense": "KANSAS",
+    "primary": [
+      "KANSAS-BRANDON TABOR"
+    ],
+    "result": "EM",
+    "secondary": [],
+    "time": "",
+    "defense": "TXST"
+  },
+  "12": {
+    "extras": [
+      [
+        "Y",
+        "KANSAS-KEVIN MCMORRIS"
+      ]
+    ],
+    "period": "",
+    "offense": "TXST",
+    "primary": [
+      "KANSAS-RACHEL HEALD"
+    ],
+    "result": "TD",
+    "secondary": [
+      "TXST-STEPHEN VIGIL",
+      "TXST-JENNA BOLLWEG"
+    ],
+    "time": "",
+    "defense": "KANSAS"
+  },
+  "13": {
+    "extras": [],
+    "period": "",
+    "offense": "KANSAS",
+    "primary": [
+      "TXST-KRIS DELAFUENTE"
+    ],
+    "result": "TB",
+    "secondary": [
+      "KANSAS-RACHEL HEALD"
+    ],
+    "time": "",
+    "defense": "TXST"
+  },
+  "14": {
+    "extras": [],
+    "period": "",
+    "offense": "TXST",
+    "primary": [
+      "TXST-BRANDON MACDOWRA"
+    ],
+    "result": "GD",
+    "secondary": [],
+    "time": "",
+    "defense": "KANSAS"
+  },
+  "15": {
+    "extras": [],
+    "period": "",
+    "offense": "KANSAS",
+    "primary": [
+      "TXST-4"
+    ],
+    "result": "TD",
+    "secondary": [
+      "KANSAS-OLIVIA FEDERICO",
+      "KANSAS-KEVIN MCMORRIS"
+    ],
+    "time": "",
+    "defense": "TXST"
+  },
+  "16": {
+    "extras": [],
+    "period": "",
+    "offense": "TXST",
+    "primary": [
+      "TXST-BRANDON MACDOWRA"
+    ],
+    "result": "GP",
+    "secondary": [
+      "TXST-4"
+    ],
+    "time": "",
+    "defense": "KANSAS"
+  },
+  "17": {
+    "extras": [
+      [
+        "Y",
+        "TXST-DONOVAN MITCHELL"
+      ]
+    ],
+    "period": "",
+    "offense": "KANSAS",
+    "primary": [
+      "KANSAS-RYAN DICKEY"
+    ],
+    "result": "EM",
+    "secondary": [],
+    "time": "",
+    "defense": "TXST"
+  },
+  "18": {
+    "extras": [],
+    "period": "",
+    "offense": "TXST",
+    "primary": [
+      "TXST-KRIS DELAFUENTE"
+    ],
+    "result": "EY",
+    "secondary": [],
+    "time": "",
+    "defense": "KANSAS"
+  },
+  "19": {
+    "extras": [],
+    "period": "",
+    "offense": "KANSAS",
+    "primary": [
+      "KANSAS-BRYAN WEARY"
+    ],
+    "result": "GD",
+    "secondary": [],
+    "time": "",
+    "defense": "TXST"
+  },
+  "20": {
+    "extras": [],
+    "period": "",
+    "offense": "TXST",
+    "primary": [
+      "KANSAS-BRYAN WEARY"
+    ],
+    "result": "TD",
+    "secondary": [
+      "TXST-BRANDON MACDOWRA",
+      "TXST-DONOVAN MITCHELL"
+    ],
+    "time": "",
+    "defense": "KANSAS"
+  },
+  "21": {
+    "extras": [],
+    "period": "",
+    "offense": "KANSAS",
+    "primary": [
+      "KANSAS-BRYAN WEARY"
+    ],
+    "result": "GD",
+    "secondary": [],
+    "time": "",
+    "defense": "TXST"
+  },
+  "22": {
+    "extras": [],
+    "period": "",
+    "offense": "TXST",
+    "primary": [
+      "TXST-6"
+    ],
+    "result": "EM",
+    "secondary": [],
+    "time": "",
+    "defense": "KANSAS"
+  },
+  "23": {
+    "extras": [],
+    "period": "",
+    "offense": "KANSAS",
+    "primary": [
+      "TXST-DONOVAN MITCHELL"
+    ],
+    "result": "TC",
+    "secondary": [
+      "KANSAS-MIKE DEVINE"
+    ],
+    "time": "",
+    "defense": "TXST"
+  },
+  "24": {
+    "extras": [],
+    "period": "",
+    "offense": "TXST",
+    "primary": [
+      "KANSAS-MATT DWYER"
+    ],
+    "result": "TD",
+    "secondary": [
+      "TXST-STEPHEN VIGIL",
+      "TXST-6"
+    ],
+    "time": "",
+    "defense": "KANSAS"
+  },
+  "25": {
+    "extras": [],
+    "period": "",
+    "offense": "KANSAS",
+    "primary": [
+      "KANSAS-MATT DWYER"
+    ],
+    "result": "GS",
+    "secondary": [],
+    "time": "",
+    "defense": "TXST"
+  },
+  "26": {
+    "extras": [],
+    "period": "",
+    "offense": "TXST",
+    "primary": [
+      "TXST-TIM NGUYEN"
+    ],
+    "result": "GD",
+    "secondary": [
+      "TXST-6"
+    ],
+    "time": "",
+    "defense": "KANSAS"
+  },
+  "27": {
+    "extras": [],
+    "period": "",
+    "offense": "KANSAS",
+    "primary": [
+      "TXST-BAILEE FIELDS"
+    ],
+    "result": "TB",
+    "secondary": [
+      "KANSAS-MATT DWYER"
+    ],
+    "time": "",
+    "defense": "TXST"
+  },
+  "28": {
+    "extras": [],
+    "period": "",
+    "offense": "TXST",
+    "primary": [
+      "TXST-6"
+    ],
+    "result": "GD",
+    "secondary": [
+      "TXST-DONOVAN MITCHELL"
+    ],
+    "time": "",
+    "defense": "KANSAS"
+  },
+  "29": {
+    "extras": [],
+    "period": "",
+    "offense": "KANSAS",
+    "primary": [
+      "KANSAS-BRANDON TABOR"
+    ],
+    "result": "GP",
+    "secondary": [
+      "KANSAS-MATT DWYER"
+    ],
+    "time": "",
+    "defense": "TXST"
+  },
+  "30": {
+    "extras": [],
+    "period": "",
+    "offense": "TXST",
+    "primary": [
+      "KANSAS-RACHEL ENGLAND"
+    ],
+    "result": "TB",
+    "secondary": [
+      "TXST-6"
+    ],
+    "time": "",
+    "defense": "KANSAS"
+  },
+  "31": {
+    "extras": [],
+    "period": "",
+    "offense": "KANSAS",
+    "primary": [
+      "KANSAS-IAN MCCABE"
+    ],
+    "result": "GD",
+    "secondary": [],
+    "time": "",
+    "defense": "TXST"
+  },
+  "32": {
+    "extras": [
+      [
+        "Y",
+        "KANSAS-IAN MCCABE"
+      ]
+    ],
+    "period": "",
+    "offense": "TXST",
+    "primary": [
+      "TXST-6"
+    ],
+    "result": "GD",
+    "secondary": [],
+    "time": "",
+    "defense": "KANSAS"
+  },
+  "33": {
+    "extras": [],
+    "period": "",
+    "offense": "KANSAS",
+    "primary": [
+      "TXST-JESSICA MARKLE"
+    ],
+    "result": "TB",
+    "secondary": [
+      "KANSAS-BRANDON TABOR"
+    ],
+    "time": "",
+    "defense": "TXST"
+  },
+  "34": {
+    "extras": [],
+    "period": "",
+    "offense": "TXST",
+    "primary": [
+      "TXST-TIM NGUYEN"
+    ],
+    "result": "GD",
+    "secondary": [],
+    "time": "",
+    "defense": "KANSAS"
+  },
+  "35": {
+    "extras": [],
+    "period": "",
+    "offense": "KANSAS",
+    "primary": [
+      "TXST-KRIS DELAFUENTE"
+    ],
+    "result": "TB",
+    "secondary": [
+      "KANSAS-BRANDON TABOR"
+    ],
+    "time": "",
+    "defense": "TXST"
+  },
+  "36": {
+    "extras": [],
+    "period": "",
+    "offense": "TXST",
+    "primary": [
+      "TXST-TIM NGUYEN"
+    ],
+    "result": "GP",
+    "secondary": [
+      "TXST-DONOVAN MITCHELL"
+    ],
+    "time": "",
+    "defense": "KANSAS"
+  },
+  "37": {
+    "extras": [],
+    "period": "",
+    "offense": "KANSAS",
+    "primary": [
+      "TXST-6"
+    ],
+    "result": "TL",
+    "secondary": [
+      "KANSAS-RACHEL HEALD"
+    ],
+    "time": "",
+    "defense": "TXST"
+  },
+  "38": {
+    "extras": [],
+    "period": "",
+    "offense": "TXST",
+    "primary": [
+      "KANSAS-JAKE SIMON"
+    ],
+    "result": "TB",
+    "secondary": [
+      "TXST-ERIC REYES"
+    ],
+    "time": "",
+    "defense": "KANSAS"
+  },
+  "39": {
+    "extras": [],
+    "period": "",
+    "offense": "KANSAS",
+    "primary": [
+      "KANSAS-BRANDON TABOR"
+    ],
+    "result": "GP",
+    "secondary": [
+      "KANSAS-RACHEL HEALD"
+    ],
+    "time": "",
+    "defense": "TXST"
+  },
+  "40": {
+    "extras": [],
+    "period": "",
+    "offense": "TXST",
+    "primary": [
+      "TXST-DONOVAN MITCHELL"
+    ],
+    "result": "EP",
+    "secondary": [
+      "TXST-UNK"
+    ],
+    "time": "",
+    "defense": "KANSAS"
+  },
+  "41": {
+    "extras": [],
+    "period": "",
+    "offense": "KANSAS",
+    "primary": [
+      "TXST-KRIS DELAFUENTE"
+    ],
+    "result": "TB",
+    "secondary": [
+      "KANSAS-PARIS NICHOLS"
+    ],
+    "time": "",
+    "defense": "TXST"
+  },
+  "42": {
+    "extras": [],
+    "period": "",
+    "offense": "TXST",
+    "primary": [
+      "TXST-DONOVAN MITCHELL"
+    ],
+    "result": "GD",
+    "secondary": [],
+    "time": "",
+    "defense": "KANSAS"
+  },
+  "43": {
+    "extras": [],
+    "period": "",
+    "offense": "KANSAS",
+    "primary": [
+      "KANSAS-BEN ENGLES"
+    ],
+    "result": "GD",
+    "secondary": [],
+    "time": "",
+    "defense": "TXST"
+  },
+  "44": {
+    "extras": [],
+    "period": "",
+    "offense": "TXST",
+    "primary": [
+      "TXST-BRANDON MACDOWRA"
+    ],
+    "result": "GD",
+    "secondary": [],
+    "time": "",
+    "defense": "KANSAS"
+  },
+  "45": {
+    "extras": [],
+    "period": "",
+    "offense": "KANSAS",
+    "primary": [
+      "TXST-STEVEN GRALINSKI"
+    ],
+    "result": "RCA",
+    "secondary": [],
+    "time": "",
+    "defense": "TXST"
+  }
+}

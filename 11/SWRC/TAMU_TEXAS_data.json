@@ -1,0 +1,695 @@
+{
+  "0": {
+    "extras": [],
+    "period": "FLOOR",
+    "offense": "Brooms Up",
+    "primary": [
+      "TEXAS-NICK MARINO"
+    ],
+    "result": "BU",
+    "secondary": [
+      "TAMU-NICK ROY"
+    ],
+    "time": "0000"
+  },
+  "1": {
+    "extras": [],
+    "period": "",
+    "offense": "TAMU",
+    "primary": [
+      "TAMU-UNK"
+    ],
+    "result": "GD",
+    "secondary": [],
+    "time": "",
+    "defense": "TEXAS"
+  },
+  "2": {
+    "extras": [],
+    "period": "",
+    "offense": "TEXAS",
+    "primary": [
+      "TEXAS-ERIN MCBRIDE"
+    ],
+    "result": "ED",
+    "secondary": [
+      "TEXAS-NICK MARINO"
+    ],
+    "time": "",
+    "defense": "TAMU"
+  },
+  "3": {
+    "extras": [],
+    "period": "",
+    "offense": "TEXAS",
+    "primary": [
+      "TEXAS-ERIN MCBRIDE"
+    ],
+    "result": "GP",
+    "secondary": [
+      "TEXAS-DYLAN BOTTOMS"
+    ],
+    "time": "",
+    "defense": "TAMU"
+  },
+  "4": {
+    "extras": [],
+    "period": "",
+    "offense": "TAMU",
+    "primary": [
+      "TEXAS-DYLAN BOTTOMS"
+    ],
+    "result": "TD",
+    "secondary": [
+      "TAMU-UNK",
+      "TAMU-LOGAN ZAHN"
+    ],
+    "time": "",
+    "defense": "TEXAS"
+  },
+  "5": {
+    "extras": [],
+    "period": "",
+    "offense": "TEXAS",
+    "primary": [
+      "TAMU-ALEX STEWART"
+    ],
+    "result": "TB",
+    "secondary": [
+      "TEXAS-CULLEN FRIDAY"
+    ],
+    "time": "",
+    "defense": "TAMU"
+  },
+  "6": {
+    "extras": [],
+    "period": "",
+    "offense": "TAMU",
+    "primary": [
+      "TEXAS-CULLEN FRIDAY"
+    ],
+    "result": "TD",
+    "secondary": [
+      "TAMU-UNK",
+      "TAMU-LOGAN ZAHN"
+    ],
+    "time": "",
+    "defense": "TEXAS"
+  },
+  "7": {
+    "extras": [],
+    "period": "",
+    "offense": "TEXAS",
+    "primary": [
+      "TEXAS-ERIN MCBRIDE"
+    ],
+    "result": "GD",
+    "secondary": [
+      "TEXAS-NICK MARINO"
+    ],
+    "time": "",
+    "defense": "TAMU"
+  },
+  "8": {
+    "extras": [],
+    "period": "",
+    "offense": "TAMU",
+    "primary": [
+      "TAMU-UNK"
+    ],
+    "result": "EP",
+    "secondary": [
+      "TAMU-RACHEL NICOLETTI"
+    ],
+    "time": "",
+    "defense": "TEXAS"
+  },
+  "9": {
+    "extras": [],
+    "period": "",
+    "offense": "TEXAS",
+    "primary": [
+      "TEXAS-CULLEN FRIDAY"
+    ],
+    "result": "GD",
+    "secondary": [],
+    "time": "",
+    "defense": "TAMU"
+  },
+  "10": {
+    "extras": [],
+    "period": "",
+    "offense": "TAMU",
+    "primary": [
+      "TEXAS-HALLIE PACE"
+    ],
+    "result": "TB",
+    "secondary": [
+      "TAMU-RACHEL NICOLETTI"
+    ],
+    "time": "",
+    "defense": "TEXAS"
+  },
+  "11": {
+    "extras": [],
+    "period": "",
+    "offense": "TEXAS",
+    "primary": [
+      "TEXAS-NICK MARINO"
+    ],
+    "result": "EP",
+    "secondary": [
+      "TEXAS-DYLAN BOTTOMS"
+    ],
+    "time": "",
+    "defense": "TAMU"
+  },
+  "12": {
+    "extras": [],
+    "period": "",
+    "offense": "TAMU",
+    "primary": [
+      "TEXAS-HALLIE PACE"
+    ],
+    "result": "TB",
+    "secondary": [
+      "TAMU-RACHEL NICOLETTI"
+    ],
+    "time": "",
+    "defense": "TEXAS"
+  },
+  "13": {
+    "extras": [],
+    "period": "",
+    "offense": "TEXAS",
+    "primary": [
+      "TAMU-UNK"
+    ],
+    "result": "TC",
+    "secondary": [
+      "TEXAS-MICHAEL JOHNSTON"
+    ],
+    "time": "",
+    "defense": "TAMU"
+  },
+  "14": {
+    "extras": [],
+    "period": "",
+    "offense": "TAMU",
+    "primary": [
+      "TEXAS-EDDIE MOLINA"
+    ],
+    "result": "TB",
+    "secondary": [
+      "TAMU-LOUIS SANCHEZ"
+    ],
+    "time": "",
+    "defense": "TEXAS"
+  },
+  "15": {
+    "extras": [],
+    "period": "",
+    "offense": "TEXAS",
+    "primary": [
+      "TEXAS-DAVID HUBER"
+    ],
+    "result": "EM",
+    "secondary": [],
+    "time": "",
+    "defense": "TAMU"
+  },
+  "16": {
+    "extras": [],
+    "period": "",
+    "offense": "TAMU",
+    "primary": [
+      "TEXAS-JOCELYN WHISTLER"
+    ],
+    "result": "TB",
+    "secondary": [
+      "TAMU-MIKE MILLER"
+    ],
+    "time": "",
+    "defense": "TEXAS"
+  },
+  "17": {
+    "extras": [],
+    "period": "",
+    "offense": "TEXAS",
+    "primary": [
+      "TEXAS-JOHN ANDERSON"
+    ],
+    "result": "GD",
+    "secondary": [],
+    "time": "",
+    "defense": "TAMU"
+  },
+  "18": {
+    "extras": [],
+    "period": "",
+    "offense": "TAMU",
+    "primary": [
+      "TEXAS-MICHAEL JOHNSTON"
+    ],
+    "result": "TD",
+    "secondary": [
+      "TAMU-15",
+      "TAMU-LANDIS WALTHER"
+    ],
+    "time": "",
+    "defense": "TEXAS"
+  },
+  "19": {
+    "extras": [
+      [
+        "Y",
+        "TAMU-ALEX STEWART"
+      ]
+    ],
+    "period": "",
+    "offense": "TEXAS",
+    "primary": [
+      "TEXAS-JOHN ANDERSON"
+    ],
+    "result": "EM",
+    "secondary": [],
+    "time": "",
+    "defense": "TAMU"
+  },
+  "20": {
+    "extras": [],
+    "period": "",
+    "offense": "TAMU",
+    "primary": [
+      "TAMU-LANDIS WALTHER"
+    ],
+    "result": "GP",
+    "secondary": [
+      "TAMU-UNK"
+    ],
+    "time": "",
+    "defense": "TEXAS"
+  },
+  "21": {
+    "extras": [],
+    "period": "",
+    "offense": "TEXAS",
+    "primary": [
+      "TEXAS-CATHERINE HABERL"
+    ],
+    "result": "GP",
+    "secondary": [
+      "TEXAS-MICHAEL JOHNSTON"
+    ],
+    "time": "",
+    "defense": "TAMU"
+  },
+  "22": {
+    "extras": [],
+    "period": "",
+    "offense": "TAMU",
+    "primary": [
+      "TAMU-LANDIS WALTHER"
+    ],
+    "result": "GD",
+    "secondary": [
+      "TAMU-UNK"
+    ],
+    "time": "",
+    "defense": "TEXAS"
+  },
+  "23": {
+    "extras": [],
+    "period": "",
+    "offense": "TEXAS",
+    "primary": [
+      "TAMU-DANIEL SOBARZO"
+    ],
+    "result": "TB",
+    "secondary": [
+      "TEXAS-CATHERINE HABERL"
+    ],
+    "time": "",
+    "defense": "TAMU"
+  },
+  "24": {
+    "extras": [],
+    "period": "",
+    "offense": "TAMU",
+    "primary": [
+      "TAMU-JESSICA HEMBREE"
+    ],
+    "result": "ED",
+    "secondary": [
+      "TAMU-15"
+    ],
+    "time": "",
+    "defense": "TEXAS"
+  },
+  "25": {
+    "extras": [],
+    "period": "",
+    "offense": "TEXAS",
+    "primary": [
+      "TEXAS-CULLEN FRIDAY"
+    ],
+    "result": "EM",
+    "secondary": [],
+    "time": "",
+    "defense": "TAMU"
+  },
+  "26": {
+    "extras": [],
+    "period": "",
+    "offense": "TAMU",
+    "primary": [
+      "TEXAS-CULLEN FRIDAY"
+    ],
+    "result": "TD",
+    "secondary": [
+      "TAMU-JUAN ACEVEDO",
+      "TAMU-RACHEL NICOLETTI"
+    ],
+    "time": "",
+    "defense": "TEXAS"
+  },
+  "27": {
+    "extras": [],
+    "period": "",
+    "offense": "TEXAS",
+    "primary": [
+      "TAMU-15"
+    ],
+    "result": "TD",
+    "secondary": [
+      "TEXAS-MICHAEL JOHNSTON",
+      "TEXAS-19"
+    ],
+    "time": "",
+    "defense": "TAMU"
+  },
+  "28": {
+    "extras": [],
+    "period": "",
+    "offense": "TAMU",
+    "primary": [
+      "TAMU-UNK"
+    ],
+    "result": "GP",
+    "secondary": [
+      "TAMU-JUAN ACEVEDO"
+    ],
+    "time": "",
+    "defense": "TEXAS"
+  },
+  "29": {
+    "extras": [],
+    "period": "",
+    "offense": "TEXAS",
+    "primary": [
+      "TEXAS-NICK MARINO"
+    ],
+    "result": "GS",
+    "secondary": [
+      "TEXAS-CULLEN FRIDAY"
+    ],
+    "time": "",
+    "defense": "TAMU"
+  },
+  "30": {
+    "extras": [],
+    "period": "",
+    "offense": "TAMU",
+    "primary": [
+      "TAMU-JESSICA HEMBREE"
+    ],
+    "result": "ED",
+    "secondary": [
+      "TAMU-DANIEL SOBARZO"
+    ],
+    "time": "",
+    "defense": "TEXAS"
+  },
+  "31": {
+    "extras": [],
+    "period": "",
+    "offense": "TEXAS",
+    "primary": [
+      "TAMU-JUAN ACEVEDO"
+    ],
+    "result": "TC",
+    "secondary": [
+      "TEXAS-ANDRES GARZA"
+    ],
+    "time": "",
+    "defense": "TAMU"
+  },
+  "32": {
+    "extras": [],
+    "period": "",
+    "offense": "TAMU",
+    "primary": [
+      "TAMU-12"
+    ],
+    "result": "GP",
+    "secondary": [
+      "TAMU-1"
+    ],
+    "time": "",
+    "defense": "TEXAS"
+  },
+  "33": {
+    "extras": [],
+    "period": "",
+    "offense": "TEXAS",
+    "primary": [
+      "TEXAS-ANDRES GARZA"
+    ],
+    "result": "GS",
+    "secondary": [
+      "TEXAS-NICK MARINO"
+    ],
+    "time": "",
+    "defense": "TAMU"
+  },
+  "34": {
+    "extras": [],
+    "period": "",
+    "offense": "TAMU",
+    "primary": [
+      "TAMU-RACHEL NICOLETTI"
+    ],
+    "result": "EP",
+    "secondary": [
+      "TAMU-UNK"
+    ],
+    "time": "",
+    "defense": "TEXAS"
+  },
+  "35": {
+    "extras": [],
+    "period": "",
+    "offense": "TEXAS",
+    "primary": [
+      "TEXAS-ANDRES GARZA"
+    ],
+    "result": "GP",
+    "secondary": [
+      "TEXAS-NICK MARINO"
+    ],
+    "time": "",
+    "defense": "TAMU"
+  },
+  "36": {
+    "extras": [],
+    "period": "",
+    "offense": "TAMU",
+    "primary": [
+      "TEXAS-HALLIE PACE"
+    ],
+    "result": "TB",
+    "secondary": [
+      "TAMU-UNK"
+    ],
+    "time": "",
+    "defense": "TEXAS"
+  },
+  "37": {
+    "extras": [
+      [
+        "R",
+        "TAMU-NICK ROY"
+      ]
+    ],
+    "period": "",
+    "offense": "TEXAS",
+    "primary": [
+      "TEXAS-NICK MARINO"
+    ],
+    "result": "ED",
+    "secondary": [
+      "TEXAS-AUSTIN DICKSON"
+    ],
+    "time": "",
+    "defense": "TAMU"
+  },
+  "38": {
+    "extras": [],
+    "period": "",
+    "offense": "TAMU",
+    "primary": [
+      "TAMU-1"
+    ],
+    "result": "EM",
+    "secondary": [],
+    "time": "",
+    "defense": "TEXAS"
+  },
+  "39": {
+    "extras": [
+      [
+        "SOP",
+        1
+      ]
+    ],
+    "period": "",
+    "offense": "TEXAS",
+    "primary": [
+      "TAMU-1"
+    ],
+    "result": "TL",
+    "secondary": [
+      "TEXAS-NICK MARINO"
+    ],
+    "time": "",
+    "defense": "TAMU"
+  },
+  "40": {
+    "extras": [],
+    "period": "",
+    "offense": "TAMU",
+    "primary": [
+      "TAMU-DANIEL SOBARZO"
+    ],
+    "result": "GP",
+    "secondary": [
+      "TAMU-1"
+    ],
+    "time": "",
+    "defense": "TEXAS"
+  },
+  "41": {
+    "extras": [],
+    "period": "",
+    "offense": "TEXAS",
+    "primary": [
+      "TAMU-ALEX STEWART"
+    ],
+    "result": "TB",
+    "secondary": [
+      "TEXAS-CULLEN FRIDAY"
+    ],
+    "time": "",
+    "defense": "TAMU"
+  },
+  "42": {
+    "extras": [],
+    "period": "",
+    "offense": "TAMU",
+    "primary": [
+      "TAMU-LANDIS WALTHER"
+    ],
+    "result": "GP",
+    "secondary": [
+      "TAMU-UNK"
+    ],
+    "time": "",
+    "defense": "TEXAS"
+  },
+  "43": {
+    "extras": [],
+    "period": "",
+    "offense": "TEXAS",
+    "primary": [
+      "TAMU-DANIEL SOBARZO"
+    ],
+    "result": "TC",
+    "secondary": [
+      "TEXAS-ERIN MCBRIDE"
+    ],
+    "time": "",
+    "defense": "TAMU"
+  },
+  "44": {
+    "extras": [],
+    "period": "",
+    "offense": "TAMU",
+    "primary": [
+      "TEXAS-TATE KAY"
+    ],
+    "result": "TB",
+    "secondary": [
+      "TAMU-DANIEL SOBARZO"
+    ],
+    "time": "",
+    "defense": "TEXAS"
+  },
+  "45": {
+    "extras": [],
+    "period": "",
+    "offense": "TEXAS",
+    "primary": [
+      "TAMU-LOUIS SANCHEZ"
+    ],
+    "result": "TC",
+    "secondary": [
+      "TEXAS-ERIN MCBRIDE"
+    ],
+    "time": "",
+    "defense": "TAMU"
+  },
+  "46": {
+    "extras": [
+      [
+        "R",
+        "TEXAS-TATE KAY"
+      ]
+    ],
+    "period": "",
+    "offense": "TAMU",
+    "primary": [
+      "TEXAS-CULLEN FRIDAY"
+    ],
+    "result": "TD",
+    "secondary": [
+      "TAMU-LOUIS SANCHEZ",
+      "TAMU-LANDIS WALTHER"
+    ],
+    "time": "",
+    "defense": "TEXAS"
+  },
+  "47": {
+    "extras": [],
+    "period": "",
+    "offense": "TEXAS",
+    "primary": [
+      "TEXAS-CULLEN FRIDAY"
+    ],
+    "result": "GS",
+    "secondary": [],
+    "time": "",
+    "defense": "TAMU"
+  },
+  "48": {
+    "extras": [],
+    "period": "",
+    "offense": "TAMU",
+    "primary": [
+      "TAMU-JUAN ACEVEDO"
+    ],
+    "result": "RCA",
+    "secondary": [],
+    "time": "",
+    "defense": "TEXAS"
+  }
+}
