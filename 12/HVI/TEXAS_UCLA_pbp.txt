@@ -1,0 +1,45 @@
+(00:00)Brooms Up possession: BROOMS UP! Quaffle Possession by ['TEXAS-DAVIS ROES'], Bludger Control by ['TEXAS-0']
+(00:25)TEXAS possession: Goal on the drive by ['TEXAS-DAVIS ROES'].
+(00:58)UCLA possession: Goal on the shot by ['UCLA-ELIZABETH NG'], assist by ['UCLA-JONATHAN GARCIA-ROVETTA']
+(01:30)TEXAS possession: Missed shot by ['TEXAS-LUKE MEISSNER']. Turnover.
+(02:13)UCLA possession: Turnover forced by physical contact by ['TEXAS-SPENCER FORBES'] on ['UCLA-ELIZABETH NG']
+(02:29)TEXAS possession: Missed shot by ['TEXAS-JOEY CASTELLANO']. Turnover.
+(02:54)UCLA possession: Goal on the drive by ['UCLA-JONATHAN GARCIA-ROVETTA'].
+(03:19)TEXAS possession: Missed shot by ['TEXAS-JOEY CASTELLANO']. Turnover.
+(04:02)UCLA possession: Goal on the drive by ['UCLA-JONATHAN GARCIA-ROVETTA'].
+(04:26)TEXAS possession: Beat by ['UCLA-ASHLEY GORE'] on ['TEXAS-OLIVE JIM-DANIELS'] forces a TURNOVER.
+(04:42)UCLA possession: Beat by ['TEXAS-KYLIE MCBRIDE'] on ['UCLA-JONATHAN GARCIA-ROVETTA'] forces a TURNOVER.
+(05:19)TEXAS possession: Errant pass from ['TEXAS-AIDAN PARSI'] to ['TEXAS-KASYE BEVERS']. Turnover
+(05:58)UCLA possession: ['UCLA-JONATHAN GARCIA-ROVETTA'] passes to ['UCLA-ELIZABETH NG'] at the hoops, GOAL.
+(06:32)TEXAS possession: Turnover forced by physical contact by ['UCLA-34'] on ['TEXAS-DYLAN BOTTOMS']
+(06:43)UCLA possession: Drop by ['UCLA-JONATHAN GARCIA-ROVETTA']. Turnover.
+(07:20)TEXAS possession: Missed shot by ['TEXAS-NATHAN LEWIS']. Turnover.
+(07:56)UCLA possession: Pass between ['UCLA-JONATHAN GARCIA-ROVETTA', 'UCLA-ELIZABETH NG'] defended by ['TEXAS-NATHAN LEWIS']. Turnover
+(08:10)TEXAS possession: Goal on the shot by ['TEXAS-GRAYSON BRIGGS'].
+(08:35)UCLA possession: Beat by ['TEXAS-JACK WANG'] on ['UCLA-24'] forces a TURNOVER. During the play, yellow card on TEXAS-GRAYSON BRIGGS
+(09:00)TEXAS possession: Errant pass from ['TEXAS-UNK'] to ['TEXAS-UNK']. Turnover
+(09:21)UCLA possession: Errant pass from ['UCLA-UNK'] to ['UCLA-UNK']. Turnover
+(10:15)TEXAS possession: Goal on the drive by ['TEXAS-AIDAN PARSI'].
+(10:34)UCLA possession: Beat by ['TEXAS-JACK WANG'] on ['UCLA-JONATHAN GARCIA-ROVETTA'] forces a TURNOVER.
+(11:17)TEXAS possession: Missed shot by ['TEXAS-AIDAN PARSI']. Turnover. During the play, yellow card on UCLA-21
+(11:43)UCLA possession: Beat by ['TEXAS-JACK WANG'] on ['UCLA-UNK'] forces a TURNOVER.
+(12:05)TEXAS possession: Goal on the drive by ['TEXAS-JOHN ANDERSON'].
+(12:40)UCLA possession: ['UCLA-17'] passes to ['UCLA-ELIZABETH NG'] at the hoops, GOAL.
+(13:05)TEXAS possession: ['TEXAS-MICHAEL JOHNSTON'] passes to ['TEXAS-CARLY JORDAN'] at the hoops, GOAL.
+(13:44)UCLA possession: ['UCLA-3'] passes to ['UCLA-ELIZABETH NG'] at the hoops, GOAL.
+(14:28)TEXAS possession: Pass between ['TEXAS-JOHN ANDERSON', 'TEXAS-CARLY JORDAN'] defended by ['UCLA-JONATHAN GARCIA-ROVETTA']. Turnover During the play, reset forced by UCLA-JUSTIN VANLIGTEN
+(14:38)UCLA possession: Missed shot by ['UCLA-3']. Turnover.
+(15:07)TEXAS possession: Goal on the shot by ['TEXAS-AIDAN PARSI'].
+(15:50)UCLA possession: Beat by ['TEXAS-KYLIE MCBRIDE'] on ['UCLA-ELIZABETH NG'] forces a TURNOVER.
+(16:32)TEXAS possession: Turnover forced by physical contact by ['UCLA-3'] on ['TEXAS-DAVIS ROES']
+(16:58)UCLA possession: Errant pass from ['UCLA-3'] to ['UCLA-UNK']. Turnover During the play, yellow card on TEXAS-DAVIS ROES
+(17:36)TEXAS possession: Missed shot by ['TEXAS-LUKE MEISSNER']. Turnover.
+(18:01)UCLA possession: Turnover forced by physical contact by ['TEXAS-DAVIS ROES'] on ['UCLA-UNK'] During the play, SNITCH ON PITCH begins
+(18:16)TEXAS possession: ['TEXAS-LUKE MEISSNER'] passes to ['TEXAS-OLIVE JIM-DANIELS'] at the hoops, GOAL.
+(18:26)UCLA possession: Turnover by ['TEXAS-OLIVE JIM-DANIELS']
+(18:30)TEXAS possession: Goal on the drive by ['TEXAS-OLIVE JIM-DANIELS'].
+(19:11)UCLA possession: Goal on the drive by ['UCLA-JONATHAN GARCIA-ROVETTA'].
+(19:43)TEXAS possession: Goal on the shot by ['TEXAS-LUKE MEISSNER'].
+(20:17)UCLA possession: Missed shot by ['UCLA-JONATHAN GARCIA-ROVETTA']. Turnover.
+(20:23)TEXAS possession: Missed shot by ['TEXAS-LUKE MEISSNER']. Turnover.
+(21:19)UCLA possession: Snitch catch by ['TEXAS-JOSH JOHNSON'] is GOOD.
