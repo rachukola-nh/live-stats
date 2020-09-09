@@ -1,0 +1,26 @@
+(00:00)Brooms Up possession: BROOMS UP! Quaffle Possession by ['UVA-FARAAZ SIDDIQUI'], Bludger Control by ['UVA-LANE BURGESS']
+(00:51)UVA possession: Shot by ['UVA-26'] blocked by ['UMD-13']. Turnover.
+(01:11)UMD possession: Goal on the drive by ['UMD-JOHN SHERIDAN'].
+(02:50)UVA possession: Errant pass from ['UVA-FARAAZ SIDDIQUI'] to ['UVA-BEN PHILLIPS']. Turnover During the play, reset forced by UMD-HEATHER FARNAN
+(03:23)UMD possession: Goal on the shot by ['UMD-JOHN SHERIDAN'], assist by ['UMD-MACK MORGAN']
+(04:29)UVA possession: Shot by ['UVA-CARLEE KLEPPIN'] blocked by ['UMD-2']. Turnover.
+(04:52)UMD possession: Turnover forced by physical contact by ['UVA-CARLEE KLEPPIN'] on ['UMD-JOHN SHERIDAN']
+(05:26)UVA possession: Shot by ['UVA-FARAAZ SIDDIQUI'] blocked by ['UMD-MACK MORGAN']. Turnover.
+(06:21)UMD possession: Goal on the shot by ['UMD-2'].
+(07:29)UVA possession: Beat by ['UMD-ZAIN BHAILA'] on ['UVA-FARAAZ SIDDIQUI'] forces a TURNOVER. During the play, reset forced by UMD-JOHN SHERIDAN
+(08:14)UMD possession: Missed shot by ['UMD-TJ GENERETTE']. Turnover.
+(08:57)UVA possession: Beat by ['UMD-ZAIN BHAILA'] on ['UVA-MATTHEW COOPER'] forces a TURNOVER.
+(09:04)UMD possession: Goal on the drive by ['UMD-JERRICK KNIPPEL'].
+(09:46)UVA possession: Turnover forced by physical contact by ['UMD-TJ GENERETTE'] on ['UVA-ALLY CHIN'] During the play, reset forced by UMD-ZAIN BHAILA
+(10:25)UMD possession: Shot by ['UMD-MACK MORGAN'] blocked by ['UVA-MATTHEW STEELBERG']. Turnover.
+(11:14)UVA possession: Goal on the shot by ['UVA-MATTHEW COOPER'], assist by ['UVA-MATTHEW STEELBERG']
+(12:41)UMD possession: Beat by ['UVA-LANE BURGESS'] on ['UMD-JERRICK KNIPPEL'] forces a TURNOVER.
+(13:01)UVA possession: Goal on the drive by ['UVA-MICHAEL HOWELL'], assist by ['UVA-MATTHEW COOPER']
+(13:56)UMD possession: Beat by ['UVA-LANE BURGESS'] on ['UMD-NOAH RINDOCK'] forces a TURNOVER.
+(14:05)UVA possession: Beat by ['UMD-45'] on ['UVA-MICHAEL HOWELL'] forces a TURNOVER.
+(14:30)UMD possession: Pass between ['UMD-JOHN SHERIDAN', 'UMD-13'] defended by ['UVA-MATTHEW STEELBERG']. Turnover
+(15:12)UVA possession: Turnover forced by physical contact by ['UMD-JOHN SHERIDAN'] on ['UVA-88']
+(16:09)UMD possession: Turnover forced by physical contact by ['UVA-88'] on ['UMD-NOAH RINDOCK']
+(17:19)UVA possession: Beat by ['UMD-HEATHER FARNAN'] on ['UVA-88'] forces a TURNOVER. During the play, reset forced by UMD-MACK MORGAN
+(18:14)UMD possession: Turnover forced by physical contact by ['UVA-CARLEE KLEPPIN'] on ['UMD-JERRICK KNIPPEL']
+(18:25)UVA possession: Snitch catch by ['UMD-TJ GENERETTE'] is GOOD.
