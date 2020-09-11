@@ -1,45 +1,45 @@
 (00:00)Brooms Up possession: BROOMS UP! Quaffle Possession by ['TAMU-CONNOR MCINTYRE'], Bludger Control by ['TXST-BRADLEY HIMES']
-TAMU possession: Beat by ['TXST-BRADLEY HIMES'] on ['TAMU-TYLER PEARSON'] forces a TURNOVER.
-TXST possession: Beat by ['TAMU-MEHGAN ORSACK'] on ['TXST-TIM NGUYEN'] forces a TURNOVER.
-TAMU possession: Goal on the shot by ['TAMU-HAYDAN ALTMAN'].
-TXST possession: ['TXST-TIM NGUYEN'] passes to ['TXST-IAN GAONA'] at the hoops, GOAL.
-TAMU possession: Goal on the drive by ['TAMU-CONNOR MCINTYRE'], assist by ['TAMU-HAYDAN ALTMAN']
-TXST possession: Pass between ['TXST-BRANDON MACDOWRA', 'TXST-IAN GAONA'] defended by ['TAMU-CONNOR MCINTYRE']. Turnover
-TAMU possession: Turnover forced by physical contact by ['TXST-TIM NGUYEN'] on ['TAMU-CONNOR MCINTYRE']
-TXST possession: Shot by ['TXST-TIM NGUYEN'] blocked by ['TAMU-LANDIS WALTHER']. Turnover.
-TAMU possession: Turnover forced by physical contact by ['TXST-BRANDON MACDOWRA'] on ['TAMU-TYLER PEARSON']
-TXST possession: Goal on the drive by ['TXST-IAN GAONA'].
-TAMU possession: Shot by ['TAMU-LANDIS WALTHER'] blocked by ['TXST-NICK ED']. Turnover.
-TXST possession: Pass by ['TXST-NICK ED'] dropped by ['TXST-MELISSA KITE']. Turnover
-TAMU possession: Goal on the drive by ['TAMU-HAYDAN ALTMAN']. During the play, reset forced by TXST-JOHN MOLINA
-TXST possession: Pass by ['TXST-NICK ED'] dropped by ['TXST-CLAYTON CARLISLE']. Turnover
-TAMU possession: Shot by ['TAMU-RANDI DORAN'] blocked by ['TXST-NICK ED']. Turnover.
-TXST possession: Beat by ['TAMU-SHANIAH CARROLL'] on ['TXST-CLAYTON CARLISLE'] forces a TURNOVER.
-TAMU possession: Red card on ['TAMU-JOHN GHERING'] forces turnover.
-TXST possession: Goal on the shot by ['TXST-NICK ED']. During the play, yellow card on TAMU-TYLER PEARSON
-TAMU possession: Errant pass from ['TAMU-CONNOR MCINTYRE'] to ['TAMU-87']. Turnover
-TXST possession: ['TXST-CALEB RATLIFF'] passes to ['TXST-CLAYTON CARLISLE'] at the hoops, GOAL.
-TAMU possession: Beat by ['TXST-JOHN MOLINA'] on ['TAMU-13'] forces a TURNOVER.
-TXST possession: Shot by ['TXST-IAN GAONA'] blocked by ['TAMU-CAMERON VILLAMIL']. Turnover.
-TAMU possession: Turnover forced by physical contact by ['TXST-MIKE MORROW'] on ['TAMU-CAMERON VILLAMIL']
-TXST possession: Goal on the shot by ['TXST-NICK ED'].
-TAMU possession: Goal on the drive by ['TAMU-HAYDAN ALTMAN']. During the play, reset forced by TXST-MAYA HINEBAUGH
-TXST possession: Errant pass from ['TXST-IAN GAONA'] to ['TXST-JANETTE GARCIA']. Turnover
-TAMU possession: Turnover forced by physical contact by ['TXST-TIM NGUYEN'] on ['TAMU-HAYDAN ALTMAN'] During the play, reset forced by TXST-CAMERON OGILVIE
-TXST possession: ['TXST-NICK ED'] passes to ['TXST-TIM NGUYEN'] at the hoops, GOAL.
-TAMU possession: Errant pass by ['TAMU-TYLER PEARSON']. Turnover.
-TXST possession: Pass by ['TXST-CALEB RATLIFF'] dropped by ['TXST-NICK ED']. Turnover
-TAMU possession: Goal on the shot by ['TAMU-CONNOR MCINTYRE'].
-TXST possession: Pass between ['TXST-TIM NGUYEN', 'TXST-SARAH BROOKS'] defended by ['TAMU-HAYDAN ALTMAN']. Turnover
-TAMU possession: Drop by ['TAMU-TYLER PEARSON']. Turnover.
-TXST possession: Drop by ['TXST-SARAH BROOKS']. Turnover.
-TAMU possession: Missed shot by ['TAMU-87']. Turnover.
-TXST possession: Missed shot by ['TXST-BRANDON MACDOWRA']. Turnover. During the play, SNITCH ON PITCH begins
-TAMU possession: Beat by ['TXST-CAMERON OGILVIE'] on ['TAMU-CAMERON VILLAMIL'] forces a TURNOVER.
-TXST possession: Goal on the drive by ['TXST-TIM NGUYEN'].
-TAMU possession: Shot by ['TAMU-HAYDAN ALTMAN'] blocked by ['TXST-BRANDON MACDOWRA']. Turnover.
-TXST possession: Goal on the drive by ['TXST-BRANDON MACDOWRA'].
-TAMU possession: ['TAMU-LANDIS WALTHER'] passes to ['TAMU-RANDI DORAN'] at the hoops, GOAL.
-TXST possession: Goal by ['TXST-UNK'].
-TAMU possession: Goal on the drive by ['TAMU-LANDIS WALTHER'].
-TXST possession: Snitch catch by ['TXST-JOHN ALVAREZ'] is GOOD.
+(00:05)TAMU possession: Beat by ['TXST-BRADLEY HIMES'] on ['TAMU-TYLER PEARSON'] forces a TURNOVER.
+(00:37)TXST possession: Beat by ['TAMU-MEHGAN ORSACK'] on ['TXST-TIM NGUYEN'] forces a TURNOVER.
+(00:46)TAMU possession: Goal on the shot by ['TAMU-HAYDAN ALTMAN'].
+(01:27)TXST possession: ['TXST-TIM NGUYEN'] passes to ['TXST-IAN GAONA'] at the hoops, GOAL.
+(02:06)TAMU possession: Goal on the drive by ['TAMU-CONNOR MCINTYRE'], assist by ['TAMU-HAYDAN ALTMAN']
+(02:33)TXST possession: Pass between ['TXST-BRANDON MACDOWRA', 'TXST-IAN GAONA'] defended by ['TAMU-CONNOR MCINTYRE']. Turnover
+(02:40)TAMU possession: Turnover forced by physical contact by ['TXST-TIM NGUYEN'] on ['TAMU-CONNOR MCINTYRE']
+(03:33)TXST possession: Shot by ['TXST-TIM NGUYEN'] blocked by ['TAMU-LANDIS WALTHER']. Turnover.
+(04:10)TAMU possession: Turnover forced by physical contact by ['TXST-BRANDON MACDOWRA'] on ['TAMU-TYLER PEARSON']
+(04:20)TXST possession: Goal on the drive by ['TXST-IAN GAONA'].
+(05:06)TAMU possession: Shot by ['TAMU-LANDIS WALTHER'] blocked by ['TXST-NICK ED']. Turnover.
+(05:27)TXST possession: Pass by ['TXST-NICK ED'] dropped by ['TXST-MELISSA KITE']. Turnover
+(06:07)TAMU possession: Goal on the drive by ['TAMU-HAYDAN ALTMAN']. During the play, reset forced by TXST-JOHN MOLINA
+(06:33)TXST possession: Pass by ['TXST-NICK ED'] dropped by ['TXST-CLAYTON CARLISLE']. Turnover
+(07:09)TAMU possession: Shot by ['TAMU-RANDI DORAN'] blocked by ['TXST-NICK ED']. Turnover.
+(07:27)TXST possession: Beat by ['TAMU-SHANIAH CARROLL'] on ['TXST-CLAYTON CARLISLE'] forces a TURNOVER.
+(07:40)TAMU possession: Red card on ['TAMU-JOHN GHERING'] forces turnover.
+(08:02)TXST possession: Goal on the shot by ['TXST-NICK ED']. During the play, yellow card on TAMU-TYLER PEARSON
+(08:28)TAMU possession: Errant pass from ['TAMU-CONNOR MCINTYRE'] to ['TAMU-87']. Turnover
+(09:11)TXST possession: ['TXST-CALEB RATLIFF'] passes to ['TXST-CLAYTON CARLISLE'] at the hoops, GOAL.
+(09:38)TAMU possession: Beat by ['TXST-JOHN MOLINA'] on ['TAMU-13'] forces a TURNOVER.
+(10:01)TXST possession: Shot by ['TXST-IAN GAONA'] blocked by ['TAMU-CAMERON VILLAMIL']. Turnover.
+(10:09)TAMU possession: Turnover forced by physical contact by ['TXST-MIKE MORROW'] on ['TAMU-CAMERON VILLAMIL']
+(10:32)TXST possession: Goal on the shot by ['TXST-NICK ED'].
+(11:33)TAMU possession: Goal on the drive by ['TAMU-HAYDAN ALTMAN']. During the play, reset forced by TXST-MAYA HINEBAUGH
+(12:00)TXST possession: Errant pass from ['TXST-IAN GAONA'] to ['TXST-JANETTE GARCIA']. Turnover
+(13:52)TAMU possession: Turnover forced by physical contact by ['TXST-TIM NGUYEN'] on ['TAMU-HAYDAN ALTMAN'] During the play, reset forced by TXST-CAMERON OGILVIE
+(14:21)TXST possession: ['TXST-NICK ED'] passes to ['TXST-TIM NGUYEN'] at the hoops, GOAL.
+(14:58)TAMU possession: Beat by ['TXST-TESS ACOSTA'] on ['TAMU-TYLER PEARSON'] forces a TURNOVER.
+(15:09)TXST possession: Pass by ['TXST-CALEB RATLIFF'] dropped by ['TXST-NICK ED']. Turnover
+(15:46)TAMU possession: Goal on the shot by ['TAMU-CONNOR MCINTYRE'].
+(16:21)TXST possession: Pass between ['TXST-TIM NGUYEN', 'TXST-SARAH BROOKS'] defended by ['TAMU-HAYDAN ALTMAN']. Turnover
+(16:48)TAMU possession: Pass by ['TAMU-CONNOR MCINTYRE'] dropped by ['TAMU-TYLER PEARSON']. Turnover
+(17:19)TXST possession: Pass by ['TXST-IAN GAONA'] dropped by ['TXST-SARAH BROOKS']. Turnover
+(17:53)TAMU possession: Missed shot by ['TAMU-87']. Turnover.
+(19:08)TXST possession: Missed shot by ['TXST-BRANDON MACDOWRA']. Turnover. During the play, SNITCH ON PITCH begins
+(20:09)TAMU possession: Beat by ['TXST-CAMERON OGILVIE'] on ['TAMU-CAMERON VILLAMIL'] forces a TURNOVER.
+(20:40)TXST possession: Goal on the drive by ['TXST-TIM NGUYEN'].
+(21:02)TAMU possession: Shot by ['TAMU-HAYDAN ALTMAN'] blocked by ['TXST-BRANDON MACDOWRA']. Turnover.
+(21:14)TXST possession: Goal on the drive by ['TXST-BRANDON MACDOWRA'].
+(21:46)TAMU possession: ['TAMU-LANDIS WALTHER'] passes to ['TAMU-RANDI DORAN'] at the hoops, GOAL.
+(22:09)TXST possession: Goal by ['TXST-UNK'].
+(22:36)TAMU possession: Goal on the drive by ['TAMU-LANDIS WALTHER'].
+(23:09)TXST possession: Snitch catch by ['TXST-JOHN ALVAREZ'] is GOOD.
