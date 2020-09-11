@@ -1,596 +1,639 @@
 {
   "0": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "Brooms Up",
-    "primary": [
-      "TEXAS-DAVIS ROE"
-    ],
-    "result": "BU",
     "secondary": [
       "TEXAS-RICHMOND KEELING"
     ],
+    "offense": "Brooms Up",
+    "result": "BU",
+    "primary": [
+      "TEXAS-DAVIS ROE"
+    ],
+    "period": "FLOOR",
+    "extras": [],
     "time": "0000"
   },
   "1": {
-    "extras": [],
-    "period": "FLOOR",
+    "secondary": [],
     "offense": "TEXAS",
+    "time": "0048",
     "primary": [
       "TEXAS-CAROLINE TAO"
     ],
-    "result": "ED",
-    "secondary": [],
-    "time": "0048",
-    "defense": "SHSU"
+    "length": 48,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "SHSU",
+    "result": "ED"
   },
   "2": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "SHSU",
-    "primary": [
-      "SHSU-HALEY DUPRE"
-    ],
-    "result": "GP",
     "secondary": [
       "SHSU-HAYDEN BOYES"
     ],
+    "offense": "SHSU",
     "time": "0110",
-    "defense": "TEXAS"
+    "primary": [
+      "SHSU-HALEY DUPRE"
+    ],
+    "length": 62,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TEXAS",
+    "result": "GP"
   },
   "3": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "TEXAS",
-    "primary": [
-      "TEXAS-LUKE MEISSNER"
-    ],
-    "result": "EP",
     "secondary": [
       "TEXAS-KASYE BEVERS"
     ],
+    "offense": "TEXAS",
     "time": "0220",
-    "defense": "SHSU"
+    "primary": [
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "length": 110,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "SHSU",
+    "result": "EP"
   },
   "4": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "SHSU",
-    "primary": [
-      "SHSU-CHRIS DORSEY"
-    ],
-    "result": "GD",
     "secondary": [
       "SHSU-THOMAS MORGAN"
     ],
+    "offense": "SHSU",
     "time": "0300",
-    "defense": "TEXAS"
+    "primary": [
+      "SHSU-CHRIS DORSEY"
+    ],
+    "length": 80,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TEXAS",
+    "result": "GD"
   },
   "5": {
-    "extras": [],
-    "period": "FLOOR",
+    "secondary": [],
     "offense": "TEXAS",
+    "time": "0317",
     "primary": [
       "TEXAS-LUKE MEISSNER"
     ],
-    "result": "GD",
-    "secondary": [],
-    "time": "0317",
-    "defense": "SHSU"
+    "length": 17,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "SHSU",
+    "result": "GD"
   },
   "6": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "SHSU",
-    "primary": [
-      "SHSU-KEENAN NASH"
-    ],
-    "result": "EP",
     "secondary": [
       "SHSU-HAYDEN BOYES"
     ],
+    "offense": "SHSU",
     "time": "0340",
-    "defense": "TEXAS"
+    "primary": [
+      "SHSU-KEENAN NASH"
+    ],
+    "length": 23,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TEXAS",
+    "result": "EP"
   },
   "7": {
-    "extras": [],
-    "period": "FLOOR",
+    "secondary": [
+      "TEXAS-GRAYSON BRIGGS"
+    ],
     "offense": "TEXAS",
+    "time": "0403",
     "primary": [
       "TEXAS-JOSH JOHNSON"
     ],
-    "result": "GD",
-    "secondary": [
-      "TEXAS-GRAYSON BRIGGS"
-    ],
-    "time": "0403",
-    "defense": "SHSU"
+    "length": 63,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "SHSU",
+    "result": "GD"
   },
   "8": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "SHSU",
-    "primary": [
-      "SHSU-HALEY DUPRE"
-    ],
-    "result": "ED",
     "secondary": [
       "SHSU-KEENAN NASH"
     ],
+    "offense": "SHSU",
     "time": "0421",
-    "defense": "TEXAS"
+    "primary": [
+      "SHSU-HALEY DUPRE"
+    ],
+    "length": 18,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TEXAS",
+    "result": "ED"
   },
   "9": {
-    "extras": [],
-    "period": "FLOOR",
+    "secondary": [
+      "TEXAS-GRAYSON BRIGGS"
+    ],
     "offense": "TEXAS",
+    "time": "0447",
     "primary": [
       "SHSU-BALDEMAR NUNEZ"
     ],
-    "result": "TB",
-    "secondary": [
-      "TEXAS-GRAYSON BRIGGS"
-    ],
-    "time": "0447",
-    "defense": "SHSU"
+    "length": 26,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "SHSU",
+    "result": "TB"
   },
   "10": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "SHSU",
-    "primary": [
-      "SHSU-HALEY DUPRE"
-    ],
-    "result": "EP",
     "secondary": [
       "SHSU-KEENAN NASH"
     ],
+    "offense": "SHSU",
     "time": "0505",
-    "defense": "TEXAS"
+    "primary": [
+      "SHSU-HALEY DUPRE"
+    ],
+    "length": 58,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TEXAS",
+    "result": "EP"
   },
   "11": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "TEXAS",
-    "primary": [
-      "TEXAS-KASYE BEVERS"
-    ],
-    "result": "GS",
     "secondary": [
       "TEXAS-DAVIS ROE"
     ],
+    "offense": "TEXAS",
     "time": "0607",
-    "defense": "SHSU"
+    "primary": [
+      "TEXAS-KASYE BEVERS"
+    ],
+    "length": 102,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "SHSU",
+    "result": "GS"
   },
   "12": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "SHSU",
-    "primary": [
-      "TEXAS-MICHAEL JOHNSTON"
-    ],
-    "result": "TD",
     "secondary": [
       "SHSU-BRANDON KUBENA",
       "SHSU-HALEY DUPRE"
     ],
+    "offense": "SHSU",
     "time": "0630",
-    "defense": "TEXAS"
+    "primary": [
+      "TEXAS-MICHAEL JOHNSTON"
+    ],
+    "length": 23,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TEXAS",
+    "result": "TD"
   },
   "13": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "TEXAS",
-    "primary": [
-      "TEXAS-DAVIS ROE"
-    ],
-    "result": "EP",
     "secondary": [
       "TEXAS-KASYE BEVERS"
     ],
+    "offense": "TEXAS",
     "time": "0720",
-    "defense": "SHSU"
+    "primary": [
+      "TEXAS-DAVIS ROE"
+    ],
+    "length": 90,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "SHSU",
+    "result": "EP"
   },
   "14": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "SHSU",
-    "primary": [
-      "TEXAS-MICHAEL JOHNSTON"
-    ],
-    "result": "TL",
     "secondary": [
       "SHSU-HALEY DUPRE"
     ],
+    "offense": "SHSU",
     "time": "0805",
-    "defense": "TEXAS"
-  },
-  "15": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "TEXAS",
-    "primary": [
-      "TEXAS-TATE KAY"
-    ],
-    "result": "EB",
-    "secondary": [],
-    "time": "0827",
-    "defense": "SHSU"
-  },
-  "16": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "SHSU",
-    "primary": [
-      "SHSU-KEENAN NASH"
-    ],
-    "result": "GS",
-    "secondary": [
-      "SHSU-BRANDON KUBENA"
-    ],
-    "time": "0836",
-    "defense": "TEXAS"
-  },
-  "17": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "TEXAS",
-    "primary": [
-      "TEXAS-GABE OLIVO"
-    ],
-    "result": "ED",
-    "secondary": [
-      "TEXAS-DAVIS ROE"
-    ],
-    "time": "0931",
-    "defense": "SHSU"
-  },
-  "18": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "SHSU",
-    "primary": [
-      "SHSU-BRANDON KUBENA"
-    ],
-    "result": "GP",
-    "secondary": [
-      "SHSU-KEENAN NASH"
-    ],
-    "time": "1026",
-    "defense": "TEXAS"
-  },
-  "19": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "TEXAS",
-    "primary": [
-      "TEXAS-DAVIS ROE"
-    ],
-    "result": "EM",
-    "secondary": [],
-    "time": "1044",
-    "defense": "SHSU"
-  },
-  "20": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "SHSU",
-    "primary": [
-      "TEXAS-JACK WANG"
-    ],
-    "result": "TB",
-    "secondary": [
-      "SHSU-11"
-    ],
-    "time": "1118",
-    "defense": "TEXAS"
-  },
-  "21": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "TEXAS",
-    "primary": [
-      "TEXAS-DAVIS ROE"
-    ],
-    "result": "EM",
-    "secondary": [],
-    "time": "1133",
-    "defense": "SHSU"
-  },
-  "22": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "SHSU",
     "primary": [
       "TEXAS-MICHAEL JOHNSTON"
     ],
-    "result": "TD",
+    "length": 85,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TEXAS",
+    "result": "TL"
+  },
+  "15": {
+    "secondary": [],
+    "offense": "TEXAS",
+    "time": "0827",
+    "primary": [
+      "TEXAS-TATE KAY"
+    ],
+    "length": 22,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "SHSU",
+    "result": "EB"
+  },
+  "16": {
+    "secondary": [
+      "SHSU-BRANDON KUBENA"
+    ],
+    "offense": "SHSU",
+    "time": "0836",
+    "primary": [
+      "SHSU-KEENAN NASH"
+    ],
+    "length": 9,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TEXAS",
+    "result": "GS"
+  },
+  "17": {
+    "secondary": [
+      "TEXAS-DAVIS ROE"
+    ],
+    "offense": "TEXAS",
+    "time": "0931",
+    "primary": [
+      "TEXAS-GABE OLIVO"
+    ],
+    "length": 95,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "SHSU",
+    "result": "ED"
+  },
+  "18": {
+    "secondary": [
+      "SHSU-KEENAN NASH"
+    ],
+    "offense": "SHSU",
+    "time": "1026",
+    "primary": [
+      "SHSU-BRANDON KUBENA"
+    ],
+    "length": 95,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TEXAS",
+    "result": "GP"
+  },
+  "19": {
+    "secondary": [],
+    "offense": "TEXAS",
+    "time": "1044",
+    "primary": [
+      "TEXAS-DAVIS ROE"
+    ],
+    "length": 18,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "SHSU",
+    "result": "EM"
+  },
+  "20": {
+    "secondary": [
+      "SHSU-11"
+    ],
+    "offense": "SHSU",
+    "time": "1118",
+    "primary": [
+      "TEXAS-JACK WANG"
+    ],
+    "length": 74,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TEXAS",
+    "result": "TB"
+  },
+  "21": {
+    "secondary": [],
+    "offense": "TEXAS",
+    "time": "1133",
+    "primary": [
+      "TEXAS-DAVIS ROE"
+    ],
+    "length": 15,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "SHSU",
+    "result": "EM"
+  },
+  "22": {
     "secondary": [
       "SHSU-42",
       "SHSU-11"
     ],
+    "offense": "SHSU",
     "time": "1222",
-    "defense": "TEXAS"
+    "primary": [
+      "TEXAS-MICHAEL JOHNSTON"
+    ],
+    "length": 89,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TEXAS",
+    "result": "TD"
   },
   "23": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "TEXAS",
-    "primary": [
-      "SHSU-HAYDEN BOYES"
-    ],
-    "result": "TD",
     "secondary": [
       "TEXAS-JOHN ANDERSON",
       "TEXAS-COLE BURKE"
     ],
+    "offense": "TEXAS",
     "time": "1300",
-    "defense": "SHSU"
+    "primary": [
+      "SHSU-HAYDEN BOYES"
+    ],
+    "length": 78,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "SHSU",
+    "result": "TD"
   },
   "24": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "SHSU",
-    "primary": [
-      "TEXAS-SAM SELLE"
-    ],
-    "result": "TB",
     "secondary": [
       "SHSU-11"
     ],
+    "offense": "SHSU",
     "time": "1322",
-    "defense": "TEXAS"
+    "primary": [
+      "TEXAS-SAM SELLE"
+    ],
+    "length": 22,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TEXAS",
+    "result": "TB"
   },
   "25": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "TEXAS",
-    "primary": [
-      "SHSU-BRANDON KUBENA"
-    ],
-    "result": "TD",
     "secondary": [
       "TEXAS-KASYE BEVERS",
       "TEXAS-CAROLINE TAO"
     ],
+    "offense": "TEXAS",
     "time": "1338",
-    "defense": "SHSU"
+    "primary": [
+      "SHSU-BRANDON KUBENA"
+    ],
+    "length": 16,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "SHSU",
+    "result": "TD"
   },
   "26": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "SHSU",
-    "primary": [
-      "SHSU-THOMAS MORGAN"
-    ],
-    "result": "GS",
     "secondary": [
       "SHSU-CHRIS DORSEY"
     ],
+    "offense": "SHSU",
     "time": "1422",
-    "defense": "TEXAS"
+    "primary": [
+      "SHSU-THOMAS MORGAN"
+    ],
+    "length": 84,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TEXAS",
+    "result": "GS"
   },
   "27": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "TEXAS",
-    "primary": [
-      "TEXAS-COLE BURKE"
-    ],
-    "result": "GP",
     "secondary": [
       "TEXAS-JOHN ANDERSON"
     ],
+    "offense": "TEXAS",
     "time": "1438",
-    "defense": "SHSU"
+    "primary": [
+      "TEXAS-COLE BURKE"
+    ],
+    "length": 16,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "SHSU",
+    "result": "GP"
   },
   "28": {
-    "extras": [],
-    "period": "FLOOR",
+    "secondary": [],
     "offense": "SHSU",
+    "time": "1522",
     "primary": [
       "SHSU-HAYDEN BOYES"
     ],
-    "result": "EM",
-    "secondary": [],
-    "time": "1522",
-    "defense": "TEXAS"
+    "length": 84,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TEXAS",
+    "result": "EM"
   },
   "29": {
-    "extras": [],
-    "period": "FLOOR",
+    "secondary": [],
     "offense": "TEXAS",
+    "time": "1537",
     "primary": [
       "TEXAS-JOHN ANDERSON"
     ],
-    "result": "GD",
-    "secondary": [],
-    "time": "1537",
-    "defense": "SHSU"
+    "length": 15,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "SHSU",
+    "result": "GD"
   },
   "30": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "SHSU",
-    "primary": [
-      "SHSU-HALEY DUPRE"
-    ],
-    "result": "ED",
     "secondary": [
       "SHSU-KEENAN NASH"
     ],
+    "offense": "SHSU",
     "time": "1621",
-    "defense": "TEXAS"
+    "primary": [
+      "SHSU-HALEY DUPRE"
+    ],
+    "length": 84,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TEXAS",
+    "result": "ED"
   },
   "31": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "TEXAS",
-    "primary": [
-      "TEXAS-COLE BURKE"
-    ],
-    "result": "GP",
     "secondary": [
       "TEXAS-JOHN ANDERSON"
     ],
+    "offense": "TEXAS",
     "time": "1640",
-    "defense": "SHSU"
-  },
-  "32": {
-    "extras": [],
-    "period": "SOP",
-    "offense": "SHSU",
     "primary": [
       "TEXAS-COLE BURKE"
     ],
-    "result": "TL",
+    "length": 19,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "SHSU",
+    "result": "GP"
+  },
+  "32": {
     "secondary": [
       "SHSU-42"
     ],
+    "offense": "SHSU",
     "time": "1823",
-    "defense": "TEXAS"
+    "primary": [
+      "TEXAS-COLE BURKE"
+    ],
+    "length": 183,
+    "period": "SOP",
+    "extras": [],
+    "defense": "TEXAS",
+    "result": "TL"
   },
   "33": {
-    "extras": [],
-    "period": "SOP",
+    "secondary": [],
     "offense": "TEXAS",
+    "time": "1837",
     "primary": [
       "TEXAS-JOSH JOHNSON"
     ],
-    "result": "GD",
-    "secondary": [],
-    "time": "1837",
-    "defense": "SHSU"
+    "length": 14,
+    "period": "SOP",
+    "extras": [],
+    "defense": "SHSU",
+    "result": "GD"
   },
   "34": {
-    "extras": [],
-    "period": "SOP",
+    "secondary": [
+      "SHSU-BRANDON KUBENA"
+    ],
     "offense": "SHSU",
+    "time": "1919",
     "primary": [
       "TEXAS-TATE KAY"
     ],
-    "result": "TB",
-    "secondary": [
-      "SHSU-BRANDON KUBENA"
-    ],
-    "time": "1919",
-    "defense": "TEXAS"
+    "length": 82,
+    "period": "SOP",
+    "extras": [],
+    "defense": "TEXAS",
+    "result": "TB"
   },
   "35": {
-    "extras": [],
-    "period": "SOP",
+    "secondary": [
+      "TEXAS-LUKE MEISSNER"
+    ],
     "offense": "TEXAS",
+    "time": "1933",
     "primary": [
       "TEXAS-KASYE BEVERS"
     ],
-    "result": "GP",
-    "secondary": [
-      "TEXAS-LUKE MEISSNER"
-    ],
-    "time": "1933",
-    "defense": "SHSU"
+    "length": 14,
+    "period": "SOP",
+    "extras": [],
+    "defense": "SHSU",
+    "result": "GP"
   },
   "36": {
-    "extras": [],
-    "period": "SOP",
+    "secondary": [],
     "offense": "SHSU",
+    "time": "2003",
     "primary": [
       "SHSU-BRANDON KUBENA"
     ],
-    "result": "EM",
-    "secondary": [],
-    "time": "2003",
-    "defense": "TEXAS"
+    "length": 70,
+    "period": "SOP",
+    "extras": [],
+    "defense": "TEXAS",
+    "result": "EM"
   },
   "37": {
-    "extras": [],
-    "period": "SOP",
+    "secondary": [],
     "offense": "TEXAS",
+    "time": "2018",
     "primary": [
       "TEXAS-JOSH JOHNSON"
     ],
-    "result": "GD",
-    "secondary": [],
-    "time": "2018",
-    "defense": "SHSU"
+    "length": 15,
+    "period": "SOP",
+    "extras": [],
+    "defense": "SHSU",
+    "result": "GD"
   },
   "38": {
-    "extras": [],
-    "period": "SOP",
-    "offense": "SHSU",
-    "primary": [
-      "TEXAS-LUKE MEISSNER"
-    ],
-    "result": "TD",
     "secondary": [
       "SHSU-77",
       "SHSU-HALEY DUPRE"
     ],
+    "offense": "SHSU",
     "time": "2058",
-    "defense": "TEXAS"
+    "primary": [
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "length": 40,
+    "period": "SOP",
+    "extras": [],
+    "defense": "TEXAS",
+    "result": "TD"
   },
   "39": {
-    "extras": [],
-    "period": "SOP",
+    "secondary": [
+      "TEXAS-JOSH JOHNSON"
+    ],
     "offense": "TEXAS",
+    "time": "2121",
     "primary": [
       "TEXAS-CAROLINE TAO"
     ],
-    "result": "GP",
-    "secondary": [
-      "TEXAS-JOSH JOHNSON"
-    ],
-    "time": "2121",
-    "defense": "SHSU"
+    "length": 63,
+    "period": "SOP",
+    "extras": [],
+    "defense": "SHSU",
+    "result": "GP"
   },
   "40": {
-    "extras": [],
-    "period": "SOP",
+    "secondary": [],
     "offense": "SHSU",
+    "time": "2205",
     "primary": [
       "SHSU-25"
     ],
-    "result": "ED",
-    "secondary": [],
-    "time": "2205",
-    "defense": "TEXAS"
+    "length": 84,
+    "period": "SOP",
+    "extras": [],
+    "defense": "TEXAS",
+    "result": "ED"
   },
   "41": {
-    "extras": [],
-    "period": "SOP",
+    "secondary": [],
     "offense": "TEXAS",
+    "time": "2208",
     "primary": [
       "TEXAS-JOSH JOHNSON"
     ],
-    "result": "GS",
-    "secondary": [],
-    "time": "2208",
-    "defense": "SHSU"
+    "length": 3,
+    "period": "SOP",
+    "extras": [],
+    "defense": "SHSU",
+    "result": "GS"
   },
   "42": {
-    "extras": [],
-    "period": "SOP",
-    "offense": "SHSU",
-    "primary": [
-      "SHSU-KEENAN NASH"
-    ],
-    "result": "EP",
     "secondary": [
       "SHSU-21"
     ],
+    "offense": "SHSU",
     "time": "2253",
-    "defense": "TEXAS"
+    "primary": [
+      "SHSU-KEENAN NASH"
+    ],
+    "length": 45,
+    "period": "SOP",
+    "extras": [],
+    "defense": "TEXAS",
+    "result": "EP"
   },
   "43": {
-    "extras": [],
-    "period": "SOP",
+    "secondary": [],
     "offense": "TEXAS",
+    "time": "2259",
     "primary": [
       "TEXAS-JOHN ANDERSON"
     ],
-    "result": "RCA",
-    "secondary": [],
-    "time": "2259",
-    "defense": "SHSU"
+    "length": -1,
+    "period": "SOP",
+    "extras": [],
+    "defense": "SHSU",
+    "result": "RCA"
   }
 }

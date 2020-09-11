@@ -1,462 +1,502 @@
 {
   "0": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "Brooms Up",
-    "primary": [
-      "KANSAS-IAN MCCABE"
-    ],
-    "result": "BU",
     "secondary": [
       "ROCHESTER-TIM KWAN"
     ],
-    "time": "0000"
-  },
-  "1": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "KANSAS",
+    "offense": "Brooms Up",
+    "result": "BU",
     "primary": [
       "KANSAS-IAN MCCABE"
     ],
-    "result": "GD",
+    "period": "FLOOR",
+    "extras": [],
+    "time": "0000"
+  },
+  "1": {
     "secondary": [],
+    "offense": "KANSAS",
     "time": "0014",
-    "defense": "ROCHESTER"
+    "primary": [
+      "KANSAS-IAN MCCABE"
+    ],
+    "length": 14,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "ROCHESTER",
+    "result": "GD"
   },
   "2": {
-    "extras": [],
-    "period": "FLOOR",
+    "secondary": [],
     "offense": "ROCHESTER",
+    "time": "0058",
     "primary": [
       "ROCHESTER-SAMANTHA DINGA"
     ],
-    "result": "EM",
-    "secondary": [],
-    "time": "0058",
-    "defense": "KANSAS"
+    "length": 44,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "KANSAS",
+    "result": "EM"
   },
   "3": {
-    "extras": [],
-    "period": "FLOOR",
+    "secondary": [],
     "offense": "KANSAS",
+    "time": "0129",
     "primary": [
       "KANSAS-MATT DWYER"
     ],
-    "result": "GD",
-    "secondary": [],
-    "time": "0129",
-    "defense": "ROCHESTER"
+    "length": 71,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "ROCHESTER",
+    "result": "GD"
   },
   "4": {
-    "extras": [],
-    "period": "FLOOR",
+    "secondary": [],
     "offense": "ROCHESTER",
+    "time": "0158",
     "primary": [
       "ROCHESTER-BASEM ASHKAR"
     ],
-    "result": "GS",
-    "secondary": [],
-    "time": "0158",
-    "defense": "KANSAS"
+    "length": 29,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "KANSAS",
+    "result": "GS"
   },
   "5": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "KANSAS",
-    "primary": [
-      "ROCHESTER-BASEM ASHKAR"
-    ],
-    "result": "TD",
     "secondary": [
       "KANSAS-BEN ENGELS",
       "KANSAS-MATT DWYER"
     ],
+    "offense": "KANSAS",
     "time": "0227",
-    "defense": "ROCHESTER"
+    "primary": [
+      "ROCHESTER-BASEM ASHKAR"
+    ],
+    "length": 69,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "ROCHESTER",
+    "result": "TD"
   },
   "6": {
-    "extras": [],
-    "period": "FLOOR",
+    "secondary": [
+      "ROCHESTER-BASEM ASHKAR"
+    ],
     "offense": "ROCHESTER",
+    "time": "0238",
     "primary": [
       "KANSAS-KEVIN MCMORRIS"
     ],
-    "result": "TC",
-    "secondary": [
-      "ROCHESTER-BASEM ASHKAR"
-    ],
-    "time": "0238",
-    "defense": "KANSAS"
+    "length": 11,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "KANSAS",
+    "result": "TC"
   },
   "7": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "KANSAS",
-    "primary": [
-      "KANSAS-BRYAN WEARY"
-    ],
-    "result": "GS",
     "secondary": [
       "KANSAS-MATT DWYER"
     ],
+    "offense": "KANSAS",
     "time": "0310",
-    "defense": "ROCHESTER"
+    "primary": [
+      "KANSAS-BRYAN WEARY"
+    ],
+    "length": 72,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "ROCHESTER",
+    "result": "GS"
   },
   "8": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "ROCHESTER",
-    "primary": [
-      "ROCHESTER-SAMANTHA DINGA"
-    ],
-    "result": "GP",
     "secondary": [
       "ROCHESTER-MADDISON JORDAN"
     ],
+    "offense": "ROCHESTER",
     "time": "0329",
-    "defense": "KANSAS"
+    "primary": [
+      "ROCHESTER-SAMANTHA DINGA"
+    ],
+    "length": 19,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "KANSAS",
+    "result": "GP"
   },
   "9": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "KANSAS",
-    "primary": [
-      "ROCHESTER-BASEM ASHKAR"
-    ],
-    "result": "TC",
     "secondary": [
       "KANSAS-BRYAN WEARY"
     ],
+    "offense": "KANSAS",
     "time": "0425",
-    "defense": "ROCHESTER"
-  },
-  "10": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "ROCHESTER",
     "primary": [
       "ROCHESTER-BASEM ASHKAR"
     ],
-    "result": "GD",
+    "length": 96,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "ROCHESTER",
+    "result": "TC"
+  },
+  "10": {
     "secondary": [],
+    "offense": "ROCHESTER",
     "time": "0453",
-    "defense": "KANSAS"
+    "primary": [
+      "ROCHESTER-BASEM ASHKAR"
+    ],
+    "length": 28,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "KANSAS",
+    "result": "GD"
   },
   "11": {
+    "secondary": [],
+    "offense": "KANSAS",
+    "time": "0546",
+    "primary": [
+      "KANSAS-BRYAN WEARY"
+    ],
+    "length": 93,
+    "period": "FLOOR",
     "extras": [
       [
         "Y",
         "ROCHESTER-BASEM ASHKAR"
       ]
     ],
-    "period": "FLOOR",
-    "offense": "KANSAS",
-    "primary": [
-      "KANSAS-BRYAN WEARY"
-    ],
-    "result": "GD",
-    "secondary": [],
-    "time": "0546",
-    "defense": "ROCHESTER"
+    "defense": "ROCHESTER",
+    "result": "GD"
   },
   "12": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "ROCHESTER",
-    "primary": [
-      "KANSAS-ADAM MCMORRIS"
-    ],
-    "result": "TB",
     "secondary": [
       "ROCHESTER-MIKE PASCUTOI"
     ],
+    "offense": "ROCHESTER",
     "time": "0617",
-    "defense": "KANSAS"
+    "primary": [
+      "KANSAS-ADAM MCMORRIS"
+    ],
+    "length": 71,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "KANSAS",
+    "result": "TB"
   },
   "13": {
-    "extras": [],
-    "period": "FLOOR",
+    "secondary": [],
     "offense": "KANSAS",
+    "time": "0622",
     "primary": [
       "KANSAS-BRYAN WEARY"
     ],
-    "result": "GS",
-    "secondary": [],
-    "time": "0622",
-    "defense": "ROCHESTER"
+    "length": 5,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "ROCHESTER",
+    "result": "GS"
   },
   "14": {
+    "secondary": [
+      "ROCHESTER-BASEM ASHKAR"
+    ],
+    "offense": "ROCHESTER",
+    "time": "0656",
+    "primary": [
+      "KANSAS-RYLEY ANDREWS"
+    ],
+    "length": 34,
+    "period": "FLOOR",
     "extras": [
       [
         "R",
         "KANSAS-RYLEY ANDREWS"
       ]
     ],
-    "period": "FLOOR",
-    "offense": "ROCHESTER",
-    "primary": [
-      "KANSAS-RYLEY ANDREWS"
-    ],
-    "result": "TB",
-    "secondary": [
-      "ROCHESTER-BASEM ASHKAR"
-    ],
-    "time": "0656",
-    "defense": "KANSAS"
+    "defense": "KANSAS",
+    "result": "TB"
   },
   "15": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "KANSAS",
-    "primary": [
-      "ROCHESTER-SAMANTHA DINGA"
-    ],
-    "result": "TD",
     "secondary": [
       "KANSAS-RACHEL HEALD",
       "KANSAS-MIKE DEVINE"
     ],
+    "offense": "KANSAS",
     "time": "0705",
-    "defense": "ROCHESTER"
+    "primary": [
+      "ROCHESTER-SAMANTHA DINGA"
+    ],
+    "length": 49,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "ROCHESTER",
+    "result": "TD"
   },
   "16": {
-    "extras": [],
-    "period": "FLOOR",
+    "secondary": [],
     "offense": "ROCHESTER",
+    "time": "0745",
     "primary": [
       "ROCHESTER-MIKE PASCUTOI"
     ],
-    "result": "GS",
-    "secondary": [],
-    "time": "0745",
-    "defense": "KANSAS"
+    "length": 40,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "KANSAS",
+    "result": "GS"
   },
   "17": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "KANSAS",
-    "primary": [
-      "ROCHESTER-PERRY WANG"
-    ],
-    "result": "TB",
     "secondary": [
       "KANSAS-MATT DWYER"
     ],
+    "offense": "KANSAS",
     "time": "0814",
-    "defense": "ROCHESTER"
+    "primary": [
+      "ROCHESTER-PERRY WANG"
+    ],
+    "length": 69,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "ROCHESTER",
+    "result": "TB"
   },
   "18": {
-    "extras": [],
-    "period": "FLOOR",
+    "secondary": [],
     "offense": "ROCHESTER",
+    "time": "0819",
     "primary": [
       "ROCHESTER-BASEM ASHKAR"
     ],
-    "result": "GD",
-    "secondary": [],
-    "time": "0819",
-    "defense": "KANSAS"
+    "length": 5,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "KANSAS",
+    "result": "GD"
   },
   "19": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "KANSAS",
-    "primary": [
-      "ROCHESTER-PERRY WANG"
-    ],
-    "result": "TB",
     "secondary": [
       "KANSAS-BEN ENGELS"
     ],
+    "offense": "KANSAS",
     "time": "0859",
-    "defense": "ROCHESTER"
+    "primary": [
+      "ROCHESTER-PERRY WANG"
+    ],
+    "length": 40,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "ROCHESTER",
+    "result": "TB"
   },
   "20": {
-    "extras": [],
-    "period": "FLOOR",
+    "secondary": [
+      "ROCHESTER-EMMA FOLEY"
+    ],
     "offense": "ROCHESTER",
+    "time": "0936",
     "primary": [
       "KANSAS-UNK"
     ],
-    "result": "TC",
-    "secondary": [
-      "ROCHESTER-EMMA FOLEY"
-    ],
-    "time": "0936",
-    "defense": "KANSAS"
+    "length": 77,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "KANSAS",
+    "result": "TC"
   },
   "21": {
-    "extras": [],
-    "period": "FLOOR",
+    "secondary": [],
     "offense": "KANSAS",
+    "time": "1008",
     "primary": [
       "KANSAS-MATT DWYER"
     ],
-    "result": "EM",
-    "secondary": [],
-    "time": "1008",
-    "defense": "ROCHESTER"
+    "length": 72,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "ROCHESTER",
+    "result": "EM"
   },
   "22": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "ROCHESTER",
-    "primary": [
-      "KANSAS-ADAM MCMORRIS"
-    ],
-    "result": "TB",
     "secondary": [
       "ROCHESTER-EMMA FOLEY"
     ],
+    "offense": "ROCHESTER",
     "time": "1035",
-    "defense": "KANSAS"
+    "primary": [
+      "KANSAS-ADAM MCMORRIS"
+    ],
+    "length": 27,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "KANSAS",
+    "result": "TB"
   },
   "23": {
+    "secondary": [
+      "KANSAS-BEN ENGELS",
+      "KANSAS-MATT DWYER"
+    ],
+    "offense": "KANSAS",
+    "time": "1130",
+    "primary": [
+      "ROCHESTER-MADDISON JORDAN"
+    ],
+    "length": 95,
+    "period": "FLOOR",
     "extras": [
       [
         "R",
         "ROCHESTER-TIM KWAN"
       ]
     ],
-    "period": "FLOOR",
-    "offense": "KANSAS",
-    "primary": [
-      "ROCHESTER-MADDISON JORDAN"
-    ],
-    "result": "TD",
-    "secondary": [
-      "KANSAS-BEN ENGELS",
-      "KANSAS-MATT DWYER"
-    ],
-    "time": "1130",
-    "defense": "ROCHESTER"
+    "defense": "ROCHESTER",
+    "result": "TD"
   },
   "24": {
-    "extras": [],
-    "period": "FLOOR",
+    "secondary": [],
     "offense": "ROCHESTER",
+    "time": "1135",
     "primary": [
       "ROCHESTER-BASEM ASHKAR"
     ],
-    "result": "GD",
-    "secondary": [],
-    "time": "1135",
-    "defense": "KANSAS"
+    "length": 5,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "KANSAS",
+    "result": "GD"
   },
   "25": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "KANSAS",
-    "primary": [
-      "KANSAS-KEVIN MCMORRIS"
-    ],
-    "result": "EP",
     "secondary": [
       "KANSAS-BRANDON TABOR"
     ],
+    "offense": "KANSAS",
     "time": "1218",
-    "defense": "ROCHESTER"
-  },
-  "26": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "ROCHESTER",
-    "primary": [
-      "ROCHESTER-BASEM ASHKAR"
-    ],
-    "result": "GD",
-    "secondary": [],
-    "time": "1252",
-    "defense": "KANSAS"
-  },
-  "27": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "KANSAS",
-    "primary": [
-      "KANSAS-MIKE DEVINE"
-    ],
-    "result": "EM",
-    "secondary": [],
-    "time": "1330",
-    "defense": "ROCHESTER"
-  },
-  "28": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "ROCHESTER",
-    "primary": [
-      "ROCHESTER-BASEM ASHKAR"
-    ],
-    "result": "GD",
-    "secondary": [],
-    "time": "1401",
-    "defense": "KANSAS"
-  },
-  "29": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "KANSAS",
     "primary": [
       "KANSAS-KEVIN MCMORRIS"
     ],
-    "result": "GS",
+    "length": 83,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "ROCHESTER",
+    "result": "EP"
+  },
+  "26": {
     "secondary": [],
+    "offense": "ROCHESTER",
+    "time": "1252",
+    "primary": [
+      "ROCHESTER-BASEM ASHKAR"
+    ],
+    "length": 34,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "KANSAS",
+    "result": "GD"
+  },
+  "27": {
+    "secondary": [],
+    "offense": "KANSAS",
+    "time": "1330",
+    "primary": [
+      "KANSAS-MIKE DEVINE"
+    ],
+    "length": 78,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "ROCHESTER",
+    "result": "EM"
+  },
+  "28": {
+    "secondary": [],
+    "offense": "ROCHESTER",
+    "time": "1401",
+    "primary": [
+      "ROCHESTER-BASEM ASHKAR"
+    ],
+    "length": 71,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "KANSAS",
+    "result": "GD"
+  },
+  "29": {
+    "secondary": [],
+    "offense": "KANSAS",
     "time": "1444",
-    "defense": "ROCHESTER"
+    "primary": [
+      "KANSAS-KEVIN MCMORRIS"
+    ],
+    "length": 43,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "ROCHESTER",
+    "result": "GS"
   },
   "30": {
+    "secondary": [],
+    "offense": "ROCHESTER",
+    "time": "1609",
+    "primary": [
+      "ROCHESTER-MIKE PASCUTOI"
+    ],
+    "length": 165,
+    "period": "FLOOR",
     "extras": [
       [
         "R",
         "KANSAS-RYLEY ANDREWS"
       ]
     ],
-    "period": "FLOOR",
-    "offense": "ROCHESTER",
-    "primary": [
-      "ROCHESTER-MIKE PASCUTOI"
-    ],
-    "result": "GS",
-    "secondary": [],
-    "time": "1609",
-    "defense": "KANSAS"
+    "defense": "KANSAS",
+    "result": "GS"
   },
   "31": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "KANSAS",
-    "primary": [
-      "ROCHESTER-TIM KWAN"
-    ],
-    "result": "TB",
     "secondary": [
       "KANSAS-BRANDON TABOR"
     ],
+    "offense": "KANSAS",
     "time": "1651",
-    "defense": "ROCHESTER"
+    "primary": [
+      "ROCHESTER-TIM KWAN"
+    ],
+    "length": 42,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "ROCHESTER",
+    "result": "TB"
   },
   "32": {
+    "secondary": [
+      "ROCHESTER-OWYN GUINNIP"
+    ],
+    "offense": "ROCHESTER",
+    "time": "1745",
+    "primary": [
+      "ROCHESTER-BASEM ASHKAR"
+    ],
+    "length": 94,
+    "period": "FLOOR",
     "extras": [
       [
         "R",
         "KANSAS-15"
       ]
     ],
-    "period": "FLOOR",
-    "offense": "ROCHESTER",
-    "primary": [
-      "ROCHESTER-BASEM ASHKAR"
-    ],
-    "result": "EP",
-    "secondary": [
-      "ROCHESTER-OWYN GUINNIP"
-    ],
-    "time": "1745",
-    "defense": "KANSAS"
+    "defense": "KANSAS",
+    "result": "EP"
   },
   "33": {
+    "secondary": [],
+    "offense": "KANSAS",
+    "time": "1837",
+    "primary": [
+      "KANSAS-UNK"
+    ],
+    "length": 92,
+    "period": "SOP",
     "extras": [
       [
         "SOP",
@@ -467,50 +507,46 @@
         "ROCHESTER-MIKE PASCUTOI"
       ]
     ],
-    "period": "SOP",
-    "offense": "KANSAS",
-    "primary": [
-      "KANSAS-UNK"
-    ],
-    "result": "G",
-    "secondary": [],
-    "time": "1837",
-    "defense": "ROCHESTER"
+    "defense": "ROCHESTER",
+    "result": "G"
   },
   "34": {
-    "extras": [],
-    "period": "SOP",
+    "secondary": [],
     "offense": "ROCHESTER",
+    "time": "1850",
     "primary": [
       "ROCHESTER-UNK"
     ],
-    "result": "G",
-    "secondary": [],
-    "time": "1850",
-    "defense": "KANSAS"
+    "length": 13,
+    "period": "SOP",
+    "extras": [],
+    "defense": "KANSAS",
+    "result": "G"
   },
   "35": {
-    "extras": [],
-    "period": "SOP",
+    "secondary": [],
     "offense": "KANSAS",
+    "time": "1918",
     "primary": [
       "KANSAS-UNK"
     ],
-    "result": "G",
-    "secondary": [],
-    "time": "1918",
-    "defense": "ROCHESTER"
+    "length": 68,
+    "period": "SOP",
+    "extras": [],
+    "defense": "ROCHESTER",
+    "result": "G"
   },
   "36": {
-    "extras": [],
-    "period": "SOP",
+    "secondary": [],
     "offense": "ROCHESTER",
+    "time": "2003",
     "primary": [
       "ROCHESTER-MIKE PASCUTOI"
     ],
-    "result": "RCA",
-    "secondary": [],
-    "time": "2003",
-    "defense": "KANSAS"
+    "length": -1,
+    "period": "SOP",
+    "extras": [],
+    "defense": "KANSAS",
+    "result": "RCA"
   }
 }

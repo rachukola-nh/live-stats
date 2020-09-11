@@ -1,490 +1,525 @@
 {
   "0": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "Brooms Up",
-    "primary": [
-      "TEXAS-DAVIS ROE"
-    ],
-    "result": "BU",
     "secondary": [
       "MIZZOU-15"
     ],
+    "offense": "Brooms Up",
+    "result": "BU",
+    "primary": [
+      "TEXAS-DAVIS ROE"
+    ],
+    "period": "FLOOR",
+    "extras": [],
     "time": "0000"
   },
   "1": {
-    "extras": [],
-    "period": "",
-    "offense": "TEXAS",
-    "primary": [
-      "MIZZOU-UNK"
-    ],
-    "result": "TB",
     "secondary": [
       "TEXAS-DAVIS ROE"
     ],
+    "offense": "TEXAS",
     "time": "",
-    "defense": "MIZZOU"
-  },
-  "2": {
-    "extras": [],
-    "period": "",
-    "offense": "MIZZOU",
     "primary": [
       "MIZZOU-UNK"
     ],
-    "result": "GP",
+    "length": -1,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "MIZZOU",
+    "result": "TB"
+  },
+  "2": {
     "secondary": [
       "MIZZOU-UNK"
     ],
+    "offense": "MIZZOU",
     "time": "",
-    "defense": "TEXAS"
+    "primary": [
+      "MIZZOU-UNK"
+    ],
+    "length": -1,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TEXAS",
+    "result": "GP"
   },
   "3": {
-    "extras": [],
-    "period": "",
+    "secondary": [
+      "TEXAS-AIDAN PARSI"
+    ],
     "offense": "TEXAS",
+    "time": "",
     "primary": [
       "TEXAS-KASYE BEVERS"
     ],
-    "result": "GP",
-    "secondary": [
-      "TEXAS-AIDAN PARSI"
-    ],
-    "time": "",
-    "defense": "MIZZOU"
+    "length": -1,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "MIZZOU",
+    "result": "GP"
   },
   "4": {
-    "extras": [],
-    "period": "",
-    "offense": "MIZZOU",
-    "primary": [
-      "TEXAS-AIDAN PARSI"
-    ],
-    "result": "TC",
     "secondary": [
       "MIZZOU-UNK"
     ],
+    "offense": "MIZZOU",
     "time": "",
-    "defense": "TEXAS"
+    "primary": [
+      "TEXAS-AIDAN PARSI"
+    ],
+    "length": -1,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TEXAS",
+    "result": "TC"
   },
   "5": {
-    "extras": [],
-    "period": "",
+    "secondary": [],
     "offense": "TEXAS",
+    "time": "",
     "primary": [
       "TEXAS-LUKE MEISSNER"
     ],
-    "result": "GS",
-    "secondary": [],
-    "time": "",
-    "defense": "MIZZOU"
+    "length": -1,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "MIZZOU",
+    "result": "GS"
   },
   "6": {
-    "extras": [],
-    "period": "",
-    "offense": "MIZZOU",
-    "primary": [
-      "TEXAS-LUKE MEISSNER"
-    ],
-    "result": "TD",
     "secondary": [
       "MIZZOU-UNK",
       "MIZZOU-UNK"
     ],
+    "offense": "MIZZOU",
     "time": "",
-    "defense": "TEXAS"
+    "primary": [
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "length": -1,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TEXAS",
+    "result": "TD"
   },
   "7": {
-    "extras": [],
-    "period": "",
-    "offense": "TEXAS",
-    "primary": [
-      "MIZZOU-UNK"
-    ],
-    "result": "TB",
     "secondary": [
       "TEXAS-AIDAN PARSI"
     ],
+    "offense": "TEXAS",
     "time": "",
-    "defense": "MIZZOU"
-  },
-  "8": {
-    "extras": [],
-    "period": "",
-    "offense": "MIZZOU",
     "primary": [
       "MIZZOU-UNK"
     ],
-    "result": "GS",
+    "length": -1,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "MIZZOU",
+    "result": "TB"
+  },
+  "8": {
     "secondary": [
       "MIZZOU-UNK"
     ],
+    "offense": "MIZZOU",
     "time": "",
-    "defense": "TEXAS"
+    "primary": [
+      "MIZZOU-UNK"
+    ],
+    "length": -1,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TEXAS",
+    "result": "GS"
   },
   "9": {
-    "extras": [],
-    "period": "",
+    "secondary": [],
     "offense": "TEXAS",
+    "time": "",
     "primary": [
       "TEXAS-DAVIS ROE"
     ],
-    "result": "EM",
-    "secondary": [],
-    "time": "",
-    "defense": "MIZZOU"
+    "length": -1,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "MIZZOU",
+    "result": "EM"
   },
   "10": {
-    "extras": [],
-    "period": "",
-    "offense": "MIZZOU",
-    "primary": [
-      "TEXAS-AIDAN PARSI"
-    ],
-    "result": "TC",
     "secondary": [
       "MIZZOU-UNK"
     ],
+    "offense": "MIZZOU",
     "time": "",
-    "defense": "TEXAS"
+    "primary": [
+      "TEXAS-AIDAN PARSI"
+    ],
+    "length": -1,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TEXAS",
+    "result": "TC"
   },
   "11": {
-    "extras": [],
-    "period": "",
-    "offense": "TEXAS",
-    "primary": [
-      "TEXAS-LUKE MEISSNER"
-    ],
-    "result": "GP",
     "secondary": [
       "TEXAS-JOSH JOHNSON"
     ],
+    "offense": "TEXAS",
     "time": "",
-    "defense": "MIZZOU"
-  },
-  "12": {
-    "extras": [],
-    "period": "",
-    "offense": "MIZZOU",
     "primary": [
       "TEXAS-LUKE MEISSNER"
     ],
-    "result": "TD",
+    "length": -1,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "MIZZOU",
+    "result": "GP"
+  },
+  "12": {
     "secondary": [
       "MIZZOU-UNK",
       "MIZZOU-UNK"
     ],
+    "offense": "MIZZOU",
     "time": "",
-    "defense": "TEXAS"
-  },
-  "13": {
-    "extras": [],
-    "period": "",
-    "offense": "TEXAS",
     "primary": [
       "TEXAS-LUKE MEISSNER"
     ],
-    "result": "GD",
+    "length": -1,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TEXAS",
+    "result": "TD"
+  },
+  "13": {
     "secondary": [],
+    "offense": "TEXAS",
     "time": "",
-    "defense": "MIZZOU"
+    "primary": [
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "length": -1,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "MIZZOU",
+    "result": "GD"
   },
   "14": {
-    "extras": [],
-    "period": "",
+    "secondary": [
+      "MIZZOU-UNK"
+    ],
     "offense": "MIZZOU",
+    "time": "",
     "primary": [
       "TEXAS-KYLIE MCBRIDE"
     ],
-    "result": "TB",
-    "secondary": [
-      "MIZZOU-UNK"
-    ],
-    "time": "",
-    "defense": "TEXAS"
+    "length": -1,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TEXAS",
+    "result": "TB"
   },
   "15": {
-    "extras": [],
-    "period": "",
+    "secondary": [],
     "offense": "TEXAS",
+    "time": "",
     "primary": [
       "TEXAS-DYLAN BOTTOMS"
     ],
-    "result": "GD",
-    "secondary": [],
-    "time": "",
-    "defense": "MIZZOU"
+    "length": -1,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "MIZZOU",
+    "result": "GD"
   },
   "16": {
-    "extras": [],
-    "period": "",
+    "secondary": [
+      "MIZZOU-UNK"
+    ],
     "offense": "MIZZOU",
+    "time": "",
     "primary": [
       "TEXAS-JACK WANG"
     ],
-    "result": "TB",
-    "secondary": [
-      "MIZZOU-UNK"
-    ],
-    "time": "",
-    "defense": "TEXAS"
+    "length": -1,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TEXAS",
+    "result": "TB"
   },
   "17": {
-    "extras": [],
-    "period": "",
+    "secondary": [],
     "offense": "TEXAS",
+    "time": "",
     "primary": [
       "TEXAS-JOSH JOHNSON"
     ],
-    "result": "GD",
-    "secondary": [],
-    "time": "",
-    "defense": "MIZZOU"
+    "length": -1,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "MIZZOU",
+    "result": "GD"
   },
   "18": {
-    "extras": [],
-    "period": "",
-    "offense": "MIZZOU",
-    "primary": [
-      "MIZZOU-UNK"
-    ],
-    "result": "EP",
     "secondary": [
       "MIZZOU-UNK"
     ],
+    "offense": "MIZZOU",
     "time": "",
-    "defense": "TEXAS"
+    "primary": [
+      "MIZZOU-UNK"
+    ],
+    "length": -1,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TEXAS",
+    "result": "EP"
   },
   "19": {
-    "extras": [],
-    "period": "",
+    "secondary": [],
     "offense": "TEXAS",
+    "time": "",
     "primary": [
       "TEXAS-JOSH JOHNSON"
     ],
-    "result": "GS",
-    "secondary": [],
-    "time": "",
-    "defense": "MIZZOU"
+    "length": -1,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "MIZZOU",
+    "result": "GS"
   },
   "20": {
-    "extras": [],
-    "period": "",
+    "secondary": [],
     "offense": "MIZZOU",
+    "time": "",
     "primary": [
       "MIZZOU-UNK"
     ],
-    "result": "EM",
-    "secondary": [],
-    "time": "",
-    "defense": "TEXAS"
+    "length": -1,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TEXAS",
+    "result": "EM"
   },
   "21": {
-    "extras": [],
-    "period": "",
-    "offense": "TEXAS",
-    "primary": [
-      "MIZZOU-UNK"
-    ],
-    "result": "TD",
     "secondary": [
       "TEXAS-DYLAN BOTTOMS",
       "TEXAS-SPENCER FORBES"
     ],
+    "offense": "TEXAS",
     "time": "",
-    "defense": "MIZZOU"
+    "primary": [
+      "MIZZOU-UNK"
+    ],
+    "length": -1,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "MIZZOU",
+    "result": "TD"
   },
   "22": {
-    "extras": [],
-    "period": "",
-    "offense": "MIZZOU",
-    "primary": [
-      "TEXAS-KYLIE MCBRIDE"
-    ],
-    "result": "TB",
     "secondary": [
       "MIZZOU-UNK"
     ],
+    "offense": "MIZZOU",
     "time": "",
-    "defense": "TEXAS"
+    "primary": [
+      "TEXAS-KYLIE MCBRIDE"
+    ],
+    "length": -1,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TEXAS",
+    "result": "TB"
   },
   "23": {
+    "secondary": [
+      "TEXAS-AIDAN PARSI",
+      "TEXAS-JOSH JOHNSON"
+    ],
+    "offense": "TEXAS",
+    "time": "",
+    "primary": [
+      "MIZZOU-UNK"
+    ],
+    "length": -1,
+    "period": "FLOOR",
     "extras": [
       [
         "R",
         "MIZZOU-UNK"
       ]
     ],
-    "period": "",
-    "offense": "TEXAS",
-    "primary": [
-      "MIZZOU-UNK"
-    ],
-    "result": "TD",
-    "secondary": [
-      "TEXAS-AIDAN PARSI",
-      "TEXAS-JOSH JOHNSON"
-    ],
-    "time": "",
-    "defense": "MIZZOU"
+    "defense": "MIZZOU",
+    "result": "TD"
   },
   "24": {
-    "extras": [],
-    "period": "",
+    "secondary": [],
     "offense": "MIZZOU",
+    "time": "",
     "primary": [
       "MIZZOU-UNK"
     ],
-    "result": "GS",
-    "secondary": [],
-    "time": "",
-    "defense": "TEXAS"
+    "length": -1,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TEXAS",
+    "result": "GS"
   },
   "25": {
-    "extras": [],
-    "period": "",
-    "offense": "TEXAS",
-    "primary": [
-      "MIZZOU-UNK"
-    ],
-    "result": "TC",
     "secondary": [
       "TEXAS-DYLAN BOTTOMS"
     ],
+    "offense": "TEXAS",
     "time": "",
-    "defense": "MIZZOU"
-  },
-  "26": {
-    "extras": [],
-    "period": "",
-    "offense": "MIZZOU",
     "primary": [
       "MIZZOU-UNK"
     ],
-    "result": "EM",
+    "length": -1,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "MIZZOU",
+    "result": "TC"
+  },
+  "26": {
     "secondary": [],
+    "offense": "MIZZOU",
     "time": "",
-    "defense": "TEXAS"
+    "primary": [
+      "MIZZOU-UNK"
+    ],
+    "length": -1,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TEXAS",
+    "result": "EM"
   },
   "27": {
-    "extras": [],
-    "period": "",
+    "secondary": [],
     "offense": "TEXAS",
+    "time": "",
     "primary": [
       "TEXAS-JOSH JOHNSON"
     ],
-    "result": "GS",
-    "secondary": [],
-    "time": "",
-    "defense": "MIZZOU"
+    "length": -1,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "MIZZOU",
+    "result": "GS"
   },
   "28": {
-    "extras": [],
-    "period": "",
+    "secondary": [],
     "offense": "MIZZOU",
+    "time": "",
     "primary": [
       "MIZZOU-UNK"
     ],
-    "result": "GS",
-    "secondary": [],
-    "time": "",
-    "defense": "TEXAS"
+    "length": -1,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TEXAS",
+    "result": "GS"
   },
   "29": {
-    "extras": [],
-    "period": "",
-    "offense": "TEXAS",
-    "primary": [
-      "TEXAS-DAVIS ROE"
-    ],
-    "result": "GD",
     "secondary": [
       "TEXAS-MICHAEL JOHNSTON"
     ],
+    "offense": "TEXAS",
     "time": "",
-    "defense": "MIZZOU"
+    "primary": [
+      "TEXAS-DAVIS ROE"
+    ],
+    "length": -1,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "MIZZOU",
+    "result": "GD"
   },
   "30": {
-    "extras": [],
-    "period": "",
-    "offense": "MIZZOU",
-    "primary": [
-      "MIZZOU-UNK"
-    ],
-    "result": "EP",
     "secondary": [
       "MIZZOU-UNK"
     ],
+    "offense": "MIZZOU",
     "time": "",
-    "defense": "TEXAS"
+    "primary": [
+      "MIZZOU-UNK"
+    ],
+    "length": -1,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TEXAS",
+    "result": "EP"
   },
   "31": {
-    "extras": [],
-    "period": "",
-    "offense": "TEXAS",
-    "primary": [
-      "TEXAS-KASYE BEVERS"
-    ],
-    "result": "EP",
     "secondary": [
       "TEXAS-DAVIS ROE"
     ],
+    "offense": "TEXAS",
     "time": "",
-    "defense": "MIZZOU"
+    "primary": [
+      "TEXAS-KASYE BEVERS"
+    ],
+    "length": -1,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "MIZZOU",
+    "result": "EP"
   },
   "32": {
-    "extras": [],
-    "period": "",
-    "offense": "MIZZOU",
-    "primary": [
-      "MIZZOU-UNK"
-    ],
-    "result": "ED",
     "secondary": [
       "MIZZOU-UNK"
     ],
+    "offense": "MIZZOU",
     "time": "",
-    "defense": "TEXAS"
-  },
-  "33": {
-    "extras": [],
-    "period": "",
-    "offense": "TEXAS",
     "primary": [
       "MIZZOU-UNK"
     ],
-    "result": "TL",
+    "length": -1,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TEXAS",
+    "result": "ED"
+  },
+  "33": {
     "secondary": [
       "TEXAS-LUKE MEISSNER"
     ],
+    "offense": "TEXAS",
     "time": "",
-    "defense": "MIZZOU"
+    "primary": [
+      "MIZZOU-UNK"
+    ],
+    "length": -1,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "MIZZOU",
+    "result": "TL"
   },
   "34": {
-    "extras": [],
-    "period": "",
-    "offense": "MIZZOU",
-    "primary": [
-      "TEXAS-UNK"
-    ],
-    "result": "TC",
     "secondary": [
       "MIZZOU-6"
     ],
+    "offense": "MIZZOU",
     "time": "",
-    "defense": "TEXAS"
+    "primary": [
+      "TEXAS-UNK"
+    ],
+    "length": -1,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TEXAS",
+    "result": "TC"
   },
   "35": {
-    "extras": [],
-    "period": "",
+    "secondary": [],
     "offense": "TEXAS",
+    "time": "",
     "primary": [
       "TEXAS-JOEY CASTELLANO"
     ],
-    "result": "RCA",
-    "secondary": [],
-    "time": "",
-    "defense": "MIZZOU"
+    "length": -1,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "MIZZOU",
+    "result": "RCA"
   }
 }

@@ -138,7 +138,19 @@ def get_possessions(data_rows):
                 possessions.append(pos)
     return possessions
 def get_extras(extra):
-    return [(x[:2],x[2:]) if x[0].isdigit() else (x[0],x[1:] if len(x)>1 else None) for x in extra.split(',')  ] if extra else []
+    if not extra:
+        return  []
+    else:
+        extra_list = []
+        for x in extra.split(','):
+            if x[0].isdigit():
+                extra_list.append( (x[:2],x[2:]))
+            else:
+                if len(x)>1:
+                    extra_list.append((x[0],x[1:]))
+                else:
+                    extra_list.append((x[0],None))
+        return extra_list
 def process_extra(ex, roster,teams,offense,defense):
     etype,eplayer = ex
     if etype == 'S':
@@ -297,6 +309,29 @@ def ind_stats(interpreted_list):
     df = pd.DataFrame(stats).dropna(how='all').fillna(0).astype(int).sort_values(by=['Goals','Assists','Errors'],ascending=[False,False,True])
     return df
 
+def add_times(play_list):
+    first_play = True
+    last_play = None
+    period = 'FLOOR'
+    for play in play_list:
+        if play['extras'] and 'SOP' in [e[0] for e in play['extras']]:
+            period='SOP'
+        if not play['period']:
+            play['period']=period
+        if first_play:
+            first_play = False
+            last_play = play
+            continue
+        else:
+            is_snitch_play = lambda x: x['result'] and x['result'] in ['RCA','RCB','OCA','OCB','2CA','2CB']
+            has_time = lambda x: 'time' in x and len(x['time'])>3 and x['time'].isnumeric()
+
+            if play and not is_snitch_play(play) and has_time(play) and has_time(last_play):
+                play['length'] = int(play['time']) -int(last_play['time'])
+            else:
+                play['length']=-1
+            last_play = play
+
 def process_file(ifile):
     stem = ifile.split('.xls')[0]
     print('Processing Game: {}'.format(stem),end='')
@@ -310,6 +345,7 @@ def process_file(ifile):
     get_brooms_up(header,roster,teams)
     possessions = get_possessions(data)
     interpreted = [get_brooms_up(header,roster,teams)]+[interpret(pos,roster,teams) for pos in possessions]
+    add_times(interpreted)
     with open(json_output_file,'w+') as f:
         json.dump({i:v for i,v in enumerate(interpreted)},f,indent=2)
     print('.',end='')

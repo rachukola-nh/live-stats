@@ -1,555 +1,595 @@
 {
   "0": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "Brooms Up",
-    "primary": [
-      "TAMU-CONNOR MCINTYRE"
-    ],
-    "result": "BU",
     "secondary": [
       "SHSU-BALDEMAR NUNEZ"
     ],
+    "offense": "Brooms Up",
+    "result": "BU",
+    "primary": [
+      "TAMU-CONNOR MCINTYRE"
+    ],
+    "period": "FLOOR",
+    "extras": [],
     "time": "0000"
   },
   "1": {
-    "extras": [],
-    "period": "",
-    "offense": "TAMU",
-    "primary": [
-      "TAMU-TYLER PEARSON"
-    ],
-    "result": "ED",
     "secondary": [
       "TAMU-HAYDAN ALTMAN"
     ],
+    "offense": "TAMU",
     "time": "",
-    "defense": "SHSU"
+    "primary": [
+      "TAMU-TYLER PEARSON"
+    ],
+    "length": -1,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "SHSU",
+    "result": "ED"
   },
   "2": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "SHSU",
-    "primary": [
-      "TAMU-HAYDAN ALTMAN"
-    ],
-    "result": "TD",
     "secondary": [
       "SHSU-CHRIS DORSEY",
       "SHSU-THOMAS MORGAN"
     ],
+    "offense": "SHSU",
     "time": "0035",
-    "defense": "TAMU"
+    "primary": [
+      "TAMU-HAYDAN ALTMAN"
+    ],
+    "length": -1,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TAMU",
+    "result": "TD"
   },
   "3": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "TAMU",
-    "primary": [
-      "SHSU-HAYDEN BOYES"
-    ],
-    "result": "TD",
     "secondary": [
       "TAMU-CONNOR MCINTYRE",
       "TAMU-HAYDAN ALTMAN"
     ],
+    "offense": "TAMU",
     "time": "0120",
-    "defense": "SHSU"
-  },
-  "4": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "SHSU",
     "primary": [
       "SHSU-HAYDEN BOYES"
     ],
-    "result": "GD",
+    "length": 85,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "SHSU",
+    "result": "TD"
+  },
+  "4": {
     "secondary": [],
+    "offense": "SHSU",
     "time": "0123",
-    "defense": "TAMU"
+    "primary": [
+      "SHSU-HAYDEN BOYES"
+    ],
+    "length": 3,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TAMU",
+    "result": "GD"
   },
   "5": {
-    "extras": [],
-    "period": "FLOOR",
+    "secondary": [],
     "offense": "TAMU",
+    "time": "0210",
     "primary": [
       "TAMU-CONNOR MCINTYRE"
     ],
-    "result": "EM",
-    "secondary": [],
-    "time": "0210",
-    "defense": "SHSU"
+    "length": 87,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "SHSU",
+    "result": "EM"
   },
   "6": {
-    "extras": [],
-    "period": "FLOOR",
+    "secondary": [
+      "SHSU-HAYDEN BOYES"
+    ],
     "offense": "SHSU",
+    "time": "0250",
     "primary": [
       "TAMU-MILES TRAVIS"
     ],
-    "result": "TB",
-    "secondary": [
-      "SHSU-HAYDEN BOYES"
-    ],
-    "time": "0250",
-    "defense": "TAMU"
+    "length": 40,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TAMU",
+    "result": "TB"
   },
   "7": {
-    "extras": [],
-    "period": "FLOOR",
+    "secondary": [],
     "offense": "TAMU",
+    "time": "0258",
     "primary": [
       "TAMU-CONNOR MCINTYRE"
     ],
-    "result": "GD",
-    "secondary": [],
-    "time": "0258",
-    "defense": "SHSU"
+    "length": 8,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "SHSU",
+    "result": "GD"
   },
   "8": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "SHSU",
-    "primary": [
-      "TAMU-HAYDAN ALTMAN"
-    ],
-    "result": "TC",
     "secondary": [
       "SHSU-CHRIS DORSEY"
     ],
+    "offense": "SHSU",
     "time": "0340",
-    "defense": "TAMU"
+    "primary": [
+      "TAMU-HAYDAN ALTMAN"
+    ],
+    "length": 82,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TAMU",
+    "result": "TC"
   },
   "9": {
-    "extras": [],
-    "period": "FLOOR",
+    "secondary": [],
     "offense": "TAMU",
+    "time": "0345",
     "primary": [
       "TAMU-CONNOR MCINTYRE"
     ],
-    "result": "GD",
-    "secondary": [],
-    "time": "0345",
-    "defense": "SHSU"
+    "length": 5,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "SHSU",
+    "result": "GD"
   },
   "10": {
-    "extras": [],
-    "period": "FLOOR",
+    "secondary": [],
     "offense": "SHSU",
+    "time": "0429",
     "primary": [
       "SHSU-THOMAS MORGAN"
     ],
-    "result": "EM",
-    "secondary": [],
-    "time": "0429",
-    "defense": "TAMU"
+    "length": 84,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TAMU",
+    "result": "EM"
   },
   "11": {
-    "extras": [],
-    "period": "FLOOR",
+    "secondary": [
+      "TAMU-HAYDAN ALTMAN"
+    ],
     "offense": "TAMU",
+    "time": "0447",
     "primary": [
       "TAMU-TYLER PEARSON"
     ],
-    "result": "GD",
-    "secondary": [
-      "TAMU-HAYDAN ALTMAN"
-    ],
-    "time": "0447",
-    "defense": "SHSU"
+    "length": 18,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "SHSU",
+    "result": "GD"
   },
   "12": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "SHSU",
-    "primary": [
-      "SHSU-23"
-    ],
-    "result": "EP",
     "secondary": [
       "SHSU-HALEY DUPRE"
     ],
+    "offense": "SHSU",
     "time": "0500",
-    "defense": "TAMU"
+    "primary": [
+      "SHSU-23"
+    ],
+    "length": 53,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TAMU",
+    "result": "EP"
   },
   "13": {
-    "extras": [],
-    "period": "FLOOR",
+    "secondary": [
+      "TAMU-HAYDAN ALTMAN"
+    ],
     "offense": "TAMU",
+    "time": "0515",
     "primary": [
       "TAMU-87"
     ],
-    "result": "ED",
-    "secondary": [
-      "TAMU-HAYDAN ALTMAN"
-    ],
-    "time": "0515",
-    "defense": "SHSU"
+    "length": 15,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "SHSU",
+    "result": "ED"
   },
   "14": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "SHSU",
-    "primary": [
-      "SHSU-HALEY DUPRE"
-    ],
-    "result": "GP",
     "secondary": [
       "SHSU-23"
     ],
+    "offense": "SHSU",
     "time": "0553",
-    "defense": "TAMU"
+    "primary": [
+      "SHSU-HALEY DUPRE"
+    ],
+    "length": 38,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TAMU",
+    "result": "GP"
   },
   "15": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "TAMU",
-    "primary": [
-      "SHSU-31"
-    ],
-    "result": "TD",
     "secondary": [
       "TAMU-HAYDAN ALTMAN",
       "TAMU-87"
     ],
+    "offense": "TAMU",
     "time": "0630",
-    "defense": "SHSU"
+    "primary": [
+      "SHSU-31"
+    ],
+    "length": 77,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "SHSU",
+    "result": "TD"
   },
   "16": {
-    "extras": [],
-    "period": "FLOOR",
+    "secondary": [],
     "offense": "SHSU",
+    "time": "0700",
     "primary": [
       "SHSU-21"
     ],
-    "result": "GD",
-    "secondary": [],
-    "time": "0700",
-    "defense": "TAMU"
+    "length": 70,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TAMU",
+    "result": "GD"
   },
   "17": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "TAMU",
-    "primary": [
-      "TAMU-CAMERON VILLAMIL"
-    ],
-    "result": "EP",
     "secondary": [
       "TAMU-87"
     ],
+    "offense": "TAMU",
     "time": "0756",
-    "defense": "SHSU"
+    "primary": [
+      "TAMU-CAMERON VILLAMIL"
+    ],
+    "length": 56,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "SHSU",
+    "result": "EP"
   },
   "18": {
-    "extras": [],
-    "period": "FLOOR",
+    "secondary": [
+      "SHSU-HAYDEN BOYES"
+    ],
     "offense": "SHSU",
+    "time": "0837",
     "primary": [
       "TAMU-ANGELA HEMBREE"
     ],
-    "result": "TB",
-    "secondary": [
-      "SHSU-HAYDEN BOYES"
-    ],
-    "time": "0837",
-    "defense": "TAMU"
+    "length": 81,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TAMU",
+    "result": "TB"
   },
   "19": {
-    "extras": [],
-    "period": "FLOOR",
+    "secondary": [],
     "offense": "TAMU",
+    "time": "0840",
     "primary": [
       "TAMU-CONNOR MCINTYRE"
     ],
-    "result": "GD",
-    "secondary": [],
-    "time": "0840",
-    "defense": "SHSU"
+    "length": 3,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "SHSU",
+    "result": "GD"
   },
   "20": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "SHSU",
-    "primary": [
-      "SHSU-KEENAN NASH"
-    ],
-    "result": "GP",
     "secondary": [
       "SHSU-HAYDEN BOYES"
     ],
+    "offense": "SHSU",
     "time": "0905",
-    "defense": "TAMU"
+    "primary": [
+      "SHSU-KEENAN NASH"
+    ],
+    "length": 65,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TAMU",
+    "result": "GP"
   },
   "21": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "TAMU",
-    "primary": [
-      "SHSU-25"
-    ],
-    "result": "TD",
     "secondary": [
       "TAMU-CONNOR MCINTYRE",
       "TAMU-87"
     ],
+    "offense": "TAMU",
     "time": "0959",
-    "defense": "SHSU"
+    "primary": [
+      "SHSU-25"
+    ],
+    "length": 54,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "SHSU",
+    "result": "TD"
   },
   "22": {
-    "extras": [],
-    "period": "FLOOR",
+    "secondary": [
+      "SHSU-HAYDEN BOYES"
+    ],
     "offense": "SHSU",
+    "time": "1010",
     "primary": [
       "TAMU-ANGELA HEMBREE"
     ],
-    "result": "TB",
-    "secondary": [
-      "SHSU-HAYDEN BOYES"
-    ],
-    "time": "1010",
-    "defense": "TAMU"
+    "length": 51,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TAMU",
+    "result": "TB"
   },
   "23": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "TAMU",
-    "primary": [
-      "TAMU-HAYDAN ALTMAN"
-    ],
-    "result": "EP",
     "secondary": [
       "TAMU-17"
     ],
+    "offense": "TAMU",
     "time": "1044",
-    "defense": "SHSU"
+    "primary": [
+      "TAMU-HAYDAN ALTMAN"
+    ],
+    "length": 34,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "SHSU",
+    "result": "EP"
   },
   "24": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "SHSU",
-    "primary": [
-      "SHSU-HAYDEN BOYES"
-    ],
-    "result": "GP",
     "secondary": [
       "SHSU-CHRIS DORSEY"
     ],
+    "offense": "SHSU",
     "time": "1053",
-    "defense": "TAMU"
-  },
-  "25": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "TAMU",
     "primary": [
       "SHSU-HAYDEN BOYES"
     ],
-    "result": "TC",
+    "length": 9,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TAMU",
+    "result": "GP"
+  },
+  "25": {
     "secondary": [
       "TAMU-CONNOR MCINTYRE"
     ],
+    "offense": "TAMU",
     "time": "1136",
-    "defense": "SHSU"
+    "primary": [
+      "SHSU-HAYDEN BOYES"
+    ],
+    "length": 83,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "SHSU",
+    "result": "TC"
   },
   "26": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "SHSU",
-    "primary": [
-      "TAMU-TYLER PEARSON"
-    ],
-    "result": "TC",
     "secondary": [
       "SHSU-KEENAN NASH"
     ],
+    "offense": "SHSU",
     "time": "1150",
-    "defense": "TAMU"
+    "primary": [
+      "TAMU-TYLER PEARSON"
+    ],
+    "length": 14,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TAMU",
+    "result": "TC"
   },
   "27": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "TAMU",
-    "primary": [
-      "TAMU-HAYDAN ALTMAN"
-    ],
-    "result": "EP",
     "secondary": [
       "TAMU-TYLER PEARSON"
     ],
+    "offense": "TAMU",
     "time": "1231",
-    "defense": "SHSU"
+    "primary": [
+      "TAMU-HAYDAN ALTMAN"
+    ],
+    "length": 81,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "SHSU",
+    "result": "EP"
   },
   "28": {
-    "extras": [],
-    "period": "FLOOR",
+    "secondary": [],
     "offense": "SHSU",
+    "time": "1312",
     "primary": [
       "SHSU-CHRIS DORSEY"
     ],
-    "result": "EM",
-    "secondary": [],
-    "time": "1312",
-    "defense": "TAMU"
+    "length": 81,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TAMU",
+    "result": "EM"
   },
   "29": {
-    "extras": [],
-    "period": "FLOOR",
+    "secondary": [
+      "TAMU-CONNOR MCINTYRE"
+    ],
     "offense": "TAMU",
+    "time": "1353",
     "primary": [
       "TAMU-LANDIS WALTHER"
     ],
-    "result": "GP",
-    "secondary": [
-      "TAMU-CONNOR MCINTYRE"
-    ],
-    "time": "1353",
-    "defense": "SHSU"
+    "length": 41,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "SHSU",
+    "result": "GP"
   },
   "30": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "SHSU",
-    "primary": [
-      "SHSU-11"
-    ],
-    "result": "GP",
     "secondary": [
       "SHSU-CHRIS DORSEY"
     ],
+    "offense": "SHSU",
     "time": "1411",
-    "defense": "TAMU"
+    "primary": [
+      "SHSU-11"
+    ],
+    "length": 58,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TAMU",
+    "result": "GP"
   },
   "31": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "TAMU",
-    "primary": [
-      "TAMU-CAMERON VILLAMIL"
-    ],
-    "result": "ED",
     "secondary": [
       "TAMU-TYLER PEARSON"
     ],
+    "offense": "TAMU",
     "time": "1457",
-    "defense": "SHSU"
+    "primary": [
+      "TAMU-CAMERON VILLAMIL"
+    ],
+    "length": 46,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "SHSU",
+    "result": "ED"
   },
   "32": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "SHSU",
-    "primary": [
-      "TAMU-HAYDAN ALTMAN"
-    ],
-    "result": "TC",
     "secondary": [
       "SHSU-21"
     ],
+    "offense": "SHSU",
     "time": "1548",
-    "defense": "TAMU"
+    "primary": [
+      "TAMU-HAYDAN ALTMAN"
+    ],
+    "length": 91,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TAMU",
+    "result": "TC"
   },
   "33": {
-    "extras": [],
-    "period": "FLOOR",
+    "secondary": [
+      "TAMU-HAYDAN ALTMAN"
+    ],
     "offense": "TAMU",
+    "time": "1608",
     "primary": [
       "SHSU-10"
     ],
-    "result": "TC",
-    "secondary": [
-      "TAMU-HAYDAN ALTMAN"
-    ],
-    "time": "1608",
-    "defense": "SHSU"
+    "length": 60,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "SHSU",
+    "result": "TC"
   },
   "34": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "SHSU",
-    "primary": [
-      "TAMU-HAYDAN ALTMAN"
-    ],
-    "result": "TC",
     "secondary": [
       "SHSU-21"
     ],
+    "offense": "SHSU",
     "time": "1715",
-    "defense": "TAMU"
-  },
-  "35": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "TAMU",
     "primary": [
       "TAMU-HAYDAN ALTMAN"
     ],
-    "result": "EM",
+    "length": 107,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TAMU",
+    "result": "TC"
+  },
+  "35": {
     "secondary": [],
+    "offense": "TAMU",
     "time": "1741",
-    "defense": "SHSU"
+    "primary": [
+      "TAMU-HAYDAN ALTMAN"
+    ],
+    "length": 26,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "SHSU",
+    "result": "EM"
   },
   "36": {
-    "extras": [],
-    "period": "SOP",
+    "secondary": [],
     "offense": "SHSU",
+    "time": "1819",
     "primary": [
       "SHSU-21"
     ],
-    "result": "EP",
-    "secondary": [],
-    "time": "1819",
-    "defense": "TAMU"
+    "length": 78,
+    "period": "SOP",
+    "extras": [],
+    "defense": "TAMU",
+    "result": "EP"
   },
   "37": {
-    "extras": [],
-    "period": "SOP",
-    "offense": "TAMU",
-    "primary": [
-      "TAMU-CONNOR MCINTYRE"
-    ],
-    "result": "GS",
     "secondary": [
       "TAMU-87"
     ],
-    "time": "1848",
-    "defense": "SHSU"
-  },
-  "38": {
-    "extras": [],
-    "period": "SOP",
-    "offense": "SHSU",
-    "primary": [
-      "SHSU-HALEY DUPRE"
-    ],
-    "result": "ED",
-    "secondary": [
-      "SHSU-THOMAS MORGAN"
-    ],
-    "time": "1919",
-    "defense": "TAMU"
-  },
-  "39": {
-    "extras": [],
-    "period": "SOP",
     "offense": "TAMU",
+    "time": "1848",
     "primary": [
       "TAMU-CONNOR MCINTYRE"
     ],
-    "result": "GD",
+    "length": 29,
+    "period": "SOP",
+    "extras": [],
+    "defense": "SHSU",
+    "result": "GS"
+  },
+  "38": {
+    "secondary": [
+      "SHSU-THOMAS MORGAN"
+    ],
+    "offense": "SHSU",
+    "time": "1919",
+    "primary": [
+      "SHSU-HALEY DUPRE"
+    ],
+    "length": 71,
+    "period": "SOP",
+    "extras": [],
+    "defense": "TAMU",
+    "result": "ED"
+  },
+  "39": {
     "secondary": [],
+    "offense": "TAMU",
     "time": "1954",
-    "defense": "SHSU"
+    "primary": [
+      "TAMU-CONNOR MCINTYRE"
+    ],
+    "length": 35,
+    "period": "SOP",
+    "extras": [],
+    "defense": "SHSU",
+    "result": "GD"
   },
   "40": {
-    "extras": [],
-    "period": "SOP",
+    "secondary": [],
     "offense": "SHSU",
+    "time": "2016",
     "primary": [
       "SHSU-HAYDEN BOYES"
     ],
-    "result": "RCA",
-    "secondary": [],
-    "time": "2016",
-    "defense": "TAMU"
+    "length": -1,
+    "period": "SOP",
+    "extras": [],
+    "defense": "TAMU",
+    "result": "RCA"
   }
 }

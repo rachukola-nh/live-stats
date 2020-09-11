@@ -1,673 +1,721 @@
 {
   "0": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "Brooms Up",
-    "primary": [
-      "UTSA-RENN LEBER"
-    ],
-    "result": "BU",
     "secondary": [
       "UTSA-DANIEL WILLIAMS"
     ],
+    "offense": "Brooms Up",
+    "result": "BU",
+    "primary": [
+      "UTSA-RENN LEBER"
+    ],
+    "period": "FLOOR",
+    "extras": [],
     "time": "0000"
   },
   "1": {
+    "secondary": [
+      "UTSA-RENN LEBER"
+    ],
+    "offense": "UTSA",
+    "time": "0026",
+    "primary": [
+      "UTSA-AVERIE MESSENGER"
+    ],
+    "length": 26,
+    "period": "FLOOR",
     "extras": [
       [
         "Y",
         "TAMU-TYLER PEARSON"
       ]
     ],
-    "period": "FLOOR",
-    "offense": "UTSA",
-    "primary": [
-      "UTSA-AVERIE MESSENGER"
-    ],
-    "result": "GP",
-    "secondary": [
-      "UTSA-RENN LEBER"
-    ],
-    "time": "0026",
-    "defense": "TAMU"
+    "defense": "TAMU",
+    "result": "GP"
   },
   "2": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "TAMU",
-    "primary": [
-      "UTSA-RENN LEBER"
-    ],
-    "result": "TD",
     "secondary": [
       "TAMU-HAYDAN ALTMAN"
     ],
+    "offense": "TAMU",
     "time": "0102",
-    "defense": "UTSA"
-  },
-  "3": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "UTSA",
     "primary": [
       "UTSA-RENN LEBER"
     ],
-    "result": "GD",
+    "length": 76,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "UTSA",
+    "result": "TD"
+  },
+  "3": {
     "secondary": [],
+    "offense": "UTSA",
     "time": "0106",
-    "defense": "TAMU"
+    "primary": [
+      "UTSA-RENN LEBER"
+    ],
+    "length": 4,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TAMU",
+    "result": "GD"
   },
   "4": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "TAMU",
-    "primary": [
-      "TAMU-HAYDAN ALTMAN"
-    ],
-    "result": "EP",
     "secondary": [
       "TAMU-TYLER PEARSON"
     ],
+    "offense": "TAMU",
     "time": "0153",
-    "defense": "UTSA"
+    "primary": [
+      "TAMU-HAYDAN ALTMAN"
+    ],
+    "length": 47,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "UTSA",
+    "result": "EP"
   },
   "5": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "UTSA",
-    "primary": [
-      "UTSA-AVERIE MESSENGER"
-    ],
-    "result": "GP",
     "secondary": [
       "UTSA-CARLOS PRADO"
     ],
+    "offense": "UTSA",
     "time": "0205",
-    "defense": "TAMU"
+    "primary": [
+      "UTSA-AVERIE MESSENGER"
+    ],
+    "length": 52,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TAMU",
+    "result": "GP"
   },
   "6": {
+    "secondary": [
+      "TAMU-TYLER PEARSON"
+    ],
+    "offense": "TAMU",
+    "time": "0250",
+    "primary": [
+      "UTSA-DANIEL WILLIAMS"
+    ],
+    "length": 45,
+    "period": "FLOOR",
     "extras": [
       [
         "R",
         "UTSA-DANIEL WILLIAMS"
       ]
     ],
-    "period": "FLOOR",
-    "offense": "TAMU",
-    "primary": [
-      "UTSA-DANIEL WILLIAMS"
-    ],
-    "result": "TB",
-    "secondary": [
-      "TAMU-TYLER PEARSON"
-    ],
-    "time": "0250",
-    "defense": "UTSA"
+    "defense": "UTSA",
+    "result": "TB"
   },
   "7": {
-    "extras": [],
-    "period": "FLOOR",
+    "secondary": [],
     "offense": "UTSA",
+    "time": "0334",
     "primary": [
       "UTSA-CHRISTIAN CORTEZ"
     ],
-    "result": "GD",
-    "secondary": [],
-    "time": "0334",
-    "defense": "TAMU"
+    "length": 84,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TAMU",
+    "result": "GD"
   },
   "8": {
-    "extras": [],
-    "period": "FLOOR",
+    "secondary": [],
     "offense": "TAMU",
+    "time": "0337",
     "primary": [
       "TAMU-HAYDAN ALTMAN"
     ],
-    "result": "GD",
-    "secondary": [],
-    "time": "0337",
-    "defense": "UTSA"
+    "length": 3,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "UTSA",
+    "result": "GD"
   },
   "9": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "UTSA",
-    "primary": [
-      "UTSA-TYLER ZREET"
-    ],
-    "result": "GD",
     "secondary": [
       "UTSA-CHRISTIAN CORTEZ"
     ],
+    "offense": "UTSA",
     "time": "0431",
-    "defense": "TAMU"
+    "primary": [
+      "UTSA-TYLER ZREET"
+    ],
+    "length": 94,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TAMU",
+    "result": "GD"
   },
   "10": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "TAMU",
-    "primary": [
-      "UTSA-CHRISTIAN CORTEZ"
-    ],
-    "result": "TL",
     "secondary": [
       "TAMU-CAMERON VILLAMIL"
     ],
+    "offense": "TAMU",
     "time": "0510",
-    "defense": "UTSA"
+    "primary": [
+      "UTSA-CHRISTIAN CORTEZ"
+    ],
+    "length": 79,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "UTSA",
+    "result": "TL"
   },
   "11": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "UTSA",
-    "primary": [
-      "UTSA-TYLER ZREET"
-    ],
-    "result": "GP",
     "secondary": [
       "UTSA-CARLOS PRADO"
     ],
+    "offense": "UTSA",
     "time": "0539",
-    "defense": "TAMU"
+    "primary": [
+      "UTSA-TYLER ZREET"
+    ],
+    "length": 29,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TAMU",
+    "result": "GP"
   },
   "12": {
-    "extras": [],
-    "period": "FLOOR",
+    "secondary": [],
     "offense": "TAMU",
+    "time": "0625",
     "primary": [
       "TAMU-CAMERON VILLAMIL"
     ],
-    "result": "EM",
-    "secondary": [],
-    "time": "0625",
-    "defense": "UTSA"
+    "length": 86,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "UTSA",
+    "result": "EM"
   },
   "13": {
-    "extras": [],
-    "period": "FLOOR",
+    "secondary": [],
     "offense": "UTSA",
+    "time": "0725",
     "primary": [
       "UTSA-CHRISTIAN CORTEZ"
     ],
-    "result": "GS",
-    "secondary": [],
-    "time": "0725",
-    "defense": "TAMU"
+    "length": 100,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TAMU",
+    "result": "GS"
   },
   "14": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "TAMU",
-    "primary": [
-      "TAMU-CAMERON VILLAMIL"
-    ],
-    "result": "GD",
     "secondary": [
       "TAMU-RANDI DORAN"
     ],
+    "offense": "TAMU",
     "time": "0810",
-    "defense": "UTSA"
+    "primary": [
+      "TAMU-CAMERON VILLAMIL"
+    ],
+    "length": 85,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "UTSA",
+    "result": "GD"
   },
   "15": {
+    "secondary": [],
+    "offense": "UTSA",
+    "time": "0903",
+    "primary": [
+      "UTSA-CARLOS PRADO"
+    ],
+    "length": 93,
+    "period": "FLOOR",
     "extras": [
       [
         "2Y",
         "TAMU-TYLER PEARSON"
       ]
     ],
-    "period": "FLOOR",
-    "offense": "UTSA",
-    "primary": [
-      "UTSA-CARLOS PRADO"
-    ],
-    "result": "GS",
-    "secondary": [],
-    "time": "0903",
-    "defense": "TAMU"
+    "defense": "TAMU",
+    "result": "GS"
   },
   "16": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "TAMU",
-    "primary": [
-      "UTSA-CARLOS PRADO"
-    ],
-    "result": "TL",
     "secondary": [
       "TAMU-HAYDAN ALTMAN"
     ],
+    "offense": "TAMU",
     "time": "0946",
-    "defense": "UTSA"
+    "primary": [
+      "UTSA-CARLOS PRADO"
+    ],
+    "length": 43,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "UTSA",
+    "result": "TL"
   },
   "17": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "UTSA",
-    "primary": [
-      "TAMU-HAYDAN ALTMAN"
-    ],
-    "result": "TD",
     "secondary": [
       "UTSA-CARLOS PRADO",
       "UTSA-RENN LEBER"
     ],
+    "offense": "UTSA",
     "time": "0950",
-    "defense": "TAMU"
+    "primary": [
+      "TAMU-HAYDAN ALTMAN"
+    ],
+    "length": 4,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TAMU",
+    "result": "TD"
   },
   "18": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "TAMU",
-    "primary": [
-      "UTSA-NATE SALDIVAR"
-    ],
-    "result": "TB",
     "secondary": [
       "TAMU-HAYDAN ALTMAN"
     ],
+    "offense": "TAMU",
     "time": "1026",
-    "defense": "UTSA"
+    "primary": [
+      "UTSA-NATE SALDIVAR"
+    ],
+    "length": 76,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "UTSA",
+    "result": "TB"
   },
   "19": {
-    "extras": [],
-    "period": "FLOOR",
+    "secondary": [],
     "offense": "UTSA",
+    "time": "1055",
     "primary": [
       "UTSA-RENN LEBER"
     ],
-    "result": "GD",
-    "secondary": [],
-    "time": "1055",
-    "defense": "TAMU"
+    "length": 29,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TAMU",
+    "result": "GD"
   },
   "20": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "TAMU",
-    "primary": [
-      "TAMU-CONNOR MCINTYRE"
-    ],
-    "result": "ED",
     "secondary": [
       "TAMU-87"
     ],
+    "offense": "TAMU",
     "time": "1134",
-    "defense": "UTSA"
+    "primary": [
+      "TAMU-CONNOR MCINTYRE"
+    ],
+    "length": 79,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "UTSA",
+    "result": "ED"
   },
   "21": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "UTSA",
-    "primary": [
-      "TAMU-87"
-    ],
-    "result": "TD",
     "secondary": [
       "UTSA-MATT BLACKWOOD",
       "UTSA-CARSYN DIETZ"
     ],
+    "offense": "UTSA",
     "time": "1200",
-    "defense": "TAMU"
+    "primary": [
+      "TAMU-87"
+    ],
+    "length": 66,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TAMU",
+    "result": "TD"
   },
   "22": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "TAMU",
-    "primary": [
-      "UTSA-DANIEL WILLIAMS"
-    ],
-    "result": "TB",
     "secondary": [
       "TAMU-CAMERON VILLAMIL"
     ],
+    "offense": "TAMU",
     "time": "1243",
-    "defense": "UTSA"
+    "primary": [
+      "UTSA-DANIEL WILLIAMS"
+    ],
+    "length": 43,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "UTSA",
+    "result": "TB"
   },
   "23": {
-    "extras": [],
-    "period": "FLOOR",
+    "secondary": [],
     "offense": "UTSA",
+    "time": "1256",
     "primary": [
       "UTSA-12"
     ],
-    "result": "EM",
-    "secondary": [],
-    "time": "1256",
-    "defense": "TAMU"
+    "length": 13,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TAMU",
+    "result": "EM"
   },
   "24": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "TAMU",
-    "primary": [
-      "UTSA-DANIEL WILLIAMS"
-    ],
-    "result": "TB",
     "secondary": [
       "TAMU-CAMERON VILLAMIL"
     ],
+    "offense": "TAMU",
     "time": "1338",
-    "defense": "UTSA"
+    "primary": [
+      "UTSA-DANIEL WILLIAMS"
+    ],
+    "length": 82,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "UTSA",
+    "result": "TB"
   },
   "25": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "UTSA",
-    "primary": [
-      "UTSA-RENN LEBER"
-    ],
-    "result": "GS",
     "secondary": [
       "UTSA-MATT BLACKWOOD"
     ],
+    "offense": "UTSA",
     "time": "1352",
-    "defense": "TAMU"
+    "primary": [
+      "UTSA-RENN LEBER"
+    ],
+    "length": 14,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TAMU",
+    "result": "GS"
   },
   "26": {
-    "extras": [],
-    "period": "FLOOR",
+    "secondary": [],
     "offense": "TAMU",
+    "time": "1427",
     "primary": [
       "TAMU-CONNOR MCINTYRE"
     ],
-    "result": "GD",
-    "secondary": [],
-    "time": "1427",
-    "defense": "UTSA"
+    "length": 75,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "UTSA",
+    "result": "GD"
   },
   "27": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "UTSA",
-    "primary": [
-      "UTSA-CARSYN DIETZ"
-    ],
-    "result": "ED",
     "secondary": [
       "UTSA-RENN LEBER"
     ],
-    "time": "1500",
-    "defense": "TAMU"
-  },
-  "28": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "TAMU",
-    "primary": [
-      "TAMU-CONNOR MCINTYRE"
-    ],
-    "result": "EM",
-    "secondary": [],
-    "time": "1530",
-    "defense": "UTSA"
-  },
-  "29": {
-    "extras": [],
-    "period": "FLOOR",
     "offense": "UTSA",
+    "time": "1500",
     "primary": [
       "UTSA-CARSYN DIETZ"
     ],
-    "result": "GP",
+    "length": 73,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TAMU",
+    "result": "ED"
+  },
+  "28": {
+    "secondary": [],
+    "offense": "TAMU",
+    "time": "1530",
+    "primary": [
+      "TAMU-CONNOR MCINTYRE"
+    ],
+    "length": 30,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "UTSA",
+    "result": "EM"
+  },
+  "29": {
     "secondary": [
       "UTSA-MATT BLACKWOOD"
     ],
+    "offense": "UTSA",
     "time": "1551",
-    "defense": "TAMU"
+    "primary": [
+      "UTSA-CARSYN DIETZ"
+    ],
+    "length": 21,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TAMU",
+    "result": "GP"
   },
   "30": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "TAMU",
-    "primary": [
-      "UTSA-MATT BLACKWOOD"
-    ],
-    "result": "TL",
     "secondary": [
       "TAMU-87"
     ],
+    "offense": "TAMU",
     "time": "1625",
-    "defense": "UTSA"
-  },
-  "31": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "UTSA",
     "primary": [
       "UTSA-MATT BLACKWOOD"
     ],
-    "result": "GP",
+    "length": 74,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "UTSA",
+    "result": "TL"
+  },
+  "31": {
     "secondary": [
       "UTSA-12"
     ],
+    "offense": "UTSA",
     "time": "1650",
-    "defense": "TAMU"
+    "primary": [
+      "UTSA-MATT BLACKWOOD"
+    ],
+    "length": 25,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TAMU",
+    "result": "GP"
   },
   "32": {
-    "extras": [],
-    "period": "FLOOR",
+    "secondary": [],
     "offense": "TAMU",
+    "time": "1726",
     "primary": [
       "TAMU-CONNOR MCINTYRE"
     ],
-    "result": "GS",
-    "secondary": [],
-    "time": "1726",
-    "defense": "UTSA"
+    "length": 76,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "UTSA",
+    "result": "GS"
   },
   "33": {
-    "extras": [],
-    "period": "FLOOR",
-    "offense": "UTSA",
-    "primary": [
-      "UTSA-CARLOS PRADO"
-    ],
-    "result": "EP",
     "secondary": [
       "UTSA-AVERIE MESSENGER"
     ],
+    "offense": "UTSA",
     "time": "1740",
-    "defense": "TAMU"
+    "primary": [
+      "UTSA-CARLOS PRADO"
+    ],
+    "length": 14,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "TAMU",
+    "result": "EP"
   },
   "34": {
-    "extras": [],
-    "period": "FLOOR",
+    "secondary": [],
     "offense": "TAMU",
+    "time": "1758",
     "primary": [
       "TAMU-CONNOR MCINTYRE"
     ],
-    "result": "GS",
-    "secondary": [],
-    "time": "1758",
-    "defense": "UTSA"
+    "length": 18,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "UTSA",
+    "result": "GS"
   },
   "35": {
-    "extras": [],
-    "period": "SOP",
-    "offense": "UTSA",
-    "primary": [
-      "TAMU-HAYDAN ALTMAN"
-    ],
-    "result": "TC",
     "secondary": [
       "UTSA-AUTUMN HAVENS"
     ],
+    "offense": "UTSA",
     "time": "1858",
-    "defense": "TAMU"
+    "primary": [
+      "TAMU-HAYDAN ALTMAN"
+    ],
+    "length": 100,
+    "period": "SOP",
+    "extras": [],
+    "defense": "TAMU",
+    "result": "TC"
   },
   "36": {
-    "extras": [],
-    "period": "SOP",
-    "offense": "TAMU",
-    "primary": [
-      "UTSA-CARLOS PRADO"
-    ],
-    "result": "TL",
     "secondary": [
       "TAMU-CONNOR MCINTYRE"
     ],
+    "offense": "TAMU",
     "time": "1930",
-    "defense": "UTSA"
+    "primary": [
+      "UTSA-CARLOS PRADO"
+    ],
+    "length": 72,
+    "period": "SOP",
+    "extras": [],
+    "defense": "UTSA",
+    "result": "TL"
   },
   "37": {
-    "extras": [],
-    "period": "SOP",
-    "offense": "UTSA",
-    "primary": [
-      "UTSA-TYLER ZREET"
-    ],
-    "result": "GP",
     "secondary": [
       "UTSA-CARLOS PRADO"
     ],
+    "offense": "UTSA",
     "time": "1956",
-    "defense": "TAMU"
-  },
-  "38": {
-    "extras": [],
-    "period": "SOP",
-    "offense": "TAMU",
     "primary": [
       "UTSA-TYLER ZREET"
     ],
-    "result": "TC",
+    "length": 26,
+    "period": "SOP",
+    "extras": [],
+    "defense": "TAMU",
+    "result": "GP"
+  },
+  "38": {
     "secondary": [
       "TAMU-CAMERON VILLAMIL"
     ],
+    "offense": "TAMU",
     "time": "2056",
-    "defense": "UTSA"
+    "primary": [
+      "UTSA-TYLER ZREET"
+    ],
+    "length": 100,
+    "period": "SOP",
+    "extras": [],
+    "defense": "UTSA",
+    "result": "TC"
   },
   "39": {
-    "extras": [],
-    "period": "SOP",
-    "offense": "UTSA",
-    "primary": [
-      "TAMU-CONNOR MCINTYRE"
-    ],
-    "result": "TC",
     "secondary": [
       "UTSA-TYLER ZREET"
     ],
+    "offense": "UTSA",
     "time": "2140",
-    "defense": "TAMU"
-  },
-  "40": {
-    "extras": [],
-    "period": "SOP",
-    "offense": "TAMU",
     "primary": [
       "TAMU-CONNOR MCINTYRE"
     ],
-    "result": "GS",
+    "length": 84,
+    "period": "SOP",
+    "extras": [],
+    "defense": "TAMU",
+    "result": "TC"
+  },
+  "40": {
     "secondary": [],
+    "offense": "TAMU",
     "time": "2202",
-    "defense": "UTSA"
+    "primary": [
+      "TAMU-CONNOR MCINTYRE"
+    ],
+    "length": 62,
+    "period": "SOP",
+    "extras": [],
+    "defense": "UTSA",
+    "result": "GS"
   },
   "41": {
-    "extras": [],
-    "period": "SOP",
-    "offense": "UTSA",
-    "primary": [
-      "TAMU-HAYDAN ALTMAN"
-    ],
-    "result": "TL",
     "secondary": [
       "UTSA-MATT BLACKWOOD"
     ],
+    "offense": "UTSA",
     "time": "2245",
-    "defense": "TAMU"
-  },
-  "42": {
-    "extras": [],
-    "period": "SOP",
-    "offense": "TAMU",
     "primary": [
       "TAMU-HAYDAN ALTMAN"
     ],
-    "result": "GD",
+    "length": 43,
+    "period": "SOP",
+    "extras": [],
+    "defense": "TAMU",
+    "result": "TL"
+  },
+  "42": {
     "secondary": [],
+    "offense": "TAMU",
     "time": "2249",
-    "defense": "UTSA"
+    "primary": [
+      "TAMU-HAYDAN ALTMAN"
+    ],
+    "length": 4,
+    "period": "SOP",
+    "extras": [],
+    "defense": "UTSA",
+    "result": "GD"
   },
   "43": {
-    "extras": [],
-    "period": "SOP",
+    "secondary": [],
     "offense": "UTSA",
+    "time": "2401",
     "primary": [
       "UTSA-MATT BLACKWOOD"
     ],
-    "result": "GS",
-    "secondary": [],
-    "time": "2401",
-    "defense": "TAMU"
+    "length": 152,
+    "period": "SOP",
+    "extras": [],
+    "defense": "TAMU",
+    "result": "GS"
   },
   "44": {
-    "extras": [],
-    "period": "SOP",
+    "secondary": [],
     "offense": "TAMU",
+    "time": "2415",
     "primary": [
       "TAMU-CONNOR MCINTYRE"
     ],
-    "result": "EM",
-    "secondary": [],
-    "time": "2415",
-    "defense": "UTSA"
+    "length": 14,
+    "period": "SOP",
+    "extras": [],
+    "defense": "UTSA",
+    "result": "EM"
   },
   "45": {
-    "extras": [],
-    "period": "SOP",
-    "offense": "UTSA",
-    "primary": [
-      "TAMU-CONNOR MCINTYRE"
-    ],
-    "result": "TD",
     "secondary": [
       "UTSA-CARSYN DIETZ",
       "UTSA-AVERIE MESSENGER"
     ],
+    "offense": "UTSA",
     "time": "2513",
-    "defense": "TAMU"
+    "primary": [
+      "TAMU-CONNOR MCINTYRE"
+    ],
+    "length": 98,
+    "period": "SOP",
+    "extras": [],
+    "defense": "TAMU",
+    "result": "TD"
   },
   "46": {
-    "extras": [],
-    "period": "SOP",
-    "offense": "TAMU",
-    "primary": [
-      "UTSA-TYLER ZREET"
-    ],
-    "result": "TL",
     "secondary": [
       "TAMU-CONNOR MCINTYRE"
     ],
+    "offense": "TAMU",
     "time": "2533",
-    "defense": "UTSA"
+    "primary": [
+      "UTSA-TYLER ZREET"
+    ],
+    "length": 20,
+    "period": "SOP",
+    "extras": [],
+    "defense": "UTSA",
+    "result": "TL"
   },
   "47": {
-    "extras": [],
-    "period": "SOP",
+    "secondary": [
+      "UTSA-TYLER ZREET"
+    ],
     "offense": "UTSA",
+    "time": "2559",
     "primary": [
       "TAMU-ANGELA HEMBREE"
     ],
-    "result": "TB",
-    "secondary": [
-      "UTSA-TYLER ZREET"
-    ],
-    "time": "2559",
-    "defense": "TAMU"
+    "length": 26,
+    "period": "SOP",
+    "extras": [],
+    "defense": "TAMU",
+    "result": "TB"
   },
   "48": {
-    "extras": [],
-    "period": "",
-    "offense": "TAMU",
-    "primary": [
-      "UTSA-TYLER ZREET"
-    ],
-    "result": "TC",
     "secondary": [
       "TAMU-CAMERON VILLAMIL"
     ],
+    "offense": "TAMU",
     "time": "",
-    "defense": "UTSA"
+    "primary": [
+      "UTSA-TYLER ZREET"
+    ],
+    "length": -1,
+    "period": "FLOOR",
+    "extras": [],
+    "defense": "UTSA",
+    "result": "TC"
   }
 }
