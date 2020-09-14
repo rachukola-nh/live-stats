@@ -1,45 +1,45 @@
 (00:00)Brooms Up possession: BROOMS UP! Quaffle Possession by ['UVA-BEN PHILLIPS'], Bludger Control by ['UMD-ZAIN BHAILA']
-UVA possession: Turnover penalty on ['UVA-FARAAZ SIDDIQUI'].
-UMD possession: Goal on the drive by ['UMD-JOHN SHERIDAN'].
-UVA possession: Beat by ['UMD-ZAIN BHAILA'] on ['UVA-CARLEE KLEPPIN'] forces a TURNOVER.
-UMD possession: Pass by ['UMD-MACK MORGAN'] dropped by ['UMD-JERRICK KNIPPEL']. Turnover
-UVA possession: ['UVA-FARAAZ SIDDIQUI'] passes to ['UVA-BEN PHILLIPS'] at the hoops, GOAL.
-UMD possession: Beat by ['UVA-AIDAN MOSSIP'] on ['UMD-JOHN SHERIDAN'] forces a TURNOVER.
-UVA possession: Beat by ['UMD-ZAIN BHAILA'] on ['UVA-MICHAEL HOWELL'] forces a TURNOVER.
-UMD possession: Missed shot by ['UMD-MACK MORGAN']. Turnover.
-UVA possession: Pass by ['UVA-MATTHEW COOPER'] dropped by ['UVA-26']. Turnover
-UMD possession: Goal on the drive by ['UMD-JOHN SHERIDAN'].
-UVA possession: Errant pass from ['UVA-MATTHEW COOPER'] to ['UVA-MICHAEL HOWELL']. Turnover
-UMD possession: Beat by ['UVA-HANNAH ROLLINS'] on ['UMD-MACK MORGAN'] forces a TURNOVER.
-UVA possession: Beat by ['UMD-ZAIN BHAILA'] on ['UVA-26'] forces a TURNOVER.
-UMD possession: Pass between ['UMD-MACK MORGAN', 'UMD-JERRICK KNIPPEL'] defended by ['UVA-MATTHEW STEELBERG']. Turnover During the play, yellow card on UVA-MATTHEW COOPER
-UVA possession: Pass between ['UVA-CARLEE KLEPPIN', 'UVA-MICHAEL HOWELL'] defended by ['UMD-NOAH RINDOCK']. Turnover
-UMD possession: Beat by ['UVA-LANE BURGESS'] on ['UMD-MACK MORGAN'] forces a TURNOVER.
-UVA possession: Turnover forced by physical contact by ['UMD-NOAH RINDOCK'] on ['UVA-MATTHEW STEELBERG']
-UMD possession: Pass between ['UMD-NOAH RINDOCK', 'UMD-JOHN SHERIDAN'] defended by ['UVA-MATTHEW STEELBERG']. Turnover During the play, reset forced by UVA-LANE BURGESS
-UVA possession: Beat by ['UMD-HEATHER FARNAN'] on ['UVA-MATTHEW STEELBERG'] forces a TURNOVER.
-UMD possession: ['UMD-MACK MORGAN'] passes to ['UMD-NOAH RINDOCK'] at the hoops, GOAL.
-UVA possession: Beat by ['UMD-ZAIN BHAILA'] on ['UVA-EVAN KORTEBEIM'] forces a TURNOVER.
-UMD possession: Goal on the drive by ['UMD-JOHN SHERIDAN'].
-UVA possession: Goal on the shot by ['UVA-EVAN KORTEBEIM']. During the play, yellow card on UMD-ABBY POTTER
-UMD possession: Goal on the shot by ['UMD-JOHN SHERIDAN'].
-UVA possession: Turnover forced by physical contact by ['UMD-JOHN SHERIDAN'] on ['UVA-RANY MAKAREM'] During the play, reset forced by UMD-ZAIN BHAILA
-UMD possession: Pass between ['UMD-NOAH RINDOCK', 'UMD-MIKE SINDALL'] defended by ['UVA-BEN PHILLIPS']. Turnover
-UVA possession: Error by ['UVA-UNK']. During the play, SNITCH ON PITCH begins
-UMD possession: Pass between ['UMD-JOHN SHERIDAN', 'UMD-MIKE SINDALL'] defended by ['UVA-BEN PHILLIPS']. Turnover During the play, reset forced by UVA-LANE BURGESS
-UVA possession: Shot by ['UVA-BEN PHILLIPS'] blocked by ['UMD-NOAH RINDOCK']. Turnover.
-UMD possession: Goal on the shot by ['UMD-MIKE SINDALL'], assist by ['UMD-ABBY POTTER']
-UVA possession: Shot by ['UVA-EVAN KORTEBEIM'] blocked by ['UMD-ABBY POTTER']. Turnover.
-UMD possession: Goal on the drive by ['UMD-JERRICK KNIPPEL'].
-UVA possession: Goal on the shot by ['UVA-BEN PHILLIPS'], assist by ['UVA-FARAAZ SIDDIQUI']
-UMD possession: Goal on the drive by ['UMD-JOHN SHERIDAN'].
-UVA possession: ['UVA-FARAAZ SIDDIQUI'] passes to ['UVA-MICHAEL HOWELL'] at the hoops, GOAL.
-UMD possession: Beat by ['UVA-94'] on ['UMD-JOHN SHERIDAN'] forces a TURNOVER.
-UVA possession: Goal on the shot by ['UVA-BEN PHILLIPS'], assist by ['UVA-FARAAZ SIDDIQUI']
-UMD possession: Turnover penalty on ['UMD-UNK'].
-UVA possession: Goal by ['UVA-UNK'].
-UMD possession: Pass between ['UMD-JOHN SHERIDAN'] defended by ['UVA-MATTHEW COOPER']. Turnover
-UVA possession: Errant pass by ['UVA-MATTHEW COOPER']. Turnover.
-UMD possession: Beat by ['UVA-AIDAN MOSSIP'] on ['UMD-JOHN SHERIDAN'] forces a TURNOVER.
-UVA possession: Goal on the shot by ['UVA-MICHAEL HOWELL'].
-UMD possession: Snitch catch by ['UMD-MACK MORGAN'] is GOOD.
+(00:26)UVA possession: Errant pass from ['UVA-FARAAZ SIDDIQUI'] to ['UVA-PEYTON BURROW']. Turnover
+(01:02)UMD possession: Goal on the drive by ['UMD-JOHN SHERIDAN'].
+(01:47)UVA possession: Beat by ['UMD-ZAIN BHAILA'] on ['UVA-CARLEE KLEPPIN'] forces a TURNOVER.
+(01:58)UMD possession: Pass by ['UMD-MACK MORGAN'] dropped by ['UMD-JERRICK KNIPPEL']. Turnover
+(02:53)UVA possession: ['UVA-FARAAZ SIDDIQUI'] passes to ['UVA-BEN PHILLIPS'] at the hoops, GOAL.
+(04:44)UMD possession: Beat by ['UVA-AIDAN MOSSIP'] on ['UMD-JOHN SHERIDAN'] forces a TURNOVER.
+(05:16)UVA possession: Beat by ['UMD-ZAIN BHAILA'] on ['UVA-MICHAEL HOWELL'] forces a TURNOVER.
+(06:05)UMD possession: Missed shot by ['UMD-MACK MORGAN']. Turnover.
+(06:30)UVA possession: Pass by ['UVA-MATTHEW COOPER'] dropped by ['UVA-26']. Turnover
+(06:38)UMD possession: Goal on the drive by ['UMD-JOHN SHERIDAN'].
+(07:11)UVA possession: Errant pass from ['UVA-MATTHEW COOPER'] to ['UVA-MICHAEL HOWELL']. Turnover
+(07:18)UMD possession: Beat by ['UVA-HANNAH ROLLINS'] on ['UMD-MACK MORGAN'] forces a TURNOVER.
+(07:47)UVA possession: Beat by ['UMD-ZAIN BHAILA'] on ['UVA-26'] forces a TURNOVER.
+(09:49)UMD possession: Pass between ['UMD-MACK MORGAN', 'UMD-JERRICK KNIPPEL'] defended by ['UVA-MATTHEW STEELBERG']. Turnover During the play, yellow card on UVA-MATTHEW COOPER
+(10:34)UVA possession: Pass between ['UVA-CARLEE KLEPPIN', 'UVA-MICHAEL HOWELL'] defended by ['UMD-NOAH RINDOCK']. Turnover
+(11:13)UMD possession: Beat by ['UVA-LANE BURGESS'] on ['UMD-MACK MORGAN'] forces a TURNOVER.
+(11:22)UVA possession: Turnover forced by physical contact by ['UMD-NOAH RINDOCK'] on ['UVA-MICHAEL HOWELL']
+(12:57)UMD possession: Pass between ['UMD-NOAH RINDOCK', 'UMD-JOHN SHERIDAN'] defended by ['UVA-MATTHEW STEELBERG']. Turnover During the play, reset forced by UVA-LANE BURGESS
+(13:47)UVA possession: Beat by ['UMD-HEATHER FARNAN'] on ['UVA-MATTHEW STEELBERG'] forces a TURNOVER.
+(13:59)UMD possession: ['UMD-MACK MORGAN'] passes to ['UMD-NOAH RINDOCK'] at the hoops, GOAL.
+(14:41)UVA possession: Beat by ['UMD-ZAIN BHAILA'] on ['UVA-EVAN KORTEBEIM'] forces a TURNOVER.
+(14:48)UMD possession: Goal on the drive by ['UMD-JOHN SHERIDAN'].
+(15:30)UVA possession: Goal on the shot by ['UVA-EVAN KORTEBEIM']. During the play, yellow card on UMD-ABBY POTTER
+(16:18)UMD possession: Goal on the shot by ['UMD-JOHN SHERIDAN'].
+(17:04)UVA possession: Turnover forced by physical contact by ['UMD-JOHN SHERIDAN'] on ['UVA-RANY MAKAREM'] During the play, reset forced by UMD-ZAIN BHAILA
+(17:56)UMD possession: Pass between ['UMD-NOAH RINDOCK', 'UMD-MIKE SINDALL'] defended by ['UVA-BEN PHILLIPS']. Turnover
+(18:21)UVA possession: Turnover forced by physical contact by ['UMD-JOHN SHERIDAN'] on ['UVA-CARLEE KLEPPIN'] During the play, SNITCH ON PITCH begins
+(19:25)UMD possession: Pass between ['UMD-JOHN SHERIDAN', 'UMD-MIKE SINDALL'] defended by ['UVA-BEN PHILLIPS']. Turnover During the play, reset forced by UVA-LANE BURGESS
+(19:50)UVA possession: Pass between ['UVA-BEN PHILLIPS', 'UVA-CARLEE KLEPPIN'] defended by ['UMD-NOAH RINDOCK']. Turnover
+(20:51)UMD possession: Goal on the shot by ['UMD-MIKE SINDALL'], assist by ['UMD-ABBY POTTER']
+(21:15)UVA possession: Shot by ['UVA-EVAN KORTEBEIM'] blocked by ['UMD-ABBY POTTER']. Turnover.
+(21:23)UMD possession: Goal on the drive by ['UMD-JERRICK KNIPPEL'].
+(21:48)UVA possession: Goal on the shot by ['UVA-BEN PHILLIPS'], assist by ['UVA-FARAAZ SIDDIQUI']
+(22:51)UMD possession: Goal on the drive by ['UMD-JOHN SHERIDAN'].
+(23:20)UVA possession: ['UVA-FARAAZ SIDDIQUI'] passes to ['UVA-MICHAEL HOWELL'] at the hoops, GOAL.
+(24:54)UMD possession: Beat by ['UVA-JOE SCHINDERLE'] on ['UMD-JOHN SHERIDAN'] forces a TURNOVER.
+(25:18)UVA possession: Goal on the shot by ['UVA-BEN PHILLIPS'], assist by ['UVA-FARAAZ SIDDIQUI']
+(26:34)UMD possession: Yellow card on ['UMD-ZAIN BHAILA'] forces turnover.
+(26:49)UVA possession: Goal on the drive by ['UVA-MICHAEL HOWELL'], assist by ['UVA-BEN PHILLIPS']
+(27:43)UMD possession: Pass between ['UMD-JOHN SHERIDAN', 'UMD-MACK MORGAN'] defended by ['UVA-MATTHEW COOPER']. Turnover
+(27:58)UVA possession: Pass between ['UVA-BEN PHILLIPS', 'UVA-MICHAEL HOWELL'] defended by ['UMD-JOHN SHERIDAN']. Turnover
+(28:05)UMD possession: Beat by ['UVA-AIDAN MOSSIP'] on ['UMD-JOHN SHERIDAN'] forces a TURNOVER.
+(28:30)UVA possession: Goal on the shot by ['UVA-MICHAEL HOWELL'].
+(29:09)UMD possession: Snitch catch by ['UMD-MACK MORGAN'] is GOOD.
