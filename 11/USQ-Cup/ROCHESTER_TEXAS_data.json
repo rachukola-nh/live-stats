@@ -1,558 +1,560 @@
 {
   "0": {
+    "defense": "",
+    "offense": "Brooms Up",
     "result": "BU",
-    "secondary": [
-      "ROCHESTER-TIM KWAN"
-    ],
+    "time": "0000",
+    "length": -1,
     "extras": [],
     "primary": [
       "ROCHESTER-MADDISON JORDAN"
     ],
-    "time": "0000",
-    "offense": "Brooms Up",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "secondary": [
+      "ROCHESTER-TIM KWAN"
+    ]
   },
   "1": {
     "defense": "TEXAS",
-    "secondary": [
-      "ROCHESTER-JUSTIN KING"
-    ],
+    "offense": "ROCHESTER",
+    "result": "TB",
+    "time": "0044",
+    "extras": [],
+    "length": 44,
     "primary": [
       "TEXAS-EDDIE MOLINA"
     ],
-    "length": 44,
-    "result": "TB",
-    "extras": [],
-    "time": "0044",
-    "offense": "ROCHESTER",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "secondary": [
+      "ROCHESTER-JUSTIN KING"
+    ]
   },
   "2": {
     "defense": "ROCHESTER",
-    "secondary": [
-      "TEXAS-AIDAN PARSI",
-      "TEXAS-JOHN ANDERSON"
-    ],
+    "offense": "TEXAS",
+    "result": "TD",
+    "time": "0145",
+    "extras": [],
+    "length": 101,
     "primary": [
       "ROCHESTER-JUSTIN KING"
     ],
-    "length": 101,
-    "result": "TD",
-    "extras": [],
-    "time": "0145",
-    "offense": "TEXAS",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "secondary": [
+      "TEXAS-AIDAN PARSI",
+      "TEXAS-JOHN ANDERSON"
+    ]
   },
   "3": {
     "defense": "TEXAS",
-    "secondary": [],
+    "offense": "ROCHESTER",
+    "result": "GS",
+    "time": "0211",
+    "extras": [],
+    "length": 66,
     "primary": [
       "ROCHESTER-BASEM ASHKAR"
     ],
-    "length": 66,
-    "result": "GS",
-    "extras": [],
-    "time": "0211",
-    "offense": "ROCHESTER",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "secondary": []
   },
   "4": {
     "defense": "ROCHESTER",
-    "secondary": [],
+    "offense": "TEXAS",
+    "result": "EM",
+    "time": "0238",
+    "extras": [],
+    "length": 27,
     "primary": [
       "TEXAS-AIDAN PARSI"
     ],
-    "length": 27,
-    "result": "EM",
-    "extras": [],
-    "time": "0238",
-    "offense": "TEXAS",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "secondary": []
   },
   "5": {
     "defense": "TEXAS",
-    "secondary": [],
+    "offense": "ROCHESTER",
+    "result": "GD",
+    "time": "0255",
+    "extras": [],
+    "length": 17,
     "primary": [
       "ROCHESTER-BASEM ASHKAR"
     ],
-    "length": 17,
-    "result": "GD",
-    "extras": [],
-    "time": "0255",
-    "offense": "ROCHESTER",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "secondary": []
   },
   "6": {
     "defense": "ROCHESTER",
-    "secondary": [],
-    "primary": [
-      "TEXAS-AIDAN PARSI"
-    ],
-    "length": 163,
+    "offense": "TEXAS",
     "result": "GD",
+    "time": "0418",
     "extras": [
       [
         "R",
         "ROCHESTER-PERRY WANG"
       ]
     ],
-    "time": "0418",
-    "offense": "TEXAS",
-    "period": "FLOOR"
+    "length": 163,
+    "primary": [
+      "TEXAS-AIDAN PARSI"
+    ],
+    "period": "FLOOR",
+    "secondary": []
   },
   "7": {
     "defense": "TEXAS",
-    "secondary": [],
+    "offense": "ROCHESTER",
+    "result": "GS",
+    "time": "0440",
+    "extras": [],
+    "length": 22,
     "primary": [
       "ROCHESTER-BASEM ASHKAR"
     ],
-    "length": 22,
-    "result": "GS",
-    "extras": [],
-    "time": "0440",
-    "offense": "ROCHESTER",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "secondary": []
   },
   "8": {
     "defense": "ROCHESTER",
-    "secondary": [],
+    "offense": "TEXAS",
+    "result": "EM",
+    "time": "0511",
+    "extras": [],
+    "length": 71,
     "primary": [
       "TEXAS-JOHN ANDERSON"
     ],
-    "length": 71,
-    "result": "EM",
-    "extras": [],
-    "time": "0511",
-    "offense": "TEXAS",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "secondary": []
   },
   "9": {
     "defense": "TEXAS",
-    "secondary": [],
+    "offense": "ROCHESTER",
+    "result": "EM",
+    "time": "0537",
+    "extras": [],
+    "length": 26,
     "primary": [
       "ROCHESTER-BASEM ASHKAR"
     ],
-    "length": 26,
-    "result": "EM",
-    "extras": [],
-    "time": "0537",
-    "offense": "ROCHESTER",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "secondary": []
   },
   "10": {
     "defense": "ROCHESTER",
-    "secondary": [
-      "TEXAS-JOHN ANDERSON"
-    ],
+    "offense": "TEXAS",
+    "result": "GP",
+    "time": "0638",
+    "extras": [],
+    "length": 101,
     "primary": [
       "TEXAS-ERIN MCBRIDE"
     ],
-    "length": 101,
-    "result": "GP",
-    "extras": [],
-    "time": "0638",
-    "offense": "TEXAS",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "secondary": [
+      "TEXAS-JOHN ANDERSON"
+    ]
   },
   "11": {
     "defense": "TEXAS",
-    "secondary": [
-      "ROCHESTER-MIKE PASCUTOI"
-    ],
+    "offense": "ROCHESTER",
+    "result": "TB",
+    "time": "0705",
+    "extras": [],
+    "length": 67,
     "primary": [
       "TEXAS-EDDIE MOLINA"
     ],
-    "length": 67,
-    "result": "TB",
-    "extras": [],
-    "time": "0705",
-    "offense": "ROCHESTER",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "secondary": [
+      "ROCHESTER-MIKE PASCUTOI"
+    ]
   },
   "12": {
     "defense": "ROCHESTER",
+    "offense": "TEXAS",
+    "result": "TD",
+    "time": "0732",
+    "extras": [],
+    "length": 27,
+    "primary": [
+      "ROCHESTER-BASEM ASHKAR"
+    ],
+    "period": "FLOOR",
     "secondary": [
       "TEXAS-MICHAEL JOHNSTON",
       "TEXAS-ERIN MCBRIDE"
-    ],
-    "primary": [
-      "ROCHESTER-BASEM ASHKAR"
-    ],
-    "length": 27,
-    "result": "TD",
-    "extras": [],
-    "time": "0732",
-    "offense": "TEXAS",
-    "period": "FLOOR"
+    ]
   },
   "13": {
     "defense": "TEXAS",
-    "secondary": [
-      "ROCHESTER-BASEM ASHKAR"
-    ],
+    "offense": "ROCHESTER",
+    "result": "TC",
+    "time": "0741",
+    "extras": [],
+    "length": 9,
     "primary": [
       "TEXAS-MICHAEL JOHNSTON"
     ],
-    "length": 9,
-    "result": "TC",
-    "extras": [],
-    "time": "0741",
-    "offense": "ROCHESTER",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "secondary": [
+      "ROCHESTER-BASEM ASHKAR"
+    ]
   },
   "14": {
     "defense": "ROCHESTER",
-    "secondary": [
-      "TEXAS-JOHN ANDERSON"
-    ],
+    "offense": "TEXAS",
+    "result": "TB",
+    "time": "0826",
+    "extras": [],
+    "length": 85,
     "primary": [
       "ROCHESTER-STEVEN BELITZKY"
     ],
-    "length": 85,
-    "result": "TB",
-    "extras": [],
-    "time": "0826",
-    "offense": "TEXAS",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "secondary": [
+      "TEXAS-JOHN ANDERSON"
+    ]
   },
   "15": {
     "defense": "TEXAS",
-    "secondary": [
-      "ROCHESTER-EMMA FOLEY"
-    ],
-    "primary": [
-      "TEXAS-HALLIE PACE"
-    ],
-    "length": 74,
+    "offense": "ROCHESTER",
     "result": "TB",
+    "time": "0900",
     "extras": [
       [
         "R",
         "TEXAS-EDDIE MOLINA"
       ]
     ],
-    "time": "0900",
-    "offense": "ROCHESTER",
-    "period": "FLOOR"
+    "length": 74,
+    "primary": [
+      "TEXAS-HALLIE PACE"
+    ],
+    "period": "FLOOR",
+    "secondary": [
+      "ROCHESTER-EMMA FOLEY"
+    ]
   },
   "16": {
     "defense": "ROCHESTER",
-    "secondary": [
-      "TEXAS-AUSTIN DICKSON"
-    ],
+    "offense": "TEXAS",
+    "result": "GP",
+    "time": "0910",
+    "extras": [],
+    "length": 10,
     "primary": [
       "TEXAS-AIDAN PARSI"
     ],
-    "length": 10,
-    "result": "GP",
-    "extras": [],
-    "time": "0910",
-    "offense": "TEXAS",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "secondary": [
+      "TEXAS-AUSTIN DICKSON"
+    ]
   },
   "17": {
     "defense": "TEXAS",
-    "secondary": [],
+    "offense": "ROCHESTER",
+    "result": "GS",
+    "time": "0944",
+    "extras": [],
+    "length": 34,
     "primary": [
       "ROCHESTER-BASEM ASHKAR"
     ],
-    "length": 34,
-    "result": "GS",
-    "extras": [],
-    "time": "0944",
-    "offense": "ROCHESTER",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "secondary": []
   },
   "18": {
     "defense": "ROCHESTER",
-    "secondary": [
-      "TEXAS-AUSTIN DICKSON"
-    ],
+    "offense": "TEXAS",
+    "result": "ED",
+    "time": "1024",
+    "extras": [],
+    "length": 80,
     "primary": [
       "TEXAS-AIDAN PARSI"
     ],
-    "length": 80,
-    "result": "ED",
-    "extras": [],
-    "time": "1024",
-    "offense": "TEXAS",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "secondary": [
+      "TEXAS-AUSTIN DICKSON"
+    ]
   },
   "19": {
     "defense": "TEXAS",
-    "secondary": [
-      "ROCHESTER-MADDISON JORDAN"
-    ],
+    "offense": "ROCHESTER",
+    "result": "TC",
+    "time": "1030",
+    "extras": [],
+    "length": 6,
     "primary": [
       "TEXAS-AUSTIN DICKSON"
     ],
-    "length": 6,
-    "result": "TC",
-    "extras": [],
-    "time": "1030",
-    "offense": "ROCHESTER",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "secondary": [
+      "ROCHESTER-MADDISON JORDAN"
+    ]
   },
   "20": {
     "defense": "ROCHESTER",
-    "secondary": [],
+    "offense": "TEXAS",
+    "result": "EM",
+    "time": "1101",
+    "extras": [],
+    "length": 71,
     "primary": [
       "TEXAS-AUSTIN DICKSON"
     ],
-    "length": 71,
-    "result": "EM",
-    "extras": [],
-    "time": "1101",
-    "offense": "TEXAS",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "secondary": []
   },
   "21": {
     "defense": "TEXAS",
-    "secondary": [
-      "ROCHESTER-BASEM ASHKAR"
-    ],
+    "offense": "ROCHESTER",
+    "result": "GP",
+    "time": "1138",
+    "extras": [],
+    "length": 37,
     "primary": [
       "ROCHESTER-MADDISON JORDAN"
     ],
-    "length": 37,
-    "result": "GP",
-    "extras": [],
-    "time": "1138",
-    "offense": "ROCHESTER",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "secondary": [
+      "ROCHESTER-BASEM ASHKAR"
+    ]
   },
   "22": {
     "defense": "ROCHESTER",
-    "secondary": [
-      "TEXAS-AIDAN PARSI"
-    ],
+    "offense": "TEXAS",
+    "result": "GP",
+    "time": "1233",
+    "extras": [],
+    "length": 95,
     "primary": [
       "TEXAS-CULLEN FRIDAY"
     ],
-    "length": 95,
-    "result": "GP",
-    "extras": [],
-    "time": "1233",
-    "offense": "TEXAS",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "secondary": [
+      "TEXAS-AIDAN PARSI"
+    ]
   },
   "23": {
     "defense": "TEXAS",
-    "secondary": [
-      "ROCHESTER-BASEM ASHKAR",
-      "ROCHESTER-MADDISON JORDAN"
-    ],
-    "primary": [
-      "TEXAS-CULLEN FRIDAY"
-    ],
-    "length": 93,
+    "offense": "ROCHESTER",
     "result": "TD",
+    "time": "1326",
     "extras": [
       [
         "R",
         "TEXAS-TATE KAY"
       ]
     ],
-    "time": "1326",
-    "offense": "ROCHESTER",
-    "period": "FLOOR"
+    "length": 93,
+    "primary": [
+      "TEXAS-CULLEN FRIDAY"
+    ],
+    "period": "FLOOR",
+    "secondary": [
+      "ROCHESTER-BASEM ASHKAR",
+      "ROCHESTER-MADDISON JORDAN"
+    ]
   },
   "24": {
     "defense": "ROCHESTER",
-    "secondary": [],
+    "offense": "TEXAS",
+    "result": "GS",
+    "time": "1417",
+    "extras": [],
+    "length": 91,
     "primary": [
       "TEXAS-DYLAN BOTTOMS"
     ],
-    "length": 91,
-    "result": "GS",
-    "extras": [],
-    "time": "1417",
-    "offense": "TEXAS",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "secondary": []
   },
   "25": {
     "defense": "TEXAS",
-    "secondary": [],
+    "offense": "ROCHESTER",
+    "result": "EM",
+    "time": "1451",
+    "extras": [],
+    "length": 34,
     "primary": [
       "ROCHESTER-BASEM ASHKAR"
     ],
-    "length": 34,
-    "result": "EM",
-    "extras": [],
-    "time": "1451",
-    "offense": "ROCHESTER",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "secondary": []
   },
   "26": {
     "defense": "ROCHESTER",
-    "secondary": [],
+    "offense": "TEXAS",
+    "result": "GD",
+    "time": "1500",
+    "extras": [],
+    "length": 49,
     "primary": [
       "TEXAS-CULLEN FRIDAY"
     ],
-    "length": 49,
-    "result": "GD",
-    "extras": [],
-    "time": "1500",
-    "offense": "TEXAS",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "secondary": []
   },
   "27": {
     "defense": "TEXAS",
-    "secondary": [
-      "ROCHESTER-BASEM ASHKAR"
-    ],
+    "offense": "ROCHESTER",
+    "result": "GP",
+    "time": "1535",
+    "extras": [],
+    "length": 35,
     "primary": [
       "ROCHESTER-JUSTIN KING"
     ],
-    "length": 35,
-    "result": "GP",
-    "extras": [],
-    "time": "1535",
-    "offense": "ROCHESTER",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "secondary": [
+      "ROCHESTER-BASEM ASHKAR"
+    ]
   },
   "28": {
     "defense": "ROCHESTER",
-    "secondary": [],
+    "offense": "TEXAS",
+    "result": "EM",
+    "time": "1543",
+    "extras": [],
+    "length": 8,
     "primary": [
       "TEXAS-CULLEN FRIDAY"
     ],
-    "length": 8,
-    "result": "EM",
-    "extras": [],
-    "time": "1543",
-    "offense": "TEXAS",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "secondary": []
   },
   "29": {
     "defense": "TEXAS",
+    "offense": "ROCHESTER",
+    "result": "TD",
+    "time": "1614",
+    "extras": [],
+    "length": 71,
+    "primary": [
+      "TEXAS-SOPHIA DESALVO"
+    ],
+    "period": "FLOOR",
     "secondary": [
       "ROCHESTER-OWYN GUINNIP",
       "ROCHESTER-JUSTIN KING"
-    ],
-    "primary": [
-      "TEXAS-SOPHIA DESALVO"
-    ],
-    "length": 71,
-    "result": "TD",
-    "extras": [],
-    "time": "1614",
-    "offense": "ROCHESTER",
-    "period": "FLOOR"
+    ]
   },
   "30": {
     "defense": "ROCHESTER",
-    "secondary": [
-      "TEXAS-SOPHIA DESALVO"
-    ],
+    "offense": "TEXAS",
+    "result": "TB",
+    "time": "1648",
+    "extras": [],
+    "length": 34,
     "primary": [
       "ROCHESTER-TIM KWAN"
     ],
-    "length": 34,
-    "result": "TB",
-    "extras": [],
-    "time": "1648",
-    "offense": "TEXAS",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "secondary": [
+      "TEXAS-SOPHIA DESALVO"
+    ]
   },
   "31": {
     "defense": "TEXAS",
-    "secondary": [],
+    "offense": "ROCHESTER",
+    "result": "EM",
+    "time": "1715",
+    "extras": [],
+    "length": 67,
     "primary": [
       "ROCHESTER-BASEM ASHKAR"
     ],
-    "length": 67,
-    "result": "EM",
-    "extras": [],
-    "time": "1715",
-    "offense": "ROCHESTER",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "secondary": []
   },
   "32": {
     "defense": "ROCHESTER",
-    "secondary": [],
-    "primary": [
-      "TEXAS-JOHN ANDERSON"
-    ],
-    "length": 101,
+    "offense": "TEXAS",
     "result": "GD",
+    "time": "1816",
     "extras": [
       [
         "SOP",
         1
       ]
     ],
-    "time": "1816",
-    "offense": "TEXAS",
-    "period": "SOP"
-  },
-  "33": {
-    "defense": "TEXAS",
-    "secondary": [
-      "ROCHESTER-BASEM ASHKAR"
-    ],
-    "primary": [
-      "ROCHESTER-OWYN GUINNIP"
-    ],
-    "length": 92,
-    "result": "GD",
-    "extras": [],
-    "time": "1908",
-    "offense": "ROCHESTER",
-    "period": "SOP"
-  },
-  "34": {
-    "defense": "ROCHESTER",
-    "secondary": [],
-    "primary": [
-      "TEXAS-AIDAN PARSI"
-    ],
-    "length": 27,
-    "result": "GS",
-    "extras": [],
-    "time": "1935",
-    "offense": "TEXAS",
-    "period": "SOP"
-  },
-  "35": {
-    "defense": "TEXAS",
-    "secondary": [
-      "ROCHESTER-SAMANTHA DINGA"
-    ],
-    "primary": [
-      "TEXAS-AIDAN PARSI"
-    ],
-    "length": 73,
-    "result": "TL",
-    "extras": [],
-    "time": "2008",
-    "offense": "ROCHESTER",
-    "period": "SOP"
-  },
-  "36": {
-    "defense": "ROCHESTER",
-    "secondary": [],
+    "length": 101,
     "primary": [
       "TEXAS-JOHN ANDERSON"
     ],
-    "length": 17,
+    "period": "SOP",
+    "secondary": []
+  },
+  "33": {
+    "defense": "TEXAS",
+    "offense": "ROCHESTER",
     "result": "GD",
+    "time": "1908",
     "extras": [],
-    "time": "2025",
+    "length": 92,
+    "primary": [
+      "ROCHESTER-OWYN GUINNIP"
+    ],
+    "period": "SOP",
+    "secondary": [
+      "ROCHESTER-BASEM ASHKAR"
+    ]
+  },
+  "34": {
+    "defense": "ROCHESTER",
     "offense": "TEXAS",
-    "period": "SOP"
+    "result": "GS",
+    "time": "1935",
+    "extras": [],
+    "length": 27,
+    "primary": [
+      "TEXAS-AIDAN PARSI"
+    ],
+    "period": "SOP",
+    "secondary": []
+  },
+  "35": {
+    "defense": "TEXAS",
+    "offense": "ROCHESTER",
+    "result": "TL",
+    "time": "2008",
+    "extras": [],
+    "length": 73,
+    "primary": [
+      "TEXAS-AIDAN PARSI"
+    ],
+    "period": "SOP",
+    "secondary": [
+      "ROCHESTER-SAMANTHA DINGA"
+    ]
+  },
+  "36": {
+    "defense": "ROCHESTER",
+    "offense": "TEXAS",
+    "result": "GD",
+    "time": "2025",
+    "extras": [],
+    "length": 17,
+    "primary": [
+      "TEXAS-JOHN ANDERSON"
+    ],
+    "period": "SOP",
+    "secondary": []
   },
   "37": {
     "defense": "TEXAS",
-    "secondary": [],
+    "offense": "ROCHESTER",
+    "result": "RCA",
+    "time": "2026",
+    "extras": [],
+    "length": -1,
     "primary": [
       "ROCHESTER-MIKE PASCUTOI"
     ],
-    "length": -1,
-    "result": "RCA",
-    "extras": [],
-    "time": "2026",
-    "offense": "ROCHESTER",
-    "period": "SOP"
+    "period": "SOP",
+    "secondary": []
   }
 }

@@ -86,7 +86,7 @@ def get_brooms_up(header,roster,teams):
         b_params = (int(ba.groups()[0]),'A')if ba else (int(bb.groups()[0]),'B')
     extras,offense,time = [],'Brooms Up','0000'
     result,primary,secondary ='BU',get_name(roster,teams,*q_params),get_name(roster,teams,*b_params)
-    return {'extras':extras,'offense':offense,'time':time,'result':result,'primary':[primary],'secondary':[secondary],'period':'FLOOR'}
+    return {'extras':extras,'offense':offense, 'defense':'','length':-1,'time':time,'result':result,'primary':[primary],'secondary':[secondary],'period':'FLOOR'}
 
 # Can take two forms of player_number, team
 # E.g to look up A-34
