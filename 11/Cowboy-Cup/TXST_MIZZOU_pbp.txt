@@ -24,11 +24,11 @@
 (12:50)TXST possession: Goal on the shot by ['TXST-TJ MARTINEZ'].
 (13:58)MIZZOU possession: Errant pass from ['MIZZOU-VINCENT WOOLSEY'] to ['MIZZOU-RUTHIE POLIO']. Turnover
 (14:33)TXST possession: Pass between ['TXST-ERIC REYES', 'TXST-BRANDON MACDOWRA'] defended by ['MIZZOU-VINCENT WOOLSEY']. Turnover
-(15:46)MIZZOU possession: ['MIZZOU-VINCENT WOOLSEY'] passes to ['MIZZOU-NATALIE TEZRICH'] at the hoops, GOAL. During the play, reset forced by TXST-KRIS DELAFUENTE
+(15:46)MIZZOU possession: ['MIZZOU-VINCENT WOOLSEY'] passes to ['MIZZOU-NATALIE TERZICH'] at the hoops, GOAL. During the play, reset forced by TXST-KRIS DELAFUENTE
 (16:17)TXST possession: Shot by ['TXST-BRANDON MACDOWRA'] blocked by ['MIZZOU-VINCENT WOOLSEY']. Turnover.
 (16:25)MIZZOU possession: ['MIZZOU-JACOB PARKER'] passes to ['MIZZOU-RUTHIE POLIO'] at the hoops, GOAL.
 (17:03)TXST possession: Goal on the shot by ['TXST-STEPHEN VIGIL'].
-(17:20)MIZZOU possession: Errant pass from ['MIZZOU-JACOB PARKER'] to ['MIZZOU-NATALIE TEZRICH']. Turnover
+(17:20)MIZZOU possession: Errant pass from ['MIZZOU-JACOB PARKER'] to ['MIZZOU-NATALIE TERZICH']. Turnover
 (17:30)TXST possession: Shot by ['TXST-BRANDON MACDOWRA'] blocked by ['MIZZOU-LAFE ARENS']. Turnover.
 (18:03)MIZZOU possession: Beat by ['TXST-TESS ACOSTA'] on ['MIZZOU-LAFE ARENS'] forces a TURNOVER. During the play, reset forced by TXST-KRIS DELAFUENTE
 (18:04)TXST possession: Goal by ['TXST-STEPHEN VIGIL'].
