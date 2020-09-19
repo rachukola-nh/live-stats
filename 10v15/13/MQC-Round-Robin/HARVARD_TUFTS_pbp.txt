@@ -1,0 +1,38 @@
+(00:00)Brooms Up possession: BROOMS UP! Quaffle Possession by ['TUFTS-JOHN PARRISH'], Bludger Control by ['HARVARD-RYAN CHESTER']
+TUFTS possession: Beat by ['HARVARD-MICHAEL CHENEVEY'] on ['TUFTS-JAKE ZASLAV'] forces a TURNOVER.
+HARVARD possession: Turnover forced by physical contact by ['TUFTS-HENRY BAER-BENSON'] on ['HARVARD-JAMES DEVANEY']
+TUFTS possession: Errant pass from ['TUFTS-HENRY BAER-BENSON'] to ['TUFTS-UNK']. Turnover
+HARVARD possession: Pass by ['HARVARD-LEO FRIED'] dropped by ['HARVARD-ANALUIZA NICOLAE']. Turnover
+TUFTS possession: Goal on the shot by ['TUFTS-HENRY BAER-BENSON'], assist by ['TUFTS-JAKE ZASLAV']
+HARVARD possession: Goal on the drive by ['HARVARD-JAMES DEVANEY'].
+TUFTS possession: Missed shot by ['TUFTS-JOHN PARRISH']. Turnover.
+HARVARD possession: Goal on the drive by ['HARVARD-JAMES DEVANEY'].
+TUFTS possession: Shot by ['TUFTS-JOHN PARRISH'] blocked by ['HARVARD-FRANKIE MATOS']. Turnover.
+HARVARD possession: Errant pass from ['HARVARD-FRANKIE MATOS'] to ['HARVARD-ANALUIZA NICOLAE']. Turnover
+TUFTS possession: Goal on the shot by ['TUFTS-DONOVAN BRADY'], assist by ['TUFTS-HENRY BAER-BENSON']
+HARVARD possession: Errant pass from ['HARVARD-ANALUIZA NICOLAE'] to ['HARVARD-LEO FRIED']. Turnover During the play, reset forced by TUFTS-EMMA WOLFE
+TUFTS possession: Pass between ['TUFTS-ATHENA MAYOR', 'TUFTS-HENRY BAER-BENSON'] defended by ['HARVARD-FRANKIE MATOS']. Turnover
+HARVARD possession: Missed shot by ['HARVARD-FRANKIE MATOS']. Turnover.
+TUFTS possession: Shot by ['TUFTS-DONOVAN BRADY'] blocked by ['HARVARD-FRANKIE MATOS']. Turnover.
+HARVARD possession: Turnover forced by physical contact by ['TUFTS-DONOVAN BRADY'] on ['HARVARD-JAMES DEVANEY']
+TUFTS possession: Pass between ['TUFTS-SOPHIE COBURN', 'TUFTS-JOHN PARRISH'] defended by ['HARVARD-LEO FRIED']. Turnover
+HARVARD possession: Pass between ['HARVARD-RYAN CHESTER', 'HARVARD-ANALUIZA NICOLAE'] defended by ['TUFTS-HENRY BAER-BENSON']. Turnover
+TUFTS possession: Beat by ['HARVARD-DANIEL GOTTESMAN'] on ['TUFTS-JOHN PARRISH'] forces a TURNOVER.
+HARVARD possession: Turnover forced by physical contact by ['TUFTS-JOHN PARRISH'] on ['HARVARD-FELIX BULWA']
+TUFTS possession: Shot by ['TUFTS-JOHN PARRISH'] blocked by ['HARVARD-RYAN CHESTER']. Turnover.
+HARVARD possession: Beat by ['TUFTS-BEATER SMILEY'] on ['HARVARD-LEO FRIED'] forces a TURNOVER.
+TUFTS possession: Missed shot by ['TUFTS-JOHN PARRISH']. Turnover.
+HARVARD possession: Missed shot by ['HARVARD-FELIX BULWA']. Turnover.
+TUFTS possession: ['TUFTS-JOHN PARRISH'] passes to ['TUFTS-JACOB BRENNER'] at the hoops, GOAL.
+HARVARD possession: Goal on the drive by ['HARVARD-RYAN CHESTER'], assist by ['HARVARD-FELIX BULWA']
+TUFTS possession: Turnover forced by physical contact by ['HARVARD-FRANKIE MATOS'] on ['TUFTS-CHASER SMILEY']
+HARVARD possession: Goal on the drive by ['HARVARD-FRANKIE MATOS'].
+TUFTS possession: Pass by ['TUFTS-DONOVAN BRADY'] dropped by ['TUFTS-CHASER SMILEY']. Turnover
+HARVARD possession: ['HARVARD-RYAN CHESTER'] passes to ['HARVARD-FRANKIE MATOS'] at the hoops, GOAL.
+TUFTS possession: Missed shot by ['TUFTS-JOHN PARRISH']. Turnover.
+HARVARD possession: ['HARVARD-RYAN CHESTER'] passes to ['HARVARD-FELIX BULWA'] at the hoops, GOAL.
+TUFTS possession: Pass between ['TUFTS-ATHENA MAYOR', 'TUFTS-77'] defended by ['HARVARD-FRANKIE MATOS']. Turnover
+HARVARD possession: ['HARVARD-FELIX BULWA'] passes to ['HARVARD-FRANKIE MATOS'] at the hoops, GOAL.
+TUFTS possession: Turnover forced by physical contact by ['HARVARD-FRANKIE MATOS'] on ['TUFTS-77'] During the play, SNITCH ON PITCH begins
+HARVARD possession: Beat by ['TUFTS-EMMA WOLFE'] on ['HARVARD-JAMES DEVANEY'] forces a TURNOVER.
+TUFTS possession: Snitch catch by ['HARVARD-LEO FRIED'] is GOOD.

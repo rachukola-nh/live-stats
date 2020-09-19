@@ -1,0 +1,2355 @@
+[
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "TEXAS-DAVID HUBER"
+    ],
+    "offense": "Brooms Up",
+    "season": "11",
+    "result": "BU",
+    "extras": [],
+    "time": "0000",
+    "tournament": "USQ-Cup",
+    "length": -1,
+    "game": "11\\USQ-Cup\\TEXAS_UMD_data.json",
+    "primary": [
+      "UMD-JOHN SHERIDAN"
+    ],
+    "defense": "",
+    "possession_number": 0
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [],
+    "offense": "TEXAS",
+    "season": "11",
+    "result": "EM",
+    "extras": [],
+    "time": "",
+    "tournament": "USQ-Cup",
+    "length": -1,
+    "game": "11\\USQ-Cup\\TEXAS_UMD_data.json",
+    "primary": [
+      "TEXAS-JOHN ANDERSON"
+    ],
+    "defense": "UMD",
+    "possession_number": 1
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "UMD-BEN WHONG"
+    ],
+    "offense": "UMD",
+    "season": "11",
+    "result": "TL",
+    "extras": [],
+    "time": "",
+    "tournament": "USQ-Cup",
+    "length": -1,
+    "game": "11\\USQ-Cup\\TEXAS_UMD_data.json",
+    "primary": [
+      "TEXAS-JOHN ANDERSON"
+    ],
+    "defense": "TEXAS",
+    "possession_number": 2
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "TEXAS-NICK MARINO"
+    ],
+    "offense": "TEXAS",
+    "season": "11",
+    "result": "GP",
+    "extras": [],
+    "time": "",
+    "tournament": "USQ-Cup",
+    "length": -1,
+    "game": "11\\USQ-Cup\\TEXAS_UMD_data.json",
+    "primary": [
+      "TEXAS-ERIN MCBRIDE"
+    ],
+    "defense": "UMD",
+    "possession_number": 3
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "UMD-4"
+    ],
+    "offense": "UMD",
+    "season": "11",
+    "result": "TC",
+    "extras": [],
+    "time": "",
+    "tournament": "USQ-Cup",
+    "length": -1,
+    "game": "11\\USQ-Cup\\TEXAS_UMD_data.json",
+    "primary": [
+      "TEXAS-NICK MARINO",
+      "TEXAS-AIDAN PARSI"
+    ],
+    "defense": "TEXAS",
+    "possession_number": 4
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "TEXAS-NICK MARINO"
+    ],
+    "offense": "TEXAS",
+    "season": "11",
+    "result": "GP",
+    "extras": [],
+    "time": "",
+    "tournament": "USQ-Cup",
+    "length": -1,
+    "game": "11\\USQ-Cup\\TEXAS_UMD_data.json",
+    "primary": [
+      "TEXAS-AIDAN PARSI"
+    ],
+    "defense": "UMD",
+    "possession_number": 5
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "UMD-BEN WHONG"
+    ],
+    "offense": "UMD",
+    "season": "11",
+    "result": "TL",
+    "extras": [],
+    "time": "",
+    "tournament": "USQ-Cup",
+    "length": -1,
+    "game": "11\\USQ-Cup\\TEXAS_UMD_data.json",
+    "primary": [
+      "TEXAS-JOHN ANDERSON"
+    ],
+    "defense": "TEXAS",
+    "possession_number": 6
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [],
+    "offense": "TEXAS",
+    "season": "11",
+    "result": "GD",
+    "extras": [],
+    "time": "",
+    "tournament": "USQ-Cup",
+    "length": -1,
+    "game": "11\\USQ-Cup\\TEXAS_UMD_data.json",
+    "primary": [
+      "TEXAS-AIDAN PARSI"
+    ],
+    "defense": "UMD",
+    "possession_number": 7
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "UMD-ABBY POTTER"
+    ],
+    "offense": "UMD",
+    "season": "11",
+    "result": "TL",
+    "extras": [],
+    "time": "",
+    "tournament": "USQ-Cup",
+    "length": -1,
+    "game": "11\\USQ-Cup\\TEXAS_UMD_data.json",
+    "primary": [
+      "TEXAS-JOHN ANDERSON"
+    ],
+    "defense": "TEXAS",
+    "possession_number": 8
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "TEXAS-AIDAN PARSI"
+    ],
+    "offense": "TEXAS",
+    "season": "11",
+    "result": "GD",
+    "extras": [
+      [
+        "Y",
+        "UMD-BEN WHONG"
+      ]
+    ],
+    "time": "",
+    "tournament": "USQ-Cup",
+    "length": -1,
+    "game": "11\\USQ-Cup\\TEXAS_UMD_data.json",
+    "primary": [
+      "TEXAS-MICHAEL JOHNSTON"
+    ],
+    "defense": "UMD",
+    "possession_number": 9
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [],
+    "offense": "UMD",
+    "season": "11",
+    "result": "GD",
+    "extras": [
+      [
+        "Y",
+        "TEXAS-AIDAN PARSI"
+      ]
+    ],
+    "time": "",
+    "tournament": "USQ-Cup",
+    "length": -1,
+    "game": "11\\USQ-Cup\\TEXAS_UMD_data.json",
+    "primary": [
+      "UMD-DALE FARNAN"
+    ],
+    "defense": "TEXAS",
+    "possession_number": 10
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "TEXAS-NICK MARINO"
+    ],
+    "offense": "TEXAS",
+    "season": "11",
+    "result": "GS",
+    "extras": [
+      [
+        "Y",
+        "UMD-NOAH RINDOCK"
+      ]
+    ],
+    "time": "",
+    "tournament": "USQ-Cup",
+    "length": -1,
+    "game": "11\\USQ-Cup\\TEXAS_UMD_data.json",
+    "primary": [
+      "TEXAS-ERIN MCBRIDE"
+    ],
+    "defense": "UMD",
+    "possession_number": 11
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "UMD-JOHN SHERIDAN"
+    ],
+    "offense": "UMD",
+    "season": "11",
+    "result": "TC",
+    "extras": [],
+    "time": "",
+    "tournament": "USQ-Cup",
+    "length": -1,
+    "game": "11\\USQ-Cup\\TEXAS_UMD_data.json",
+    "primary": [
+      "TEXAS-AIDAN PARSI"
+    ],
+    "defense": "TEXAS",
+    "possession_number": 12
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [],
+    "offense": "TEXAS",
+    "season": "11",
+    "result": "GD",
+    "extras": [],
+    "time": "",
+    "tournament": "USQ-Cup",
+    "length": -1,
+    "game": "11\\USQ-Cup\\TEXAS_UMD_data.json",
+    "primary": [
+      "TEXAS-NICK MARINO"
+    ],
+    "defense": "UMD",
+    "possession_number": 13
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "UMD-DALE FARNAN"
+    ],
+    "offense": "UMD",
+    "season": "11",
+    "result": "TB",
+    "extras": [
+      [
+        "R",
+        "TEXAS-HALLIE PACE"
+      ]
+    ],
+    "time": "",
+    "tournament": "USQ-Cup",
+    "length": -1,
+    "game": "11\\USQ-Cup\\TEXAS_UMD_data.json",
+    "primary": [
+      "TEXAS-HALLIE PACE"
+    ],
+    "defense": "TEXAS",
+    "possession_number": 14
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "TEXAS-NICK MARINO"
+    ],
+    "offense": "TEXAS",
+    "season": "11",
+    "result": "GS",
+    "extras": [],
+    "time": "",
+    "tournament": "USQ-Cup",
+    "length": -1,
+    "game": "11\\USQ-Cup\\TEXAS_UMD_data.json",
+    "primary": [
+      "TEXAS-AIDAN PARSI"
+    ],
+    "defense": "UMD",
+    "possession_number": 15
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "UMD-NOAH RINDOCK"
+    ],
+    "offense": "UMD",
+    "season": "11",
+    "result": "GS",
+    "extras": [],
+    "time": "",
+    "tournament": "USQ-Cup",
+    "length": -1,
+    "game": "11\\USQ-Cup\\TEXAS_UMD_data.json",
+    "primary": [
+      "UMD-DALE FARNAN"
+    ],
+    "defense": "TEXAS",
+    "possession_number": 16
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "TEXAS-ERIN MCBRIDE"
+    ],
+    "offense": "TEXAS",
+    "season": "11",
+    "result": "GP",
+    "extras": [
+      [
+        "R",
+        "UMD-ZAIN BHAILA"
+      ]
+    ],
+    "time": "",
+    "tournament": "USQ-Cup",
+    "length": -1,
+    "game": "11\\USQ-Cup\\TEXAS_UMD_data.json",
+    "primary": [
+      "TEXAS-DYLAN BOTTOMS"
+    ],
+    "defense": "UMD",
+    "possession_number": 17
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [],
+    "offense": "UMD",
+    "season": "11",
+    "result": "EB",
+    "extras": [],
+    "time": "",
+    "tournament": "USQ-Cup",
+    "length": -1,
+    "game": "11\\USQ-Cup\\TEXAS_UMD_data.json",
+    "primary": [
+      "UMD-DALE FARNAN"
+    ],
+    "defense": "TEXAS",
+    "possession_number": 18
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "TEXAS-AIDAN PARSI"
+    ],
+    "offense": "TEXAS",
+    "season": "11",
+    "result": "GP",
+    "extras": [],
+    "time": "",
+    "tournament": "USQ-Cup",
+    "length": -1,
+    "game": "11\\USQ-Cup\\TEXAS_UMD_data.json",
+    "primary": [
+      "TEXAS-JOHN ANDERSON"
+    ],
+    "defense": "UMD",
+    "possession_number": 19
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [],
+    "offense": "UMD",
+    "season": "11",
+    "result": "EM",
+    "extras": [],
+    "time": "",
+    "tournament": "USQ-Cup",
+    "length": -1,
+    "game": "11\\USQ-Cup\\TEXAS_UMD_data.json",
+    "primary": [
+      "UMD-4"
+    ],
+    "defense": "TEXAS",
+    "possession_number": 20
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [],
+    "offense": "TEXAS",
+    "season": "11",
+    "result": "EY",
+    "extras": [],
+    "time": "",
+    "tournament": "USQ-Cup",
+    "length": -1,
+    "game": "11\\USQ-Cup\\TEXAS_UMD_data.json",
+    "primary": [
+      "TEXAS-KYLIE MCBRIDE"
+    ],
+    "defense": "UMD",
+    "possession_number": 21
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "UMD-4"
+    ],
+    "offense": "UMD",
+    "season": "11",
+    "result": "GS",
+    "extras": [],
+    "time": "",
+    "tournament": "USQ-Cup",
+    "length": -1,
+    "game": "11\\USQ-Cup\\TEXAS_UMD_data.json",
+    "primary": [
+      "UMD-MACK MORGAN"
+    ],
+    "defense": "TEXAS",
+    "possession_number": 22
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "TEXAS-DYLAN BOTTOMS"
+    ],
+    "offense": "TEXAS",
+    "season": "11",
+    "result": "GP",
+    "extras": [],
+    "time": "",
+    "tournament": "USQ-Cup",
+    "length": -1,
+    "game": "11\\USQ-Cup\\TEXAS_UMD_data.json",
+    "primary": [
+      "TEXAS-ANDRES GARZA"
+    ],
+    "defense": "UMD",
+    "possession_number": 23
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "UMD-MACK MORGAN"
+    ],
+    "offense": "UMD",
+    "season": "11",
+    "result": "TC",
+    "extras": [],
+    "time": "",
+    "tournament": "USQ-Cup",
+    "length": -1,
+    "game": "11\\USQ-Cup\\TEXAS_UMD_data.json",
+    "primary": [
+      "TEXAS-ANDRES GARZA"
+    ],
+    "defense": "TEXAS",
+    "possession_number": 24
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "TEXAS-ERIN MCBRIDE"
+    ],
+    "offense": "TEXAS",
+    "season": "11",
+    "result": "TC",
+    "extras": [],
+    "time": "",
+    "tournament": "USQ-Cup",
+    "length": -1,
+    "game": "11\\USQ-Cup\\TEXAS_UMD_data.json",
+    "primary": [
+      "UMD-MACK MORGAN"
+    ],
+    "defense": "UMD",
+    "possession_number": 25
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "UMD-MACK MORGAN"
+    ],
+    "offense": "UMD",
+    "season": "11",
+    "result": "TL",
+    "extras": [],
+    "time": "",
+    "tournament": "USQ-Cup",
+    "length": -1,
+    "game": "11\\USQ-Cup\\TEXAS_UMD_data.json",
+    "primary": [
+      "TEXAS-ERIN MCBRIDE"
+    ],
+    "defense": "TEXAS",
+    "possession_number": 26
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "TEXAS-MICHAEL JOHNSTON"
+    ],
+    "offense": "TEXAS",
+    "season": "11",
+    "result": "EP",
+    "extras": [
+      [
+        "R",
+        "UMD-BRENDAN HUTTON"
+      ]
+    ],
+    "time": "",
+    "tournament": "USQ-Cup",
+    "length": -1,
+    "game": "11\\USQ-Cup\\TEXAS_UMD_data.json",
+    "primary": [
+      "TEXAS-AIDAN PARSI"
+    ],
+    "defense": "UMD",
+    "possession_number": 27
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "UMD-MACK MORGAN"
+    ],
+    "offense": "UMD",
+    "season": "11",
+    "result": "TL",
+    "extras": [],
+    "time": "",
+    "tournament": "USQ-Cup",
+    "length": -1,
+    "game": "11\\USQ-Cup\\TEXAS_UMD_data.json",
+    "primary": [
+      "TEXAS-MICHAEL JOHNSTON"
+    ],
+    "defense": "TEXAS",
+    "possession_number": 28
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "TEXAS-AIDAN PARSI"
+    ],
+    "offense": "TEXAS",
+    "season": "11",
+    "result": "GP",
+    "extras": [],
+    "time": "",
+    "tournament": "USQ-Cup",
+    "length": -1,
+    "game": "11\\USQ-Cup\\TEXAS_UMD_data.json",
+    "primary": [
+      "TEXAS-SOPHIA DESALVO"
+    ],
+    "defense": "UMD",
+    "possession_number": 29
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "UMD-UNK"
+    ],
+    "offense": "UMD",
+    "season": "11",
+    "result": "EP",
+    "extras": [],
+    "time": "",
+    "tournament": "USQ-Cup",
+    "length": -1,
+    "game": "11\\USQ-Cup\\TEXAS_UMD_data.json",
+    "primary": [
+      "UMD-4"
+    ],
+    "defense": "TEXAS",
+    "possession_number": 30
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [],
+    "offense": "TEXAS",
+    "season": "11",
+    "result": "GD",
+    "extras": [],
+    "time": "",
+    "tournament": "USQ-Cup",
+    "length": -1,
+    "game": "11\\USQ-Cup\\TEXAS_UMD_data.json",
+    "primary": [
+      "TEXAS-AIDAN PARSI"
+    ],
+    "defense": "UMD",
+    "possession_number": 31
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [],
+    "offense": "UMD",
+    "season": "11",
+    "result": "GS",
+    "extras": [],
+    "time": "",
+    "tournament": "USQ-Cup",
+    "length": -1,
+    "game": "11\\USQ-Cup\\TEXAS_UMD_data.json",
+    "primary": [
+      "UMD-UNK"
+    ],
+    "defense": "TEXAS",
+    "possession_number": 32
+  },
+  {
+    "period": "SOP",
+    "secondary": [
+      "TEXAS-AIDAN PARSI"
+    ],
+    "offense": "TEXAS",
+    "season": "11",
+    "result": "GP",
+    "extras": [
+      [
+        "SOP",
+        1
+      ],
+      [
+        "R",
+        "UMD-LAUREN DYKE"
+      ]
+    ],
+    "time": "",
+    "tournament": "USQ-Cup",
+    "length": -1,
+    "game": "11\\USQ-Cup\\TEXAS_UMD_data.json",
+    "primary": [
+      "TEXAS-JOHN ANDERSON"
+    ],
+    "defense": "UMD",
+    "possession_number": 33
+  },
+  {
+    "period": "SOP",
+    "secondary": [],
+    "offense": "UMD",
+    "season": "11",
+    "result": "G",
+    "extras": [],
+    "time": "",
+    "tournament": "USQ-Cup",
+    "length": -1,
+    "game": "11\\USQ-Cup\\TEXAS_UMD_data.json",
+    "primary": [
+      "UMD-UNK"
+    ],
+    "defense": "TEXAS",
+    "possession_number": 34
+  },
+  {
+    "period": "SOP",
+    "secondary": [],
+    "offense": "TEXAS",
+    "season": "11",
+    "result": "GS",
+    "extras": [],
+    "time": "",
+    "tournament": "USQ-Cup",
+    "length": -1,
+    "game": "11\\USQ-Cup\\TEXAS_UMD_data.json",
+    "primary": [
+      "TEXAS-JOHN ANDERSON"
+    ],
+    "defense": "UMD",
+    "possession_number": 35
+  },
+  {
+    "period": "SOP",
+    "secondary": [],
+    "offense": "UMD",
+    "season": "11",
+    "result": "EM",
+    "extras": [
+      [
+        "R",
+        "TEXAS-TATE KAY"
+      ]
+    ],
+    "time": "",
+    "tournament": "USQ-Cup",
+    "length": -1,
+    "game": "11\\USQ-Cup\\TEXAS_UMD_data.json",
+    "primary": [
+      "UMD-NOAH RINDOCK"
+    ],
+    "defense": "TEXAS",
+    "possession_number": 36
+  },
+  {
+    "period": "SOP",
+    "secondary": [
+      "TEXAS-54"
+    ],
+    "offense": "TEXAS",
+    "season": "11",
+    "result": "GS",
+    "extras": [],
+    "time": "",
+    "tournament": "USQ-Cup",
+    "length": -1,
+    "game": "11\\USQ-Cup\\TEXAS_UMD_data.json",
+    "primary": [
+      "TEXAS-JOHN ANDERSON"
+    ],
+    "defense": "UMD",
+    "possession_number": 37
+  },
+  {
+    "period": "SOP",
+    "secondary": [
+      "UMD-NOAH RINDOCK"
+    ],
+    "offense": "UMD",
+    "season": "11",
+    "result": "TB",
+    "extras": [],
+    "time": "",
+    "tournament": "USQ-Cup",
+    "length": -1,
+    "game": "11\\USQ-Cup\\TEXAS_UMD_data.json",
+    "primary": [
+      "TEXAS-JOCELYN WHISTLER"
+    ],
+    "defense": "TEXAS",
+    "possession_number": 38
+  },
+  {
+    "period": "SOP",
+    "secondary": [],
+    "offense": "TEXAS",
+    "season": "11",
+    "result": "GD",
+    "extras": [],
+    "time": "",
+    "tournament": "USQ-Cup",
+    "length": -1,
+    "game": "11\\USQ-Cup\\TEXAS_UMD_data.json",
+    "primary": [
+      "TEXAS-54"
+    ],
+    "defense": "UMD",
+    "possession_number": 39
+  },
+  {
+    "period": "SOP",
+    "secondary": [
+      "UMD-MACK MORGAN"
+    ],
+    "offense": "UMD",
+    "season": "11",
+    "result": "TB",
+    "extras": [],
+    "time": "",
+    "tournament": "USQ-Cup",
+    "length": -1,
+    "game": "11\\USQ-Cup\\TEXAS_UMD_data.json",
+    "primary": [
+      "TEXAS-TATE KAY"
+    ],
+    "defense": "TEXAS",
+    "possession_number": 40
+  },
+  {
+    "period": "SOP",
+    "secondary": [
+      "TEXAS-CATHERINE HABERL"
+    ],
+    "offense": "TEXAS",
+    "season": "11",
+    "result": "EP",
+    "extras": [],
+    "time": "",
+    "tournament": "USQ-Cup",
+    "length": -1,
+    "game": "11\\USQ-Cup\\TEXAS_UMD_data.json",
+    "primary": [
+      "TEXAS-ANDRES GARZA"
+    ],
+    "defense": "UMD",
+    "possession_number": 41
+  },
+  {
+    "period": "SOP",
+    "secondary": [
+      "UMD-11"
+    ],
+    "offense": "UMD",
+    "season": "11",
+    "result": "TL",
+    "extras": [],
+    "time": "",
+    "tournament": "USQ-Cup",
+    "length": -1,
+    "game": "11\\USQ-Cup\\TEXAS_UMD_data.json",
+    "primary": [
+      "TEXAS-54"
+    ],
+    "defense": "TEXAS",
+    "possession_number": 42
+  },
+  {
+    "period": "SOP",
+    "secondary": [],
+    "offense": "TEXAS",
+    "season": "11",
+    "result": "RCB",
+    "extras": [],
+    "time": "",
+    "tournament": "USQ-Cup",
+    "length": -1,
+    "game": "11\\USQ-Cup\\TEXAS_UMD_data.json",
+    "primary": [
+      "UMD-BRENDAN HUTTON"
+    ],
+    "defense": "UMD",
+    "possession_number": 43
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "TUFTS-SERENA MONTEIRO"
+    ],
+    "offense": "Brooms Up",
+    "season": "13",
+    "tournament": "MQC-Opener",
+    "extras": [],
+    "time": "0000",
+    "primary": [
+      "TUFTS-JOHN PARRISH"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Opener\\HARVARD_TUFTS_data.json",
+    "result": "BU",
+    "defense": "",
+    "possession_number": 0
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [],
+    "offense": "TUFTS",
+    "season": "13",
+    "tournament": "MQC-Opener",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "TUFTS-JOHN PARRISH"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Opener\\HARVARD_TUFTS_data.json",
+    "result": "EM",
+    "defense": "HARVARD",
+    "possession_number": 1
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [],
+    "offense": "HARVARD",
+    "season": "13",
+    "tournament": "MQC-Opener",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "HARVARD-BLAKE YOUNG"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Opener\\HARVARD_TUFTS_data.json",
+    "result": "EB",
+    "defense": "TUFTS",
+    "possession_number": 2
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "TUFTS-SOPHIE COBURN"
+    ],
+    "offense": "TUFTS",
+    "season": "13",
+    "tournament": "MQC-Opener",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "HARVARD-FELIX BULWA"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Opener\\HARVARD_TUFTS_data.json",
+    "result": "TL",
+    "defense": "HARVARD",
+    "possession_number": 3
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [],
+    "offense": "HARVARD",
+    "season": "13",
+    "tournament": "MQC-Opener",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "HARVARD-FELIX BULWA"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Opener\\HARVARD_TUFTS_data.json",
+    "result": "GS",
+    "defense": "TUFTS",
+    "possession_number": 4
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "TUFTS-HENRY BAER-BENSON"
+    ],
+    "offense": "TUFTS",
+    "season": "13",
+    "tournament": "MQC-Opener",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "HARVARD-NATALIE SHERMAN-JOLLIS"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Opener\\HARVARD_TUFTS_data.json",
+    "result": "TL",
+    "defense": "HARVARD",
+    "possession_number": 5
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "HARVARD-FELIX BULWA"
+    ],
+    "offense": "HARVARD",
+    "season": "13",
+    "tournament": "MQC-Opener",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "TUFTS-HENRY BAER-BENSON"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Opener\\HARVARD_TUFTS_data.json",
+    "result": "TL",
+    "defense": "TUFTS",
+    "possession_number": 6
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "TUFTS-HENRY BAER-BENSON"
+    ],
+    "offense": "TUFTS",
+    "season": "13",
+    "tournament": "MQC-Opener",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "TUFTS-JOHN PARRISH"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Opener\\HARVARD_TUFTS_data.json",
+    "result": "GD",
+    "defense": "HARVARD",
+    "possession_number": 7
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "HARVARD-BLAKE YOUNG"
+    ],
+    "offense": "HARVARD",
+    "season": "13",
+    "tournament": "MQC-Opener",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "TUFTS-HENRY BAER-BENSON"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Opener\\HARVARD_TUFTS_data.json",
+    "result": "TL",
+    "defense": "TUFTS",
+    "possession_number": 8
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "TUFTS-DONOVAN BRADY"
+    ],
+    "offense": "TUFTS",
+    "season": "13",
+    "tournament": "MQC-Opener",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "TUFTS-SOPHIE COBURN"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Opener\\HARVARD_TUFTS_data.json",
+    "result": "EP",
+    "defense": "HARVARD",
+    "possession_number": 9
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "HARVARD-FELIX BULWA"
+    ],
+    "offense": "HARVARD",
+    "season": "13",
+    "tournament": "MQC-Opener",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "TUFTS-SOPHIE COBURN"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Opener\\HARVARD_TUFTS_data.json",
+    "result": "TL",
+    "defense": "TUFTS",
+    "possession_number": 10
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "TUFTS-HENRY BAER-BENSON"
+    ],
+    "offense": "TUFTS",
+    "season": "13",
+    "tournament": "MQC-Opener",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "TUFTS-DONOVAN BRADY"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Opener\\HARVARD_TUFTS_data.json",
+    "result": "GD",
+    "defense": "HARVARD",
+    "possession_number": 11
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "HARVARD-JAMES DEVANEY"
+    ],
+    "offense": "HARVARD",
+    "season": "13",
+    "tournament": "MQC-Opener",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "TUFTS-SERENA MONTEIRO"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Opener\\HARVARD_TUFTS_data.json",
+    "result": "TB",
+    "defense": "TUFTS",
+    "possession_number": 12
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "TUFTS-DONOVAN BRADY"
+    ],
+    "offense": "TUFTS",
+    "season": "13",
+    "tournament": "MQC-Opener",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "HARVARD-LEO FRIED"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Opener\\HARVARD_TUFTS_data.json",
+    "result": "TC",
+    "defense": "HARVARD",
+    "possession_number": 13
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "HARVARD-9"
+    ],
+    "offense": "HARVARD",
+    "season": "13",
+    "tournament": "MQC-Opener",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "TUFTS-HENRY BAER-BENSON"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Opener\\HARVARD_TUFTS_data.json",
+    "result": "TC",
+    "defense": "TUFTS",
+    "possession_number": 14
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "TUFTS-ATHENA MAYOR"
+    ],
+    "offense": "TUFTS",
+    "season": "13",
+    "tournament": "MQC-Opener",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "TUFTS-HENRY BAER-BENSON"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Opener\\HARVARD_TUFTS_data.json",
+    "result": "ED",
+    "defense": "HARVARD",
+    "possession_number": 15
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "HARVARD-9"
+    ],
+    "offense": "HARVARD",
+    "season": "13",
+    "tournament": "MQC-Opener",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "HARVARD-FELIX BULWA"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Opener\\HARVARD_TUFTS_data.json",
+    "result": "EP",
+    "defense": "TUFTS",
+    "possession_number": 16
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "TUFTS-DONOVAN BRADY"
+    ],
+    "offense": "TUFTS",
+    "season": "13",
+    "tournament": "MQC-Opener",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "TUFTS-77"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Opener\\HARVARD_TUFTS_data.json",
+    "result": "GP",
+    "defense": "HARVARD",
+    "possession_number": 17
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [],
+    "offense": "HARVARD",
+    "season": "13",
+    "tournament": "MQC-Opener",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "HARVARD-LEO FRIED"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Opener\\HARVARD_TUFTS_data.json",
+    "result": "EM",
+    "defense": "TUFTS",
+    "possession_number": 18
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "TUFTS-77"
+    ],
+    "offense": "TUFTS",
+    "season": "13",
+    "tournament": "MQC-Opener",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "HARVARD-9"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Opener\\HARVARD_TUFTS_data.json",
+    "result": "TC",
+    "defense": "HARVARD",
+    "possession_number": 19
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [],
+    "offense": "HARVARD",
+    "season": "13",
+    "tournament": "MQC-Opener",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "HARVARD-LEO FRIED"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Opener\\HARVARD_TUFTS_data.json",
+    "result": "GD",
+    "defense": "TUFTS",
+    "possession_number": 20
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [],
+    "offense": "TUFTS",
+    "season": "13",
+    "tournament": "MQC-Opener",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "TUFTS-ATHENA MAYOR"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Opener\\HARVARD_TUFTS_data.json",
+    "result": "ED",
+    "defense": "HARVARD",
+    "possession_number": 21
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "HARVARD-BLAKE YOUNG"
+    ],
+    "offense": "HARVARD",
+    "season": "13",
+    "tournament": "MQC-Opener",
+    "extras": [
+      [
+        "B",
+        "TUFTS-JAKE ZASLAV"
+      ]
+    ],
+    "time": "",
+    "primary": [
+      "HARVARD-ANALUIZA NICOLAE"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Opener\\HARVARD_TUFTS_data.json",
+    "result": "GP",
+    "defense": "TUFTS",
+    "possession_number": 22
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "TUFTS-ATHENA MAYOR"
+    ],
+    "offense": "TUFTS",
+    "season": "13",
+    "tournament": "MQC-Opener",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "TUFTS-77"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Opener\\HARVARD_TUFTS_data.json",
+    "result": "GP",
+    "defense": "HARVARD",
+    "possession_number": 23
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [],
+    "offense": "HARVARD",
+    "season": "13",
+    "tournament": "MQC-Opener",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "HARVARD-LEO FRIED"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Opener\\HARVARD_TUFTS_data.json",
+    "result": "EM",
+    "defense": "TUFTS",
+    "possession_number": 24
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "TUFTS-JOHN PARRISH"
+    ],
+    "offense": "TUFTS",
+    "season": "13",
+    "tournament": "MQC-Opener",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "HARVARD-MICHAEL CHENEVEY"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Opener\\HARVARD_TUFTS_data.json",
+    "result": "TB",
+    "defense": "HARVARD",
+    "possession_number": 25
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "HARVARD-JESSE THUE"
+    ],
+    "offense": "HARVARD",
+    "season": "13",
+    "tournament": "MQC-Opener",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "HARVARD-BLAKE YOUNG"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Opener\\HARVARD_TUFTS_data.json",
+    "result": "GS",
+    "defense": "TUFTS",
+    "possession_number": 26
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [],
+    "offense": "TUFTS",
+    "season": "13",
+    "tournament": "MQC-Opener",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "TUFTS-UNK"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Opener\\HARVARD_TUFTS_data.json",
+    "result": "ED",
+    "defense": "HARVARD",
+    "possession_number": 27
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [],
+    "offense": "HARVARD",
+    "season": "13",
+    "tournament": "MQC-Opener",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "HARVARD-FELIX BULWA"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Opener\\HARVARD_TUFTS_data.json",
+    "result": "GS",
+    "defense": "TUFTS",
+    "possession_number": 28
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [],
+    "offense": "TUFTS",
+    "season": "13",
+    "tournament": "MQC-Opener",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "TUFTS-JOHN PARRISH"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Opener\\HARVARD_TUFTS_data.json",
+    "result": "EM",
+    "defense": "HARVARD",
+    "possession_number": 29
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [],
+    "offense": "HARVARD",
+    "season": "13",
+    "tournament": "MQC-Opener",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "HARVARD-FELIX BULWA"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Opener\\HARVARD_TUFTS_data.json",
+    "result": "EM",
+    "defense": "TUFTS",
+    "possession_number": 30
+  },
+  {
+    "period": "SOP",
+    "secondary": [
+      "TUFTS-ATHENA MAYOR"
+    ],
+    "offense": "TUFTS",
+    "season": "13",
+    "tournament": "MQC-Opener",
+    "extras": [
+      [
+        "SOP",
+        1
+      ]
+    ],
+    "time": "",
+    "primary": [
+      "HARVARD-JAMES DEVANEY"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Opener\\HARVARD_TUFTS_data.json",
+    "result": "TC",
+    "defense": "HARVARD",
+    "possession_number": 31
+  },
+  {
+    "period": "SOP",
+    "secondary": [],
+    "offense": "HARVARD",
+    "season": "13",
+    "tournament": "MQC-Opener",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "HARVARD-BLAKE YOUNG"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Opener\\HARVARD_TUFTS_data.json",
+    "result": "GS",
+    "defense": "TUFTS",
+    "possession_number": 32
+  },
+  {
+    "period": "SOP",
+    "secondary": [
+      "TUFTS-ATHENA MAYOR"
+    ],
+    "offense": "TUFTS",
+    "season": "13",
+    "tournament": "MQC-Opener",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "TUFTS-JOHN PARRISH"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Opener\\HARVARD_TUFTS_data.json",
+    "result": "GP",
+    "defense": "HARVARD",
+    "possession_number": 33
+  },
+  {
+    "period": "SOP",
+    "secondary": [],
+    "offense": "HARVARD",
+    "season": "13",
+    "tournament": "MQC-Opener",
+    "extras": [
+      [
+        "B",
+        "TUFTS-77"
+      ]
+    ],
+    "time": "",
+    "primary": [
+      "HARVARD-BLAKE YOUNG"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Opener\\HARVARD_TUFTS_data.json",
+    "result": "GD",
+    "defense": "TUFTS",
+    "possession_number": 34
+  },
+  {
+    "period": "SOP",
+    "secondary": [
+      "TUFTS-JOHN PARRISH"
+    ],
+    "offense": "TUFTS",
+    "season": "13",
+    "tournament": "MQC-Opener",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "HARVARD-MICHAEL CHENEVEY"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Opener\\HARVARD_TUFTS_data.json",
+    "result": "TB",
+    "defense": "HARVARD",
+    "possession_number": 35
+  },
+  {
+    "period": "SOP",
+    "secondary": [],
+    "offense": "HARVARD",
+    "season": "13",
+    "tournament": "MQC-Opener",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "HARVARD-BLAKE YOUNG"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Opener\\HARVARD_TUFTS_data.json",
+    "result": "GD",
+    "defense": "TUFTS",
+    "possession_number": 36
+  },
+  {
+    "period": "SOP",
+    "secondary": [],
+    "offense": "TUFTS",
+    "season": "13",
+    "tournament": "MQC-Opener",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "TUFTS-JOHN PARRISH"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Opener\\HARVARD_TUFTS_data.json",
+    "result": "EM",
+    "defense": "HARVARD",
+    "possession_number": 37
+  },
+  {
+    "period": "SOP",
+    "secondary": [
+      "HARVARD-FELIX BULWA"
+    ],
+    "offense": "HARVARD",
+    "season": "13",
+    "tournament": "MQC-Opener",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "TUFTS-SERENA MONTEIRO"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Opener\\HARVARD_TUFTS_data.json",
+    "result": "TB",
+    "defense": "TUFTS",
+    "possession_number": 38
+  },
+  {
+    "period": "SOP",
+    "secondary": [],
+    "offense": "TUFTS",
+    "season": "13",
+    "tournament": "MQC-Opener",
+    "extras": [
+      [
+        "B",
+        "HARVARD-JESSE THUE"
+      ]
+    ],
+    "time": "",
+    "primary": [
+      "TUFTS-JOHN PARRISH"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Opener\\HARVARD_TUFTS_data.json",
+    "result": "GS",
+    "defense": "HARVARD",
+    "possession_number": 39
+  },
+  {
+    "period": "SOP",
+    "secondary": [],
+    "offense": "HARVARD",
+    "season": "13",
+    "tournament": "MQC-Opener",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "HARVARD-BLAKE YOUNG"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Opener\\HARVARD_TUFTS_data.json",
+    "result": "GS",
+    "defense": "TUFTS",
+    "possession_number": 40
+  },
+  {
+    "period": "SOP",
+    "secondary": [],
+    "offense": "TUFTS",
+    "season": "13",
+    "tournament": "MQC-Opener",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "HARVARD-JESSE THUE"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Opener\\HARVARD_TUFTS_data.json",
+    "result": "RCA",
+    "defense": "HARVARD",
+    "possession_number": 41
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "HARVARD-RYAN CHESTER"
+    ],
+    "offense": "Brooms Up",
+    "season": "13",
+    "tournament": "MQC-Round-Robin",
+    "extras": [],
+    "time": "0000",
+    "primary": [
+      "TUFTS-JOHN PARRISH"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Round-Robin\\HARVARD_TUFTS_data.json",
+    "result": "BU",
+    "defense": "",
+    "possession_number": 0
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "TUFTS-JAKE ZASLAV"
+    ],
+    "offense": "TUFTS",
+    "season": "13",
+    "tournament": "MQC-Round-Robin",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "HARVARD-MICHAEL CHENEVEY"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Round-Robin\\HARVARD_TUFTS_data.json",
+    "result": "TB",
+    "defense": "HARVARD",
+    "possession_number": 1
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "HARVARD-JAMES DEVANEY"
+    ],
+    "offense": "HARVARD",
+    "season": "13",
+    "tournament": "MQC-Round-Robin",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "TUFTS-HENRY BAER-BENSON"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Round-Robin\\HARVARD_TUFTS_data.json",
+    "result": "TC",
+    "defense": "TUFTS",
+    "possession_number": 2
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "TUFTS-UNK"
+    ],
+    "offense": "TUFTS",
+    "season": "13",
+    "tournament": "MQC-Round-Robin",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "TUFTS-HENRY BAER-BENSON"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Round-Robin\\HARVARD_TUFTS_data.json",
+    "result": "EP",
+    "defense": "HARVARD",
+    "possession_number": 3
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "HARVARD-LEO FRIED"
+    ],
+    "offense": "HARVARD",
+    "season": "13",
+    "tournament": "MQC-Round-Robin",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "HARVARD-ANALUIZA NICOLAE"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Round-Robin\\HARVARD_TUFTS_data.json",
+    "result": "ED",
+    "defense": "TUFTS",
+    "possession_number": 4
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "TUFTS-JAKE ZASLAV"
+    ],
+    "offense": "TUFTS",
+    "season": "13",
+    "tournament": "MQC-Round-Robin",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "TUFTS-HENRY BAER-BENSON"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Round-Robin\\HARVARD_TUFTS_data.json",
+    "result": "GS",
+    "defense": "HARVARD",
+    "possession_number": 5
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [],
+    "offense": "HARVARD",
+    "season": "13",
+    "tournament": "MQC-Round-Robin",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "HARVARD-JAMES DEVANEY"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Round-Robin\\HARVARD_TUFTS_data.json",
+    "result": "GD",
+    "defense": "TUFTS",
+    "possession_number": 6
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [],
+    "offense": "TUFTS",
+    "season": "13",
+    "tournament": "MQC-Round-Robin",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "TUFTS-JOHN PARRISH"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Round-Robin\\HARVARD_TUFTS_data.json",
+    "result": "EM",
+    "defense": "HARVARD",
+    "possession_number": 7
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [],
+    "offense": "HARVARD",
+    "season": "13",
+    "tournament": "MQC-Round-Robin",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "HARVARD-JAMES DEVANEY"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Round-Robin\\HARVARD_TUFTS_data.json",
+    "result": "GD",
+    "defense": "TUFTS",
+    "possession_number": 8
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "TUFTS-JOHN PARRISH"
+    ],
+    "offense": "TUFTS",
+    "season": "13",
+    "tournament": "MQC-Round-Robin",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "HARVARD-FRANKIE MATOS"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Round-Robin\\HARVARD_TUFTS_data.json",
+    "result": "TL",
+    "defense": "HARVARD",
+    "possession_number": 9
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "HARVARD-ANALUIZA NICOLAE"
+    ],
+    "offense": "HARVARD",
+    "season": "13",
+    "tournament": "MQC-Round-Robin",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "HARVARD-FRANKIE MATOS"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Round-Robin\\HARVARD_TUFTS_data.json",
+    "result": "EP",
+    "defense": "TUFTS",
+    "possession_number": 10
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "TUFTS-HENRY BAER-BENSON"
+    ],
+    "offense": "TUFTS",
+    "season": "13",
+    "tournament": "MQC-Round-Robin",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "TUFTS-DONOVAN BRADY"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Round-Robin\\HARVARD_TUFTS_data.json",
+    "result": "GS",
+    "defense": "HARVARD",
+    "possession_number": 11
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "HARVARD-LEO FRIED"
+    ],
+    "offense": "HARVARD",
+    "season": "13",
+    "tournament": "MQC-Round-Robin",
+    "extras": [
+      [
+        "R",
+        "TUFTS-EMMA WOLFE"
+      ]
+    ],
+    "time": "",
+    "primary": [
+      "HARVARD-ANALUIZA NICOLAE"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Round-Robin\\HARVARD_TUFTS_data.json",
+    "result": "EP",
+    "defense": "TUFTS",
+    "possession_number": 12
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "TUFTS-ATHENA MAYOR",
+      "TUFTS-HENRY BAER-BENSON"
+    ],
+    "offense": "TUFTS",
+    "season": "13",
+    "tournament": "MQC-Round-Robin",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "HARVARD-FRANKIE MATOS"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Round-Robin\\HARVARD_TUFTS_data.json",
+    "result": "TD",
+    "defense": "HARVARD",
+    "possession_number": 13
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [],
+    "offense": "HARVARD",
+    "season": "13",
+    "tournament": "MQC-Round-Robin",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "HARVARD-FRANKIE MATOS"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Round-Robin\\HARVARD_TUFTS_data.json",
+    "result": "EM",
+    "defense": "TUFTS",
+    "possession_number": 14
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "TUFTS-DONOVAN BRADY"
+    ],
+    "offense": "TUFTS",
+    "season": "13",
+    "tournament": "MQC-Round-Robin",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "HARVARD-FRANKIE MATOS"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Round-Robin\\HARVARD_TUFTS_data.json",
+    "result": "TL",
+    "defense": "HARVARD",
+    "possession_number": 15
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "HARVARD-JAMES DEVANEY"
+    ],
+    "offense": "HARVARD",
+    "season": "13",
+    "tournament": "MQC-Round-Robin",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "TUFTS-DONOVAN BRADY"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Round-Robin\\HARVARD_TUFTS_data.json",
+    "result": "TC",
+    "defense": "TUFTS",
+    "possession_number": 16
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "TUFTS-SOPHIE COBURN",
+      "TUFTS-JOHN PARRISH"
+    ],
+    "offense": "TUFTS",
+    "season": "13",
+    "tournament": "MQC-Round-Robin",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "HARVARD-LEO FRIED"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Round-Robin\\HARVARD_TUFTS_data.json",
+    "result": "TD",
+    "defense": "HARVARD",
+    "possession_number": 17
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "HARVARD-RYAN CHESTER",
+      "HARVARD-ANALUIZA NICOLAE"
+    ],
+    "offense": "HARVARD",
+    "season": "13",
+    "tournament": "MQC-Round-Robin",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "TUFTS-HENRY BAER-BENSON"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Round-Robin\\HARVARD_TUFTS_data.json",
+    "result": "TD",
+    "defense": "TUFTS",
+    "possession_number": 18
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "TUFTS-JOHN PARRISH"
+    ],
+    "offense": "TUFTS",
+    "season": "13",
+    "tournament": "MQC-Round-Robin",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "HARVARD-DANIEL GOTTESMAN"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Round-Robin\\HARVARD_TUFTS_data.json",
+    "result": "TB",
+    "defense": "HARVARD",
+    "possession_number": 19
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "HARVARD-FELIX BULWA"
+    ],
+    "offense": "HARVARD",
+    "season": "13",
+    "tournament": "MQC-Round-Robin",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "TUFTS-JOHN PARRISH"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Round-Robin\\HARVARD_TUFTS_data.json",
+    "result": "TC",
+    "defense": "TUFTS",
+    "possession_number": 20
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "TUFTS-JOHN PARRISH"
+    ],
+    "offense": "TUFTS",
+    "season": "13",
+    "tournament": "MQC-Round-Robin",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "HARVARD-RYAN CHESTER"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Round-Robin\\HARVARD_TUFTS_data.json",
+    "result": "TL",
+    "defense": "HARVARD",
+    "possession_number": 21
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "HARVARD-LEO FRIED"
+    ],
+    "offense": "HARVARD",
+    "season": "13",
+    "tournament": "MQC-Round-Robin",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "TUFTS-BEATER SMILEY"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Round-Robin\\HARVARD_TUFTS_data.json",
+    "result": "TB",
+    "defense": "TUFTS",
+    "possession_number": 22
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [],
+    "offense": "TUFTS",
+    "season": "13",
+    "tournament": "MQC-Round-Robin",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "TUFTS-JOHN PARRISH"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Round-Robin\\HARVARD_TUFTS_data.json",
+    "result": "EM",
+    "defense": "HARVARD",
+    "possession_number": 23
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [],
+    "offense": "HARVARD",
+    "season": "13",
+    "tournament": "MQC-Round-Robin",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "HARVARD-FELIX BULWA"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Round-Robin\\HARVARD_TUFTS_data.json",
+    "result": "EM",
+    "defense": "TUFTS",
+    "possession_number": 24
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "TUFTS-JOHN PARRISH"
+    ],
+    "offense": "TUFTS",
+    "season": "13",
+    "tournament": "MQC-Round-Robin",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "TUFTS-JACOB BRENNER"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Round-Robin\\HARVARD_TUFTS_data.json",
+    "result": "GP",
+    "defense": "HARVARD",
+    "possession_number": 25
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "HARVARD-FELIX BULWA"
+    ],
+    "offense": "HARVARD",
+    "season": "13",
+    "tournament": "MQC-Round-Robin",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "HARVARD-RYAN CHESTER"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Round-Robin\\HARVARD_TUFTS_data.json",
+    "result": "GD",
+    "defense": "TUFTS",
+    "possession_number": 26
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "TUFTS-CHASER SMILEY"
+    ],
+    "offense": "TUFTS",
+    "season": "13",
+    "tournament": "MQC-Round-Robin",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "HARVARD-FRANKIE MATOS"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Round-Robin\\HARVARD_TUFTS_data.json",
+    "result": "TC",
+    "defense": "HARVARD",
+    "possession_number": 27
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [],
+    "offense": "HARVARD",
+    "season": "13",
+    "tournament": "MQC-Round-Robin",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "HARVARD-FRANKIE MATOS"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Round-Robin\\HARVARD_TUFTS_data.json",
+    "result": "GD",
+    "defense": "TUFTS",
+    "possession_number": 28
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "TUFTS-DONOVAN BRADY"
+    ],
+    "offense": "TUFTS",
+    "season": "13",
+    "tournament": "MQC-Round-Robin",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "TUFTS-CHASER SMILEY"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Round-Robin\\HARVARD_TUFTS_data.json",
+    "result": "ED",
+    "defense": "HARVARD",
+    "possession_number": 29
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "HARVARD-RYAN CHESTER"
+    ],
+    "offense": "HARVARD",
+    "season": "13",
+    "tournament": "MQC-Round-Robin",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "HARVARD-FRANKIE MATOS"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Round-Robin\\HARVARD_TUFTS_data.json",
+    "result": "GP",
+    "defense": "TUFTS",
+    "possession_number": 30
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [],
+    "offense": "TUFTS",
+    "season": "13",
+    "tournament": "MQC-Round-Robin",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "TUFTS-JOHN PARRISH"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Round-Robin\\HARVARD_TUFTS_data.json",
+    "result": "EM",
+    "defense": "HARVARD",
+    "possession_number": 31
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "HARVARD-RYAN CHESTER"
+    ],
+    "offense": "HARVARD",
+    "season": "13",
+    "tournament": "MQC-Round-Robin",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "HARVARD-FELIX BULWA"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Round-Robin\\HARVARD_TUFTS_data.json",
+    "result": "GP",
+    "defense": "TUFTS",
+    "possession_number": 32
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "TUFTS-ATHENA MAYOR",
+      "TUFTS-77"
+    ],
+    "offense": "TUFTS",
+    "season": "13",
+    "tournament": "MQC-Round-Robin",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "HARVARD-FRANKIE MATOS"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Round-Robin\\HARVARD_TUFTS_data.json",
+    "result": "TD",
+    "defense": "HARVARD",
+    "possession_number": 33
+  },
+  {
+    "period": "FLOOR",
+    "secondary": [
+      "HARVARD-FELIX BULWA"
+    ],
+    "offense": "HARVARD",
+    "season": "13",
+    "tournament": "MQC-Round-Robin",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "HARVARD-FRANKIE MATOS"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Round-Robin\\HARVARD_TUFTS_data.json",
+    "result": "GP",
+    "defense": "TUFTS",
+    "possession_number": 34
+  },
+  {
+    "period": "SOP",
+    "secondary": [
+      "TUFTS-77"
+    ],
+    "offense": "TUFTS",
+    "season": "13",
+    "tournament": "MQC-Round-Robin",
+    "extras": [
+      [
+        "SOP",
+        1
+      ]
+    ],
+    "time": "",
+    "primary": [
+      "HARVARD-FRANKIE MATOS"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Round-Robin\\HARVARD_TUFTS_data.json",
+    "result": "TC",
+    "defense": "HARVARD",
+    "possession_number": 35
+  },
+  {
+    "period": "SOP",
+    "secondary": [
+      "HARVARD-JAMES DEVANEY"
+    ],
+    "offense": "HARVARD",
+    "season": "13",
+    "tournament": "MQC-Round-Robin",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "TUFTS-EMMA WOLFE"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Round-Robin\\HARVARD_TUFTS_data.json",
+    "result": "TB",
+    "defense": "TUFTS",
+    "possession_number": 36
+  },
+  {
+    "period": "SOP",
+    "secondary": [],
+    "offense": "TUFTS",
+    "season": "13",
+    "tournament": "MQC-Round-Robin",
+    "extras": [],
+    "time": "",
+    "primary": [
+      "HARVARD-LEO FRIED"
+    ],
+    "length": -1,
+    "game": "13\\MQC-Round-Robin\\HARVARD_TUFTS_data.json",
+    "result": "RCA",
+    "defense": "HARVARD",
+    "possession_number": 37
+  }
+]
