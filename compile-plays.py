@@ -4,18 +4,21 @@ import getopt
 from pathlib import Path
 def main(argv):
     outputfile = 'all_plays.json'
+    inputpath = ''
     recursive = False
     try:
-      opts, args = getopt.getopt(argv,"o:",['outputfile='])
+      opts, args = getopt.getopt(argv,"i:o:",['outputfile='])
     except getopt.GetoptError:
       sys.exit(2)
     for opt,arg in opts:
+        if opt in ('-i'):
+            inputpath = arg
         if opt in ('-o','--outputfile'):
-            inputfile = arg
+            outputfile = arg
     js = []
-    for path in Path('').rglob('*.json'):
+    for path in Path(inputpath).rglob('*.json'):
         try:
-            season,tournament,_ = str(path).split("\\")
+            t,season,tournament,_ = str(path).split("\\")
         except:
             continue
         game_json = {}

@@ -1,0 +1,1063 @@
+{
+  "0": {
+    "defense": "",
+    "offense": "Brooms Up",
+    "result": "BU",
+    "time": "0000",
+    "length": -1,
+    "extras": [],
+    "primary": [
+      "UCLA-CHRISTIAN CLARION"
+    ],
+    "period": "FLOOR",
+    "secondary": [
+      "KANSAS-ADAM MCMORRIS"
+    ]
+  },
+  "1": {
+    "defense": "UCLA",
+    "offense": "KANSAS",
+    "result": "TD",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "period": "FLOOR",
+    "secondary": [
+      "KANSAS-BEN ENGELS",
+      "KANSAS-IAN MCCABE"
+    ]
+  },
+  "2": {
+    "defense": "KANSAS",
+    "offense": "UCLA",
+    "result": "ED",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "UCLA-ELIZABETH NG"
+    ],
+    "period": "FLOOR",
+    "secondary": [
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ]
+  },
+  "3": {
+    "defense": "UCLA",
+    "offense": "KANSAS",
+    "result": "GP",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "KANSAS-BRANDON TABOR"
+    ],
+    "period": "FLOOR",
+    "secondary": [
+      "KANSAS-IAN MCCABE"
+    ]
+  },
+  "4": {
+    "defense": "KANSAS",
+    "offense": "UCLA",
+    "result": "GD",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "period": "FLOOR",
+    "secondary": []
+  },
+  "5": {
+    "defense": "UCLA",
+    "offense": "KANSAS",
+    "result": "TL",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "period": "FLOOR",
+    "secondary": [
+      "KANSAS-RACHEL HEALD"
+    ]
+  },
+  "6": {
+    "defense": "KANSAS",
+    "offense": "UCLA",
+    "result": "TC",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "KANSAS-BRANDON TABOR"
+    ],
+    "period": "FLOOR",
+    "secondary": [
+      "UCLA-CHARLES CARVALHO"
+    ]
+  },
+  "7": {
+    "defense": "UCLA",
+    "offense": "KANSAS",
+    "result": "TL",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "UCLA-CHRISTIAN CLARION"
+    ],
+    "period": "FLOOR",
+    "secondary": [
+      "KANSAS-RACHEL HEALD"
+    ]
+  },
+  "8": {
+    "defense": "KANSAS",
+    "offense": "UCLA",
+    "result": "GD",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "UCLA-CHRISTIAN CLARION"
+    ],
+    "period": "FLOOR",
+    "secondary": []
+  },
+  "9": {
+    "defense": "UCLA",
+    "offense": "KANSAS",
+    "result": "TD",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "period": "FLOOR",
+    "secondary": [
+      "KANSAS-MIKE DEVINE",
+      "KANSAS-KEVIN MCMORRIS"
+    ]
+  },
+  "10": {
+    "defense": "KANSAS",
+    "offense": "UCLA",
+    "result": "GP",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "period": "FLOOR",
+    "secondary": [
+      "UCLA-ELIZABETH NG"
+    ]
+  },
+  "11": {
+    "defense": "UCLA",
+    "offense": "KANSAS",
+    "result": "EM",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "KANSAS-RACHEL HEALD"
+    ],
+    "period": "FLOOR",
+    "secondary": []
+  },
+  "12": {
+    "defense": "KANSAS",
+    "offense": "UCLA",
+    "result": "EM",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "UCLA-ELIZABETH NG"
+    ],
+    "period": "FLOOR",
+    "secondary": []
+  },
+  "13": {
+    "defense": "UCLA",
+    "offense": "KANSAS",
+    "result": "GD",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "KANSAS-MIKE DEVINE"
+    ],
+    "period": "FLOOR",
+    "secondary": []
+  },
+  "14": {
+    "defense": "KANSAS",
+    "offense": "UCLA",
+    "result": "TD",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "KANSAS-MATT DWYER"
+    ],
+    "period": "FLOOR",
+    "secondary": [
+      "UCLA-RYAN HARRIS",
+      "UCLA-ELIZABETH NG"
+    ]
+  },
+  "15": {
+    "defense": "UCLA",
+    "offense": "KANSAS",
+    "result": "TB",
+    "time": "",
+    "extras": [
+      [
+        "Y",
+        "UCLA-ELIZABETH NG"
+      ]
+    ],
+    "length": -1,
+    "primary": [
+      "UCLA-JUSTIN VANLIGTEN"
+    ],
+    "period": "FLOOR",
+    "secondary": [
+      "KANSAS-BRYAN WEARY"
+    ]
+  },
+  "16": {
+    "defense": "KANSAS",
+    "offense": "UCLA",
+    "result": "EP",
+    "time": "",
+    "extras": [
+      [
+        "R",
+        "KANSAS-JAKE SIMON"
+      ]
+    ],
+    "length": -1,
+    "primary": [
+      "UCLA-RYAN HARRIS"
+    ],
+    "period": "FLOOR",
+    "secondary": [
+      "UCLA-UNK"
+    ]
+  },
+  "17": {
+    "defense": "UCLA",
+    "offense": "KANSAS",
+    "result": "TL",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "UCLA-KEVIN GALLAGHER"
+    ],
+    "period": "FLOOR",
+    "secondary": [
+      "KANSAS-OLIVIA FEDERICO"
+    ]
+  },
+  "18": {
+    "defense": "KANSAS",
+    "offense": "UCLA",
+    "result": "GD",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "UCLA-RYAN HARRIS"
+    ],
+    "period": "FLOOR",
+    "secondary": []
+  },
+  "19": {
+    "defense": "UCLA",
+    "offense": "KANSAS",
+    "result": "GS",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "KANSAS-MATT DWYER"
+    ],
+    "period": "FLOOR",
+    "secondary": []
+  },
+  "20": {
+    "defense": "KANSAS",
+    "offense": "UCLA",
+    "result": "TD",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "KANSAS-MATT DWYER"
+    ],
+    "period": "FLOOR",
+    "secondary": [
+      "UCLA-RYAN HARRIS",
+      "UCLA-ELIZABETH NG"
+    ]
+  },
+  "21": {
+    "defense": "UCLA",
+    "offense": "KANSAS",
+    "result": "GP",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "KANSAS-RACHEL HEALD"
+    ],
+    "period": "FLOOR",
+    "secondary": [
+      "KANSAS-BRYAN WEARY"
+    ]
+  },
+  "22": {
+    "defense": "KANSAS",
+    "offense": "UCLA",
+    "result": "TB",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "KANSAS-RACHEL ENGLAND"
+    ],
+    "period": "FLOOR",
+    "secondary": [
+      "UCLA-CHRISTIAN KRIEGER"
+    ]
+  },
+  "23": {
+    "defense": "UCLA",
+    "offense": "KANSAS",
+    "result": "GS",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "KANSAS-MATT DWYER"
+    ],
+    "period": "FLOOR",
+    "secondary": []
+  },
+  "24": {
+    "defense": "KANSAS",
+    "offense": "UCLA",
+    "result": "GD",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "period": "FLOOR",
+    "secondary": []
+  },
+  "25": {
+    "defense": "UCLA",
+    "offense": "KANSAS",
+    "result": "TD",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "UCLA-CHRISTIAN KRIEGER"
+    ],
+    "period": "FLOOR",
+    "secondary": [
+      "KANSAS-RACHEL HEALD",
+      "KANSAS-BRANDON TABOR"
+    ]
+  },
+  "26": {
+    "defense": "KANSAS",
+    "offense": "UCLA",
+    "result": "EP",
+    "time": "",
+    "extras": [
+      [
+        "R",
+        "KANSAS-RYLEY ANDREWS"
+      ]
+    ],
+    "length": -1,
+    "primary": [
+      "UCLA-CHRISTIAN CLARION"
+    ],
+    "period": "FLOOR",
+    "secondary": [
+      "UCLA-ELIZABETH NG"
+    ]
+  },
+  "27": {
+    "defense": "UCLA",
+    "offense": "KANSAS",
+    "result": "GD",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "KANSAS-BRANDON TABOR"
+    ],
+    "period": "FLOOR",
+    "secondary": []
+  },
+  "28": {
+    "defense": "KANSAS",
+    "offense": "UCLA",
+    "result": "GS",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "period": "FLOOR",
+    "secondary": []
+  },
+  "29": {
+    "defense": "UCLA",
+    "offense": "KANSAS",
+    "result": "GD",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "KANSAS-PARIS NICHOLS"
+    ],
+    "period": "FLOOR",
+    "secondary": []
+  },
+  "30": {
+    "defense": "KANSAS",
+    "offense": "UCLA",
+    "result": "GP",
+    "time": "",
+    "extras": [
+      [
+        "SOP",
+        1
+      ]
+    ],
+    "length": -1,
+    "primary": [
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "period": "SOP",
+    "secondary": [
+      "UCLA-CHRISTIAN CLARION"
+    ]
+  },
+  "31": {
+    "defense": "UCLA",
+    "offense": "KANSAS",
+    "result": "EP",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "KANSAS-RACHEL HEALD"
+    ],
+    "period": "SOP",
+    "secondary": [
+      "KANSAS-OLIVIA FEDERICO"
+    ]
+  },
+  "32": {
+    "defense": "KANSAS",
+    "offense": "UCLA",
+    "result": "TD",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "KANSAS-OLIVIA FEDERICO"
+    ],
+    "period": "SOP",
+    "secondary": [
+      "UCLA-CHRISTIAN CLARION",
+      "UCLA-KEVIN GALLAGHER"
+    ]
+  },
+  "33": {
+    "defense": "UCLA",
+    "offense": "KANSAS",
+    "result": "EM",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "KANSAS-BRANDON TABOR"
+    ],
+    "period": "SOP",
+    "secondary": []
+  },
+  "34": {
+    "defense": "KANSAS",
+    "offense": "UCLA",
+    "result": "GD",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "UCLA-RYAN HARRIS"
+    ],
+    "period": "SOP",
+    "secondary": []
+  },
+  "35": {
+    "defense": "UCLA",
+    "offense": "KANSAS",
+    "result": "GD",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "KANSAS-BRANDON TABOR"
+    ],
+    "period": "SOP",
+    "secondary": [
+      "KANSAS-BEN ENGELS"
+    ]
+  },
+  "36": {
+    "defense": "KANSAS",
+    "offense": "UCLA",
+    "result": "GD",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "UCLA-KEVIN GALLAGHER"
+    ],
+    "period": "SOP",
+    "secondary": [
+      "UCLA-RYAN HARRIS"
+    ]
+  },
+  "37": {
+    "defense": "UCLA",
+    "offense": "KANSAS",
+    "result": "GD",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "KANSAS-BRANDON TABOR"
+    ],
+    "period": "SOP",
+    "secondary": [
+      "KANSAS-RACHEL HEALD"
+    ]
+  },
+  "38": {
+    "defense": "KANSAS",
+    "offense": "UCLA",
+    "result": "TB",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "KANSAS-JAKE SIMON"
+    ],
+    "period": "SOP",
+    "secondary": [
+      "UCLA-RYAN HARRIS"
+    ]
+  },
+  "39": {
+    "defense": "UCLA",
+    "offense": "KANSAS",
+    "result": "GD",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "KANSAS-BRANDON TABOR"
+    ],
+    "period": "SOP",
+    "secondary": [
+      "KANSAS-RACHEL HEALD"
+    ]
+  },
+  "40": {
+    "defense": "KANSAS",
+    "offense": "UCLA",
+    "result": "G",
+    "time": "",
+    "extras": [
+      [
+        "Y",
+        "KANSAS-ADAM MCMORRIS"
+      ]
+    ],
+    "length": -1,
+    "primary": [
+      "UCLA-UNK"
+    ],
+    "period": "SOP",
+    "secondary": []
+  },
+  "41": {
+    "defense": "UCLA",
+    "offense": "KANSAS",
+    "result": "TB",
+    "time": "",
+    "extras": [
+      [
+        "Y",
+        "UCLA-JUSTIN VANLIGTEN"
+      ]
+    ],
+    "length": -1,
+    "primary": [
+      "UCLA-DANI CLARKE"
+    ],
+    "period": "SOP",
+    "secondary": [
+      "KANSAS-BEN ENGELS"
+    ]
+  },
+  "42": {
+    "defense": "KANSAS",
+    "offense": "UCLA",
+    "result": "GS",
+    "time": "",
+    "extras": [
+      [
+        "Y",
+        "KANSAS-IAN MCCABE"
+      ]
+    ],
+    "length": -1,
+    "primary": [
+      "UCLA-CHRISTIAN CLARION"
+    ],
+    "period": "SOP",
+    "secondary": [
+      "UCLA-RYAN HARRIS"
+    ]
+  },
+  "43": {
+    "defense": "UCLA",
+    "offense": "KANSAS",
+    "result": "GD",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "KANSAS-KEVIN MCMORRIS"
+    ],
+    "period": "SOP",
+    "secondary": [
+      "KANSAS-BEN ENGELS"
+    ]
+  },
+  "44": {
+    "defense": "KANSAS",
+    "offense": "UCLA",
+    "result": "TC",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "KANSAS-IAN MCCABE"
+    ],
+    "period": "SOP",
+    "secondary": [
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ]
+  },
+  "45": {
+    "defense": "UCLA",
+    "offense": "KANSAS",
+    "result": "TL",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "UCLA-ELIZABETH NG"
+    ],
+    "period": "SOP",
+    "secondary": [
+      "KANSAS-BRANDON TABOR"
+    ]
+  },
+  "46": {
+    "defense": "KANSAS",
+    "offense": "UCLA",
+    "result": "GD",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "UCLA-CHRISTIAN CLARION"
+    ],
+    "period": "SOP",
+    "secondary": []
+  },
+  "47": {
+    "defense": "UCLA",
+    "offense": "KANSAS",
+    "result": "GD",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "KANSAS-BRANDON TABOR"
+    ],
+    "period": "SOP",
+    "secondary": []
+  },
+  "48": {
+    "defense": "KANSAS",
+    "offense": "UCLA",
+    "result": "GD",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "period": "SOP",
+    "secondary": []
+  },
+  "49": {
+    "defense": "UCLA",
+    "offense": "KANSAS",
+    "result": "GD",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "KANSAS-BEN ENGELS"
+    ],
+    "period": "SOP",
+    "secondary": []
+  },
+  "50": {
+    "defense": "KANSAS",
+    "offense": "UCLA",
+    "result": "E",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "UCLA-UNK"
+    ],
+    "period": "SOP",
+    "secondary": []
+  },
+  "51": {
+    "defense": "UCLA",
+    "offense": "KANSAS",
+    "result": "TB",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "UCLA-JUSTIN VANLIGTEN"
+    ],
+    "period": "SOP",
+    "secondary": [
+      "KANSAS-BEN ENGELS"
+    ]
+  },
+  "52": {
+    "defense": "KANSAS",
+    "offense": "UCLA",
+    "result": "GD",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "UCLA-RYAN HARRIS"
+    ],
+    "period": "SOP",
+    "secondary": []
+  },
+  "53": {
+    "defense": "UCLA",
+    "offense": "KANSAS",
+    "result": "EM",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "KANSAS-IAN MCCABE"
+    ],
+    "period": "SOP",
+    "secondary": []
+  },
+  "54": {
+    "defense": "KANSAS",
+    "offense": "UCLA",
+    "result": "GD",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "UCLA-RYAN HARRIS"
+    ],
+    "period": "SOP",
+    "secondary": []
+  },
+  "55": {
+    "defense": "UCLA",
+    "offense": "KANSAS",
+    "result": "GS",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "KANSAS-IAN MCCABE"
+    ],
+    "period": "SOP",
+    "secondary": []
+  },
+  "56": {
+    "defense": "KANSAS",
+    "offense": "UCLA",
+    "result": "GD",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "period": "SOP",
+    "secondary": []
+  },
+  "57": {
+    "defense": "UCLA",
+    "offense": "KANSAS",
+    "result": "E",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "KANSAS-UNK"
+    ],
+    "period": "SOP",
+    "secondary": []
+  },
+  "58": {
+    "defense": "KANSAS",
+    "offense": "UCLA",
+    "result": "GS",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "period": "SOP",
+    "secondary": []
+  },
+  "59": {
+    "defense": "UCLA",
+    "offense": "KANSAS",
+    "result": "TD",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "UCLA-RYAN HARRIS"
+    ],
+    "period": "SOP",
+    "secondary": [
+      "KANSAS-UNK",
+      "KANSAS-KEVIN MCMORRIS"
+    ]
+  },
+  "60": {
+    "defense": "KANSAS",
+    "offense": "UCLA",
+    "result": "GD",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "UCLA-RYAN HARRIS"
+    ],
+    "period": "SOP",
+    "secondary": []
+  },
+  "61": {
+    "defense": "UCLA",
+    "offense": "KANSAS",
+    "result": "G",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "KANSAS-UNK"
+    ],
+    "period": "SOP",
+    "secondary": []
+  },
+  "62": {
+    "defense": "KANSAS",
+    "offense": "UCLA",
+    "result": "RCA",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "KANSAS-UNK"
+    ],
+    "period": "SOP",
+    "secondary": []
+  },
+  "63": {
+    "defense": "KANSAS",
+    "offense": "UCLA",
+    "result": "TC",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "KANSAS-IAN MCCABE"
+    ],
+    "period": "SOP",
+    "secondary": [
+      "UCLA-CHRISTIAN CLARION"
+    ]
+  },
+  "64": {
+    "defense": "UCLA",
+    "offense": "KANSAS",
+    "result": "EP",
+    "time": "",
+    "extras": [
+      [
+        "Y",
+        "UCLA-CHRISTIAN KRIEGER"
+      ]
+    ],
+    "length": -1,
+    "primary": [
+      "KANSAS-BEN ENGELS"
+    ],
+    "period": "SOP",
+    "secondary": [
+      "KANSAS-IAN MCCABE"
+    ]
+  },
+  "65": {
+    "defense": "KANSAS",
+    "offense": "UCLA",
+    "result": "EP",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "UCLA-UNK"
+    ],
+    "period": "SOP",
+    "secondary": [
+      "UCLA-RYAN HARRIS"
+    ]
+  },
+  "66": {
+    "defense": "UCLA",
+    "offense": "KANSAS",
+    "result": "GD",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "KANSAS-ELI DORSEY"
+    ],
+    "period": "SOP",
+    "secondary": []
+  },
+  "67": {
+    "defense": "KANSAS",
+    "offense": "UCLA",
+    "result": "GD",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "UCLA-RYAN HARRIS"
+    ],
+    "period": "SOP",
+    "secondary": [
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ]
+  },
+  "68": {
+    "defense": "UCLA",
+    "offense": "KANSAS",
+    "result": "GD",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "KANSAS-BEN ENGELS"
+    ],
+    "period": "SOP",
+    "secondary": []
+  },
+  "69": {
+    "defense": "KANSAS",
+    "offense": "UCLA",
+    "result": "TB",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "KANSAS-JAKE SIMON"
+    ],
+    "period": "SOP",
+    "secondary": [
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ]
+  },
+  "70": {
+    "defense": "UCLA",
+    "offense": "KANSAS",
+    "result": "GD",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "KANSAS-BEN ENGELS"
+    ],
+    "period": "SOP",
+    "secondary": []
+  },
+  "71": {
+    "defense": "KANSAS",
+    "offense": "UCLA",
+    "result": "TC",
+    "time": "",
+    "extras": [],
+    "length": -1,
+    "primary": [
+      "KANSAS-BEN ENGELS"
+    ],
+    "period": "SOP",
+    "secondary": [
+      "UCLA-CHRISTIAN KRIEGER"
+    ]
+  }
+}

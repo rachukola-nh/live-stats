@@ -1,0 +1,50 @@
+(00:00)Brooms Up possession: BROOMS UP! Quaffle Possession by ['TEXAS-DAVIS ROE'], Bludger Control by ['TXST-RYAN NAWROCKI']
+(00:04)TEXAS possession: Beat by ['TXST-BRADLEY HIMES'] on ['TEXAS-DAVIS ROE'] forces a TURNOVER.
+(00:35)TXST possession: Beat by ['TEXAS-TATE KAY'] on ['TXST-MICHAEL GENTEMPO'] forces a TURNOVER.
+(00:44)TEXAS possession: Missed shot by ['TEXAS-DAVIS ROE']. Turnover.
+(01:25)TXST possession: Beat by ['TEXAS-TATE KAY'] on ['TXST-ERIC REYES'] forces a TURNOVER.
+(01:31)TEXAS possession: Goal on the drive by ['TEXAS-DAVIS ROE'].
+(02:02)TXST possession: Beat by ['TEXAS-TATE KAY'] on ['TXST-ERIC REYES'] forces a TURNOVER.
+(02:08)TEXAS possession: Goal on the drive by ['TEXAS-DAVIS ROE'].
+(02:54)TXST possession: Goal on the shot by ['TXST-MICHAEL GENTEMPO']. During the play, yellow card on TEXAS-AIDAN PARSI
+(03:31)TEXAS possession: Pass between ['TEXAS-DAVIS ROE', 'TEXAS-KASYE BEVERS'] defended by ['TXST-MICHAEL GENTEMPO']. Turnover
+(03:37)TXST possession: Beat by ['TEXAS-TATE KAY'] on ['TXST-CLAYTON CARLISLE'] forces a TURNOVER.
+(04:24)TEXAS possession: Missed shot by ['TEXAS-AIDAN PARSI']. Turnover.
+(04:50)TXST possession: ['TXST-MICHAEL GENTEMPO'] passes to ['TXST-CLAYTON CARLISLE'] at the hoops, GOAL.
+(05:30)TEXAS possession: Beat by ['TXST-JESSICA MARKLE'] on ['TEXAS-AIDAN PARSI'] forces a TURNOVER.
+(05:40)TXST possession: Pass by ['TXST-MICHAEL GENTEMPO'] dropped by ['TXST-ERIC REYES']. Turnover
+(06:17)TEXAS possession: ['TEXAS-LUKE MEISSNER'] passes to ['TEXAS-KASYE BEVERS'] at the hoops, GOAL.
+(07:01)TXST possession: Beat by ['TEXAS-JACK WANG'] on ['TXST-AMBER BONHOMME'] forces a TURNOVER.
+(07:25)TEXAS possession: ['TEXAS-DYLAN BOTTOMS'] passes to ['TEXAS-KASYE BEVERS'] at the hoops, GOAL.
+(08:04)TXST possession: Drop by ['TXST-MARK MCQUAGE']. Turnover.
+(08:18)TEXAS possession: Turnover penalty on ['TEXAS-JOSH JOHNSON'].
+(08:54)TXST possession: Pass between ['TXST-MARK MCQUAGE', 'TXST-AUDREY FRY'] defended by ['TEXAS-LUKE MEISSNER']. Turnover
+(09:55)TEXAS possession: Goal on the shot by ['TEXAS-KASYE BEVERS'], assist by ['TEXAS-DAVIS ROE']
+(10:51)TXST possession: Pass by ['TXST-DAVID AVILA'] dropped by ['TXST-TIM NGUYEN']. Turnover During the play, reset forced by TEXAS-TATE KAY
+(11:03)TEXAS possession: Beat by ['TXST-BAILEE FIELDS'] on ['TEXAS-LUKE MEISSNER'] forces a TURNOVER.
+(11:38)TXST possession: Beat by ['TEXAS-KYLIE MCBRIDE'] on ['TXST-TIM NGUYEN'] forces a TURNOVER. During the play, reset forced by TEXAS-KYLIE MCBRIDE
+(11:44)TEXAS possession: ['TEXAS-DAVIS ROE'] passes to ['TEXAS-JOSH JOHNSON'] at the hoops, GOAL.
+(12:14)TXST possession: Pass between ['TXST-DAVID AVILA', 'TXST-TIM NGUYEN'] defended by ['TEXAS-MICHAEL JOHNSTON']. Turnover
+(12:43)TEXAS possession: Goal on the drive by ['TEXAS-JAYDAN GILSTRAP'].
+(13:07)TXST possession: Shot by ['TXST-UNK'] blocked by ['TEXAS-DAVIS ROE']. Turnover.
+(13:56)TEXAS possession: Beat by ['TXST-RYAN NAWROCKI'] on ['TEXAS-JAYDAN GILSTRAP'] forces a TURNOVER.
+(14:25)TXST possession: Shot by ['TXST-MELISSA KITE'] blocked by ['TEXAS-MICHAEL JOHNSTON']. Turnover.
+(15:19)TEXAS possession: Goal on the shot by ['TEXAS-AIDAN PARSI']. During the play, reset forced by TXST-BAILEE FIELDS
+(15:39)TXST possession: Shot by ['TXST-UNK'] blocked by ['TEXAS-JAYDAN GILSTRAP']. Turnover.
+(16:06)TEXAS possession: Turnover forced by physical contact by ['TXST-JUSTIN DUGIE'] on ['TEXAS-MICHAEL JOHNSTON']
+(16:30)TXST possession: Beat by ['TEXAS-RICHMOND KEELING'] on ['TXST-JUSTIN DUGIE'] forces a TURNOVER.
+(17:22)TEXAS possession: Beat by ['TXST-KRIS DE LA FUENTE'] on ['TEXAS-SPENCER FORBES'] forces a TURNOVER.
+(18:10)TXST possession: Shot by ['TXST-JUSTIN DUGIE'] blocked by ['TEXAS-SPENCER FORBES']. Turnover. During the play, SNITCH ON PITCH begins
+(18:53)TEXAS possession: Goal on the drive by ['TEXAS-JOSH JOHNSON'].
+(19:08)TXST possession: Goal on the drive by ['TXST-MELISSA KITE'].
+(19:52)TEXAS possession: ['TEXAS-JOSH JOHNSON'] passes to ['TEXAS-SPENCER FORBES'] at the hoops, GOAL.
+(20:29)TXST possession: Pass by ['TXST-ERIC REYES'] dropped by ['TXST-CONNOR ELLSTON']. Turnover
+(20:41)TEXAS possession: Goal on the drive by ['TEXAS-JOSH JOHNSON'].
+(21:37)TXST possession: ['TXST-ERIC REYES'] passes to ['TXST-CLAYTON CARLISLE'] at the hoops, GOAL. During the play, blue card on TEXAS-JACK WANG,yellow card on TEXAS-DAVID HUBER
+(22:48)TEXAS possession: Beat by ['TXST-BRADLEY HIMES'] on ['TEXAS-GRAYSON BRIGGS'] forces a TURNOVER.
+(23:44)TXST possession: ['TXST-MICHAEL GENTEMPO'] passes to ['TXST-AMBER BONHOMME'] at the hoops, GOAL.
+(24:05)TEXAS possession: Beat by ['TXST-BRADLEY HIMES'] on ['TEXAS-KASYE BEVERS'] forces a TURNOVER.
+(24:21)TXST possession: Pass between ['TXST-MICHAEL GENTEMPO', 'TXST-AMBER BONHOMME'] defended by ['TEXAS-KASYE BEVERS']. Turnover
+(24:41)TEXAS possession: Beat by ['TXST-KRIS DE LA FUENTE'] on ['TEXAS-DAVIS ROE'] forces a TURNOVER.
+(24:49)TXST possession: Goal on the drive by ['TXST-ERIC REYES'].
+(25:18)TEXAS possession: Snitch catch by ['TEXAS-DAVID HUBER'] is GOOD.
