@@ -208,105 +208,98 @@ def gen_pbp(interpreted):
     return base
 
 def ind_stats(interpreted_list):
-    stats = {}
-    stats['Goals'] = {}
-    stats['Assists'] = {}
-    stats['Errors'] = {}
-    stats['Ball Turnovers Forced'] = {}
-    stats['Contact Turnovers Forced'] = {}
-    stats['Beat Turnovers Forced'] = {}
-    stats['Resets Forced'] = {}
-    stats['ISR Snitch Catches'] = {}
-    stats['OSR Snitch Catches'] = {}
-    stats['Blue Cards'] = {}
-    stats['Yellow Cards'] = {}
-    stats['Second Yellow Cards'] = {}
-    stats['Straight Red Cards'] = {}
+    columns = ['Goals','Assists','Ball TO Forced','Contact TO Forced','Beat TO Forced','Resets Forced','Errors','ISR Catches','OSR Catches','Blues','Yellows','Second Yellows','Straight Reds']
+    stats = {c:{} for c in columns}
     qpd = 0
     t1 = None
     for pos in interpreted_list:
         res = pos['result']
         primary = pos['primary']
         secondary = pos['secondary']
-        for p,s in zip(primary,secondary):
-            if res=='TB':
-                if p in stats['Beat Turnovers Forced']:
-                    stats['Beat Turnovers Forced'][p]+=1
+        if res[0]=='G':
+            if not t1:
+                t1= pos['offense']
+                qpd = 10
+            elif t1==pos['offense']:
+                qpd+=10
+            else:
+                qpd-=10
+        elif res in ['RCA','RCB','OCA','OCB','2CA','2CB']:
+            if abs(qpd)<=30:
+                if primary[0] in stats['ISR Catches']:
+                    stats['ISR Catches'][primary[0]]+=1
                 else:
-                    stats['Beat Turnovers Forced'][p]=1
-            elif res in ('TD','TL'):
-                if p in stats['Ball Turnovers Forced']:
-                    stats['Ball Turnovers Forced'][p]+=1
+                    stats['ISR Catches'][primary[0]]=1
+            else:
+                if primary[0] in stats['OSR Catches']:
+                    stats['OSR Catches'][primary[0]]+=1
                 else:
-                    stats['Ball Turnovers Forced'][p]=1
-            elif res=='TC':
-                if p in stats['Contact Turnovers Forced']:
-                    stats['Contact Turnovers Forced'][p]+=1
+                    stats['OSR Catches'][primary[0]]=1
+            qpd= qpd+30 if p.split('-')[0]==t1 else qpd-30
+        if res=='TB':
+            for p in primary:
+                if p in stats['Beat TO Forced']:
+                    stats['Beat TO Forced'][p]+=1/len(primary)
                 else:
-                    stats['Contact Turnovers Forced'][p]=1
-            elif res[0]=='G':
-                if not t1:
-                    t1= pos['offense']
-                    qpd = 10
-                elif t1==pos['offense']:
-                    qpd+=10
+                    stats['Beat TO Forced'][p]=1/len(primary)
+        elif res in ('TD','TL'):
+            for p in primary:
+                if p in stats['Ball TO Forced']:
+                    stats['Ball TO Forced'][p]+=1/len(primary)
                 else:
-                    qpd-=10
+                    stats['Ball TO Forced'][p]=1/len(primary)
+        elif res=='TC':
+            for p in primary:
+                if p in stats['Contact TO Forced']:
+                    stats['Contact TO Forced'][p]+=1/len(primary)
+                else:
+                    stats['Contact TO Forced'][p]=1/len(primary)
+        elif res[0]=='G':
+            for p in primary:
                 if p in stats['Goals']:
                     stats['Goals'][p]+=1
                 else:
                     stats['Goals'][p]=1
-                if s:
-                    if s in stats['Assists']:
-                        stats['Assists'][s]+=1
-                    else:
-                        stats['Assists'][s]=1
-            elif res[0]=='E':
+            for s in secondary:
+                if s in stats['Assists']:
+                    stats['Assists'][s]+=1/len(secondary)
+                else:
+                    stats['Assists'][s]=1/len(secondary)
+        elif res[0]=='E':
+            for p in primary:
                 if p in stats['Errors']:
-                    stats['Errors'][p]+=1
+                    stats['Errors'][p]+=1/len(primary)
                 else:
-                    stats['Errors'][p]=1
-            elif res in ['RCA','RCB','OCA','OCB','2CA','2CB']:
-                if abs(qpd)<=30:
-                    if p in stats['ISR Snitch Catches']:
-                        stats['ISR Snitch Catches'][p]+=1
-                    else:
-                        stats['ISR Snitch Catches'][p]=1
-                else:
-                    if p in stats['OSR Snitch Catches']:
-                        stats['OSR Snitch Catches'][p]+=1
-                    else:
-                        stats['OSR Snitch Catches'][p]=1
+                    stats['Errors'][p]=1/len(primary)
 
-                qpd= qpd+30 if p.split('-')[0]==t1 else qpd-30
-            for extra in pos['extras']:
-                extra_type, extra_player = extra
-                if extra_type == 'B':
-                    if extra_player in stats['Blue Cards']:
-                        stats['Blue Cards'][extra_player]+=1
-                    else:
-                        stats['Blue Cards'][extra_player]=1
-                elif extra_type == 'Y':
-                    if extra_player in stats['Yellow Cards']:
-                        stats['Yellow Cards'][extra_player]+=1
-                    else:
-                        stats['Yellow Cards'][extra_player]=1
-                elif extra_type == '2Y':
-                    if extra_player in stats['Second Yellow Cards']:
-                        stats['Second Yellow Cards'][extra_player]+=1
-                    else:
-                        stats['Second Yellow Cards'][extra_player]=1
-                if extra_type == '1R':
-                    if extra_player in stats['Straight Red Cards']:
-                        stats['Straight Red Cards'][extra_player]+=1
-                    else:
-                        stats['Straight Red Cards'][extra_player]=1
-                if extra_type == 'R':
-                    if extra_player in stats['Resets Forced']:
-                        stats['Resets Forced'][extra_player]+=1
-                    else:
-                        stats['Resets Forced'][extra_player]=1
-    df = pd.DataFrame(stats).dropna(how='all').fillna(0).astype(int).sort_values(by=['Goals','Assists','Errors'],ascending=[False,False,True])
+        for extra in pos['extras']:
+            extra_type, extra_player = extra
+            if extra_type == 'B':
+                if extra_player in stats['Blues']:
+                    stats['Blues'][extra_player]+=1
+                else:
+                    stats['Blues'][extra_player]=1
+            elif extra_type == 'Y':
+                if extra_player in stats['Yellows']:
+                    stats['Yellows'][extra_player]+=1
+                else:
+                    stats['Yellows'][extra_player]=1
+            elif extra_type == '2Y':
+                if extra_player in stats['Second Yellows']:
+                    stats['Second Yellows'][extra_player]+=1
+                else:
+                    stats['Second Yellows'][extra_player]=1
+            if extra_type == '1R':
+                if extra_player in stats['Straight Reds']:
+                    stats['Straight Reds'][extra_player]+=1
+                else:
+                    stats['Straight Reds'][extra_player]=1
+            if extra_type == 'R':
+                if extra_player in stats['Resets Forced']:
+                    stats['Resets Forced'][extra_player]+=1
+                else:
+                    stats['Resets Forced'][extra_player]=1
+    df = pd.DataFrame(stats).dropna(how='all').fillna(0).astype(int)[columns].sort_values(by=['Goals','Assists','Errors'],ascending=[False,False,True])
     return df
 
 def add_times(play_list):
