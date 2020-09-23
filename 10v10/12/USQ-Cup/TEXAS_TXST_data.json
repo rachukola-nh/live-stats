@@ -1,122 +1,125 @@
 {
   "0": {
-    "defense": "",
-    "offense": "Brooms Up",
-    "result": "BU",
-    "time": "0000",
-    "length": -1,
-    "extras": [],
     "primary": [
       "TEXAS-DAVIS ROE"
     ],
-    "period": "FLOOR",
     "secondary": [
       "TXST-RYAN NAWROCKI"
-    ]
+    ],
+    "time": "0000",
+    "length": -1,
+    "extras": [],
+    "offense": "Brooms Up",
+    "result": "BU",
+    "defense": "",
+    "period": "FLOOR"
   },
   "1": {
-    "defense": "TXST",
-    "offense": "TEXAS",
-    "result": "TB",
-    "time": "0004",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "TEXAS-DAVIS ROE"
+    ],
     "length": 4,
     "primary": [
       "TXST-BRADLEY HIMES"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "TEXAS-DAVIS ROE"
-    ]
+    "time": "0004",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "TB",
+    "defense": "TXST"
   },
   "2": {
-    "defense": "TEXAS",
-    "offense": "TXST",
-    "result": "TB",
-    "time": "0035",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "TXST-MICHAEL GENTEMPO"
+    ],
     "length": 31,
     "primary": [
       "TEXAS-TATE KAY"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "TXST-MICHAEL GENTEMPO"
-    ]
+    "time": "0035",
+    "extras": [],
+    "offense": "TXST",
+    "result": "TB",
+    "defense": "TEXAS"
   },
   "3": {
-    "defense": "TXST",
-    "offense": "TEXAS",
-    "result": "EM",
-    "time": "0044",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [],
     "length": 9,
     "primary": [
       "TEXAS-DAVIS ROE"
     ],
-    "period": "FLOOR",
-    "secondary": []
+    "time": "0044",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "EM",
+    "defense": "TXST"
   },
   "4": {
-    "defense": "TEXAS",
-    "offense": "TXST",
-    "result": "TB",
-    "time": "0125",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "TXST-ERIC REYES"
+    ],
     "length": 81,
     "primary": [
       "TEXAS-TATE KAY"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "TXST-ERIC REYES"
-    ]
+    "time": "0125",
+    "extras": [],
+    "offense": "TXST",
+    "result": "TB",
+    "defense": "TEXAS"
   },
   "5": {
-    "defense": "TXST",
-    "offense": "TEXAS",
-    "result": "GD",
-    "time": "0131",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [],
     "length": 6,
     "primary": [
       "TEXAS-DAVIS ROE"
     ],
-    "period": "FLOOR",
-    "secondary": []
+    "time": "0131",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "GD",
+    "defense": "TXST"
   },
   "6": {
-    "defense": "TEXAS",
-    "offense": "TXST",
-    "result": "TB",
-    "time": "0202",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "TXST-ERIC REYES"
+    ],
     "length": 71,
     "primary": [
       "TEXAS-TATE KAY"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "TXST-ERIC REYES"
-    ]
+    "time": "0202",
+    "extras": [],
+    "offense": "TXST",
+    "result": "TB",
+    "defense": "TEXAS"
   },
   "7": {
-    "defense": "TXST",
-    "offense": "TEXAS",
-    "result": "GD",
-    "time": "0208",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [],
     "length": 6,
     "primary": [
       "TEXAS-DAVIS ROE"
     ],
-    "period": "FLOOR",
-    "secondary": []
+    "time": "0208",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "GD",
+    "defense": "TXST"
   },
   "8": {
-    "defense": "TEXAS",
-    "offense": "TXST",
-    "result": "GS",
+    "period": "FLOOR",
+    "secondary": [],
+    "length": 46,
+    "primary": [
+      "TXST-MICHAEL GENTEMPO"
+    ],
     "time": "0254",
     "extras": [
       [
@@ -124,208 +127,210 @@
         "TEXAS-AIDAN PARSI"
       ]
     ],
-    "length": 46,
-    "primary": [
-      "TXST-MICHAEL GENTEMPO"
-    ],
-    "period": "FLOOR",
-    "secondary": []
+    "offense": "TXST",
+    "result": "GS",
+    "defense": "TEXAS"
   },
   "9": {
-    "defense": "TXST",
-    "offense": "TEXAS",
-    "result": "TD",
-    "time": "0331",
-    "extras": [],
-    "length": 77,
-    "primary": [
-      "TXST-MICHAEL GENTEMPO"
-    ],
     "period": "FLOOR",
     "secondary": [
       "TEXAS-DAVIS ROE",
       "TEXAS-KASYE BEVERS"
-    ]
+    ],
+    "length": 77,
+    "primary": [
+      "TXST-MICHAEL GENTEMPO"
+    ],
+    "time": "0331",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "TD",
+    "defense": "TXST"
   },
   "10": {
-    "defense": "TEXAS",
-    "offense": "TXST",
-    "result": "TB",
-    "time": "0337",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "TXST-CLAYTON CARLISLE"
+    ],
     "length": 6,
     "primary": [
       "TEXAS-TATE KAY"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "TXST-CLAYTON CARLISLE"
-    ]
+    "time": "0337",
+    "extras": [],
+    "offense": "TXST",
+    "result": "TB",
+    "defense": "TEXAS"
   },
   "11": {
-    "defense": "TXST",
-    "offense": "TEXAS",
-    "result": "EM",
-    "time": "0424",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [],
     "length": 87,
     "primary": [
       "TEXAS-AIDAN PARSI"
     ],
-    "period": "FLOOR",
-    "secondary": []
+    "time": "0424",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "EM",
+    "defense": "TXST"
   },
   "12": {
-    "defense": "TEXAS",
-    "offense": "TXST",
-    "result": "GP",
-    "time": "0450",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "TXST-MICHAEL GENTEMPO"
+    ],
     "length": 26,
     "primary": [
       "TXST-CLAYTON CARLISLE"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "TXST-MICHAEL GENTEMPO"
-    ]
+    "time": "0450",
+    "extras": [],
+    "offense": "TXST",
+    "result": "GP",
+    "defense": "TEXAS"
   },
   "13": {
-    "defense": "TXST",
-    "offense": "TEXAS",
-    "result": "TB",
-    "time": "0530",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "TEXAS-AIDAN PARSI"
+    ],
     "length": 80,
     "primary": [
       "TXST-JESSICA MARKLE"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "TEXAS-AIDAN PARSI"
-    ]
+    "time": "0530",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "TB",
+    "defense": "TXST"
   },
   "14": {
-    "defense": "TEXAS",
-    "offense": "TXST",
-    "result": "ED",
-    "time": "0540",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "TXST-MICHAEL GENTEMPO"
+    ],
     "length": 10,
     "primary": [
       "TXST-ERIC REYES"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "TXST-MICHAEL GENTEMPO"
-    ]
+    "time": "0540",
+    "extras": [],
+    "offense": "TXST",
+    "result": "ED",
+    "defense": "TEXAS"
   },
   "15": {
-    "defense": "TXST",
-    "offense": "TEXAS",
-    "result": "GP",
-    "time": "0617",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "TEXAS-LUKE MEISSNER"
+    ],
     "length": 77,
     "primary": [
       "TEXAS-KASYE BEVERS"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "TEXAS-LUKE MEISSNER"
-    ]
+    "time": "0617",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "GP",
+    "defense": "TXST"
   },
   "16": {
-    "defense": "TEXAS",
-    "offense": "TXST",
-    "result": "TB",
-    "time": "0701",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "TXST-AMBER BONHOMME"
+    ],
     "length": 84,
     "primary": [
       "TEXAS-JACK WANG"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "TXST-AMBER BONHOMME"
-    ]
+    "time": "0701",
+    "extras": [],
+    "offense": "TXST",
+    "result": "TB",
+    "defense": "TEXAS"
   },
   "17": {
-    "defense": "TXST",
-    "offense": "TEXAS",
-    "result": "GP",
-    "time": "0725",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "TEXAS-DYLAN BOTTOMS"
+    ],
     "length": 24,
     "primary": [
       "TEXAS-KASYE BEVERS"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "TEXAS-DYLAN BOTTOMS"
-    ]
+    "time": "0725",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "GP",
+    "defense": "TXST"
   },
   "18": {
-    "defense": "TEXAS",
-    "offense": "TXST",
-    "result": "ED",
-    "time": "0804",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [],
     "length": 79,
     "primary": [
       "TXST-MARK MCQUAGE"
     ],
-    "period": "FLOOR",
-    "secondary": []
+    "time": "0804",
+    "extras": [],
+    "offense": "TXST",
+    "result": "ED",
+    "defense": "TEXAS"
   },
   "19": {
-    "defense": "TXST",
-    "offense": "TEXAS",
-    "result": "ET",
-    "time": "0818",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [],
     "length": 14,
     "primary": [
       "TEXAS-JOSH JOHNSON"
     ],
-    "period": "FLOOR",
-    "secondary": []
+    "time": "0818",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "ET",
+    "defense": "TXST"
   },
   "20": {
-    "defense": "TEXAS",
-    "offense": "TXST",
-    "result": "TD",
-    "time": "0854",
-    "extras": [],
-    "length": 36,
-    "primary": [
-      "TEXAS-LUKE MEISSNER"
-    ],
     "period": "FLOOR",
     "secondary": [
       "TXST-MARK MCQUAGE",
       "TXST-AUDREY FRY"
-    ]
+    ],
+    "length": 36,
+    "primary": [
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "time": "0854",
+    "extras": [],
+    "offense": "TXST",
+    "result": "TD",
+    "defense": "TEXAS"
   },
   "21": {
-    "defense": "TXST",
-    "offense": "TEXAS",
-    "result": "GS",
-    "time": "0955",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "TEXAS-DAVIS ROE"
+    ],
     "length": 101,
     "primary": [
       "TEXAS-KASYE BEVERS"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "TEXAS-DAVIS ROE"
-    ]
+    "time": "0955",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "GS",
+    "defense": "TXST"
   },
   "22": {
-    "defense": "TEXAS",
-    "offense": "TXST",
-    "result": "ED",
+    "period": "FLOOR",
+    "secondary": [
+      "TXST-DAVID AVILA"
+    ],
+    "length": 96,
+    "primary": [
+      "TXST-TIM NGUYEN"
+    ],
     "time": "1051",
     "extras": [
       [
@@ -333,34 +338,34 @@
         "TEXAS-TATE KAY"
       ]
     ],
-    "length": 96,
-    "primary": [
-      "TXST-TIM NGUYEN"
-    ],
-    "period": "FLOOR",
-    "secondary": [
-      "TXST-DAVID AVILA"
-    ]
+    "offense": "TXST",
+    "result": "ED",
+    "defense": "TEXAS"
   },
   "23": {
-    "defense": "TXST",
-    "offense": "TEXAS",
-    "result": "TB",
-    "time": "1103",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "TEXAS-LUKE MEISSNER"
+    ],
     "length": 52,
     "primary": [
       "TXST-BAILEE FIELDS"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "TEXAS-LUKE MEISSNER"
-    ]
+    "time": "1103",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "TB",
+    "defense": "TXST"
   },
   "24": {
-    "defense": "TEXAS",
-    "offense": "TXST",
-    "result": "TB",
+    "period": "FLOOR",
+    "secondary": [
+      "TXST-TIM NGUYEN"
+    ],
+    "length": 35,
+    "primary": [
+      "TEXAS-KYLIE MCBRIDE"
+    ],
     "time": "1138",
     "extras": [
       [
@@ -368,108 +373,106 @@
         "TEXAS-KYLIE MCBRIDE"
       ]
     ],
-    "length": 35,
-    "primary": [
-      "TEXAS-KYLIE MCBRIDE"
-    ],
-    "period": "FLOOR",
-    "secondary": [
-      "TXST-TIM NGUYEN"
-    ]
+    "offense": "TXST",
+    "result": "TB",
+    "defense": "TEXAS"
   },
   "25": {
-    "defense": "TXST",
-    "offense": "TEXAS",
-    "result": "GP",
-    "time": "1144",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "TEXAS-DAVIS ROE"
+    ],
     "length": 6,
     "primary": [
       "TEXAS-JOSH JOHNSON"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "TEXAS-DAVIS ROE"
-    ]
+    "time": "1144",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "GP",
+    "defense": "TXST"
   },
   "26": {
-    "defense": "TEXAS",
-    "offense": "TXST",
-    "result": "TD",
-    "time": "1214",
-    "extras": [],
-    "length": 70,
-    "primary": [
-      "TEXAS-MICHAEL JOHNSTON"
-    ],
     "period": "FLOOR",
     "secondary": [
       "TXST-DAVID AVILA",
       "TXST-TIM NGUYEN"
-    ]
+    ],
+    "length": 70,
+    "primary": [
+      "TEXAS-MICHAEL JOHNSTON"
+    ],
+    "time": "1214",
+    "extras": [],
+    "offense": "TXST",
+    "result": "TD",
+    "defense": "TEXAS"
   },
   "27": {
-    "defense": "TXST",
-    "offense": "TEXAS",
-    "result": "GD",
-    "time": "1243",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [],
     "length": 29,
     "primary": [
       "TEXAS-JAYDAN GILSTRAP"
     ],
-    "period": "FLOOR",
-    "secondary": []
+    "time": "1243",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "GD",
+    "defense": "TXST"
   },
   "28": {
-    "defense": "TEXAS",
-    "offense": "TXST",
-    "result": "TL",
-    "time": "1307",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "TXST-UNK"
+    ],
     "length": 64,
     "primary": [
       "TEXAS-DAVIS ROE"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "TXST-UNK"
-    ]
+    "time": "1307",
+    "extras": [],
+    "offense": "TXST",
+    "result": "TL",
+    "defense": "TEXAS"
   },
   "29": {
-    "defense": "TXST",
-    "offense": "TEXAS",
-    "result": "TB",
-    "time": "1356",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "TEXAS-JAYDAN GILSTRAP"
+    ],
     "length": 49,
     "primary": [
       "TXST-RYAN NAWROCKI"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "TEXAS-JAYDAN GILSTRAP"
-    ]
+    "time": "1356",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "TB",
+    "defense": "TXST"
   },
   "30": {
-    "defense": "TEXAS",
-    "offense": "TXST",
-    "result": "TL",
-    "time": "1425",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "TXST-MELISSA KITE"
+    ],
     "length": 69,
     "primary": [
       "TEXAS-MICHAEL JOHNSTON"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "TXST-MELISSA KITE"
-    ]
+    "time": "1425",
+    "extras": [],
+    "offense": "TXST",
+    "result": "TL",
+    "defense": "TEXAS"
   },
   "31": {
-    "defense": "TXST",
-    "offense": "TEXAS",
-    "result": "GS",
+    "period": "FLOOR",
+    "secondary": [],
+    "length": 94,
+    "primary": [
+      "TEXAS-AIDAN PARSI"
+    ],
     "time": "1519",
     "extras": [
       [
@@ -477,77 +480,79 @@
         "TXST-BAILEE FIELDS"
       ]
     ],
-    "length": 94,
-    "primary": [
-      "TEXAS-AIDAN PARSI"
-    ],
-    "period": "FLOOR",
-    "secondary": []
+    "offense": "TEXAS",
+    "result": "GS",
+    "defense": "TXST"
   },
   "32": {
-    "defense": "TEXAS",
-    "offense": "TXST",
-    "result": "TL",
-    "time": "1539",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "TXST-UNK"
+    ],
     "length": 20,
     "primary": [
       "TEXAS-JAYDAN GILSTRAP"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "TXST-UNK"
-    ]
+    "time": "1539",
+    "extras": [],
+    "offense": "TXST",
+    "result": "TL",
+    "defense": "TEXAS"
   },
   "33": {
-    "defense": "TXST",
-    "offense": "TEXAS",
-    "result": "TC",
-    "time": "1606",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "TEXAS-MICHAEL JOHNSTON"
+    ],
     "length": 67,
     "primary": [
       "TXST-JUSTIN DUGIE"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "TEXAS-MICHAEL JOHNSTON"
-    ]
+    "time": "1606",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "TC",
+    "defense": "TXST"
   },
   "34": {
-    "defense": "TEXAS",
-    "offense": "TXST",
-    "result": "TB",
-    "time": "1630",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "TXST-JUSTIN DUGIE"
+    ],
     "length": 24,
     "primary": [
       "TEXAS-RICHMOND KEELING"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "TXST-JUSTIN DUGIE"
-    ]
+    "time": "1630",
+    "extras": [],
+    "offense": "TXST",
+    "result": "TB",
+    "defense": "TEXAS"
   },
   "35": {
-    "defense": "TXST",
-    "offense": "TEXAS",
-    "result": "TB",
-    "time": "1722",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "TEXAS-SPENCER FORBES"
+    ],
     "length": 92,
     "primary": [
       "TXST-KRIS DE LA FUENTE"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "TEXAS-SPENCER FORBES"
-    ]
+    "time": "1722",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "TB",
+    "defense": "TXST"
   },
   "36": {
-    "defense": "TEXAS",
-    "offense": "TXST",
-    "result": "TL",
+    "period": "SOP",
+    "secondary": [
+      "TXST-JUSTIN DUGIE"
+    ],
+    "length": 88,
+    "primary": [
+      "TEXAS-SPENCER FORBES"
+    ],
     "time": "1810",
     "extras": [
       [
@@ -555,88 +560,88 @@
         1
       ]
     ],
-    "length": 88,
-    "primary": [
-      "TEXAS-SPENCER FORBES"
-    ],
-    "period": "SOP",
-    "secondary": [
-      "TXST-JUSTIN DUGIE"
-    ]
+    "offense": "TXST",
+    "result": "TL",
+    "defense": "TEXAS"
   },
   "37": {
-    "defense": "TXST",
-    "offense": "TEXAS",
-    "result": "GD",
-    "time": "1853",
-    "extras": [],
+    "period": "SOP",
+    "secondary": [],
     "length": 43,
     "primary": [
       "TEXAS-JOSH JOHNSON"
     ],
-    "period": "SOP",
-    "secondary": []
+    "time": "1853",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "GD",
+    "defense": "TXST"
   },
   "38": {
-    "defense": "TEXAS",
-    "offense": "TXST",
-    "result": "GD",
-    "time": "1908",
-    "extras": [],
+    "period": "SOP",
+    "secondary": [],
     "length": 55,
     "primary": [
       "TXST-MELISSA KITE"
     ],
-    "period": "SOP",
-    "secondary": []
+    "time": "1908",
+    "extras": [],
+    "offense": "TXST",
+    "result": "GD",
+    "defense": "TEXAS"
   },
   "39": {
-    "defense": "TXST",
-    "offense": "TEXAS",
-    "result": "GP",
-    "time": "1952",
-    "extras": [],
+    "period": "SOP",
+    "secondary": [
+      "TEXAS-JOSH JOHNSON"
+    ],
     "length": 44,
     "primary": [
       "TEXAS-SPENCER FORBES"
     ],
-    "period": "SOP",
-    "secondary": [
-      "TEXAS-JOSH JOHNSON"
-    ]
+    "time": "1952",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "GP",
+    "defense": "TXST"
   },
   "40": {
-    "defense": "TEXAS",
-    "offense": "TXST",
-    "result": "ED",
-    "time": "2029",
-    "extras": [],
+    "period": "SOP",
+    "secondary": [
+      "TXST-ERIC REYES"
+    ],
     "length": 77,
     "primary": [
       "TXST-CONNOR ELLSTON"
     ],
-    "period": "SOP",
-    "secondary": [
-      "TXST-ERIC REYES"
-    ]
+    "time": "2029",
+    "extras": [],
+    "offense": "TXST",
+    "result": "ED",
+    "defense": "TEXAS"
   },
   "41": {
-    "defense": "TXST",
-    "offense": "TEXAS",
-    "result": "GD",
-    "time": "2041",
-    "extras": [],
+    "period": "SOP",
+    "secondary": [],
     "length": 12,
     "primary": [
       "TEXAS-JOSH JOHNSON"
     ],
-    "period": "SOP",
-    "secondary": []
+    "time": "2041",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "GD",
+    "defense": "TXST"
   },
   "42": {
-    "defense": "TEXAS",
-    "offense": "TXST",
-    "result": "GP",
+    "period": "SOP",
+    "secondary": [
+      "TXST-ERIC REYES"
+    ],
+    "length": 96,
+    "primary": [
+      "TXST-CLAYTON CARLISLE"
+    ],
     "time": "2137",
     "extras": [
       [
@@ -648,115 +653,110 @@
         "TEXAS-DAVID HUBER"
       ]
     ],
-    "length": 96,
-    "primary": [
-      "TXST-CLAYTON CARLISLE"
-    ],
-    "period": "SOP",
-    "secondary": [
-      "TXST-ERIC REYES"
-    ]
+    "offense": "TXST",
+    "result": "GP",
+    "defense": "TEXAS"
   },
   "43": {
-    "defense": "TXST",
-    "offense": "TEXAS",
-    "result": "TB",
-    "time": "2248",
-    "extras": [],
+    "period": "SOP",
+    "secondary": [
+      "TEXAS-GRAYSON BRIGGS"
+    ],
     "length": 111,
     "primary": [
       "TXST-BRADLEY HIMES"
     ],
-    "period": "SOP",
-    "secondary": [
-      "TEXAS-GRAYSON BRIGGS"
-    ]
+    "time": "2248",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "TB",
+    "defense": "TXST"
   },
   "44": {
-    "defense": "TEXAS",
-    "offense": "TXST",
-    "result": "GP",
-    "time": "2344",
-    "extras": [],
+    "period": "SOP",
+    "secondary": [
+      "TXST-MICHAEL GENTEMPO"
+    ],
     "length": 96,
     "primary": [
       "TXST-AMBER BONHOMME"
     ],
-    "period": "SOP",
-    "secondary": [
-      "TXST-MICHAEL GENTEMPO"
-    ]
+    "time": "2344",
+    "extras": [],
+    "offense": "TXST",
+    "result": "GP",
+    "defense": "TEXAS"
   },
   "45": {
-    "defense": "TXST",
-    "offense": "TEXAS",
-    "result": "TB",
-    "time": "2405",
-    "extras": [],
+    "period": "SOP",
+    "secondary": [
+      "TEXAS-KASYE BEVERS"
+    ],
     "length": 61,
     "primary": [
       "TXST-BRADLEY HIMES"
     ],
-    "period": "SOP",
-    "secondary": [
-      "TEXAS-KASYE BEVERS"
-    ]
+    "time": "2405",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "TB",
+    "defense": "TXST"
   },
   "46": {
-    "defense": "TEXAS",
-    "offense": "TXST",
-    "result": "TD",
-    "time": "2421",
-    "extras": [],
-    "length": 16,
-    "primary": [
-      "TEXAS-KASYE BEVERS"
-    ],
     "period": "SOP",
     "secondary": [
       "TXST-MICHAEL GENTEMPO",
       "TXST-AMBER BONHOMME"
-    ]
+    ],
+    "length": 16,
+    "primary": [
+      "TEXAS-KASYE BEVERS"
+    ],
+    "time": "2421",
+    "extras": [],
+    "offense": "TXST",
+    "result": "TD",
+    "defense": "TEXAS"
   },
   "47": {
-    "defense": "TXST",
-    "offense": "TEXAS",
-    "result": "TB",
-    "time": "2441",
-    "extras": [],
+    "period": "SOP",
+    "secondary": [
+      "TEXAS-DAVIS ROE"
+    ],
     "length": 20,
     "primary": [
       "TXST-KRIS DE LA FUENTE"
     ],
-    "period": "SOP",
-    "secondary": [
-      "TEXAS-DAVIS ROE"
-    ]
+    "time": "2441",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "TB",
+    "defense": "TXST"
   },
   "48": {
-    "defense": "TEXAS",
-    "offense": "TXST",
-    "result": "GD",
-    "time": "2449",
-    "extras": [],
+    "period": "SOP",
+    "secondary": [],
     "length": 8,
     "primary": [
       "TXST-ERIC REYES"
     ],
-    "period": "SOP",
-    "secondary": []
+    "time": "2449",
+    "extras": [],
+    "offense": "TXST",
+    "result": "GD",
+    "defense": "TEXAS"
   },
   "49": {
-    "defense": "TXST",
-    "offense": "TEXAS",
-    "result": "RCA",
-    "time": "2518",
-    "extras": [],
+    "period": "SOP",
+    "secondary": [],
     "length": -1,
     "primary": [
       "TEXAS-DAVID HUBER"
     ],
-    "period": "SOP",
-    "secondary": []
+    "time": "2518",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "RCA",
+    "defense": "TXST"
   }
 }

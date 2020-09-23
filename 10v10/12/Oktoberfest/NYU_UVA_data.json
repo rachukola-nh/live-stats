@@ -1,622 +1,622 @@
 {
   "0": {
-    "defense": "",
-    "length": -1,
     "primary": [
       null
     ],
     "secondary": [
       null
     ],
-    "offense": "Brooms Up",
+    "time": "0000",
+    "length": -1,
     "extras": [],
-    "period": "FLOOR",
+    "offense": "Brooms Up",
     "result": "BU",
-    "time": "0000"
+    "defense": "",
+    "period": "FLOOR"
   },
   "1": {
-    "defense": "UVA",
+    "period": "FLOOR",
+    "secondary": [],
     "length": -1,
     "primary": [
       "NYU-LANDON GARFINKEL"
     ],
-    "secondary": [],
-    "offense": "NYU",
+    "time": "",
     "extras": [],
-    "period": "FLOOR",
+    "offense": "NYU",
     "result": "EM",
-    "time": ""
+    "defense": "UVA"
   },
   "2": {
-    "defense": "NYU",
-    "length": -1,
-    "primary": [
-      "NYU-LANDON GARFINKEL"
-    ],
+    "period": "FLOOR",
     "secondary": [
       "UVA-UNK",
       "UVA-DAVID LITTLETON"
     ],
-    "offense": "UVA",
-    "extras": [],
-    "period": "FLOOR",
-    "result": "TD",
-    "time": ""
-  },
-  "3": {
-    "defense": "UVA",
-    "length": -1,
-    "primary": [
-      "NYU-FRANK MINSON"
-    ],
-    "secondary": [],
-    "offense": "NYU",
-    "extras": [],
-    "period": "FLOOR",
-    "result": "GD",
-    "time": ""
-  },
-  "4": {
-    "defense": "NYU",
-    "length": -1,
-    "primary": [
-      "NYU-ANTOINE GIRON"
-    ],
-    "secondary": [
-      "UVA-UNK"
-    ],
-    "offense": "UVA",
-    "extras": [],
-    "period": "FLOOR",
-    "result": "TB",
-    "time": ""
-  },
-  "5": {
-    "defense": "UVA",
-    "length": -1,
-    "primary": [
-      "NYU-AIDAN CLAFFEY"
-    ],
-    "secondary": [],
-    "offense": "NYU",
-    "extras": [],
-    "period": "FLOOR",
-    "result": "ED",
-    "time": ""
-  },
-  "6": {
-    "defense": "NYU",
-    "length": -1,
-    "primary": [
-      "NYU-AIDAN CLAFFEY"
-    ],
-    "secondary": [
-      "UVA-UNK"
-    ],
-    "offense": "UVA",
-    "extras": [],
-    "period": "FLOOR",
-    "result": "TL",
-    "time": ""
-  },
-  "7": {
-    "defense": "UVA",
     "length": -1,
     "primary": [
       "NYU-LANDON GARFINKEL"
     ],
-    "secondary": [],
-    "offense": "NYU",
+    "time": "",
     "extras": [],
-    "period": "FLOOR",
-    "result": "GD",
-    "time": ""
+    "offense": "UVA",
+    "result": "TD",
+    "defense": "NYU"
   },
-  "8": {
-    "defense": "NYU",
+  "3": {
+    "period": "FLOOR",
+    "secondary": [],
+    "length": -1,
+    "primary": [
+      "NYU-FRANK MINSON"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "NYU",
+    "result": "GD",
+    "defense": "UVA"
+  },
+  "4": {
+    "period": "FLOOR",
+    "secondary": [
+      "UVA-UNK"
+    ],
+    "length": -1,
+    "primary": [
+      "NYU-ANTOINE GIRON"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "UVA",
+    "result": "TB",
+    "defense": "NYU"
+  },
+  "5": {
+    "period": "FLOOR",
+    "secondary": [],
     "length": -1,
     "primary": [
       "NYU-AIDAN CLAFFEY"
     ],
+    "time": "",
+    "extras": [],
+    "offense": "NYU",
+    "result": "ED",
+    "defense": "UVA"
+  },
+  "6": {
+    "period": "FLOOR",
+    "secondary": [
+      "UVA-UNK"
+    ],
+    "length": -1,
+    "primary": [
+      "NYU-AIDAN CLAFFEY"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "UVA",
+    "result": "TL",
+    "defense": "NYU"
+  },
+  "7": {
+    "period": "FLOOR",
+    "secondary": [],
+    "length": -1,
+    "primary": [
+      "NYU-LANDON GARFINKEL"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "NYU",
+    "result": "GD",
+    "defense": "UVA"
+  },
+  "8": {
+    "period": "FLOOR",
     "secondary": [
       "UVA-UNK",
       "UVA-UNK"
     ],
-    "offense": "UVA",
+    "length": -1,
+    "primary": [
+      "NYU-AIDAN CLAFFEY"
+    ],
+    "time": "",
     "extras": [],
-    "period": "FLOOR",
+    "offense": "UVA",
     "result": "TD",
-    "time": ""
+    "defense": "NYU"
   },
   "9": {
-    "defense": "UVA",
+    "period": "FLOOR",
+    "secondary": [
+      "NYU-17"
+    ],
     "length": -1,
     "primary": [
       "NYU-SHELLEY LOREE"
     ],
-    "secondary": [
-      "NYU-17"
-    ],
-    "offense": "NYU",
+    "time": "",
     "extras": [],
-    "period": "FLOOR",
+    "offense": "NYU",
     "result": "GP",
-    "time": ""
+    "defense": "UVA"
   },
   "10": {
-    "defense": "NYU",
+    "period": "FLOOR",
+    "secondary": [],
     "length": -1,
     "primary": [
       "UVA-UNK"
     ],
-    "secondary": [],
-    "offense": "UVA",
+    "time": "",
     "extras": [],
-    "period": "FLOOR",
+    "offense": "UVA",
     "result": "GS",
-    "time": ""
+    "defense": "NYU"
   },
   "11": {
-    "defense": "UVA",
-    "length": -1,
-    "primary": [
-      "UVA-UNK"
-    ],
+    "period": "FLOOR",
     "secondary": [
       "NYU-FRANK MINSON"
     ],
-    "offense": "NYU",
+    "length": -1,
+    "primary": [
+      "UVA-UNK"
+    ],
+    "time": "",
     "extras": [],
-    "period": "FLOOR",
+    "offense": "NYU",
     "result": "TL",
-    "time": ""
+    "defense": "UVA"
   },
   "12": {
-    "defense": "NYU",
+    "period": "FLOOR",
+    "secondary": [
+      "UVA-UNK"
+    ],
     "length": -1,
     "primary": [
       "UVA-CARLEE KLEPPIN"
     ],
-    "secondary": [
-      "UVA-UNK"
-    ],
-    "offense": "UVA",
+    "time": "",
     "extras": [],
-    "period": "FLOOR",
+    "offense": "UVA",
     "result": "GP",
-    "time": ""
+    "defense": "NYU"
   },
   "13": {
-    "defense": "UVA",
+    "period": "FLOOR",
+    "secondary": [],
     "length": -1,
     "primary": [
       "NYU-FRANK MINSON"
     ],
-    "secondary": [],
-    "offense": "NYU",
+    "time": "",
     "extras": [],
-    "period": "FLOOR",
+    "offense": "NYU",
     "result": "EM",
-    "time": ""
+    "defense": "UVA"
   },
   "14": {
-    "defense": "NYU",
+    "period": "FLOOR",
+    "secondary": [
+      "UVA-UNK"
+    ],
     "length": -1,
     "primary": [
       "UVA-BEN PHILLIPS"
     ],
-    "secondary": [
-      "UVA-UNK"
-    ],
-    "offense": "UVA",
+    "time": "",
     "extras": [],
-    "period": "FLOOR",
+    "offense": "UVA",
     "result": "GS",
-    "time": ""
+    "defense": "NYU"
   },
   "15": {
-    "defense": "UVA",
+    "period": "FLOOR",
+    "secondary": [],
     "length": -1,
     "primary": [
       "NYU-LANDON GARFINKEL"
     ],
-    "secondary": [],
-    "offense": "NYU",
+    "time": "",
     "extras": [],
-    "period": "FLOOR",
+    "offense": "NYU",
     "result": "EB",
-    "time": ""
+    "defense": "UVA"
   },
   "16": {
-    "defense": "NYU",
-    "length": -1,
-    "primary": [
-      "UVA-BEN PHILLIPS"
-    ],
+    "period": "FLOOR",
     "secondary": [
       "UVA-CARLEE KLEPPIN"
     ],
-    "offense": "UVA",
-    "extras": [],
-    "period": "FLOOR",
-    "result": "EP",
-    "time": ""
-  },
-  "17": {
-    "defense": "UVA",
     "length": -1,
     "primary": [
       "UVA-BEN PHILLIPS"
     ],
+    "time": "",
+    "extras": [],
+    "offense": "UVA",
+    "result": "EP",
+    "defense": "NYU"
+  },
+  "17": {
+    "period": "FLOOR",
     "secondary": [
       "NYU-UNK"
     ],
-    "offense": "NYU",
+    "length": -1,
+    "primary": [
+      "UVA-BEN PHILLIPS"
+    ],
+    "time": "",
     "extras": [],
-    "period": "FLOOR",
+    "offense": "NYU",
     "result": "TL",
-    "time": ""
+    "defense": "UVA"
   },
   "18": {
-    "defense": "NYU",
+    "period": "FLOOR",
+    "secondary": [],
     "length": -1,
     "primary": [
       "UVA-UNK"
     ],
-    "secondary": [],
-    "offense": "UVA",
+    "time": "",
     "extras": [],
-    "period": "FLOOR",
+    "offense": "UVA",
     "result": "E",
-    "time": ""
+    "defense": "NYU"
   },
   "19": {
-    "defense": "UVA",
+    "period": "FLOOR",
+    "secondary": [],
     "length": -1,
     "primary": [
       "NYU-FRANK MINSON"
     ],
-    "secondary": [],
-    "offense": "NYU",
+    "time": "",
     "extras": [],
-    "period": "FLOOR",
+    "offense": "NYU",
     "result": "GS",
-    "time": ""
+    "defense": "UVA"
   },
   "20": {
-    "defense": "NYU",
+    "period": "FLOOR",
+    "secondary": [],
     "length": -1,
     "primary": [
       "UVA-GATES YOUNG"
     ],
-    "secondary": [],
-    "offense": "UVA",
+    "time": "",
     "extras": [],
-    "period": "FLOOR",
+    "offense": "UVA",
     "result": "GS",
-    "time": ""
+    "defense": "NYU"
   },
   "21": {
-    "defense": "UVA",
+    "period": "FLOOR",
+    "secondary": [
+      "NYU-LANDON GARFINKEL"
+    ],
     "length": -1,
     "primary": [
       "NYU-NATHAN REY"
     ],
-    "secondary": [
-      "NYU-LANDON GARFINKEL"
-    ],
-    "offense": "NYU",
+    "time": "",
     "extras": [],
-    "period": "FLOOR",
+    "offense": "NYU",
     "result": "GP",
-    "time": ""
+    "defense": "UVA"
   },
   "22": {
-    "defense": "NYU",
+    "period": "FLOOR",
+    "secondary": [
+      "UVA-UNK"
+    ],
     "length": -1,
     "primary": [
       "NYU-ANTOINE GIRON"
     ],
-    "secondary": [
-      "UVA-UNK"
-    ],
-    "offense": "UVA",
+    "time": "",
     "extras": [],
-    "period": "FLOOR",
+    "offense": "UVA",
     "result": "TB",
-    "time": ""
+    "defense": "NYU"
   },
   "23": {
-    "defense": "UVA",
+    "period": "FLOOR",
+    "secondary": [],
     "length": -1,
     "primary": [
       "NYU-LANDON GARFINKEL"
     ],
-    "secondary": [],
-    "offense": "NYU",
+    "time": "",
     "extras": [
       [
         "Y",
         "UVA-47"
       ]
     ],
-    "period": "FLOOR",
+    "offense": "NYU",
     "result": "GD",
-    "time": ""
+    "defense": "UVA"
   },
   "24": {
-    "defense": "NYU",
-    "length": -1,
-    "primary": [
-      "NYU-LANDON GARFINKEL"
-    ],
+    "period": "FLOOR",
     "secondary": [
       "UVA-BEN PHILLIPS"
     ],
-    "offense": "UVA",
-    "extras": [],
-    "period": "FLOOR",
-    "result": "TL",
-    "time": ""
-  },
-  "25": {
-    "defense": "UVA",
     "length": -1,
     "primary": [
       "NYU-LANDON GARFINKEL"
     ],
-    "secondary": [],
-    "offense": "NYU",
+    "time": "",
     "extras": [],
+    "offense": "UVA",
+    "result": "TL",
+    "defense": "NYU"
+  },
+  "25": {
     "period": "FLOOR",
+    "secondary": [],
+    "length": -1,
+    "primary": [
+      "NYU-LANDON GARFINKEL"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "NYU",
     "result": "EM",
-    "time": ""
+    "defense": "UVA"
   },
   "26": {
-    "defense": "NYU",
+    "period": "FLOOR",
+    "secondary": [
+      "UVA-UNK"
+    ],
     "length": -1,
     "primary": [
       "NYU-JANICE LU"
     ],
-    "secondary": [
-      "UVA-UNK"
-    ],
-    "offense": "UVA",
+    "time": "",
     "extras": [],
-    "period": "FLOOR",
+    "offense": "UVA",
     "result": "TB",
-    "time": ""
+    "defense": "NYU"
   },
   "27": {
-    "defense": "UVA",
+    "period": "FLOOR",
+    "secondary": [
+      "NYU-LANDON GARFINKEL"
+    ],
     "length": -1,
     "primary": [
       "UVA-BEN PHILLIPS"
     ],
-    "secondary": [
-      "NYU-LANDON GARFINKEL"
-    ],
-    "offense": "NYU",
+    "time": "",
     "extras": [],
-    "period": "FLOOR",
+    "offense": "NYU",
     "result": "TL",
-    "time": ""
+    "defense": "UVA"
   },
   "28": {
-    "defense": "NYU",
+    "period": "FLOOR",
+    "secondary": [
+      "UVA-47"
+    ],
     "length": -1,
     "primary": [
       "NYU-ELLE DESIR"
     ],
-    "secondary": [
-      "UVA-47"
-    ],
-    "offense": "UVA",
+    "time": "",
     "extras": [],
-    "period": "FLOOR",
+    "offense": "UVA",
     "result": "TB",
-    "time": ""
+    "defense": "NYU"
   },
   "29": {
-    "defense": "UVA",
+    "period": "FLOOR",
+    "secondary": [
+      "NYU-LANDON GARFINKEL"
+    ],
     "length": -1,
     "primary": [
       "NYU-FRANK MINSON"
     ],
-    "secondary": [
-      "NYU-LANDON GARFINKEL"
-    ],
-    "offense": "NYU",
+    "time": "",
     "extras": [],
-    "period": "FLOOR",
+    "offense": "NYU",
     "result": "GD",
-    "time": ""
+    "defense": "UVA"
   },
   "30": {
-    "defense": "NYU",
-    "length": -1,
-    "primary": [
-      "NYU-AIDAN CLAFFEY"
-    ],
+    "period": "FLOOR",
     "secondary": [
       "UVA-UNK",
       "UVA-UNK"
     ],
-    "offense": "UVA",
+    "length": -1,
+    "primary": [
+      "NYU-AIDAN CLAFFEY"
+    ],
+    "time": "",
     "extras": [],
-    "period": "FLOOR",
+    "offense": "UVA",
     "result": "TD",
-    "time": ""
+    "defense": "NYU"
   },
   "31": {
-    "defense": "UVA",
+    "period": "FLOOR",
+    "secondary": [
+      "NYU-LANDON GARFINKEL"
+    ],
     "length": -1,
     "primary": [
       "UVA-UNK"
     ],
-    "secondary": [
-      "NYU-LANDON GARFINKEL"
-    ],
-    "offense": "NYU",
+    "time": "",
     "extras": [],
-    "period": "FLOOR",
+    "offense": "NYU",
     "result": "TL",
-    "time": ""
+    "defense": "UVA"
   },
   "32": {
-    "defense": "NYU",
+    "period": "FLOOR",
+    "secondary": [
+      "UVA-UNK"
+    ],
     "length": -1,
     "primary": [
       "NYU-ANTOINE GIRON"
     ],
-    "secondary": [
-      "UVA-UNK"
-    ],
-    "offense": "UVA",
+    "time": "",
     "extras": [],
-    "period": "FLOOR",
+    "offense": "UVA",
     "result": "TB",
-    "time": ""
+    "defense": "NYU"
   },
   "33": {
-    "defense": "UVA",
+    "period": "FLOOR",
+    "secondary": [],
     "length": -1,
     "primary": [
       "NYU-LANDON GARFINKEL"
     ],
-    "secondary": [],
-    "offense": "NYU",
+    "time": "",
     "extras": [],
-    "period": "FLOOR",
+    "offense": "NYU",
     "result": "EM",
-    "time": ""
+    "defense": "UVA"
   },
   "34": {
-    "defense": "NYU",
+    "period": "FLOOR",
+    "secondary": [],
     "length": -1,
     "primary": [
       "UVA-DAVID LITTLETON"
     ],
-    "secondary": [],
-    "offense": "UVA",
+    "time": "",
     "extras": [
       [
         "Y",
         "NYU-DESMOND"
       ]
     ],
-    "period": "FLOOR",
+    "offense": "UVA",
     "result": "GS",
-    "time": ""
+    "defense": "NYU"
   },
   "35": {
-    "defense": "UVA",
+    "period": "FLOOR",
+    "secondary": [],
     "length": -1,
     "primary": [
       "NYU-UNK"
     ],
-    "secondary": [],
-    "offense": "NYU",
+    "time": "",
     "extras": [],
-    "period": "FLOOR",
+    "offense": "NYU",
     "result": "E",
-    "time": ""
+    "defense": "UVA"
   },
   "36": {
-    "defense": "NYU",
-    "length": -1,
-    "primary": [
-      "UVA-GATES YOUNG"
-    ],
+    "period": "FLOOR",
     "secondary": [
       "UVA-DAVID LITTLETON"
     ],
-    "offense": "UVA",
-    "extras": [],
-    "period": "FLOOR",
-    "result": "GS",
-    "time": ""
-  },
-  "37": {
-    "defense": "UVA",
     "length": -1,
     "primary": [
       "UVA-GATES YOUNG"
     ],
+    "time": "",
+    "extras": [],
+    "offense": "UVA",
+    "result": "GS",
+    "defense": "NYU"
+  },
+  "37": {
+    "period": "FLOOR",
     "secondary": [
       "NYU-13"
     ],
-    "offense": "NYU",
+    "length": -1,
+    "primary": [
+      "UVA-GATES YOUNG"
+    ],
+    "time": "",
     "extras": [],
-    "period": "FLOOR",
+    "offense": "NYU",
     "result": "TL",
-    "time": ""
+    "defense": "UVA"
   },
   "38": {
-    "defense": "NYU",
+    "period": "FLOOR",
+    "secondary": [],
     "length": -1,
     "primary": [
       "UVA-UNK"
     ],
-    "secondary": [],
-    "offense": "UVA",
+    "time": "",
     "extras": [],
-    "period": "FLOOR",
+    "offense": "UVA",
     "result": "G",
-    "time": ""
+    "defense": "NYU"
   },
   "39": {
-    "defense": "UVA",
+    "period": "FLOOR",
+    "secondary": [],
     "length": -1,
     "primary": [
       "NYU-LANDON GARFINKEL"
     ],
-    "secondary": [],
-    "offense": "NYU",
+    "time": "",
     "extras": [],
-    "period": "FLOOR",
+    "offense": "NYU",
     "result": "GS",
-    "time": ""
+    "defense": "UVA"
   },
   "40": {
-    "defense": "NYU",
+    "period": "FLOOR",
+    "secondary": [
+      "UVA-GATES YOUNG"
+    ],
     "length": -1,
     "primary": [
       "NYU-JEFF EBNER"
     ],
-    "secondary": [
-      "UVA-GATES YOUNG"
-    ],
-    "offense": "UVA",
+    "time": "",
     "extras": [],
-    "period": "FLOOR",
+    "offense": "UVA",
     "result": "TB",
-    "time": ""
+    "defense": "NYU"
   },
   "41": {
-    "defense": "UVA",
+    "period": "FLOOR",
+    "secondary": [],
     "length": -1,
     "primary": [
       "NYU-FRANK MINSON"
     ],
-    "secondary": [],
-    "offense": "NYU",
+    "time": "",
     "extras": [],
-    "period": "FLOOR",
+    "offense": "NYU",
     "result": "GS",
-    "time": ""
+    "defense": "UVA"
   },
   "42": {
-    "defense": "NYU",
+    "period": "FLOOR",
+    "secondary": [],
     "length": -1,
     "primary": [
       "NYU-UNK"
     ],
-    "secondary": [],
-    "offense": "UVA",
+    "time": "",
     "extras": [],
-    "period": "FLOOR",
+    "offense": "UVA",
     "result": "RCA",
-    "time": ""
+    "defense": "NYU"
   }
 }
