@@ -32,7 +32,8 @@ TRANSLATION = {
     'Y': 'yellow card on {0}',
     '2Y': 'second yellow card on {0}, {0} is ejected from the game',
     '1R': 'red card on {0},{0} is ejected from the game',
-    'SOP':'SNITCH ON PITCH begins'
+    'SOP':'SNITCH ON PITCH begins',
+    'TIMEOUT':'TIMEOUT by {0}'
     },
     2:{
     'BU':'BROOMS UP! Quaffle Possession by {0}, Bludger Control by {1}',
@@ -159,6 +160,10 @@ def process_extra(ex, roster,teams,offense,defense):
         return ('R',get_name(roster,teams,eplayer,defense))
     elif etype =='B' or etype =='Y' or etype=='1R' or etype=='2Y':
         return (etype,get_name(roster,teams,eplayer))
+    elif etype =='T':
+        return ('TIMEOUT',teams[eplayer[0]])
+    else:
+        print(ex)
     return None
 def interpret(pos,roster,teams):
     ex,team,time,result,primary,secondary = pos

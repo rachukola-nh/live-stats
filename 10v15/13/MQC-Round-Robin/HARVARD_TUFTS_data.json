@@ -1,568 +1,578 @@
 {
   "0": {
+    "defense": "",
+    "offense": "Brooms Up",
+    "period": "FLOOR",
     "primary": [
       "TUFTS-JOHN PARRISH"
-    ],
-    "secondary": [
-      "HARVARD-RYAN CHESTER"
     ],
     "time": "0000",
     "length": -1,
-    "extras": [],
-    "offense": "Brooms Up",
     "result": "BU",
-    "defense": "",
-    "period": "FLOOR"
+    "extras": [],
+    "secondary": [
+      "HARVARD-RYAN CHESTER"
+    ]
   },
   "1": {
+    "defense": "HARVARD",
+    "offense": "TUFTS",
     "period": "FLOOR",
-    "secondary": [
-      "TUFTS-JAKE ZASLAV"
-    ],
-    "length": -1,
     "primary": [
       "HARVARD-MICHAEL CHENEVEY"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "TUFTS",
+    "time": "0013",
+    "length": 13,
     "result": "TB",
-    "defense": "HARVARD"
-  },
-  "2": {
-    "period": "FLOOR",
-    "secondary": [
-      "HARVARD-JAMES DEVANEY"
-    ],
-    "length": -1,
-    "primary": [
-      "TUFTS-HENRY BAER-BENSON"
-    ],
-    "time": "",
     "extras": [],
-    "offense": "HARVARD",
-    "result": "TC",
-    "defense": "TUFTS"
-  },
-  "3": {
-    "period": "FLOOR",
-    "secondary": [
-      "TUFTS-UNK"
-    ],
-    "length": -1,
-    "primary": [
-      "TUFTS-HENRY BAER-BENSON"
-    ],
-    "time": "",
-    "extras": [],
-    "offense": "TUFTS",
-    "result": "EP",
-    "defense": "HARVARD"
-  },
-  "4": {
-    "period": "FLOOR",
-    "secondary": [
-      "HARVARD-LEO FRIED"
-    ],
-    "length": -1,
-    "primary": [
-      "HARVARD-ANALUIZA NICOLAE"
-    ],
-    "time": "",
-    "extras": [],
-    "offense": "HARVARD",
-    "result": "ED",
-    "defense": "TUFTS"
-  },
-  "5": {
-    "period": "FLOOR",
     "secondary": [
       "TUFTS-JAKE ZASLAV"
-    ],
-    "length": -1,
+    ]
+  },
+  "2": {
+    "defense": "TUFTS",
+    "offense": "HARVARD",
+    "period": "FLOOR",
     "primary": [
       "TUFTS-HENRY BAER-BENSON"
     ],
-    "time": "",
+    "time": "0026",
+    "length": 13,
+    "result": "TC",
     "extras": [],
-    "offense": "TUFTS",
-    "result": "GS",
-    "defense": "HARVARD"
-  },
-  "6": {
-    "period": "FLOOR",
-    "secondary": [],
-    "length": -1,
-    "primary": [
-      "HARVARD-JAMES DEVANEY"
-    ],
-    "time": "",
-    "extras": [],
-    "offense": "HARVARD",
-    "result": "GD",
-    "defense": "TUFTS"
-  },
-  "7": {
-    "period": "FLOOR",
-    "secondary": [],
-    "length": -1,
-    "primary": [
-      "TUFTS-JOHN PARRISH"
-    ],
-    "time": "",
-    "extras": [],
-    "offense": "TUFTS",
-    "result": "EM",
-    "defense": "HARVARD"
-  },
-  "8": {
-    "period": "FLOOR",
-    "secondary": [],
-    "length": -1,
-    "primary": [
-      "HARVARD-JAMES DEVANEY"
-    ],
-    "time": "",
-    "extras": [],
-    "offense": "HARVARD",
-    "result": "GD",
-    "defense": "TUFTS"
-  },
-  "9": {
-    "period": "FLOOR",
     "secondary": [
-      "TUFTS-JOHN PARRISH"
-    ],
-    "length": -1,
-    "primary": [
-      "HARVARD-FRANKIE MATOS"
-    ],
-    "time": "",
-    "extras": [],
-    "offense": "TUFTS",
-    "result": "TL",
-    "defense": "HARVARD"
+      "HARVARD-JAMES DEVANEY"
+    ]
   },
-  "10": {
+  "3": {
+    "defense": "HARVARD",
+    "offense": "TUFTS",
     "period": "FLOOR",
+    "primary": [
+      "TUFTS-HENRY BAER-BENSON"
+    ],
+    "time": "0058",
+    "length": 32,
+    "result": "EP",
+    "extras": [],
     "secondary": [
+      "TUFTS-UNK"
+    ]
+  },
+  "4": {
+    "defense": "TUFTS",
+    "offense": "HARVARD",
+    "period": "FLOOR",
+    "primary": [
       "HARVARD-ANALUIZA NICOLAE"
     ],
-    "length": -1,
+    "time": "0108",
+    "length": 50,
+    "result": "ED",
+    "extras": [],
+    "secondary": [
+      "HARVARD-LEO FRIED"
+    ]
+  },
+  "5": {
+    "defense": "HARVARD",
+    "offense": "TUFTS",
+    "period": "FLOOR",
+    "primary": [
+      "TUFTS-HENRY BAER-BENSON"
+    ],
+    "time": "0137",
+    "length": 29,
+    "result": "GS",
+    "extras": [],
+    "secondary": [
+      "TUFTS-JAKE ZASLAV"
+    ]
+  },
+  "6": {
+    "defense": "TUFTS",
+    "offense": "HARVARD",
+    "period": "FLOOR",
+    "primary": [
+      "HARVARD-JAMES DEVANEY"
+    ],
+    "time": "0227",
+    "length": 90,
+    "result": "GD",
+    "extras": [],
+    "secondary": []
+  },
+  "7": {
+    "defense": "HARVARD",
+    "offense": "TUFTS",
+    "period": "FLOOR",
+    "primary": [
+      "TUFTS-JOHN PARRISH"
+    ],
+    "time": "0257",
+    "length": 30,
+    "result": "EM",
+    "extras": [],
+    "secondary": []
+  },
+  "8": {
+    "defense": "TUFTS",
+    "offense": "HARVARD",
+    "period": "FLOOR",
+    "primary": [
+      "HARVARD-JAMES DEVANEY"
+    ],
+    "time": "0305",
+    "length": 48,
+    "result": "GD",
+    "extras": [],
+    "secondary": []
+  },
+  "9": {
+    "defense": "HARVARD",
+    "offense": "TUFTS",
+    "period": "FLOOR",
     "primary": [
       "HARVARD-FRANKIE MATOS"
     ],
-    "time": "",
+    "time": "0349",
+    "length": 44,
+    "result": "TL",
     "extras": [],
+    "secondary": [
+      "TUFTS-JOHN PARRISH"
+    ]
+  },
+  "10": {
+    "defense": "TUFTS",
     "offense": "HARVARD",
+    "period": "FLOOR",
+    "primary": [
+      "HARVARD-FRANKIE MATOS"
+    ],
+    "time": "0441",
+    "length": 92,
     "result": "EP",
-    "defense": "TUFTS"
+    "extras": [],
+    "secondary": [
+      "HARVARD-ANALUIZA NICOLAE"
+    ]
   },
   "11": {
+    "defense": "HARVARD",
+    "offense": "TUFTS",
     "period": "FLOOR",
-    "secondary": [
-      "TUFTS-HENRY BAER-BENSON"
-    ],
-    "length": -1,
     "primary": [
       "TUFTS-DONOVAN BRADY"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "TUFTS",
+    "time": "0517",
+    "length": 76,
     "result": "GS",
-    "defense": "HARVARD"
+    "extras": [],
+    "secondary": [
+      "TUFTS-HENRY BAER-BENSON"
+    ]
   },
   "12": {
+    "defense": "TUFTS",
+    "offense": "HARVARD",
     "period": "FLOOR",
-    "secondary": [
-      "HARVARD-LEO FRIED"
-    ],
-    "length": -1,
     "primary": [
       "HARVARD-ANALUIZA NICOLAE"
     ],
-    "time": "",
+    "time": "0620",
+    "length": 103,
+    "result": "EP",
     "extras": [
       [
         "R",
         "TUFTS-EMMA WOLFE"
       ]
     ],
-    "offense": "HARVARD",
-    "result": "EP",
-    "defense": "TUFTS"
+    "secondary": [
+      "HARVARD-LEO FRIED"
+    ]
   },
   "13": {
+    "defense": "HARVARD",
+    "offense": "TUFTS",
     "period": "FLOOR",
+    "primary": [
+      "HARVARD-FRANKIE MATOS"
+    ],
+    "time": "0650",
+    "length": 30,
+    "result": "TD",
+    "extras": [],
     "secondary": [
       "TUFTS-ATHENA MAYOR",
       "TUFTS-HENRY BAER-BENSON"
-    ],
-    "length": -1,
-    "primary": [
-      "HARVARD-FRANKIE MATOS"
-    ],
-    "time": "",
-    "extras": [],
-    "offense": "TUFTS",
-    "result": "TD",
-    "defense": "HARVARD"
+    ]
   },
   "14": {
+    "defense": "TUFTS",
+    "offense": "HARVARD",
     "period": "FLOOR",
-    "secondary": [],
-    "length": -1,
     "primary": [
       "HARVARD-FRANKIE MATOS"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "HARVARD",
+    "time": "0659",
+    "length": 9,
     "result": "EM",
-    "defense": "TUFTS"
+    "extras": [],
+    "secondary": []
   },
   "15": {
+    "defense": "HARVARD",
+    "offense": "TUFTS",
     "period": "FLOOR",
-    "secondary": [
-      "TUFTS-DONOVAN BRADY"
-    ],
-    "length": -1,
     "primary": [
       "HARVARD-FRANKIE MATOS"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "TUFTS",
+    "time": "0814",
+    "length": 155,
     "result": "TL",
-    "defense": "HARVARD"
+    "extras": [],
+    "secondary": [
+      "TUFTS-DONOVAN BRADY"
+    ]
   },
   "16": {
+    "defense": "TUFTS",
+    "offense": "HARVARD",
     "period": "FLOOR",
-    "secondary": [
-      "HARVARD-JAMES DEVANEY"
-    ],
-    "length": -1,
     "primary": [
       "TUFTS-DONOVAN BRADY"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "HARVARD",
+    "time": "0835",
+    "length": 21,
     "result": "TC",
-    "defense": "TUFTS"
+    "extras": [],
+    "secondary": [
+      "HARVARD-JAMES DEVANEY"
+    ]
   },
   "17": {
+    "defense": "HARVARD",
+    "offense": "TUFTS",
     "period": "FLOOR",
+    "primary": [
+      "HARVARD-LEO FRIED"
+    ],
+    "time": "0908",
+    "length": 73,
+    "result": "TD",
+    "extras": [],
     "secondary": [
       "TUFTS-SOPHIE COBURN",
       "TUFTS-JOHN PARRISH"
-    ],
-    "length": -1,
-    "primary": [
-      "HARVARD-LEO FRIED"
-    ],
-    "time": "",
-    "extras": [],
-    "offense": "TUFTS",
-    "result": "TD",
-    "defense": "HARVARD"
+    ]
   },
   "18": {
+    "defense": "TUFTS",
+    "offense": "HARVARD",
     "period": "FLOOR",
-    "secondary": [
-      "HARVARD-RYAN CHESTER",
-      "HARVARD-ANALUIZA NICOLAE"
-    ],
-    "length": -1,
     "primary": [
       "TUFTS-HENRY BAER-BENSON"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "HARVARD",
+    "time": "0950",
+    "length": 42,
     "result": "TD",
-    "defense": "TUFTS"
+    "extras": [],
+    "secondary": [
+      "HARVARD-RYAN CHESTER",
+      "HARVARD-ANALUIZA NICOLAE"
+    ]
   },
   "19": {
+    "defense": "HARVARD",
+    "offense": "TUFTS",
     "period": "FLOOR",
-    "secondary": [
-      "TUFTS-JOHN PARRISH"
-    ],
-    "length": -1,
     "primary": [
       "HARVARD-DANIEL GOTTESMAN"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "TUFTS",
+    "time": "0958",
+    "length": 8,
     "result": "TB",
-    "defense": "HARVARD"
+    "extras": [],
+    "secondary": [
+      "TUFTS-JOHN PARRISH"
+    ]
   },
   "20": {
+    "defense": "TUFTS",
+    "offense": "HARVARD",
     "period": "FLOOR",
-    "secondary": [
-      "HARVARD-FELIX BULWA"
-    ],
-    "length": -1,
     "primary": [
       "TUFTS-JOHN PARRISH"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "HARVARD",
+    "time": "1050",
+    "length": 92,
     "result": "TC",
-    "defense": "TUFTS"
+    "extras": [],
+    "secondary": [
+      "HARVARD-FELIX BULWA"
+    ]
   },
   "21": {
+    "defense": "HARVARD",
+    "offense": "TUFTS",
     "period": "FLOOR",
-    "secondary": [
-      "TUFTS-JOHN PARRISH"
-    ],
-    "length": -1,
     "primary": [
       "HARVARD-RYAN CHESTER"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "TUFTS",
+    "time": "1118",
+    "length": 68,
     "result": "TL",
-    "defense": "HARVARD"
+    "extras": [],
+    "secondary": [
+      "TUFTS-JOHN PARRISH"
+    ]
   },
   "22": {
+    "defense": "TUFTS",
+    "offense": "HARVARD",
     "period": "FLOOR",
-    "secondary": [
-      "HARVARD-LEO FRIED"
-    ],
-    "length": -1,
     "primary": [
       "TUFTS-BROOKE SMILEY"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "HARVARD",
+    "time": "1214",
+    "length": 96,
     "result": "TB",
-    "defense": "TUFTS"
+    "extras": [],
+    "secondary": [
+      "HARVARD-LEO FRIED"
+    ]
   },
   "23": {
+    "defense": "HARVARD",
+    "offense": "TUFTS",
     "period": "FLOOR",
-    "secondary": [],
-    "length": -1,
     "primary": [
       "TUFTS-JOHN PARRISH"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "TUFTS",
+    "time": "1224",
+    "length": 10,
     "result": "EM",
-    "defense": "HARVARD"
+    "extras": [],
+    "secondary": []
   },
   "24": {
+    "defense": "TUFTS",
+    "offense": "HARVARD",
     "period": "FLOOR",
-    "secondary": [],
-    "length": -1,
     "primary": [
       "HARVARD-FELIX BULWA"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "HARVARD",
+    "time": "1253",
+    "length": 29,
     "result": "EM",
-    "defense": "TUFTS"
+    "extras": [
+      [
+        "TIMEOUT",
+        "HARVARD"
+      ]
+    ],
+    "secondary": []
   },
   "25": {
+    "defense": "HARVARD",
+    "offense": "TUFTS",
     "period": "FLOOR",
-    "secondary": [
-      "TUFTS-JOHN PARRISH"
-    ],
-    "length": -1,
     "primary": [
       "TUFTS-JACOB BRENNER"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "TUFTS",
+    "time": "1321",
+    "length": 68,
     "result": "GP",
-    "defense": "HARVARD"
+    "extras": [],
+    "secondary": [
+      "TUFTS-JOHN PARRISH"
+    ]
   },
   "26": {
+    "defense": "TUFTS",
+    "offense": "HARVARD",
     "period": "FLOOR",
+    "primary": [
+      "HARVARD-RYAN CHESTER"
+    ],
+    "time": "1330",
+    "length": 9,
+    "result": "GD",
+    "extras": [],
     "secondary": [
       "HARVARD-FELIX BULWA"
-    ],
-    "length": -1,
-    "primary": [
-      "HARVARD-RYAN CHESTER"
-    ],
-    "time": "",
-    "extras": [],
-    "offense": "HARVARD",
-    "result": "GD",
-    "defense": "TUFTS"
+    ]
   },
   "27": {
+    "defense": "HARVARD",
+    "offense": "TUFTS",
     "period": "FLOOR",
-    "secondary": [
-      "TUFTS-JORDAN SMILEY"
-    ],
-    "length": -1,
     "primary": [
       "HARVARD-FRANKIE MATOS"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "TUFTS",
+    "time": "1402",
+    "length": 72,
     "result": "TC",
-    "defense": "HARVARD"
+    "extras": [],
+    "secondary": [
+      "TUFTS-JORDAN SMILEY"
+    ]
   },
   "28": {
+    "defense": "TUFTS",
+    "offense": "HARVARD",
     "period": "FLOOR",
-    "secondary": [],
-    "length": -1,
     "primary": [
       "HARVARD-FRANKIE MATOS"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "HARVARD",
+    "time": "1420",
+    "length": 18,
     "result": "GD",
-    "defense": "TUFTS"
+    "extras": [],
+    "secondary": []
   },
   "29": {
+    "defense": "HARVARD",
+    "offense": "TUFTS",
     "period": "FLOOR",
-    "secondary": [
-      "TUFTS-DONOVAN BRADY"
-    ],
-    "length": -1,
     "primary": [
       "TUFTS-JORDAN SMILEY"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "TUFTS",
+    "time": "1450",
+    "length": 30,
     "result": "ED",
-    "defense": "HARVARD"
+    "extras": [],
+    "secondary": [
+      "TUFTS-DONOVAN BRADY"
+    ]
   },
   "30": {
+    "defense": "TUFTS",
+    "offense": "HARVARD",
     "period": "FLOOR",
-    "secondary": [
-      "HARVARD-RYAN CHESTER"
-    ],
-    "length": -1,
     "primary": [
       "HARVARD-FRANKIE MATOS"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "HARVARD",
+    "time": "1508",
+    "length": 58,
     "result": "GP",
-    "defense": "TUFTS"
+    "extras": [],
+    "secondary": [
+      "HARVARD-RYAN CHESTER"
+    ]
   },
   "31": {
+    "defense": "HARVARD",
+    "offense": "TUFTS",
     "period": "FLOOR",
-    "secondary": [],
-    "length": -1,
     "primary": [
       "TUFTS-JOHN PARRISH"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "TUFTS",
+    "time": "1609",
+    "length": 101,
     "result": "EM",
-    "defense": "HARVARD"
+    "extras": [
+      [
+        "TIMEOUT",
+        "TUFTS"
+      ]
+    ],
+    "secondary": []
   },
   "32": {
+    "defense": "TUFTS",
+    "offense": "HARVARD",
     "period": "FLOOR",
-    "secondary": [
-      "HARVARD-RYAN CHESTER"
-    ],
-    "length": -1,
     "primary": [
       "HARVARD-FELIX BULWA"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "HARVARD",
+    "time": "1624",
+    "length": 15,
     "result": "GP",
-    "defense": "TUFTS"
+    "extras": [],
+    "secondary": [
+      "HARVARD-RYAN CHESTER"
+    ]
   },
   "33": {
+    "defense": "HARVARD",
+    "offense": "TUFTS",
     "period": "FLOOR",
+    "primary": [
+      "HARVARD-FRANKIE MATOS"
+    ],
+    "time": "1715",
+    "length": 91,
+    "result": "TD",
+    "extras": [],
     "secondary": [
       "TUFTS-ATHENA MAYOR",
       "TUFTS-77"
-    ],
-    "length": -1,
-    "primary": [
-      "HARVARD-FRANKIE MATOS"
-    ],
-    "time": "",
-    "extras": [],
-    "offense": "TUFTS",
-    "result": "TD",
-    "defense": "HARVARD"
+    ]
   },
   "34": {
+    "defense": "TUFTS",
+    "offense": "HARVARD",
     "period": "FLOOR",
+    "primary": [
+      "HARVARD-FRANKIE MATOS"
+    ],
+    "time": "1739",
+    "length": 24,
+    "result": "GP",
+    "extras": [],
     "secondary": [
       "HARVARD-FELIX BULWA"
-    ],
-    "length": -1,
-    "primary": [
-      "HARVARD-FRANKIE MATOS"
-    ],
-    "time": "",
-    "extras": [],
-    "offense": "HARVARD",
-    "result": "GP",
-    "defense": "TUFTS"
+    ]
   },
   "35": {
+    "defense": "HARVARD",
+    "offense": "TUFTS",
     "period": "SOP",
-    "secondary": [
-      "TUFTS-77"
-    ],
-    "length": -1,
     "primary": [
       "HARVARD-FRANKIE MATOS"
     ],
-    "time": "",
+    "time": "1847",
+    "length": 108,
+    "result": "TC",
     "extras": [
       [
         "SOP",
         1
       ]
     ],
-    "offense": "TUFTS",
-    "result": "TC",
-    "defense": "HARVARD"
+    "secondary": [
+      "TUFTS-77"
+    ]
   },
   "36": {
+    "defense": "TUFTS",
+    "offense": "HARVARD",
     "period": "SOP",
-    "secondary": [
-      "HARVARD-JAMES DEVANEY"
-    ],
-    "length": -1,
     "primary": [
       "TUFTS-EMMA WOLFE"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "HARVARD",
+    "time": "2008",
+    "length": 161,
     "result": "TB",
-    "defense": "TUFTS"
+    "extras": [],
+    "secondary": [
+      "HARVARD-JAMES DEVANEY"
+    ]
   },
   "37": {
+    "defense": "HARVARD",
+    "offense": "TUFTS",
     "period": "SOP",
-    "secondary": [],
-    "length": -1,
     "primary": [
       "HARVARD-LEO FRIED"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "TUFTS",
+    "time": "2015",
+    "length": -1,
     "result": "RCA",
-    "defense": "HARVARD"
+    "extras": [],
+    "secondary": []
   }
 }
