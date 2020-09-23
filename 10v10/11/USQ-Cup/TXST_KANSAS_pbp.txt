@@ -1,46 +1,46 @@
 (00:00)Brooms Up possession: BROOMS UP! Quaffle Possession by ['KANSAS-IAN MCCABE'], Bludger Control by ['KANSAS-JAKE SIMON']
-KANSAS possession: Goal on the drive by ['KANSAS-IAN MCCABE'].
-TXST possession: Shot by ['TXST-4'] blocked by ['KANSAS-RACHEL HEALD']. Turnover.
-KANSAS possession: Goal on the shot by ['KANSAS-IAN MCCABE'], assist by ['KANSAS-BEN ENGLES']
-TXST possession: Turnover penalty on ['TXST-4'].
-KANSAS possession: Beat by ['TXST-RYAN NAWROCKI'] on ['KANSAS-BEN ENGLES'] forces a TURNOVER.
-TXST possession: ['TXST-4'] passes to ['TXST-MELISSA KITE'] at the hoops, GOAL.
-KANSAS possession: Missed shot by ['KANSAS-RACHEL HEALD']. Turnover.
-TXST possession: Shot by ['TXST-JENNA BOLLWEG'] blocked by ['KANSAS-RACHEL HEALD']. Turnover.
-KANSAS possession: ['KANSAS-RACHEL HEALD'] passes to ['KANSAS-BRANDON TABOR'] at the hoops, GOAL.
-TXST possession: Beat by ['KANSAS-JAKE SIMON'] on ['TXST-BRANDON MACDOWRA'] forces a TURNOVER.
-KANSAS possession: Missed shot by ['KANSAS-BRANDON TABOR']. Turnover.
-TXST possession: Pass between ['TXST-STEPHEN VIGIL', 'TXST-JENNA BOLLWEG'] defended by ['KANSAS-RACHEL HEALD']. Turnover During the play, yellow card on KANSAS-KEVIN MCMORRIS
-KANSAS possession: Beat by ['TXST-KRIS DELAFUENTE'] on ['KANSAS-RACHEL HEALD'] forces a TURNOVER.
-TXST possession: Goal on the drive by ['TXST-BRANDON MACDOWRA'].
-KANSAS possession: Pass between ['KANSAS-OLIVIA FEDERICO', 'KANSAS-KEVIN MCMORRIS'] defended by ['TXST-4']. Turnover
-TXST possession: ['TXST-4'] passes to ['TXST-BRANDON MACDOWRA'] at the hoops, GOAL.
-KANSAS possession: Missed shot by ['KANSAS-RYAN DICKEY']. Turnover. During the play, yellow card on TXST-DONOVAN MITCHELL
-TXST possession: Yellow card on ['TXST-KRIS DELAFUENTE'] forces turnover.
-KANSAS possession: Goal on the drive by ['KANSAS-BRYAN WEARY'].
-TXST possession: Pass between ['TXST-BRANDON MACDOWRA', 'TXST-DONOVAN MITCHELL'] defended by ['KANSAS-BRYAN WEARY']. Turnover
-KANSAS possession: Goal on the drive by ['KANSAS-BRYAN WEARY'].
-TXST possession: Missed shot by ['TXST-6']. Turnover.
-KANSAS possession: Turnover forced by physical contact by ['TXST-DONOVAN MITCHELL'] on ['KANSAS-MIKE DEVINE']
-TXST possession: Pass between ['TXST-STEPHEN VIGIL', 'TXST-6'] defended by ['KANSAS-MATT DWYER']. Turnover
-KANSAS possession: Goal on the shot by ['KANSAS-MATT DWYER'].
-TXST possession: Goal on the drive by ['TXST-TIM NGUYEN'], assist by ['TXST-6']
-KANSAS possession: Beat by ['TXST-BAILEE FIELDS'] on ['KANSAS-MATT DWYER'] forces a TURNOVER.
-TXST possession: Goal on the drive by ['TXST-6'], assist by ['TXST-DONOVAN MITCHELL']
-KANSAS possession: ['KANSAS-MATT DWYER'] passes to ['KANSAS-BRANDON TABOR'] at the hoops, GOAL.
-TXST possession: Beat by ['KANSAS-RACHEL ENGLAND'] on ['TXST-6'] forces a TURNOVER.
-KANSAS possession: Goal on the drive by ['KANSAS-IAN MCCABE'].
-TXST possession: Goal on the drive by ['TXST-6']. During the play, yellow card on KANSAS-IAN MCCABE
-KANSAS possession: Beat by ['TXST-JESSICA MARKLE'] on ['KANSAS-BRANDON TABOR'] forces a TURNOVER.
-TXST possession: Goal on the drive by ['TXST-TIM NGUYEN'].
-KANSAS possession: Beat by ['TXST-KRIS DELAFUENTE'] on ['KANSAS-BRANDON TABOR'] forces a TURNOVER.
-TXST possession: ['TXST-DONOVAN MITCHELL'] passes to ['TXST-TIM NGUYEN'] at the hoops, GOAL.
-KANSAS possession: Shot by ['KANSAS-RACHEL HEALD'] blocked by ['TXST-6']. Turnover.
-TXST possession: Beat by ['KANSAS-JAKE SIMON'] on ['TXST-ERIC REYES'] forces a TURNOVER.
-KANSAS possession: ['KANSAS-RACHEL HEALD'] passes to ['KANSAS-BRANDON TABOR'] at the hoops, GOAL.
-TXST possession: Errant pass from ['TXST-DONOVAN MITCHELL'] to ['TXST-UNK']. Turnover
-KANSAS possession: Beat by ['TXST-KRIS DELAFUENTE'] on ['KANSAS-PARIS NICHOLS'] forces a TURNOVER.
-TXST possession: Goal on the drive by ['TXST-DONOVAN MITCHELL'].
-KANSAS possession: Goal on the drive by ['KANSAS-BEN ENGLES'].
-TXST possession: Goal on the drive by ['TXST-BRANDON MACDOWRA'].
-KANSAS possession: Snitch catch by ['TXST-STEVEN GRALINSKI'] is GOOD.
+(00:05)KANSAS possession: Goal on the drive by ['KANSAS-IAN MCCABE'].
+(00:32)TXST possession: Shot by ['TXST-MICHAEL GENTEMPO'] blocked by ['KANSAS-RACHEL HEALD']. Turnover.
+(00:58)KANSAS possession: Goal on the shot by ['KANSAS-IAN MCCABE'], assist by ['KANSAS-BEN ENGLES']
+(01:49)TXST possession: Turnover penalty on ['TXST-MICHAEL GENTEMPO'].
+(01:52)KANSAS possession: Beat by ['TXST-RYAN NAWROCKI'] on ['KANSAS-BEN ENGLES'] forces a TURNOVER.
+(02:07)TXST possession: ['TXST-MICHAEL GENTEMPO'] passes to ['TXST-MELISSA KITE'] at the hoops, GOAL.
+(02:31)KANSAS possession: Missed shot by ['KANSAS-RACHEL HEALD']. Turnover.
+(03:08)TXST possession: Shot by ['TXST-JENNA BOLLWEG'] blocked by ['KANSAS-RACHEL HEALD']. Turnover.
+(03:46)KANSAS possession: ['KANSAS-RACHEL HEALD'] passes to ['KANSAS-BRANDON TABOR'] at the hoops, GOAL.
+(04:16)TXST possession: Beat by ['KANSAS-JAKE SIMON'] on ['TXST-BRANDON MACDOWRA'] forces a TURNOVER.
+(04:31)KANSAS possession: Missed shot by ['KANSAS-BRANDON TABOR']. Turnover.
+(04:49)TXST possession: Pass between ['TXST-STEPHEN VIGIL', 'TXST-JENNA BOLLWEG'] defended by ['KANSAS-RACHEL HEALD']. Turnover During the play, yellow card on KANSAS-KEVIN MCMORRIS
+(05:12)KANSAS possession: Beat by ['TXST-KRIS DELAFUENTE'] on ['KANSAS-RACHEL HEALD'] forces a TURNOVER.
+(05:30)TXST possession: Goal on the drive by ['TXST-BRANDON MACDOWRA'].
+(05:56)KANSAS possession: Pass between ['KANSAS-OLIVIA FEDERICO', 'KANSAS-KEVIN MCMORRIS'] defended by ['TXST-MICHAEL GENTEMPO']. Turnover
+(06:08)TXST possession: ['TXST-MICHAEL GENTEMPO'] passes to ['TXST-BRANDON MACDOWRA'] at the hoops, GOAL.
+(06:52)KANSAS possession: Missed shot by ['KANSAS-RYAN DICKEY']. Turnover. During the play, yellow card on TXST-DONOVAN MITCHELL
+(07:11)TXST possession: Yellow card on ['TXST-KRIS DELAFUENTE'] forces turnover.
+(07:32)KANSAS possession: Goal on the drive by ['KANSAS-BRYAN WEARY'].
+(08:13)TXST possession: Pass between ['TXST-BRANDON MACDOWRA', 'TXST-DONOVAN MITCHELL'] defended by ['KANSAS-BRYAN WEARY']. Turnover
+(08:40)KANSAS possession: Goal on the drive by ['KANSAS-BRYAN WEARY'].
+(09:33)TXST possession: Missed shot by ['TXST-JACOB DOSTAL']. Turnover.
+(10:14)KANSAS possession: Turnover forced by physical contact by ['TXST-DONOVAN MITCHELL'] on ['KANSAS-MIKE DEVINE']
+(10:21)TXST possession: Pass between ['TXST-STEPHEN VIGIL', 'TXST-JACOB DOSTAL'] defended by ['KANSAS-MATT DWYER']. Turnover
+(10:26)KANSAS possession: Goal on the shot by ['KANSAS-MATT DWYER'].
+(11:14)TXST possession: Goal on the drive by ['TXST-TIM NGUYEN'], assist by ['TXST-JACOB DOSTAL']
+(11:36)KANSAS possession: Beat by ['TXST-BAILEE FIELDS'] on ['KANSAS-MATT DWYER'] forces a TURNOVER.
+(11:51)TXST possession: Goal on the drive by ['TXST-JACOB DOSTAL'], assist by ['TXST-DONOVAN MITCHELL']
+(12:41)KANSAS possession: ['KANSAS-MATT DWYER'] passes to ['KANSAS-BRANDON TABOR'] at the hoops, GOAL.
+(13:07)TXST possession: Beat by ['KANSAS-RACHEL ENGLAND'] on ['TXST-JACOB DOSTAL'] forces a TURNOVER.
+(13:12)KANSAS possession: Goal on the drive by ['KANSAS-IAN MCCABE'].
+(13:46)TXST possession: Goal on the drive by ['TXST-JACOB DOSTAL']. During the play, yellow card on KANSAS-IAN MCCABE
+(14:15)KANSAS possession: Beat by ['TXST-JESSICA MARKLE'] on ['KANSAS-BRANDON TABOR'] forces a TURNOVER.
+(14:23)TXST possession: Goal on the drive by ['TXST-TIM NGUYEN'].
+(14:58)KANSAS possession: Beat by ['TXST-KRIS DELAFUENTE'] on ['KANSAS-BRANDON TABOR'] forces a TURNOVER.
+(15:10)TXST possession: ['TXST-DONOVAN MITCHELL'] passes to ['TXST-TIM NGUYEN'] at the hoops, GOAL.
+(15:39)KANSAS possession: Shot by ['KANSAS-RACHEL HEALD'] blocked by ['TXST-JACOB DOSTAL']. Turnover.
+(16:05)TXST possession: Beat by ['KANSAS-JAKE SIMON'] on ['TXST-ERIC REYES'] forces a TURNOVER.
+(16:20)KANSAS possession: ['KANSAS-RACHEL HEALD'] passes to ['KANSAS-BRANDON TABOR'] at the hoops, GOAL.
+(16:55)TXST possession: Missed shot by ['TXST-DONOVAN MITCHELL']. Turnover.
+(17:32)KANSAS possession: Beat by ['TXST-KRIS DELAFUENTE'] on ['KANSAS-PARIS NICHOLS'] forces a TURNOVER.
+(17:43)TXST possession: Goal on the drive by ['TXST-DONOVAN MITCHELL'].
+(18:16)KANSAS possession: Goal on the drive by ['KANSAS-BEN ENGLES']. During the play, SNITCH ON PITCH begins
+(18:26)TXST possession: Goal on the drive by ['TXST-BRANDON MACDOWRA'].
+(18:34)KANSAS possession: Snitch catch by ['TXST-STEVEN GRALINSKI'] is GOOD.
