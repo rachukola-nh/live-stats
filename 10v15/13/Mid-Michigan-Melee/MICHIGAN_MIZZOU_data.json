@@ -1,0 +1,572 @@
+{
+  "0": {
+    "defense": "",
+    "extras": [],
+    "secondary": [
+      "MICHIGAN-8"
+    ],
+    "period": "FLOOR",
+    "offense": "Brooms Up",
+    "primary": [
+      "MIZZOU-34"
+    ],
+    "length": -1,
+    "result": "BU",
+    "time": "0000"
+  },
+  "1": {
+    "defense": "MICHIGAN",
+    "extras": [],
+    "secondary": [
+      "MIZZOU-DREW MATZES"
+    ],
+    "offense": "MIZZOU",
+    "primary": [
+      "MIZZOU-RUTHIE POLIO"
+    ],
+    "period": "FLOOR",
+    "result": "ED",
+    "time": "",
+    "length": -1
+  },
+  "2": {
+    "defense": "MIZZOU",
+    "extras": [],
+    "secondary": [],
+    "offense": "MICHIGAN",
+    "primary": [
+      "MICHIGAN-ANDREW STEPHENSON"
+    ],
+    "period": "FLOOR",
+    "result": "GS",
+    "time": "",
+    "length": -1
+  },
+  "3": {
+    "defense": "MICHIGAN",
+    "extras": [],
+    "secondary": [
+      "MIZZOU-34"
+    ],
+    "offense": "MIZZOU",
+    "primary": [
+      "MIZZOU-2"
+    ],
+    "period": "FLOOR",
+    "result": "GP",
+    "time": "",
+    "length": -1
+  },
+  "4": {
+    "defense": "MIZZOU",
+    "extras": [],
+    "secondary": [
+      "MICHIGAN-ANDREW STEPHENSON"
+    ],
+    "offense": "MICHIGAN",
+    "primary": [
+      "MIZZOU-BEN SCHLUETER"
+    ],
+    "period": "FLOOR",
+    "result": "TB",
+    "time": "",
+    "length": -1
+  },
+  "5": {
+    "defense": "MICHIGAN",
+    "extras": [],
+    "secondary": [],
+    "offense": "MIZZOU",
+    "primary": [
+      "MIZZOU-2"
+    ],
+    "period": "FLOOR",
+    "result": "GD",
+    "time": "",
+    "length": -1
+  },
+  "6": {
+    "defense": "MIZZOU",
+    "extras": [],
+    "secondary": [
+      "MICHIGAN-55"
+    ],
+    "offense": "MICHIGAN",
+    "primary": [
+      "MICHIGAN-ANDREW STEPHENSON"
+    ],
+    "period": "FLOOR",
+    "result": "EP",
+    "time": "",
+    "length": -1
+  },
+  "7": {
+    "defense": "MICHIGAN",
+    "extras": [],
+    "secondary": [],
+    "offense": "MIZZOU",
+    "primary": [
+      "MIZZOU-DREW MATZES"
+    ],
+    "period": "FLOOR",
+    "result": "EM",
+    "time": "",
+    "length": -1
+  },
+  "8": {
+    "defense": "MIZZOU",
+    "extras": [],
+    "secondary": [],
+    "offense": "MICHIGAN",
+    "primary": [
+      "MICHIGAN-ANDREW STEPHENSON"
+    ],
+    "period": "FLOOR",
+    "result": "EM",
+    "time": "",
+    "length": -1
+  },
+  "9": {
+    "defense": "MICHIGAN",
+    "extras": [],
+    "secondary": [
+      "MIZZOU-DREW MATZES"
+    ],
+    "offense": "MIZZOU",
+    "primary": [
+      "MIZZOU-2"
+    ],
+    "period": "FLOOR",
+    "result": "GP",
+    "time": "",
+    "length": -1
+  },
+  "10": {
+    "defense": "MIZZOU",
+    "extras": [],
+    "secondary": [
+      "MICHIGAN-UNK"
+    ],
+    "offense": "MICHIGAN",
+    "primary": [
+      "MICHIGAN-99"
+    ],
+    "period": "FLOOR",
+    "result": "EP",
+    "time": "",
+    "length": -1
+  },
+  "11": {
+    "defense": "MICHIGAN",
+    "extras": [],
+    "secondary": [
+      "MIZZOU-RUTHIE POLIO"
+    ],
+    "offense": "MIZZOU",
+    "primary": [
+      "MIZZOU-DREW MATZES"
+    ],
+    "period": "FLOOR",
+    "result": "EP",
+    "time": "",
+    "length": -1
+  },
+  "12": {
+    "defense": "MIZZOU",
+    "extras": [],
+    "secondary": [
+      "MICHIGAN-8"
+    ],
+    "offense": "MICHIGAN",
+    "primary": [
+      "MIZZOU-BEN SCHLUETER"
+    ],
+    "period": "FLOOR",
+    "result": "TB",
+    "time": "",
+    "length": -1
+  },
+  "13": {
+    "defense": "MICHIGAN",
+    "extras": [
+      [
+        "Y",
+        "MICHIGAN-99"
+      ]
+    ],
+    "secondary": [
+      "MIZZOU-34"
+    ],
+    "offense": "MIZZOU",
+    "primary": [
+      "MICHIGAN-59"
+    ],
+    "period": "FLOOR",
+    "result": "TB",
+    "time": "",
+    "length": -1
+  },
+  "14": {
+    "defense": "MIZZOU",
+    "extras": [],
+    "secondary": [
+      "MICHIGAN-55"
+    ],
+    "offense": "MICHIGAN",
+    "primary": [
+      "MICHIGAN-98"
+    ],
+    "period": "FLOOR",
+    "result": "ED",
+    "time": "",
+    "length": -1
+  },
+  "15": {
+    "defense": "MICHIGAN",
+    "extras": [],
+    "secondary": [
+      "MIZZOU-DREW MATZES"
+    ],
+    "offense": "MIZZOU",
+    "primary": [
+      "MIZZOU-2"
+    ],
+    "period": "FLOOR",
+    "result": "GD",
+    "time": "",
+    "length": -1
+  },
+  "16": {
+    "defense": "MIZZOU",
+    "extras": [],
+    "secondary": [],
+    "offense": "MICHIGAN",
+    "primary": [
+      "MICHIGAN-19"
+    ],
+    "period": "FLOOR",
+    "result": "GS",
+    "time": "",
+    "length": -1
+  },
+  "17": {
+    "defense": "MICHIGAN",
+    "extras": [],
+    "secondary": [
+      "MIZZOU-DREW MATZES"
+    ],
+    "offense": "MIZZOU",
+    "primary": [
+      "MIZZOU-34"
+    ],
+    "period": "FLOOR",
+    "result": "GP",
+    "time": "",
+    "length": -1
+  },
+  "18": {
+    "defense": "MIZZOU",
+    "extras": [],
+    "secondary": [
+      "MICHIGAN-99"
+    ],
+    "offense": "MICHIGAN",
+    "primary": [
+      "MIZZOU-2"
+    ],
+    "period": "FLOOR",
+    "result": "TC",
+    "time": "",
+    "length": -1
+  },
+  "19": {
+    "defense": "MICHIGAN",
+    "extras": [],
+    "secondary": [
+      "MIZZOU-2"
+    ],
+    "offense": "MIZZOU",
+    "primary": [
+      "MICHIGAN-19"
+    ],
+    "period": "FLOOR",
+    "result": "TC",
+    "time": "",
+    "length": -1
+  },
+  "20": {
+    "defense": "MIZZOU",
+    "extras": [],
+    "secondary": [],
+    "offense": "MICHIGAN",
+    "primary": [
+      "MICHIGAN-12"
+    ],
+    "period": "FLOOR",
+    "result": "GD",
+    "time": "",
+    "length": -1
+  },
+  "21": {
+    "defense": "MICHIGAN",
+    "extras": [],
+    "secondary": [
+      "MIZZOU-DREW MATZES"
+    ],
+    "offense": "MIZZOU",
+    "primary": [
+      "MIZZOU-2"
+    ],
+    "period": "FLOOR",
+    "result": "ED",
+    "time": "",
+    "length": -1
+  },
+  "22": {
+    "defense": "MIZZOU",
+    "extras": [],
+    "secondary": [
+      "MICHIGAN-12"
+    ],
+    "offense": "MICHIGAN",
+    "primary": [
+      "MIZZOU-DREW MATZES"
+    ],
+    "period": "FLOOR",
+    "result": "TC",
+    "time": "",
+    "length": -1
+  },
+  "23": {
+    "defense": "MICHIGAN",
+    "extras": [],
+    "secondary": [
+      "MIZZOU-10"
+    ],
+    "offense": "MIZZOU",
+    "primary": [
+      "MICHIGAN-5"
+    ],
+    "period": "FLOOR",
+    "result": "TB",
+    "time": "",
+    "length": -1
+  },
+  "24": {
+    "defense": "MIZZOU",
+    "extras": [],
+    "secondary": [
+      "MICHIGAN-98"
+    ],
+    "offense": "MICHIGAN",
+    "primary": [
+      "MICHIGAN-99"
+    ],
+    "period": "FLOOR",
+    "result": "GP",
+    "time": "",
+    "length": -1
+  },
+  "25": {
+    "defense": "MICHIGAN",
+    "extras": [],
+    "secondary": [
+      "MIZZOU-DREW MATZES"
+    ],
+    "offense": "MIZZOU",
+    "primary": [
+      "MICHIGAN-5"
+    ],
+    "period": "FLOOR",
+    "result": "TB",
+    "time": "",
+    "length": -1
+  },
+  "26": {
+    "defense": "MIZZOU",
+    "extras": [],
+    "secondary": [],
+    "offense": "MICHIGAN",
+    "primary": [
+      "MICHIGAN-99"
+    ],
+    "period": "FLOOR",
+    "result": "GD",
+    "time": "",
+    "length": -1
+  },
+  "27": {
+    "defense": "MICHIGAN",
+    "extras": [],
+    "secondary": [
+      "MIZZOU-DREW MATZES"
+    ],
+    "offense": "MIZZOU",
+    "primary": [
+      "MICHIGAN-66"
+    ],
+    "period": "FLOOR",
+    "result": "TB",
+    "time": "",
+    "length": -1
+  },
+  "28": {
+    "defense": "MIZZOU",
+    "extras": [],
+    "secondary": [
+      "MICHIGAN-98"
+    ],
+    "offense": "MICHIGAN",
+    "primary": [
+      "MICHIGAN-12"
+    ],
+    "period": "FLOOR",
+    "result": "EP",
+    "time": "",
+    "length": -1
+  },
+  "29": {
+    "defense": "MICHIGAN",
+    "extras": [],
+    "secondary": [
+      "MIZZOU-10"
+    ],
+    "offense": "MIZZOU",
+    "primary": [
+      "MICHIGAN-99"
+    ],
+    "period": "FLOOR",
+    "result": "TC",
+    "time": "",
+    "length": -1
+  },
+  "30": {
+    "defense": "MIZZOU",
+    "extras": [],
+    "secondary": [
+      "MICHIGAN-99"
+    ],
+    "offense": "MICHIGAN",
+    "primary": [
+      "MICHIGAN-84"
+    ],
+    "period": "FLOOR",
+    "result": "GP",
+    "time": "",
+    "length": -1
+  },
+  "31": {
+    "defense": "MICHIGAN",
+    "extras": [
+      [
+        "R",
+        "MICHIGAN-16"
+      ],
+      [
+        "Y",
+        "MICHIGAN-84"
+      ]
+    ],
+    "secondary": [],
+    "offense": "MIZZOU",
+    "primary": [
+      "MIZZOU-10"
+    ],
+    "period": "FLOOR",
+    "result": "GD",
+    "time": "",
+    "length": -1
+  },
+  "32": {
+    "defense": "MIZZOU",
+    "extras": [
+      [
+        "R",
+        "MIZZOU-BEN SCHLUETER"
+      ]
+    ],
+    "secondary": [],
+    "offense": "MICHIGAN",
+    "primary": [
+      "MICHIGAN-12"
+    ],
+    "period": "FLOOR",
+    "result": "EM",
+    "time": "",
+    "length": -1
+  },
+  "33": {
+    "defense": "MICHIGAN",
+    "extras": [],
+    "secondary": [],
+    "offense": "MIZZOU",
+    "primary": [
+      "MIZZOU-DREW MATZES"
+    ],
+    "period": "FLOOR",
+    "result": "GS",
+    "time": "",
+    "length": -1
+  },
+  "34": {
+    "defense": "MIZZOU",
+    "extras": [
+      [
+        "SOP",
+        1
+      ]
+    ],
+    "secondary": [
+      "MICHIGAN-12"
+    ],
+    "offense": "MICHIGAN",
+    "primary": [
+      "MICHIGAN-99"
+    ],
+    "period": "SOP",
+    "result": "ED",
+    "time": "",
+    "length": -1
+  },
+  "35": {
+    "defense": "MICHIGAN",
+    "extras": [],
+    "secondary": [
+      "MIZZOU-DREW MATZES"
+    ],
+    "offense": "MIZZOU",
+    "primary": [
+      "MIZZOU-RUTHIE POLIO"
+    ],
+    "period": "SOP",
+    "result": "GS",
+    "time": "",
+    "length": -1
+  },
+  "36": {
+    "defense": "MIZZOU",
+    "extras": [],
+    "secondary": [],
+    "offense": "MICHIGAN",
+    "primary": [
+      "MICHIGAN-15"
+    ],
+    "period": "SOP",
+    "result": "GD",
+    "time": "",
+    "length": -1
+  },
+  "37": {
+    "defense": "MICHIGAN",
+    "extras": [],
+    "secondary": [],
+    "offense": "MIZZOU",
+    "primary": [
+      "MICHIGAN-59"
+    ],
+    "period": "SOP",
+    "result": "RCA",
+    "time": "",
+    "length": -1
+  }
+}

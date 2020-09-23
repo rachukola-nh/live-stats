@@ -1,518 +1,522 @@
 {
   "0": {
-    "offense": "Brooms Up",
-    "period": "FLOOR",
-    "secondary": [
-      "TEXAS-DAVID HUBER"
-    ],
-    "extras": [],
-    "result": "BU",
     "primary": [
       "UMD-JOHN SHERIDAN"
     ],
-    "length": -1,
+    "secondary": [
+      "TEXAS-DAVID HUBER"
+    ],
     "time": "0000",
-    "defense": ""
+    "length": -1,
+    "extras": [],
+    "offense": "Brooms Up",
+    "result": "BU",
+    "defense": "",
+    "period": "FLOOR"
   },
   "1": {
-    "offense": "TEXAS",
     "period": "FLOOR",
     "secondary": [],
-    "extras": [],
-    "result": "EM",
+    "length": -1,
     "primary": [
       "TEXAS-JOHN ANDERSON"
     ],
-    "length": -1,
     "time": "",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "EM",
     "defense": "UMD"
   },
   "2": {
-    "offense": "UMD",
     "period": "FLOOR",
     "secondary": [
       "UMD-BEN WHONG"
     ],
-    "extras": [],
-    "result": "TL",
+    "length": -1,
     "primary": [
       "TEXAS-JOHN ANDERSON"
     ],
-    "length": -1,
     "time": "",
+    "extras": [],
+    "offense": "UMD",
+    "result": "TL",
     "defense": "TEXAS"
   },
   "3": {
-    "offense": "TEXAS",
     "period": "FLOOR",
     "secondary": [
       "TEXAS-NICK MARINO"
     ],
-    "extras": [],
-    "result": "GP",
+    "length": -1,
     "primary": [
       "TEXAS-ERIN MCBRIDE"
     ],
-    "length": -1,
     "time": "",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "GP",
     "defense": "UMD"
   },
   "4": {
-    "offense": "UMD",
     "period": "FLOOR",
     "secondary": [
       "UMD-4"
     ],
-    "extras": [],
-    "result": "TC",
+    "length": -1,
     "primary": [
       "TEXAS-NICK MARINO",
       "TEXAS-AIDAN PARSI"
     ],
-    "length": -1,
     "time": "",
+    "extras": [],
+    "offense": "UMD",
+    "result": "TC",
     "defense": "TEXAS"
   },
   "5": {
-    "offense": "TEXAS",
     "period": "FLOOR",
     "secondary": [
       "TEXAS-NICK MARINO"
     ],
-    "extras": [],
-    "result": "GP",
+    "length": -1,
     "primary": [
       "TEXAS-AIDAN PARSI"
     ],
-    "length": -1,
     "time": "",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "GP",
     "defense": "UMD"
   },
   "6": {
-    "offense": "UMD",
     "period": "FLOOR",
     "secondary": [
       "UMD-BEN WHONG"
     ],
-    "extras": [],
-    "result": "TL",
+    "length": -1,
     "primary": [
       "TEXAS-JOHN ANDERSON"
     ],
-    "length": -1,
     "time": "",
+    "extras": [],
+    "offense": "UMD",
+    "result": "TL",
     "defense": "TEXAS"
   },
   "7": {
-    "offense": "TEXAS",
     "period": "FLOOR",
     "secondary": [],
-    "extras": [],
-    "result": "GD",
+    "length": -1,
     "primary": [
       "TEXAS-AIDAN PARSI"
     ],
-    "length": -1,
     "time": "",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "GD",
     "defense": "UMD"
   },
   "8": {
-    "offense": "UMD",
     "period": "FLOOR",
     "secondary": [
       "UMD-ABBY POTTER"
     ],
-    "extras": [],
-    "result": "TL",
+    "length": -1,
     "primary": [
       "TEXAS-JOHN ANDERSON"
     ],
-    "length": -1,
     "time": "",
+    "extras": [],
+    "offense": "UMD",
+    "result": "TL",
     "defense": "TEXAS"
   },
   "9": {
-    "offense": "TEXAS",
     "period": "FLOOR",
     "secondary": [
       "TEXAS-AIDAN PARSI"
     ],
+    "length": -1,
+    "primary": [
+      "TEXAS-MICHAEL JOHNSTON"
+    ],
+    "time": "",
     "extras": [
       [
         "Y",
         "UMD-BEN WHONG"
       ]
     ],
+    "offense": "TEXAS",
     "result": "GD",
-    "primary": [
-      "TEXAS-MICHAEL JOHNSTON"
-    ],
-    "length": -1,
-    "time": "",
     "defense": "UMD"
   },
   "10": {
-    "offense": "UMD",
     "period": "FLOOR",
     "secondary": [],
+    "length": -1,
+    "primary": [
+      "UMD-DALE FARNAN"
+    ],
+    "time": "",
     "extras": [
       [
         "Y",
         "TEXAS-AIDAN PARSI"
       ]
     ],
+    "offense": "UMD",
     "result": "GD",
-    "primary": [
-      "UMD-DALE FARNAN"
-    ],
-    "length": -1,
-    "time": "",
     "defense": "TEXAS"
   },
   "11": {
-    "offense": "TEXAS",
     "period": "FLOOR",
     "secondary": [
       "TEXAS-NICK MARINO"
     ],
+    "length": -1,
+    "primary": [
+      "TEXAS-ERIN MCBRIDE"
+    ],
+    "time": "",
     "extras": [
       [
         "Y",
         "UMD-NOAH RINDOCK"
       ]
     ],
+    "offense": "TEXAS",
     "result": "GS",
-    "primary": [
-      "TEXAS-ERIN MCBRIDE"
-    ],
-    "length": -1,
-    "time": "",
     "defense": "UMD"
   },
   "12": {
-    "offense": "UMD",
     "period": "FLOOR",
     "secondary": [
       "UMD-JOHN SHERIDAN"
     ],
-    "extras": [],
-    "result": "TC",
+    "length": -1,
     "primary": [
       "TEXAS-AIDAN PARSI"
     ],
-    "length": -1,
     "time": "",
+    "extras": [],
+    "offense": "UMD",
+    "result": "TC",
     "defense": "TEXAS"
   },
   "13": {
-    "offense": "TEXAS",
     "period": "FLOOR",
     "secondary": [],
-    "extras": [],
-    "result": "GD",
+    "length": -1,
     "primary": [
       "TEXAS-NICK MARINO"
     ],
-    "length": -1,
     "time": "",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "GD",
     "defense": "UMD"
   },
   "14": {
-    "offense": "UMD",
     "period": "FLOOR",
     "secondary": [
       "UMD-DALE FARNAN"
     ],
+    "length": -1,
+    "primary": [
+      "TEXAS-HALLIE PACE"
+    ],
+    "time": "",
     "extras": [
       [
         "R",
         "TEXAS-HALLIE PACE"
       ]
     ],
+    "offense": "UMD",
     "result": "TB",
-    "primary": [
-      "TEXAS-HALLIE PACE"
-    ],
-    "length": -1,
-    "time": "",
     "defense": "TEXAS"
   },
   "15": {
-    "offense": "TEXAS",
     "period": "FLOOR",
     "secondary": [
       "TEXAS-NICK MARINO"
     ],
-    "extras": [],
-    "result": "GS",
+    "length": -1,
     "primary": [
       "TEXAS-AIDAN PARSI"
     ],
-    "length": -1,
     "time": "",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "GS",
     "defense": "UMD"
   },
   "16": {
-    "offense": "UMD",
     "period": "FLOOR",
     "secondary": [
       "UMD-NOAH RINDOCK"
     ],
-    "extras": [],
-    "result": "GS",
+    "length": -1,
     "primary": [
       "UMD-DALE FARNAN"
     ],
-    "length": -1,
     "time": "",
+    "extras": [],
+    "offense": "UMD",
+    "result": "GS",
     "defense": "TEXAS"
   },
   "17": {
-    "offense": "TEXAS",
     "period": "FLOOR",
     "secondary": [
       "TEXAS-ERIN MCBRIDE"
     ],
+    "length": -1,
+    "primary": [
+      "TEXAS-DYLAN BOTTOMS"
+    ],
+    "time": "",
     "extras": [
       [
         "R",
         "UMD-ZAIN BHAILA"
       ]
     ],
+    "offense": "TEXAS",
     "result": "GP",
-    "primary": [
-      "TEXAS-DYLAN BOTTOMS"
-    ],
-    "length": -1,
-    "time": "",
     "defense": "UMD"
   },
   "18": {
-    "offense": "UMD",
     "period": "FLOOR",
     "secondary": [],
-    "extras": [],
-    "result": "EB",
+    "length": -1,
     "primary": [
       "UMD-DALE FARNAN"
     ],
-    "length": -1,
     "time": "",
+    "extras": [],
+    "offense": "UMD",
+    "result": "EB",
     "defense": "TEXAS"
   },
   "19": {
-    "offense": "TEXAS",
     "period": "FLOOR",
     "secondary": [
       "TEXAS-AIDAN PARSI"
     ],
-    "extras": [],
-    "result": "GP",
+    "length": -1,
     "primary": [
       "TEXAS-JOHN ANDERSON"
     ],
-    "length": -1,
     "time": "",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "GP",
     "defense": "UMD"
   },
   "20": {
-    "offense": "UMD",
     "period": "FLOOR",
     "secondary": [],
-    "extras": [],
-    "result": "EM",
+    "length": -1,
     "primary": [
       "UMD-4"
     ],
-    "length": -1,
     "time": "",
+    "extras": [],
+    "offense": "UMD",
+    "result": "EM",
     "defense": "TEXAS"
   },
   "21": {
-    "offense": "TEXAS",
     "period": "FLOOR",
     "secondary": [],
-    "extras": [],
-    "result": "EY",
+    "length": -1,
     "primary": [
       "TEXAS-KYLIE MCBRIDE"
     ],
-    "length": -1,
     "time": "",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "EY",
     "defense": "UMD"
   },
   "22": {
-    "offense": "UMD",
     "period": "FLOOR",
     "secondary": [
       "UMD-4"
     ],
-    "extras": [],
-    "result": "GS",
+    "length": -1,
     "primary": [
       "UMD-MACK MORGAN"
     ],
-    "length": -1,
     "time": "",
+    "extras": [],
+    "offense": "UMD",
+    "result": "GS",
     "defense": "TEXAS"
   },
   "23": {
-    "offense": "TEXAS",
     "period": "FLOOR",
     "secondary": [
       "TEXAS-DYLAN BOTTOMS"
     ],
-    "extras": [],
-    "result": "GP",
+    "length": -1,
     "primary": [
       "TEXAS-ANDRES GARZA"
     ],
-    "length": -1,
     "time": "",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "GP",
     "defense": "UMD"
   },
   "24": {
-    "offense": "UMD",
     "period": "FLOOR",
     "secondary": [
       "UMD-MACK MORGAN"
     ],
-    "extras": [],
-    "result": "TC",
+    "length": -1,
     "primary": [
       "TEXAS-ANDRES GARZA"
     ],
-    "length": -1,
     "time": "",
+    "extras": [],
+    "offense": "UMD",
+    "result": "TC",
     "defense": "TEXAS"
   },
   "25": {
-    "offense": "TEXAS",
     "period": "FLOOR",
     "secondary": [
       "TEXAS-ERIN MCBRIDE"
     ],
-    "extras": [],
-    "result": "TC",
+    "length": -1,
     "primary": [
       "UMD-MACK MORGAN"
     ],
-    "length": -1,
     "time": "",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "TC",
     "defense": "UMD"
   },
   "26": {
-    "offense": "UMD",
     "period": "FLOOR",
     "secondary": [
       "UMD-MACK MORGAN"
     ],
-    "extras": [],
-    "result": "TL",
+    "length": -1,
     "primary": [
       "TEXAS-ERIN MCBRIDE"
     ],
-    "length": -1,
     "time": "",
+    "extras": [],
+    "offense": "UMD",
+    "result": "TL",
     "defense": "TEXAS"
   },
   "27": {
-    "offense": "TEXAS",
     "period": "FLOOR",
     "secondary": [
       "TEXAS-MICHAEL JOHNSTON"
     ],
+    "length": -1,
+    "primary": [
+      "TEXAS-AIDAN PARSI"
+    ],
+    "time": "",
     "extras": [
       [
         "R",
         "UMD-BRENDAN HUTTON"
       ]
     ],
+    "offense": "TEXAS",
     "result": "EP",
-    "primary": [
-      "TEXAS-AIDAN PARSI"
-    ],
-    "length": -1,
-    "time": "",
     "defense": "UMD"
   },
   "28": {
-    "offense": "UMD",
     "period": "FLOOR",
     "secondary": [
       "UMD-MACK MORGAN"
     ],
-    "extras": [],
-    "result": "TL",
+    "length": -1,
     "primary": [
       "TEXAS-MICHAEL JOHNSTON"
     ],
-    "length": -1,
     "time": "",
+    "extras": [],
+    "offense": "UMD",
+    "result": "TL",
     "defense": "TEXAS"
   },
   "29": {
-    "offense": "TEXAS",
     "period": "FLOOR",
     "secondary": [
       "TEXAS-AIDAN PARSI"
     ],
-    "extras": [],
-    "result": "GP",
+    "length": -1,
     "primary": [
       "TEXAS-SOPHIA DESALVO"
     ],
-    "length": -1,
     "time": "",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "GP",
     "defense": "UMD"
   },
   "30": {
-    "offense": "UMD",
     "period": "FLOOR",
     "secondary": [
       "UMD-UNK"
     ],
-    "extras": [],
-    "result": "EP",
+    "length": -1,
     "primary": [
       "UMD-4"
     ],
-    "length": -1,
     "time": "",
+    "extras": [],
+    "offense": "UMD",
+    "result": "EP",
     "defense": "TEXAS"
   },
   "31": {
-    "offense": "TEXAS",
     "period": "FLOOR",
     "secondary": [],
-    "extras": [],
-    "result": "GD",
+    "length": -1,
     "primary": [
       "TEXAS-AIDAN PARSI"
     ],
-    "length": -1,
     "time": "",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "GD",
     "defense": "UMD"
   },
   "32": {
-    "offense": "UMD",
     "period": "FLOOR",
     "secondary": [],
-    "extras": [],
-    "result": "GS",
+    "length": -1,
     "primary": [
       "UMD-UNK"
     ],
-    "length": -1,
     "time": "",
+    "extras": [],
+    "offense": "UMD",
+    "result": "GS",
     "defense": "TEXAS"
   },
   "33": {
-    "offense": "TEXAS",
     "period": "SOP",
     "secondary": [
       "TEXAS-AIDAN PARSI"
     ],
+    "length": -1,
+    "primary": [
+      "TEXAS-JOHN ANDERSON"
+    ],
+    "time": "",
     "extras": [
       [
         "SOP",
@@ -523,157 +527,153 @@
         "UMD-LAUREN DYKE"
       ]
     ],
+    "offense": "TEXAS",
     "result": "GP",
-    "primary": [
-      "TEXAS-JOHN ANDERSON"
-    ],
-    "length": -1,
-    "time": "",
     "defense": "UMD"
   },
   "34": {
-    "offense": "UMD",
     "period": "SOP",
     "secondary": [],
-    "extras": [],
-    "result": "G",
+    "length": -1,
     "primary": [
       "UMD-UNK"
     ],
-    "length": -1,
     "time": "",
+    "extras": [],
+    "offense": "UMD",
+    "result": "G",
     "defense": "TEXAS"
   },
   "35": {
-    "offense": "TEXAS",
     "period": "SOP",
     "secondary": [],
-    "extras": [],
-    "result": "GS",
+    "length": -1,
     "primary": [
       "TEXAS-JOHN ANDERSON"
     ],
-    "length": -1,
     "time": "",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "GS",
     "defense": "UMD"
   },
   "36": {
-    "offense": "UMD",
     "period": "SOP",
     "secondary": [],
+    "length": -1,
+    "primary": [
+      "UMD-NOAH RINDOCK"
+    ],
+    "time": "",
     "extras": [
       [
         "R",
         "TEXAS-TATE KAY"
       ]
     ],
+    "offense": "UMD",
     "result": "EM",
-    "primary": [
-      "UMD-NOAH RINDOCK"
-    ],
-    "length": -1,
-    "time": "",
     "defense": "TEXAS"
   },
   "37": {
-    "offense": "TEXAS",
     "period": "SOP",
     "secondary": [
       "TEXAS-54"
     ],
-    "extras": [],
-    "result": "GS",
+    "length": -1,
     "primary": [
       "TEXAS-JOHN ANDERSON"
     ],
-    "length": -1,
     "time": "",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "GS",
     "defense": "UMD"
   },
   "38": {
-    "offense": "UMD",
     "period": "SOP",
     "secondary": [
       "UMD-NOAH RINDOCK"
     ],
-    "extras": [],
-    "result": "TB",
+    "length": -1,
     "primary": [
       "TEXAS-JOCELYN WHISTLER"
     ],
-    "length": -1,
     "time": "",
+    "extras": [],
+    "offense": "UMD",
+    "result": "TB",
     "defense": "TEXAS"
   },
   "39": {
-    "offense": "TEXAS",
     "period": "SOP",
     "secondary": [],
-    "extras": [],
-    "result": "GD",
+    "length": -1,
     "primary": [
       "TEXAS-54"
     ],
-    "length": -1,
     "time": "",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "GD",
     "defense": "UMD"
   },
   "40": {
-    "offense": "UMD",
     "period": "SOP",
     "secondary": [
       "UMD-MACK MORGAN"
     ],
-    "extras": [],
-    "result": "TB",
+    "length": -1,
     "primary": [
       "TEXAS-TATE KAY"
     ],
-    "length": -1,
     "time": "",
+    "extras": [],
+    "offense": "UMD",
+    "result": "TB",
     "defense": "TEXAS"
   },
   "41": {
-    "offense": "TEXAS",
     "period": "SOP",
     "secondary": [
       "TEXAS-CATHERINE HABERL"
     ],
-    "extras": [],
-    "result": "EP",
+    "length": -1,
     "primary": [
       "TEXAS-ANDRES GARZA"
     ],
-    "length": -1,
     "time": "",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "EP",
     "defense": "UMD"
   },
   "42": {
-    "offense": "UMD",
     "period": "SOP",
     "secondary": [
       "UMD-11"
     ],
-    "extras": [],
-    "result": "TL",
+    "length": -1,
     "primary": [
       "TEXAS-54"
     ],
-    "length": -1,
     "time": "",
+    "extras": [],
+    "offense": "UMD",
+    "result": "TL",
     "defense": "TEXAS"
   },
   "43": {
-    "offense": "TEXAS",
     "period": "SOP",
     "secondary": [],
-    "extras": [],
-    "result": "RCB",
+    "length": -1,
     "primary": [
       "UMD-BRENDAN HUTTON"
     ],
-    "length": -1,
     "time": "",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "RCB",
     "defense": "UMD"
   }
 }

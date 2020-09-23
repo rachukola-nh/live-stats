@@ -20,14 +20,14 @@ HARVARD possession: Pass between ['HARVARD-RYAN CHESTER', 'HARVARD-ANALUIZA NICO
 TUFTS possession: Beat by ['HARVARD-DANIEL GOTTESMAN'] on ['TUFTS-JOHN PARRISH'] forces a TURNOVER.
 HARVARD possession: Turnover forced by physical contact by ['TUFTS-JOHN PARRISH'] on ['HARVARD-FELIX BULWA']
 TUFTS possession: Shot by ['TUFTS-JOHN PARRISH'] blocked by ['HARVARD-RYAN CHESTER']. Turnover.
-HARVARD possession: Beat by ['TUFTS-BEATER SMILEY'] on ['HARVARD-LEO FRIED'] forces a TURNOVER.
+HARVARD possession: Beat by ['TUFTS-BROOKE SMILEY'] on ['HARVARD-LEO FRIED'] forces a TURNOVER.
 TUFTS possession: Missed shot by ['TUFTS-JOHN PARRISH']. Turnover.
 HARVARD possession: Missed shot by ['HARVARD-FELIX BULWA']. Turnover.
 TUFTS possession: ['TUFTS-JOHN PARRISH'] passes to ['TUFTS-JACOB BRENNER'] at the hoops, GOAL.
 HARVARD possession: Goal on the drive by ['HARVARD-RYAN CHESTER'], assist by ['HARVARD-FELIX BULWA']
-TUFTS possession: Turnover forced by physical contact by ['HARVARD-FRANKIE MATOS'] on ['TUFTS-CHASER SMILEY']
+TUFTS possession: Turnover forced by physical contact by ['HARVARD-FRANKIE MATOS'] on ['TUFTS-JORDAN SMILEY']
 HARVARD possession: Goal on the drive by ['HARVARD-FRANKIE MATOS'].
-TUFTS possession: Pass by ['TUFTS-DONOVAN BRADY'] dropped by ['TUFTS-CHASER SMILEY']. Turnover
+TUFTS possession: Pass by ['TUFTS-DONOVAN BRADY'] dropped by ['TUFTS-JORDAN SMILEY']. Turnover
 HARVARD possession: ['HARVARD-RYAN CHESTER'] passes to ['HARVARD-FRANKIE MATOS'] at the hoops, GOAL.
 TUFTS possession: Missed shot by ['TUFTS-JOHN PARRISH']. Turnover.
 HARVARD possession: ['HARVARD-RYAN CHESTER'] passes to ['HARVARD-FELIX BULWA'] at the hoops, GOAL.
