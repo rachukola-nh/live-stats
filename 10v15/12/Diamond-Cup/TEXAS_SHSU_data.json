@@ -1,0 +1,554 @@
+{
+  "0": {
+    "primary": [
+      "TEXAS-DAVIS ROE"
+    ],
+    "secondary": [
+      "TEXAS-69"
+    ],
+    "time": "0000",
+    "length": -1,
+    "extras": [],
+    "offense": "Brooms Up",
+    "result": "BU",
+    "defense": "",
+    "period": "FLOOR"
+  },
+  "1": {
+    "period": "FLOOR",
+    "secondary": [
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "length": -1,
+    "primary": [
+      "TEXAS-KASYE BEVERS"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "GP",
+    "defense": "SHSU"
+  },
+  "2": {
+    "period": "FLOOR",
+    "secondary": [
+      "SHSU-RED RUTLEDGE"
+    ],
+    "length": -1,
+    "primary": [
+      "TEXAS-DAVID HUBER"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "SHSU",
+    "result": "TB",
+    "defense": "TEXAS"
+  },
+  "3": {
+    "period": "FLOOR",
+    "secondary": [],
+    "length": -1,
+    "primary": [
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "GS",
+    "defense": "SHSU"
+  },
+  "4": {
+    "period": "FLOOR",
+    "secondary": [],
+    "length": -1,
+    "primary": [
+      "SHSU-SAM REAGAN"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "SHSU",
+    "result": "GS",
+    "defense": "TEXAS"
+  },
+  "5": {
+    "period": "FLOOR",
+    "secondary": [],
+    "length": -1,
+    "primary": [
+      "TEXAS-DAVIS ROE"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "EM",
+    "defense": "SHSU"
+  },
+  "6": {
+    "period": "FLOOR",
+    "secondary": [],
+    "length": -1,
+    "primary": [
+      "SHSU-SAM REAGAN"
+    ],
+    "time": "",
+    "extras": [
+      [
+        "B",
+        "TEXAS-JOCELYN WHISTLER"
+      ]
+    ],
+    "offense": "SHSU",
+    "result": "EM",
+    "defense": "TEXAS"
+  },
+  "7": {
+    "period": "FLOOR",
+    "secondary": [
+      "TEXAS-GRAYSON BRIGGS"
+    ],
+    "length": -1,
+    "primary": [
+      "SHSU-BALDEMAR NUNEZ"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "TB",
+    "defense": "SHSU"
+  },
+  "8": {
+    "period": "FLOOR",
+    "secondary": [
+      "SHSU-HAYDEN BOYES"
+    ],
+    "length": -1,
+    "primary": [
+      "SHSU-RED RUTLEDGE"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "SHSU",
+    "result": "GP",
+    "defense": "TEXAS"
+  },
+  "9": {
+    "period": "FLOOR",
+    "secondary": [],
+    "length": -1,
+    "primary": [
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "GS",
+    "defense": "SHSU"
+  },
+  "10": {
+    "period": "FLOOR",
+    "secondary": [
+      "SHSU-KEENAN NASH"
+    ],
+    "length": -1,
+    "primary": [
+      "SHSU-GRACE ATKINSON"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "SHSU",
+    "result": "ED",
+    "defense": "TEXAS"
+  },
+  "11": {
+    "period": "FLOOR",
+    "secondary": [
+      "TEXAS-GRAYSON BRIGGS"
+    ],
+    "length": -1,
+    "primary": [
+      "SHSU-KEENAN NASH"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "TL",
+    "defense": "SHSU"
+  },
+  "12": {
+    "period": "FLOOR",
+    "secondary": [
+      "SHSU-MICAH HEPBURN"
+    ],
+    "length": -1,
+    "primary": [
+      "SHSU-JAY ROSS"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "SHSU",
+    "result": "GS",
+    "defense": "TEXAS"
+  },
+  "13": {
+    "period": "FLOOR",
+    "secondary": [
+      "TEXAS-GRAYSON BRIGGS"
+    ],
+    "length": -1,
+    "primary": [
+      "TEXAS-DAVIS ROE"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "GP",
+    "defense": "SHSU"
+  },
+  "14": {
+    "period": "FLOOR",
+    "secondary": [
+      "SHSU-MICAH HEPBURN",
+      "SHSU-THOMAS MORGAN"
+    ],
+    "length": -1,
+    "primary": [
+      "TEXAS-GRAYSON BRIGGS"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "SHSU",
+    "result": "TD",
+    "defense": "TEXAS"
+  },
+  "15": {
+    "period": "FLOOR",
+    "secondary": [],
+    "length": -1,
+    "primary": [
+      "TEXAS-JOSH JOHNSON"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "GD",
+    "defense": "SHSU"
+  },
+  "16": {
+    "period": "FLOOR",
+    "secondary": [],
+    "length": -1,
+    "primary": [
+      "SHSU-JAY ROSS"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "SHSU",
+    "result": "GS",
+    "defense": "TEXAS"
+  },
+  "17": {
+    "period": "FLOOR",
+    "secondary": [],
+    "length": -1,
+    "primary": [
+      "TEXAS-JOSH JOHNSON"
+    ],
+    "time": "",
+    "extras": [
+      [
+        "Y",
+        "SHSU-KAT HAYWORTH"
+      ]
+    ],
+    "offense": "TEXAS",
+    "result": "GD",
+    "defense": "SHSU"
+  },
+  "18": {
+    "period": "FLOOR",
+    "secondary": [
+      "SHSU-MICAH HEPBURN",
+      "SHSU-2"
+    ],
+    "length": -1,
+    "primary": [
+      "TEXAS-JOHN ANDERSON"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "SHSU",
+    "result": "TD",
+    "defense": "TEXAS"
+  },
+  "19": {
+    "period": "FLOOR",
+    "secondary": [
+      "TEXAS-MICHAEL JOHNSTON"
+    ],
+    "length": -1,
+    "primary": [
+      "TEXAS-OLIVE JIM-DANIELS"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "ED",
+    "defense": "SHSU"
+  },
+  "20": {
+    "period": "FLOOR",
+    "secondary": [],
+    "length": -1,
+    "primary": [
+      "SHSU-SAM REAGAN"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "SHSU",
+    "result": "GS",
+    "defense": "TEXAS"
+  },
+  "21": {
+    "period": "FLOOR",
+    "secondary": [],
+    "length": -1,
+    "primary": [
+      "TEXAS-MICHAEL JOHNSTON"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "GS",
+    "defense": "SHSU"
+  },
+  "22": {
+    "period": "FLOOR",
+    "secondary": [
+      "SHSU-2"
+    ],
+    "length": -1,
+    "primary": [
+      "SHSU-RICHARD ARAGORN"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "SHSU",
+    "result": "ED",
+    "defense": "TEXAS"
+  },
+  "23": {
+    "period": "FLOOR",
+    "secondary": [],
+    "length": -1,
+    "primary": [
+      "TEXAS-SETH LAPRAY"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "GD",
+    "defense": "SHSU"
+  },
+  "24": {
+    "period": "FLOOR",
+    "secondary": [
+      "SHSU-SAM REAGAN",
+      "SHSU-RED RUTLEDGE"
+    ],
+    "length": -1,
+    "primary": [
+      "TEXAS-NATHAN LEWIS"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "SHSU",
+    "result": "TD",
+    "defense": "TEXAS"
+  },
+  "25": {
+    "period": "FLOOR",
+    "secondary": [
+      "TEXAS-OLIVE JIM-DANIELS"
+    ],
+    "length": -1,
+    "primary": [
+      "TEXAS-JAYDAN GILSTRAP"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "EP",
+    "defense": "SHSU"
+  },
+  "26": {
+    "period": "FLOOR",
+    "secondary": [],
+    "length": -1,
+    "primary": [
+      "SHSU-SAM REAGAN"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "SHSU",
+    "result": "GS",
+    "defense": "TEXAS"
+  },
+  "27": {
+    "period": "FLOOR",
+    "secondary": [],
+    "length": -1,
+    "primary": [
+      "TEXAS-JAYDAN GILSTRAP"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "GD",
+    "defense": "SHSU"
+  },
+  "28": {
+    "period": "FLOOR",
+    "secondary": [],
+    "length": -1,
+    "primary": [
+      "SHSU-KEENAN NASH"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "SHSU",
+    "result": "EM",
+    "defense": "TEXAS"
+  },
+  "29": {
+    "period": "FLOOR",
+    "secondary": [
+      "TEXAS-JOSHUA MAGEE"
+    ],
+    "length": -1,
+    "primary": [
+      "SHSU-SAM REAGAN"
+    ],
+    "time": "",
+    "extras": [
+      [
+        "Y",
+        "SHSU-JAY ROSS"
+      ],
+      [
+        "Y",
+        "SHSU-RED RUTLEDGE"
+      ]
+    ],
+    "offense": "TEXAS",
+    "result": "TC",
+    "defense": "SHSU"
+  },
+  "30": {
+    "period": "FLOOR",
+    "secondary": [],
+    "length": -1,
+    "primary": [
+      "SHSU-RALF MANDUJANO"
+    ],
+    "time": "",
+    "extras": [
+      [
+        "Y",
+        "TEXAS-JOSHUA MAGEE"
+      ]
+    ],
+    "offense": "SHSU",
+    "result": "GS",
+    "defense": "TEXAS"
+  },
+  "31": {
+    "period": "FLOOR",
+    "secondary": [],
+    "length": -1,
+    "primary": [
+      "TEXAS-JOEY CASTELLANO"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "GS",
+    "defense": "SHSU"
+  },
+  "32": {
+    "period": "FLOOR",
+    "secondary": [
+      "SHSU-RICHARD ARAGORN",
+      "SHSU-RED RUTLEDGE"
+    ],
+    "length": -1,
+    "primary": [
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "SHSU",
+    "result": "TD",
+    "defense": "TEXAS"
+  },
+  "33": {
+    "period": "FLOOR",
+    "secondary": [
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "length": -1,
+    "primary": [
+      "TEXAS-OLIVE JIM-DANIELS"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "ED",
+    "defense": "SHSU"
+  },
+  "34": {
+    "period": "SOP",
+    "secondary": [],
+    "length": -1,
+    "primary": [
+      "SHSU-RED RUTLEDGE"
+    ],
+    "time": "",
+    "extras": [
+      [
+        "SOP",
+        1
+      ]
+    ],
+    "offense": "SHSU",
+    "result": "GS",
+    "defense": "TEXAS"
+  },
+  "35": {
+    "period": "SOP",
+    "secondary": [
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "length": -1,
+    "primary": [
+      "TEXAS-KASYE BEVERS"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "GP",
+    "defense": "SHSU"
+  },
+  "36": {
+    "period": "SOP",
+    "secondary": [],
+    "length": -1,
+    "primary": [
+      "TEXAS-JOHN ANDERSON"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "SHSU",
+    "result": "RCA",
+    "defense": "TEXAS"
+  }
+}

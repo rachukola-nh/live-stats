@@ -1,0 +1,41 @@
+(00:00)Brooms Up possession: BROOMS UP! Quaffle Possession by ['SHSU-KEENAN NASH'], Bludger Control by ['TXST-17']
+SHSU possession: Goal on the shot by ['SHSU-SAM REAGAN'].
+TXST possession: Beat by ['SHSU-KAT HAYWORTH'] on ['TXST-JUSTIN DUGIE'] forces a TURNOVER.
+SHSU possession: ['SHSU-SAM REAGAN'] passes to ['SHSU-RED RUTLEDGE'] at the hoops, GOAL.
+TXST possession: Turnover forced by physical contact by ['SHSU-KEENAN NASH'] on ['TXST-NICK ED']
+SHSU possession: Goal on the drive by ['SHSU-SAM REAGAN'].
+TXST possession: Errant pass from ['TXST-NICK ED'] to ['TXST-TIM NGUYEN']. Turnover
+SHSU possession: Beat by ['TXST-RYAN NAWROCKI'] on ['SHSU-SAM REAGAN'] forces a TURNOVER.
+TXST possession: Turnover forced by physical contact by ['SHSU-THOMAS MORGAN'] on ['TXST-JUSTIN DUGIE']
+SHSU possession: Turnover forced by physical contact by ['TXST-TIM NGUYEN'] on ['SHSU-THOMAS MORGAN']
+TXST possession: Goal on the shot by ['TXST-AMBER BONHOMME'], assist by ['TXST-NICK ED']
+SHSU possession: Goal on the shot by ['SHSU-SAM REAGAN'].
+TXST possession: ['TXST-TIM NGUYEN'] passes to ['TXST-AMBER BONHOMME'] at the hoops, GOAL.
+SHSU possession: Beat by ['TXST-BAILEE FIELDS'] on ['SHSU-RICHARD ARAGORN'] forces a TURNOVER.
+TXST possession: Pass between ['TXST-TIM NGUYEN', 'TXST-NICK ED'] defended by ['SHSU-RALF MANDUJANO']. Turnover
+SHSU possession: Pass between ['SHSU-RICHARD ARAGORN', 'SHSU-KARLI MCCLELLAND'] defended by ['TXST-NICK ED']. Turnover
+TXST possession: Beat by ['SHSU-BALDEMAR NUNEZ'] on ['TXST-JUSTIN DUGIE'] forces a TURNOVER.
+SHSU possession: Pass by ['SHSU-RICHARD ARAGORN'] dropped by ['SHSU-RALF MANDUJANO']. Turnover
+TXST possession: ['TXST-ERIC REYES'] passes to ['TXST-AMBER BONHOMME'] at the hoops, GOAL.
+SHSU possession: Missed shot by ['SHSU-KEENAN NASH']. Turnover.
+TXST possession: ['TXST-ERIC REYES'] passes to ['TXST-ELLE PICHARDO'] at the hoops, GOAL.
+SHSU possession: Turnover penalty on ['SHSU-MICHAEL SAGER']. During the play, yellow card on SHSU-HAYDEN BOYES
+TXST possession: Goal by ['TXST-UNK'].
+SHSU possession: Goal by ['SHSU-UNK'], assist by ['SHSU-SAM REAGAN']
+TXST possession: Error by ['TXST-UNK'].
+SHSU possession: Goal by ['SHSU-UNK'].
+TXST possession: Goal on the shot by ['TXST-ERIC REYES']. During the play, yellow card on SHSU-SAM REAGAN,reset forced by SHSU-KAT HAYWORTH
+SHSU possession: Goal by ['SHSU-UNK'], assist by ['SHSU-SAM REAGAN']
+TXST possession: Turnover forced by physical contact by ['SHSU-KEENAN NASH'] on ['TXST-CLAYTON CARLISLE'] During the play, blue card on SHSU-KAT HAYWORTH
+SHSU possession: Goal on the drive by ['SHSU-RICHARD ARAGORN'].
+TXST possession: ['TXST-CONNOR ELLSTON'] passes to ['TXST-ERIC REYES'] at the hoops, GOAL.
+SHSU possession: Missed shot by ['SHSU-RICHARD ARAGORN']. Turnover.
+TXST possession: Turnover forced by physical contact by ['SHSU-HAYDEN BOYES'] on ['TXST-TAYLOR AHOYT']
+SHSU possession: Shot by ['SHSU-SAM REAGAN'] blocked by ['TXST-NICK ED']. Turnover. During the play, reset forced by TXST-JESSICA MARKLE,blue card on TXST-JESSICA MARKLE
+TXST possession: ['TXST-TAYLOR AHOYT'] passes to ['TXST-MICHAEL GENTEMPO'] at the hoops, GOAL.
+SHSU possession: Errant pass from ['SHSU-SAM REAGAN'] to ['SHSU-HAYDEN BOYES']. Turnover
+TXST possession: ['TXST-NICK ED'] passes to ['TXST-TAYLOR AHOYT'] at the hoops, GOAL.
+SHSU possession: Goal on the shot by ['SHSU-SAM REAGAN'].
+TXST possession: Goal on the drive by ['TXST-TAYLOR AHOYT'], assist by ['TXST-NICK ED']
+SHSU possession: Goal on the shot by ['SHSU-SAM REAGAN'].
+TXST possession: Snitch catch by ['SHSU-RALF MANDUJANO'] is GOOD.

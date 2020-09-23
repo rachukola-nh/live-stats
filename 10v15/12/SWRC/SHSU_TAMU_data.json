@@ -1,0 +1,667 @@
+{
+  "0": {
+    "result": "BU",
+    "offense": "Brooms Up",
+    "defense": "",
+    "period": "FLOOR",
+    "secondary": [
+      null
+    ],
+    "primary": [
+      null
+    ],
+    "length": -1,
+    "time": "0000",
+    "extras": []
+  },
+  "1": {
+    "result": "GP",
+    "offense": "SHSU",
+    "defense": "TAMU",
+    "period": "FLOOR",
+    "secondary": [
+      "SHSU-GRACE ATKINSON"
+    ],
+    "primary": [
+      "SHSU-RED RUTLEDGE"
+    ],
+    "length": -1,
+    "time": "",
+    "extras": []
+  },
+  "2": {
+    "result": "GD",
+    "offense": "TAMU",
+    "defense": "SHSU",
+    "period": "FLOOR",
+    "secondary": [],
+    "primary": [
+      "TAMU-HAYDEN ALTMAN"
+    ],
+    "length": -1,
+    "time": "",
+    "extras": []
+  },
+  "3": {
+    "result": "GD",
+    "offense": "SHSU",
+    "defense": "TAMU",
+    "period": "FLOOR",
+    "secondary": [],
+    "primary": [
+      "SHSU-SAM REAGAN"
+    ],
+    "length": -1,
+    "time": "",
+    "extras": []
+  },
+  "4": {
+    "result": "GS",
+    "offense": "TAMU",
+    "defense": "SHSU",
+    "period": "FLOOR",
+    "secondary": [
+      "TAMU-CAMERON VILLAMIL"
+    ],
+    "primary": [
+      "TAMU-CONNOR MCINTYRE"
+    ],
+    "length": -1,
+    "time": "",
+    "extras": []
+  },
+  "5": {
+    "result": "TB",
+    "offense": "SHSU",
+    "defense": "TAMU",
+    "period": "FLOOR",
+    "secondary": [
+      "SHSU-SAM REAGAN"
+    ],
+    "primary": [
+      "TAMU-NICK ROY"
+    ],
+    "length": -1,
+    "time": "",
+    "extras": []
+  },
+  "6": {
+    "result": "GD",
+    "offense": "TAMU",
+    "defense": "SHSU",
+    "period": "FLOOR",
+    "secondary": [],
+    "primary": [
+      "TAMU-HAYDEN ALTMAN"
+    ],
+    "length": -1,
+    "time": "",
+    "extras": [
+      [
+        "Y",
+        "SHSU-SAM REAGAN"
+      ]
+    ]
+  },
+  "7": {
+    "result": "TB",
+    "offense": "SHSU",
+    "defense": "TAMU",
+    "period": "FLOOR",
+    "secondary": [
+      "SHSU-RED RUTLEDGE"
+    ],
+    "primary": [
+      "TAMU-ALEX STEWART"
+    ],
+    "length": -1,
+    "time": "",
+    "extras": []
+  },
+  "8": {
+    "result": "TL",
+    "offense": "TAMU",
+    "defense": "SHSU",
+    "period": "FLOOR",
+    "secondary": [
+      "TAMU-CONNOR MCINTYRE"
+    ],
+    "primary": [
+      "SHSU-KAT HAYWORTH"
+    ],
+    "length": -1,
+    "time": "",
+    "extras": []
+  },
+  "9": {
+    "result": "GS",
+    "offense": "SHSU",
+    "defense": "TAMU",
+    "period": "FLOOR",
+    "secondary": [],
+    "primary": [
+      "SHSU-MICAH HEPBURN"
+    ],
+    "length": -1,
+    "time": "",
+    "extras": []
+  },
+  "10": {
+    "result": "TD",
+    "offense": "TAMU",
+    "defense": "SHSU",
+    "period": "FLOOR",
+    "secondary": [
+      "TAMU-HAYDEN ALTMAN",
+      "TAMU-RANDI DORAN"
+    ],
+    "primary": [
+      "SHSU-SAM REAGAN"
+    ],
+    "length": -1,
+    "time": "",
+    "extras": []
+  },
+  "11": {
+    "result": "EM",
+    "offense": "SHSU",
+    "defense": "TAMU",
+    "period": "FLOOR",
+    "secondary": [],
+    "primary": [
+      "SHSU-MICAH HEPBURN"
+    ],
+    "length": -1,
+    "time": "",
+    "extras": []
+  },
+  "12": {
+    "result": "GD",
+    "offense": "TAMU",
+    "defense": "SHSU",
+    "period": "FLOOR",
+    "secondary": [
+      "TAMU-HAYDEN ALTMAN"
+    ],
+    "primary": [
+      "TAMU-CAMERON VILLAMIL"
+    ],
+    "length": -1,
+    "time": "",
+    "extras": []
+  },
+  "13": {
+    "result": "TC",
+    "offense": "SHSU",
+    "defense": "TAMU",
+    "period": "FLOOR",
+    "secondary": [
+      "SHSU-MICAH HEPBURN"
+    ],
+    "primary": [
+      "TAMU-HAYDEN ALTMAN"
+    ],
+    "length": -1,
+    "time": "",
+    "extras": []
+  },
+  "14": {
+    "result": "TD",
+    "offense": "TAMU",
+    "defense": "SHSU",
+    "period": "FLOOR",
+    "secondary": [
+      "TAMU-KEATON MALLORY",
+      "TAMU-CAMERON VILLAMIL"
+    ],
+    "primary": [
+      "SHSU-JAY ROSS"
+    ],
+    "length": -1,
+    "time": "",
+    "extras": []
+  },
+  "15": {
+    "result": "GS",
+    "offense": "SHSU",
+    "defense": "TAMU",
+    "period": "FLOOR",
+    "secondary": [],
+    "primary": [
+      "SHSU-JAY ROSS"
+    ],
+    "length": -1,
+    "time": "",
+    "extras": []
+  },
+  "16": {
+    "result": "TD",
+    "offense": "TAMU",
+    "defense": "SHSU",
+    "period": "FLOOR",
+    "secondary": [
+      "TAMU-KEATON MALLORY",
+      "TAMU-CAMERON VILLAMIL"
+    ],
+    "primary": [
+      "SHSU-JAY ROSS"
+    ],
+    "length": -1,
+    "time": "",
+    "extras": []
+  },
+  "17": {
+    "result": "GP",
+    "offense": "SHSU",
+    "defense": "TAMU",
+    "period": "FLOOR",
+    "secondary": [
+      "SHSU-JAY ROSS"
+    ],
+    "primary": [
+      "SHSU-HALEY DUPRE"
+    ],
+    "length": -1,
+    "time": "",
+    "extras": []
+  },
+  "18": {
+    "result": "TC",
+    "offense": "TAMU",
+    "defense": "SHSU",
+    "period": "FLOOR",
+    "secondary": [
+      "TAMU-KODY FOX"
+    ],
+    "primary": [
+      "SHSU-TRAVIS WARD"
+    ],
+    "length": -1,
+    "time": "",
+    "extras": []
+  },
+  "19": {
+    "result": "TL",
+    "offense": "SHSU",
+    "defense": "TAMU",
+    "period": "FLOOR",
+    "secondary": [
+      "SHSU-TRAVIS WARD"
+    ],
+    "primary": [
+      "TAMU-BLAINE MCCULLARS"
+    ],
+    "length": -1,
+    "time": "",
+    "extras": []
+  },
+  "20": {
+    "result": "GD",
+    "offense": "TAMU",
+    "defense": "SHSU",
+    "period": "FLOOR",
+    "secondary": [],
+    "primary": [
+      "TAMU-BLAINE MCCULLARS"
+    ],
+    "length": -1,
+    "time": "",
+    "extras": []
+  },
+  "21": {
+    "result": "ED",
+    "offense": "SHSU",
+    "defense": "TAMU",
+    "period": "FLOOR",
+    "secondary": [
+      "SHSU-SAM REAGAN"
+    ],
+    "primary": [
+      "SHSU-TRAVIS WARD"
+    ],
+    "length": -1,
+    "time": "",
+    "extras": [
+      [
+        "R",
+        "TAMU-ARON GEBREMICAEL"
+      ],
+      [
+        "Y",
+        "TAMU-KODY FOX"
+      ]
+    ]
+  },
+  "22": {
+    "result": "TL",
+    "offense": "TAMU",
+    "defense": "SHSU",
+    "period": "FLOOR",
+    "secondary": [
+      "TAMU-JACK MCBRIDE"
+    ],
+    "primary": [
+      "SHSU-SAM REAGAN"
+    ],
+    "length": -1,
+    "time": "",
+    "extras": []
+  },
+  "23": {
+    "result": "TD",
+    "offense": "SHSU",
+    "defense": "TAMU",
+    "period": "FLOOR",
+    "secondary": [
+      "SHSU-SAM REAGAN",
+      "SHSU-RALF MANDUJANO"
+    ],
+    "primary": [
+      "TAMU-JACK MCBRIDE"
+    ],
+    "length": -1,
+    "time": "",
+    "extras": []
+  },
+  "24": {
+    "result": "TB",
+    "offense": "TAMU",
+    "defense": "SHSU",
+    "period": "FLOOR",
+    "secondary": [
+      "TAMU-JACK MCBRIDE"
+    ],
+    "primary": [
+      "SHSU-BALDEMAR NUNEZ"
+    ],
+    "length": -1,
+    "time": "",
+    "extras": []
+  },
+  "25": {
+    "result": "GS",
+    "offense": "SHSU",
+    "defense": "TAMU",
+    "period": "FLOOR",
+    "secondary": [],
+    "primary": [
+      "SHSU-SAM REAGAN"
+    ],
+    "length": -1,
+    "time": "",
+    "extras": []
+  },
+  "26": {
+    "result": "TB",
+    "offense": "TAMU",
+    "defense": "SHSU",
+    "period": "FLOOR",
+    "secondary": [
+      "TAMU-KODY FOX"
+    ],
+    "primary": [
+      "SHSU-KAT HAYWORTH"
+    ],
+    "length": -1,
+    "time": "",
+    "extras": []
+  },
+  "27": {
+    "result": "GP",
+    "offense": "SHSU",
+    "defense": "TAMU",
+    "period": "FLOOR",
+    "secondary": [
+      "SHSU-RALF MANDUJANO"
+    ],
+    "primary": [
+      "SHSU-RICHARD ARAGORN"
+    ],
+    "length": -1,
+    "time": "",
+    "extras": []
+  },
+  "28": {
+    "result": "TD",
+    "offense": "TAMU",
+    "defense": "SHSU",
+    "period": "FLOOR",
+    "secondary": [
+      "TAMU-JACK MCBRIDE",
+      "TAMU-ADRIENNE DEMOSS"
+    ],
+    "primary": [
+      "SHSU-JAY ROSS"
+    ],
+    "length": -1,
+    "time": "",
+    "extras": []
+  },
+  "29": {
+    "result": "GS",
+    "offense": "SHSU",
+    "defense": "TAMU",
+    "period": "FLOOR",
+    "secondary": [],
+    "primary": [
+      "SHSU-JAY ROSS"
+    ],
+    "length": -1,
+    "time": "",
+    "extras": []
+  },
+  "30": {
+    "result": "TD",
+    "offense": "TAMU",
+    "defense": "SHSU",
+    "period": "FLOOR",
+    "secondary": [
+      "TAMU-KODY FOX",
+      "TAMU-ADRIENNE DEMOSS"
+    ],
+    "primary": [
+      "SHSU-JAY ROSS"
+    ],
+    "length": -1,
+    "time": "",
+    "extras": []
+  },
+  "31": {
+    "result": "TC",
+    "offense": "SHSU",
+    "defense": "TAMU",
+    "period": "FLOOR",
+    "secondary": [
+      "SHSU-MICAH HEPBURN"
+    ],
+    "primary": [
+      "TAMU-BLAINE MCCULLARS"
+    ],
+    "length": -1,
+    "time": "",
+    "extras": []
+  },
+  "32": {
+    "result": "GD",
+    "offense": "TAMU",
+    "defense": "SHSU",
+    "period": "FLOOR",
+    "secondary": [
+      "TAMU-BLAINE MCCULLARS"
+    ],
+    "primary": [
+      "TAMU-KODY FOX"
+    ],
+    "length": -1,
+    "time": "",
+    "extras": [
+      [
+        "Y",
+        "SHSU-MICAH HEPBURN"
+      ]
+    ]
+  },
+  "33": {
+    "result": "GS",
+    "offense": "SHSU",
+    "defense": "TAMU",
+    "period": "FLOOR",
+    "secondary": [],
+    "primary": [
+      "SHSU-SAM REAGAN"
+    ],
+    "length": -1,
+    "time": "",
+    "extras": []
+  },
+  "34": {
+    "result": "GD",
+    "offense": "TAMU",
+    "defense": "SHSU",
+    "period": "FLOOR",
+    "secondary": [
+      "TAMU-JACK MCBRIDE"
+    ],
+    "primary": [
+      "TAMU-KODY FOX"
+    ],
+    "length": -1,
+    "time": "",
+    "extras": []
+  },
+  "35": {
+    "result": "TB",
+    "offense": "SHSU",
+    "defense": "TAMU",
+    "period": "FLOOR",
+    "secondary": [
+      "SHSU-SAM REAGAN"
+    ],
+    "primary": [
+      "TAMU-44"
+    ],
+    "length": -1,
+    "time": "",
+    "extras": []
+  },
+  "36": {
+    "result": "TC",
+    "offense": "TAMU",
+    "defense": "SHSU",
+    "period": "FLOOR",
+    "secondary": [
+      "TAMU-KODY FOX"
+    ],
+    "primary": [
+      "SHSU-MICAH HEPBURN"
+    ],
+    "length": -1,
+    "time": "",
+    "extras": []
+  },
+  "37": {
+    "result": "EM",
+    "offense": "SHSU",
+    "defense": "TAMU",
+    "period": "FLOOR",
+    "secondary": [],
+    "primary": [
+      "SHSU-MICAH HEPBURN"
+    ],
+    "length": -1,
+    "time": "",
+    "extras": []
+  },
+  "38": {
+    "result": "TD",
+    "offense": "TAMU",
+    "defense": "SHSU",
+    "period": "FLOOR",
+    "secondary": [
+      "TAMU-CAMERON VILLAMIL",
+      "TAMU-JESSICA HEMBREE"
+    ],
+    "primary": [
+      "SHSU-MICAH HEPBURN"
+    ],
+    "length": -1,
+    "time": "",
+    "extras": []
+  },
+  "39": {
+    "result": "TL",
+    "offense": "SHSU",
+    "defense": "TAMU",
+    "period": "FLOOR",
+    "secondary": [
+      "SHSU-47"
+    ],
+    "primary": [
+      "TAMU-CAMERON VILLAMIL"
+    ],
+    "length": -1,
+    "time": "",
+    "extras": []
+  },
+  "40": {
+    "result": "GP",
+    "offense": "TAMU",
+    "defense": "SHSU",
+    "period": "FLOOR",
+    "secondary": [
+      "TAMU-JACK MCBRIDE"
+    ],
+    "primary": [
+      "TAMU-CAMERON VILLAMIL"
+    ],
+    "length": -1,
+    "time": "",
+    "extras": []
+  },
+  "41": {
+    "result": "TC",
+    "offense": "SHSU",
+    "defense": "TAMU",
+    "period": "FLOOR",
+    "secondary": [
+      "SHSU-TRAVIS WARD"
+    ],
+    "primary": [
+      "TAMU-CAMERON VILLAMIL"
+    ],
+    "length": -1,
+    "time": "",
+    "extras": []
+  },
+  "42": {
+    "result": "GD",
+    "offense": "TAMU",
+    "defense": "SHSU",
+    "period": "SOP",
+    "secondary": [],
+    "primary": [
+      "TAMU-JACK MCBRIDE"
+    ],
+    "length": -1,
+    "time": "",
+    "extras": [
+      [
+        "SOP",
+        1
+      ]
+    ]
+  },
+  "43": {
+    "result": "RCA",
+    "offense": "SHSU",
+    "defense": "TAMU",
+    "period": "SOP",
+    "secondary": [],
+    "primary": [
+      "SHSU-JAY ROSS"
+    ],
+    "length": -1,
+    "time": "",
+    "extras": []
+  }
+}
