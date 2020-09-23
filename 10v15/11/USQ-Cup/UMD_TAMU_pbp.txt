@@ -1,0 +1,40 @@
+(00:00)Brooms Up possession: BROOMS UP! Quaffle Possession by ['TAMU-SAM HAIMOWITZ'], Bludger Control by ['UMD-0']
+TAMU possession: Pass between ['TAMU-CONNOR MCINTYRE', 'TAMU-RACHEL NICOLETTI'] defended by ['UMD-20']. Turnover
+UMD possession: Goal on the drive by ['UMD-GARRETT SADTLER'].
+TAMU possession: ['TAMU-SAM HAIMOWITZ'] passes to ['TAMU-CONNOR MCINTYRE'] at the hoops, GOAL.
+UMD possession: ['UMD-GARRETT SADTLER'] passes to ['UMD-44'] at the hoops, GOAL.
+TAMU possession: Goal on the drive by ['TAMU-SAM HAIMOWITZ'], assist by ['TAMU-SAMMY GARZA']
+UMD possession: Missed shot by ['UMD-GARRETT SADTLER']. Turnover.
+TAMU possession: Pass between ['TAMU-CONNOR MCINTYRE', 'TAMU-SAMMY GARZA'] defended by ['UMD-BEN WHONG']. Turnover
+UMD possession: Shot by ['UMD-BEN WHONG'] blocked by ['TAMU-SAMMY GARZA']. Turnover.
+TAMU possession: Goal on the drive by ['TAMU-SAMMY GARZA'].
+UMD possession: Beat by ['TAMU-ALEX STEWART'] on ['UMD-BEN WHONG'] forces a TURNOVER.
+TAMU possession: Turnover forced by physical contact by ['UMD-44'] on ['TAMU-RACHEL NICOLETTI']
+UMD possession: ['UMD-GARRETT SADTLER'] passes to ['UMD-ABBY POTTER'] at the hoops, GOAL. During the play, yellow card on TAMU-ALEX STEWART
+TAMU possession: Goal on the drive by ['TAMU-SAM HAIMOWITZ'].
+UMD possession: Pass between ['UMD-BRENDAN HUTTON', 'UMD-ABBY POTTER'] defended by ['TAMU-SAM HAIMOWITZ']. Turnover
+TAMU possession: Goal on the shot by ['TAMU-SHAWN ERWIN'], assist by ['TAMU-SAM HAIMOWITZ']
+UMD possession: Beat by ['TAMU-DANIEL SOBARZO'] on ['UMD-DALE FARNAN'] forces a TURNOVER.
+TAMU possession: ['TAMU-LOUIS SANCHEZ'] passes to ['TAMU-SHAWN ERWIN'] at the hoops, GOAL. During the play, yellow card on UMD-DALE FARNAN
+UMD possession: Turnover forced by physical contact by ['TAMU-1'] on ['UMD-DALE FARNAN']
+TAMU possession: Goal on the drive by ['TAMU-SAMMY GARZA'], assist by ['TAMU-1'] During the play, reset forced by UMD-RYAN PIRTLE
+UMD possession: Goal on the drive by ['UMD-20']. During the play, yellow card on TAMU-SHAWN ERWIN
+TAMU possession: Goal on the shot by ['TAMU-LOUIS SANCHEZ'], assist by ['TAMU-1']
+UMD possession: Drop by ['UMD-GARRETT SADTLER']. Turnover.
+TAMU possession: Turnover forced by physical contact by ['UMD-GARRETT SADTLER'] on ['TAMU-LANDIS WALTHER'] During the play, yellow card on UMD-20
+UMD possession: Goal on the drive by ['UMD-GARRETT SADTLER'].
+TAMU possession: Errant pass from ['TAMU-19'] to ['TAMU-JESSICA HEMBREE']. Turnover
+UMD possession: Beat by ['TAMU-COURTNEY YOUNGS'] on ['UMD-MACK MORGAN'] forces a TURNOVER.
+TAMU possession: Pass by ['TAMU-LOUIS SANCHEZ'] dropped by ['TAMU-JESSICA HEMBREE']. Turnover
+UMD possession: Beat by ['TAMU-NICK ROY'] on ['UMD-MACK MORGAN'] forces a TURNOVER.
+TAMU possession: Goal on the drive by ['TAMU-SAM HAIMOWITZ'], assist by ['TAMU-LOUIS SANCHEZ']
+UMD possession: Goal on the drive by ['UMD-NATHAN ABBOTT'], assist by ['UMD-GARRETT SADTLER'] During the play, blue card on TAMU-SAM HAIMOWITZ
+TAMU possession: Shot by ['TAMU-SAM HAIMOWITZ'] blocked by ['UMD-NOAH RINDOCK']. Turnover. During the play, SNITCH ON PITCH begins,blue card on TAMU-19
+UMD possession: Goal on the drive by ['UMD-NOAH RINDOCK'], assist by ['UMD-GARRETT SADTLER']
+TAMU possession: Goal on the shot by ['TAMU-SAM HAIMOWITZ'].
+UMD possession: Goal on the drive by ['UMD-NATHAN ABBOTT'].
+TAMU possession: ['TAMU-RACHEL NICOLETTI'] passes to ['TAMU-SAMMY GARZA'] at the hoops, GOAL.
+UMD possession: Turnover forced by physical contact by ['TAMU-LOGAN ZAHN'] on ['UMD-NOAH RINDOCK']
+TAMU possession: Beat by ['UMD-LAUREN DYKE'] on ['TAMU-SAMMY GARZA'] forces a TURNOVER.
+UMD possession: Goal on the drive by ['UMD-20'].
+TAMU possession: Snitch catch by ['UMD-BEN WHONG'] is GOOD.

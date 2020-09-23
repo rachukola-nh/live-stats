@@ -1,0 +1,43 @@
+(00:00)Brooms Up possession: BROOMS UP! Quaffle Possession by ['UCLA-CHRISTIAN CLARION'], Bludger Control by ['MIAMIU-8']
+UCLA possession: Goal on the shot by ['UCLA-CHRISTIAN CLARION'].
+MIAMIU possession: Missed shot by ['MIAMIU-HAYDEN MCCLEARY']. Turnover.
+UCLA possession: Goal on the shot by ['UCLA-JONATHAN GARCIA-ROVETTA'].
+MIAMIU possession: Yellow card on ['MIAMIU-9'] forces turnover.
+UCLA possession: Goal on the shot by ['UCLA-JONATHAN GARCIA-ROVETTA'].
+MIAMIU possession: ['MIAMIU-HAYDEN MCCLEARY'] passes to ['MIAMIU-12'] at the hoops, GOAL.
+UCLA possession: Errant pass from ['UCLA-JONATHAN GARCIA-ROVETTA'] to ['UCLA-ELIZABETH NG']. Turnover
+MIAMIU possession: Goal on the shot by ['MIAMIU-HAYDEN MCCLEARY'].
+UCLA possession: Pass between ['UCLA-JONATHAN GARCIA-ROVETTA', 'UCLA-ELIZABETH NG'] defended by ['MIAMIU-HAYDEN MCCLEARY']. Turnover
+MIAMIU possession: Beat by ['UCLA-DANI CLARKE'] on ['MIAMIU-HAYDEN MCCLEARY'] forces a TURNOVER.
+UCLA possession: ['UCLA-CHRISTIAN CLARION'] passes to ['UCLA-ELIZABETH NG'] at the hoops, GOAL.
+MIAMIU possession: Goal on the drive by ['MIAMIU-SAM RAPNICKI'].
+UCLA possession: Goal on the shot by ['UCLA-JONATHAN GARCIA-ROVETTA'].
+MIAMIU possession: Pass by ['MIAMIU-SAM RAPNICKI'] dropped by ['MIAMIU-42']. Turnover
+UCLA possession: Goal on the shot by ['UCLA-ELIZABETH NG'], assist by ['UCLA-JONATHAN GARCIA-ROVETTA'] During the play, reset forced by MIAMIU-20
+MIAMIU possession: Goal on the drive by ['MIAMIU-HAYDEN MCCLEARY']. During the play, yellow card on UCLA-UNK
+UCLA possession: Goal on the shot by ['UCLA-CHRISTIAN KRIEGER'], assist by ['UCLA-RYAN HARRIS']
+MIAMIU possession: Goal on the shot by ['MIAMIU-99'].
+UCLA possession: Turnover forced by physical contact by ['MIAMIU-12'] on ['UCLA-RYAN HARRIS']
+MIAMIU possession: ['MIAMIU-99'] passes to ['MIAMIU-42'] at the hoops, GOAL.
+UCLA possession: Goal on the shot by ['UCLA-RYAN HARRIS'].
+MIAMIU possession: Missed shot by ['MIAMIU-99']. Turnover.
+UCLA possession: Goal on the drive by ['UCLA-RYAN HARRIS'].
+MIAMIU possession: Goal on the drive by ['MIAMIU-HAYDEN MCCLEARY']. During the play, yellow card on UCLA-RYAN HARRIS
+UCLA possession: Pass between ['UCLA-RYAN HARRIS', 'UCLA-CHRISTIAN KRIEGER'] defended by ['MIAMIU-34']. Turnover
+MIAMIU possession: ['MIAMIU-HAYDEN MCCLEARY'] passes to ['MIAMIU-12'] at the hoops, GOAL.
+UCLA possession: Errant pass from ['UCLA-KEVIN GALLAGHER'] to ['UCLA-UNK']. Turnover
+MIAMIU possession: Beat by ['UCLA-UNK'] on ['MIAMIU-34'] forces a TURNOVER.
+UCLA possession: Error by ['UCLA-UNK'].
+MIAMIU possession: Turnover forced by physical contact by ['UCLA-CHRISTIAN KRIEGER'] on ['MIAMIU-41']
+UCLA possession: Beat by ['MIAMIU-76'] on ['UCLA-JONATHAN GARCIA-ROVETTA'] forces a TURNOVER.
+MIAMIU possession: Beat by ['UCLA-JACOB METEVIA'] on ['MIAMIU-SAM RAPNICKI'] forces a TURNOVER.
+UCLA possession: Turnover forced by physical contact by ['MIAMIU-12'] on ['UCLA-JONATHAN GARCIA-ROVETTA']
+MIAMIU possession: Missed shot by ['MIAMIU-SAM RAPNICKI']. Turnover.
+UCLA possession: Missed shot by ['UCLA-JONATHAN GARCIA-ROVETTA']. Turnover. During the play, SNITCH ON PITCH begins
+MIAMIU possession: Goal by ['MIAMIU-UNK'].
+UCLA possession: ['UCLA-JONATHAN GARCIA-ROVETTA'] passes to ['UCLA-TRAVIS GILMORE'] at the hoops, GOAL.
+MIAMIU possession: Goal on the shot by ['MIAMIU-99'].
+UCLA possession: Goal on the drive by ['UCLA-TRAVIS GILMORE'].
+MIAMIU possession: Goal on the drive by ['MIAMIU-UNK'].
+UCLA possession: Goal by ['UCLA-UNK'].
+MIAMIU possession: Snitch catch by ['UCLA-BADAL CHANDRA'] is GOOD.

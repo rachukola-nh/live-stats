@@ -1,0 +1,623 @@
+{
+  "0": {
+    "defense": "",
+    "secondary": [
+      "MIAMIU-8"
+    ],
+    "result": "BU",
+    "time": "0000",
+    "offense": "Brooms Up",
+    "extras": [],
+    "period": "FLOOR",
+    "length": -1,
+    "primary": [
+      "UCLA-CHRISTIAN CLARION"
+    ]
+  },
+  "1": {
+    "defense": "MIAMIU",
+    "secondary": [],
+    "time": "",
+    "offense": "UCLA",
+    "extras": [],
+    "period": "FLOOR",
+    "result": "GS",
+    "primary": [
+      "UCLA-CHRISTIAN CLARION"
+    ],
+    "length": -1
+  },
+  "2": {
+    "defense": "UCLA",
+    "secondary": [],
+    "time": "",
+    "offense": "MIAMIU",
+    "extras": [],
+    "period": "FLOOR",
+    "result": "EM",
+    "primary": [
+      "MIAMIU-HAYDEN MCCLEARY"
+    ],
+    "length": -1
+  },
+  "3": {
+    "defense": "MIAMIU",
+    "secondary": [],
+    "time": "",
+    "offense": "UCLA",
+    "extras": [],
+    "period": "FLOOR",
+    "result": "GS",
+    "primary": [
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "length": -1
+  },
+  "4": {
+    "defense": "UCLA",
+    "secondary": [],
+    "time": "",
+    "offense": "MIAMIU",
+    "extras": [],
+    "period": "FLOOR",
+    "result": "EY",
+    "primary": [
+      "MIAMIU-9"
+    ],
+    "length": -1
+  },
+  "5": {
+    "defense": "MIAMIU",
+    "secondary": [],
+    "time": "",
+    "offense": "UCLA",
+    "extras": [],
+    "period": "FLOOR",
+    "result": "GS",
+    "primary": [
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "length": -1
+  },
+  "6": {
+    "defense": "UCLA",
+    "secondary": [
+      "MIAMIU-HAYDEN MCCLEARY"
+    ],
+    "time": "",
+    "offense": "MIAMIU",
+    "extras": [],
+    "period": "FLOOR",
+    "result": "GP",
+    "primary": [
+      "MIAMIU-12"
+    ],
+    "length": -1
+  },
+  "7": {
+    "defense": "MIAMIU",
+    "secondary": [
+      "UCLA-ELIZABETH NG"
+    ],
+    "time": "",
+    "offense": "UCLA",
+    "extras": [],
+    "period": "FLOOR",
+    "result": "EP",
+    "primary": [
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "length": -1
+  },
+  "8": {
+    "defense": "UCLA",
+    "secondary": [],
+    "time": "",
+    "offense": "MIAMIU",
+    "extras": [],
+    "period": "FLOOR",
+    "result": "GS",
+    "primary": [
+      "MIAMIU-HAYDEN MCCLEARY"
+    ],
+    "length": -1
+  },
+  "9": {
+    "defense": "MIAMIU",
+    "secondary": [
+      "UCLA-JONATHAN GARCIA-ROVETTA",
+      "UCLA-ELIZABETH NG"
+    ],
+    "time": "",
+    "offense": "UCLA",
+    "extras": [],
+    "period": "FLOOR",
+    "result": "TD",
+    "primary": [
+      "MIAMIU-HAYDEN MCCLEARY"
+    ],
+    "length": -1
+  },
+  "10": {
+    "defense": "UCLA",
+    "secondary": [
+      "MIAMIU-HAYDEN MCCLEARY"
+    ],
+    "time": "",
+    "offense": "MIAMIU",
+    "extras": [],
+    "period": "FLOOR",
+    "result": "TB",
+    "primary": [
+      "UCLA-DANI CLARKE"
+    ],
+    "length": -1
+  },
+  "11": {
+    "defense": "MIAMIU",
+    "secondary": [
+      "UCLA-CHRISTIAN CLARION"
+    ],
+    "time": "",
+    "offense": "UCLA",
+    "extras": [],
+    "period": "FLOOR",
+    "result": "GP",
+    "primary": [
+      "UCLA-ELIZABETH NG"
+    ],
+    "length": -1
+  },
+  "12": {
+    "defense": "UCLA",
+    "secondary": [],
+    "time": "",
+    "offense": "MIAMIU",
+    "extras": [],
+    "period": "FLOOR",
+    "result": "GD",
+    "primary": [
+      "MIAMIU-SAM RAPNICKI"
+    ],
+    "length": -1
+  },
+  "13": {
+    "defense": "MIAMIU",
+    "secondary": [],
+    "time": "",
+    "offense": "UCLA",
+    "extras": [],
+    "period": "FLOOR",
+    "result": "GS",
+    "primary": [
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "length": -1
+  },
+  "14": {
+    "defense": "UCLA",
+    "secondary": [
+      "MIAMIU-SAM RAPNICKI"
+    ],
+    "time": "",
+    "offense": "MIAMIU",
+    "extras": [],
+    "period": "FLOOR",
+    "result": "ED",
+    "primary": [
+      "MIAMIU-42"
+    ],
+    "length": -1
+  },
+  "15": {
+    "defense": "MIAMIU",
+    "secondary": [
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "time": "",
+    "offense": "UCLA",
+    "extras": [
+      [
+        "R",
+        "MIAMIU-20"
+      ]
+    ],
+    "period": "FLOOR",
+    "result": "GS",
+    "primary": [
+      "UCLA-ELIZABETH NG"
+    ],
+    "length": -1
+  },
+  "16": {
+    "defense": "UCLA",
+    "secondary": [],
+    "time": "",
+    "offense": "MIAMIU",
+    "extras": [
+      [
+        "Y",
+        "UCLA-UNK"
+      ]
+    ],
+    "period": "FLOOR",
+    "result": "GD",
+    "primary": [
+      "MIAMIU-HAYDEN MCCLEARY"
+    ],
+    "length": -1
+  },
+  "17": {
+    "defense": "MIAMIU",
+    "secondary": [
+      "UCLA-RYAN HARRIS"
+    ],
+    "time": "",
+    "offense": "UCLA",
+    "extras": [],
+    "period": "FLOOR",
+    "result": "GS",
+    "primary": [
+      "UCLA-CHRISTIAN KRIEGER"
+    ],
+    "length": -1
+  },
+  "18": {
+    "defense": "UCLA",
+    "secondary": [],
+    "time": "",
+    "offense": "MIAMIU",
+    "extras": [],
+    "period": "FLOOR",
+    "result": "GS",
+    "primary": [
+      "MIAMIU-99"
+    ],
+    "length": -1
+  },
+  "19": {
+    "defense": "MIAMIU",
+    "secondary": [
+      "UCLA-RYAN HARRIS"
+    ],
+    "time": "",
+    "offense": "UCLA",
+    "extras": [],
+    "period": "FLOOR",
+    "result": "TC",
+    "primary": [
+      "MIAMIU-12"
+    ],
+    "length": -1
+  },
+  "20": {
+    "defense": "UCLA",
+    "secondary": [
+      "MIAMIU-99"
+    ],
+    "time": "",
+    "offense": "MIAMIU",
+    "extras": [],
+    "period": "FLOOR",
+    "result": "GP",
+    "primary": [
+      "MIAMIU-42"
+    ],
+    "length": -1
+  },
+  "21": {
+    "defense": "MIAMIU",
+    "secondary": [],
+    "time": "",
+    "offense": "UCLA",
+    "extras": [],
+    "period": "FLOOR",
+    "result": "GS",
+    "primary": [
+      "UCLA-RYAN HARRIS"
+    ],
+    "length": -1
+  },
+  "22": {
+    "defense": "UCLA",
+    "secondary": [],
+    "time": "",
+    "offense": "MIAMIU",
+    "extras": [],
+    "period": "FLOOR",
+    "result": "EM",
+    "primary": [
+      "MIAMIU-99"
+    ],
+    "length": -1
+  },
+  "23": {
+    "defense": "MIAMIU",
+    "secondary": [],
+    "time": "",
+    "offense": "UCLA",
+    "extras": [],
+    "period": "FLOOR",
+    "result": "GD",
+    "primary": [
+      "UCLA-RYAN HARRIS"
+    ],
+    "length": -1
+  },
+  "24": {
+    "defense": "UCLA",
+    "secondary": [],
+    "time": "",
+    "offense": "MIAMIU",
+    "extras": [
+      [
+        "Y",
+        "UCLA-RYAN HARRIS"
+      ]
+    ],
+    "period": "FLOOR",
+    "result": "GD",
+    "primary": [
+      "MIAMIU-HAYDEN MCCLEARY"
+    ],
+    "length": -1
+  },
+  "25": {
+    "defense": "MIAMIU",
+    "secondary": [
+      "UCLA-RYAN HARRIS",
+      "UCLA-CHRISTIAN KRIEGER"
+    ],
+    "time": "",
+    "offense": "UCLA",
+    "extras": [],
+    "period": "FLOOR",
+    "result": "TD",
+    "primary": [
+      "MIAMIU-34"
+    ],
+    "length": -1
+  },
+  "26": {
+    "defense": "UCLA",
+    "secondary": [
+      "MIAMIU-HAYDEN MCCLEARY"
+    ],
+    "time": "",
+    "offense": "MIAMIU",
+    "extras": [],
+    "period": "FLOOR",
+    "result": "GP",
+    "primary": [
+      "MIAMIU-12"
+    ],
+    "length": -1
+  },
+  "27": {
+    "defense": "MIAMIU",
+    "secondary": [
+      "UCLA-UNK"
+    ],
+    "time": "",
+    "offense": "UCLA",
+    "extras": [],
+    "period": "FLOOR",
+    "result": "EP",
+    "primary": [
+      "UCLA-KEVIN GALLAGHER"
+    ],
+    "length": -1
+  },
+  "28": {
+    "defense": "UCLA",
+    "secondary": [
+      "MIAMIU-34"
+    ],
+    "time": "",
+    "offense": "MIAMIU",
+    "extras": [],
+    "period": "FLOOR",
+    "result": "TB",
+    "primary": [
+      "UCLA-UNK"
+    ],
+    "length": -1
+  },
+  "29": {
+    "defense": "MIAMIU",
+    "secondary": [],
+    "time": "",
+    "offense": "UCLA",
+    "extras": [],
+    "period": "FLOOR",
+    "result": "E",
+    "primary": [
+      "UCLA-UNK"
+    ],
+    "length": -1
+  },
+  "30": {
+    "defense": "UCLA",
+    "secondary": [
+      "MIAMIU-41"
+    ],
+    "time": "",
+    "offense": "MIAMIU",
+    "extras": [],
+    "period": "FLOOR",
+    "result": "TC",
+    "primary": [
+      "UCLA-CHRISTIAN KRIEGER"
+    ],
+    "length": -1
+  },
+  "31": {
+    "defense": "MIAMIU",
+    "secondary": [
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "time": "",
+    "offense": "UCLA",
+    "extras": [],
+    "period": "FLOOR",
+    "result": "TB",
+    "primary": [
+      "MIAMIU-76"
+    ],
+    "length": -1
+  },
+  "32": {
+    "defense": "UCLA",
+    "secondary": [
+      "MIAMIU-SAM RAPNICKI"
+    ],
+    "time": "",
+    "offense": "MIAMIU",
+    "extras": [],
+    "period": "FLOOR",
+    "result": "TB",
+    "primary": [
+      "UCLA-JACOB METEVIA"
+    ],
+    "length": -1
+  },
+  "33": {
+    "defense": "MIAMIU",
+    "secondary": [
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "time": "",
+    "offense": "UCLA",
+    "extras": [],
+    "period": "FLOOR",
+    "result": "TC",
+    "primary": [
+      "MIAMIU-12"
+    ],
+    "length": -1
+  },
+  "34": {
+    "defense": "UCLA",
+    "secondary": [],
+    "time": "",
+    "offense": "MIAMIU",
+    "extras": [],
+    "period": "FLOOR",
+    "result": "EM",
+    "primary": [
+      "MIAMIU-SAM RAPNICKI"
+    ],
+    "length": -1
+  },
+  "35": {
+    "defense": "MIAMIU",
+    "secondary": [],
+    "time": "",
+    "offense": "UCLA",
+    "extras": [
+      [
+        "SOP",
+        1
+      ]
+    ],
+    "period": "SOP",
+    "result": "EM",
+    "primary": [
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "length": -1
+  },
+  "36": {
+    "defense": "UCLA",
+    "secondary": [],
+    "time": "",
+    "offense": "MIAMIU",
+    "extras": [],
+    "period": "SOP",
+    "result": "G",
+    "primary": [
+      "MIAMIU-UNK"
+    ],
+    "length": -1
+  },
+  "37": {
+    "defense": "MIAMIU",
+    "secondary": [
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "time": "",
+    "offense": "UCLA",
+    "extras": [],
+    "period": "SOP",
+    "result": "GP",
+    "primary": [
+      "UCLA-TRAVIS GILMORE"
+    ],
+    "length": -1
+  },
+  "38": {
+    "defense": "UCLA",
+    "secondary": [],
+    "time": "",
+    "offense": "MIAMIU",
+    "extras": [],
+    "period": "SOP",
+    "result": "GS",
+    "primary": [
+      "MIAMIU-99"
+    ],
+    "length": -1
+  },
+  "39": {
+    "defense": "MIAMIU",
+    "secondary": [],
+    "time": "",
+    "offense": "UCLA",
+    "extras": [],
+    "period": "SOP",
+    "result": "GD",
+    "primary": [
+      "UCLA-TRAVIS GILMORE"
+    ],
+    "length": -1
+  },
+  "40": {
+    "defense": "UCLA",
+    "secondary": [],
+    "time": "",
+    "offense": "MIAMIU",
+    "extras": [],
+    "period": "SOP",
+    "result": "GD",
+    "primary": [
+      "MIAMIU-UNK"
+    ],
+    "length": -1
+  },
+  "41": {
+    "defense": "MIAMIU",
+    "secondary": [],
+    "time": "",
+    "offense": "UCLA",
+    "extras": [],
+    "period": "SOP",
+    "result": "G",
+    "primary": [
+      "UCLA-UNK"
+    ],
+    "length": -1
+  },
+  "42": {
+    "defense": "UCLA",
+    "secondary": [],
+    "time": "",
+    "offense": "MIAMIU",
+    "extras": [],
+    "period": "SOP",
+    "result": "RCA",
+    "primary": [
+      "UCLA-BADAL CHANDRA"
+    ],
+    "length": -1
+  }
+}
