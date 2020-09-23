@@ -1,42 +1,42 @@
 (00:00)Brooms Up possession: BROOMS UP! Quaffle Possession by ['TUFTS-JOHN PARRISH'], Bludger Control by ['TUFTS-SERENA MONTEIRO']
-TUFTS possession: Missed shot by ['TUFTS-JOHN PARRISH']. Turnover.
-HARVARD possession: Blue card on ['HARVARD-BLAKE YOUNG'] forces turnover.
-TUFTS possession: Shot by ['TUFTS-SOPHIE COBURN'] blocked by ['HARVARD-FELIX BULWA']. Turnover.
-HARVARD possession: Goal on the shot by ['HARVARD-FELIX BULWA'].
-TUFTS possession: Shot by ['TUFTS-HENRY BAER-BENSON'] blocked by ['HARVARD-NATALIE SHERMAN-JOLLIS']. Turnover.
-HARVARD possession: Shot by ['HARVARD-FELIX BULWA'] blocked by ['TUFTS-HENRY BAER-BENSON']. Turnover.
-TUFTS possession: Goal on the drive by ['TUFTS-JOHN PARRISH'], assist by ['TUFTS-HENRY BAER-BENSON']
-HARVARD possession: Shot by ['HARVARD-BLAKE YOUNG'] blocked by ['TUFTS-HENRY BAER-BENSON']. Turnover.
-TUFTS possession: Errant pass from ['TUFTS-SOPHIE COBURN'] to ['TUFTS-DONOVAN BRADY']. Turnover
-HARVARD possession: Shot by ['HARVARD-FELIX BULWA'] blocked by ['TUFTS-SOPHIE COBURN']. Turnover.
-TUFTS possession: Goal on the drive by ['TUFTS-DONOVAN BRADY'], assist by ['TUFTS-HENRY BAER-BENSON']
-HARVARD possession: Beat by ['TUFTS-SERENA MONTEIRO'] on ['HARVARD-JAMES DEVANEY'] forces a TURNOVER.
-TUFTS possession: Turnover forced by physical contact by ['HARVARD-LEO FRIED'] on ['TUFTS-DONOVAN BRADY']
-HARVARD possession: Turnover forced by physical contact by ['TUFTS-HENRY BAER-BENSON'] on ['HARVARD-9']
-TUFTS possession: Pass by ['TUFTS-ATHENA MAYOR'] dropped by ['TUFTS-HENRY BAER-BENSON']. Turnover
-HARVARD possession: Errant pass from ['HARVARD-FELIX BULWA'] to ['HARVARD-9']. Turnover
-TUFTS possession: ['TUFTS-DONOVAN BRADY'] passes to ['TUFTS-77'] at the hoops, GOAL.
-HARVARD possession: Missed shot by ['HARVARD-LEO FRIED']. Turnover.
-TUFTS possession: Turnover forced by physical contact by ['HARVARD-9'] on ['TUFTS-77']
-HARVARD possession: Goal on the drive by ['HARVARD-LEO FRIED'].
-TUFTS possession: Drop by ['TUFTS-ATHENA MAYOR']. Turnover.
-HARVARD possession: ['HARVARD-BLAKE YOUNG'] passes to ['HARVARD-ANALUIZA NICOLAE'] at the hoops, GOAL. During the play, blue card on TUFTS-JAKE ZASLAV
-TUFTS possession: ['TUFTS-ATHENA MAYOR'] passes to ['TUFTS-77'] at the hoops, GOAL.
-HARVARD possession: Missed shot by ['HARVARD-LEO FRIED']. Turnover.
-TUFTS possession: Beat by ['HARVARD-MICHAEL CHENEVEY'] on ['TUFTS-JOHN PARRISH'] forces a TURNOVER.
-HARVARD possession: Goal on the shot by ['HARVARD-BLAKE YOUNG'], assist by ['HARVARD-JESSE THUE']
-TUFTS possession: Drop by ['TUFTS-UNK']. Turnover.
-HARVARD possession: Goal on the shot by ['HARVARD-FELIX BULWA'].
-TUFTS possession: Missed shot by ['TUFTS-JOHN PARRISH']. Turnover.
-HARVARD possession: Missed shot by ['HARVARD-FELIX BULWA']. Turnover.
-TUFTS possession: Turnover forced by physical contact by ['HARVARD-JAMES DEVANEY'] on ['TUFTS-ATHENA MAYOR'] During the play, SNITCH ON PITCH begins
-HARVARD possession: Goal on the shot by ['HARVARD-BLAKE YOUNG'].
-TUFTS possession: ['TUFTS-ATHENA MAYOR'] passes to ['TUFTS-JOHN PARRISH'] at the hoops, GOAL.
-HARVARD possession: Goal on the drive by ['HARVARD-BLAKE YOUNG']. During the play, blue card on TUFTS-77
-TUFTS possession: Beat by ['HARVARD-MICHAEL CHENEVEY'] on ['TUFTS-JOHN PARRISH'] forces a TURNOVER.
-HARVARD possession: Goal on the drive by ['HARVARD-BLAKE YOUNG'].
-TUFTS possession: Missed shot by ['TUFTS-JOHN PARRISH']. Turnover.
-HARVARD possession: Beat by ['TUFTS-SERENA MONTEIRO'] on ['HARVARD-FELIX BULWA'] forces a TURNOVER.
-TUFTS possession: Goal on the shot by ['TUFTS-JOHN PARRISH']. During the play, blue card on HARVARD-JESSE THUE
-HARVARD possession: Goal on the shot by ['HARVARD-BLAKE YOUNG'].
-TUFTS possession: Snitch catch by ['HARVARD-JESSE THUE'] is GOOD.
+(00:26)TUFTS possession: Missed shot by ['TUFTS-JOHN PARRISH']. Turnover.
+(00:52)HARVARD possession: Blue card on ['HARVARD-BLAKE YOUNG'] forces turnover.
+(01:14)TUFTS possession: Shot by ['TUFTS-SOPHIE COBURN'] blocked by ['HARVARD-FELIX BULWA']. Turnover.
+(02:01)HARVARD possession: Goal on the shot by ['HARVARD-FELIX BULWA'].
+(02:33)TUFTS possession: Shot by ['TUFTS-HENRY BAER-BENSON'] blocked by ['HARVARD-NATALIE SHERMAN-JOLLIS']. Turnover.
+(03:14)HARVARD possession: Shot by ['HARVARD-FELIX BULWA'] blocked by ['TUFTS-HENRY BAER-BENSON']. Turnover.
+(03:24)TUFTS possession: Goal on the drive by ['TUFTS-JOHN PARRISH'], assist by ['TUFTS-HENRY BAER-BENSON']
+(04:17)HARVARD possession: Shot by ['HARVARD-BLAKE YOUNG'] blocked by ['TUFTS-HENRY BAER-BENSON']. Turnover.
+(04:57)TUFTS possession: Errant pass from ['TUFTS-SOPHIE COBURN'] to ['TUFTS-DONOVAN BRADY']. Turnover
+(05:36)HARVARD possession: Shot by ['HARVARD-FELIX BULWA'] blocked by ['TUFTS-SOPHIE COBURN']. Turnover.
+(05:50)TUFTS possession: Goal on the drive by ['TUFTS-DONOVAN BRADY'], assist by ['TUFTS-HENRY BAER-BENSON']
+(07:01)HARVARD possession: Beat by ['TUFTS-SERENA MONTEIRO'] on ['HARVARD-JAMES DEVANEY'] forces a TURNOVER.
+(07:07)TUFTS possession: Turnover forced by physical contact by ['HARVARD-LEO FRIED'] on ['TUFTS-DONOVAN BRADY']
+(08:01)HARVARD possession: Turnover forced by physical contact by ['TUFTS-HENRY BAER-BENSON'] on ['HARVARD-9']
+(08:11)TUFTS possession: Pass by ['TUFTS-ATHENA MAYOR'] dropped by ['TUFTS-HENRY BAER-BENSON']. Turnover
+(08:54)HARVARD possession: Errant pass from ['HARVARD-FELIX BULWA'] to ['HARVARD-9']. Turnover
+(09:15)TUFTS possession: ['TUFTS-DONOVAN BRADY'] passes to ['TUFTS-77'] at the hoops, GOAL.
+(09:48)HARVARD possession: Missed shot by ['HARVARD-LEO FRIED']. Turnover. During the play, TIMEOUT by HARVARD
+(10:09)TUFTS possession: Turnover forced by physical contact by ['HARVARD-9'] on ['TUFTS-77']
+(10:15)HARVARD possession: Goal on the drive by ['HARVARD-LEO FRIED'].
+(11:03)TUFTS possession: Turnover forced by physical contact by ['HARVARD-BLAKE YOUNG'] on ['TUFTS-ATHENA MAYOR']
+(11:36)HARVARD possession: ['HARVARD-BLAKE YOUNG'] passes to ['HARVARD-ANALUIZA NICOLAE'] at the hoops, GOAL. During the play, blue card on TUFTS-JAKE ZASLAV
+(12:28)TUFTS possession: ['TUFTS-ATHENA MAYOR'] passes to ['TUFTS-77'] at the hoops, GOAL.
+(12:53)HARVARD possession: Missed shot by ['HARVARD-LEO FRIED']. Turnover.
+(13:43)TUFTS possession: Beat by ['HARVARD-MICHAEL CHENEVEY'] on ['TUFTS-JOHN PARRISH'] forces a TURNOVER.
+(13:57)HARVARD possession: Goal on the shot by ['HARVARD-BLAKE YOUNG'], assist by ['HARVARD-JESSE THUE']
+(14:55)TUFTS possession: Drop by ['TUFTS-26']. Turnover.
+(15:26)HARVARD possession: Goal on the shot by ['HARVARD-FELIX BULWA'].
+(16:16)TUFTS possession: Missed shot by ['TUFTS-JOHN PARRISH']. Turnover. During the play, TIMEOUT by TUFTS
+(17:26)HARVARD possession: Missed shot by ['HARVARD-FELIX BULWA']. Turnover.
+(18:05)TUFTS possession: Turnover forced by physical contact by ['HARVARD-JAMES DEVANEY'] on ['TUFTS-ATHENA MAYOR'] During the play, SNITCH ON PITCH begins
+(18:34)HARVARD possession: Goal on the shot by ['HARVARD-BLAKE YOUNG'].
+(19:02)TUFTS possession: ['TUFTS-ATHENA MAYOR'] passes to ['TUFTS-JOHN PARRISH'] at the hoops, GOAL.
+(19:36)HARVARD possession: Goal on the drive by ['HARVARD-BLAKE YOUNG']. During the play, blue card on TUFTS-77
+(20:09)TUFTS possession: Beat by ['HARVARD-MICHAEL CHENEVEY'] on ['TUFTS-JOHN PARRISH'] forces a TURNOVER.
+(20:21)HARVARD possession: Goal on the drive by ['HARVARD-BLAKE YOUNG'].
+(20:50)TUFTS possession: Missed shot by ['TUFTS-JOHN PARRISH']. Turnover.
+(20:55)HARVARD possession: Beat by ['TUFTS-SERENA MONTEIRO'] on ['HARVARD-FELIX BULWA'] forces a TURNOVER.
+(21:24)TUFTS possession: Goal on the shot by ['TUFTS-JOHN PARRISH']. During the play, blue card on HARVARD-JESSE THUE
+(21:45)HARVARD possession: Goal on the shot by ['HARVARD-BLAKE YOUNG'].
+(22:05)TUFTS possession: Snitch catch by ['HARVARD-LEO FRIED'] is GOOD.
