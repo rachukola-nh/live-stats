@@ -1,655 +1,655 @@
 {
   "0": {
-    "result": "BU",
     "primary": [
       "TXST-STEPHEN VIGIL"
     ],
-    "offense": "Brooms Up",
-    "defense": "",
-    "period": "FLOOR",
     "secondary": [
       "MIZZOU-DAVID BECKER"
     ],
-    "extras": [],
     "time": "0000",
-    "length": -1
+    "length": -1,
+    "extras": [],
+    "offense": "Brooms Up",
+    "result": "BU",
+    "defense": "",
+    "period": "FLOOR"
   },
   "1": {
-    "result": "GS",
-    "secondary": [],
-    "offense": "TXST",
-    "length": 20,
-    "defense": "MIZZOU",
     "period": "FLOOR",
-    "extras": [],
-    "time": "0020",
+    "secondary": [],
+    "length": 20,
     "primary": [
       "TXST-STEPHEN VIGIL"
-    ]
+    ],
+    "time": "0020",
+    "extras": [],
+    "offense": "TXST",
+    "result": "GS",
+    "defense": "MIZZOU"
   },
   "2": {
-    "result": "GD",
-    "secondary": [],
-    "offense": "MIZZOU",
-    "length": 29,
-    "defense": "TXST",
     "period": "FLOOR",
-    "extras": [],
-    "time": "0049",
+    "secondary": [],
+    "length": 29,
     "primary": [
       "MIZZOU-JACOB PARKER"
-    ]
+    ],
+    "time": "0049",
+    "extras": [],
+    "offense": "MIZZOU",
+    "result": "GD",
+    "defense": "TXST"
   },
   "3": {
-    "result": "TC",
+    "period": "FLOOR",
     "secondary": [
       "TXST-STEPHEN VIGIL"
     ],
-    "offense": "TXST",
     "length": 101,
-    "defense": "MIZZOU",
-    "period": "FLOOR",
-    "extras": [],
-    "time": "0150",
     "primary": [
       "MIZZOU-VINCENT WOOLSEY"
-    ]
+    ],
+    "time": "0150",
+    "extras": [],
+    "offense": "TXST",
+    "result": "TC",
+    "defense": "MIZZOU"
   },
   "4": {
-    "result": "GD",
-    "secondary": [],
-    "offense": "MIZZOU",
-    "length": 4,
-    "defense": "TXST",
     "period": "FLOOR",
-    "extras": [],
-    "time": "0154",
+    "secondary": [],
+    "length": 4,
     "primary": [
       "MIZZOU-VINCENT WOOLSEY"
-    ]
+    ],
+    "time": "0154",
+    "extras": [],
+    "offense": "MIZZOU",
+    "result": "GD",
+    "defense": "TXST"
   },
   "5": {
-    "result": "EM",
-    "secondary": [],
-    "offense": "TXST",
-    "length": 85,
-    "defense": "MIZZOU",
     "period": "FLOOR",
-    "extras": [],
-    "time": "0239",
+    "secondary": [],
+    "length": 85,
     "primary": [
       "TXST-TJ MARTINEZ"
-    ]
+    ],
+    "time": "0239",
+    "extras": [],
+    "offense": "TXST",
+    "result": "EM",
+    "defense": "MIZZOU"
   },
   "6": {
-    "result": "EM",
-    "secondary": [],
-    "offense": "MIZZOU",
-    "length": 62,
-    "defense": "TXST",
     "period": "FLOOR",
-    "extras": [],
-    "time": "0301",
+    "secondary": [],
+    "length": 62,
     "primary": [
       "MIZZOU-VINCENT WOOLSEY"
-    ]
+    ],
+    "time": "0301",
+    "extras": [],
+    "offense": "MIZZOU",
+    "result": "EM",
+    "defense": "TXST"
   },
   "7": {
-    "result": "GS",
-    "secondary": [],
-    "offense": "TXST",
-    "length": 111,
-    "defense": "MIZZOU",
     "period": "FLOOR",
-    "extras": [],
-    "time": "0412",
+    "secondary": [],
+    "length": 111,
     "primary": [
       "TXST-STEPHEN VIGIL"
-    ]
+    ],
+    "time": "0412",
+    "extras": [],
+    "offense": "TXST",
+    "result": "GS",
+    "defense": "MIZZOU"
   },
   "8": {
-    "result": "TC",
+    "period": "FLOOR",
     "secondary": [
       "MIZZOU-RUTHIE POLIO"
     ],
-    "offense": "MIZZOU",
     "length": 93,
-    "defense": "TXST",
-    "period": "FLOOR",
+    "primary": [
+      "TXST-TJ MARTINEZ"
+    ],
+    "time": "0505",
     "extras": [
       [
         "R",
         "TXST-KRIS DELAFUENTE"
       ]
     ],
-    "time": "0505",
-    "primary": [
-      "TXST-TJ MARTINEZ"
-    ]
+    "offense": "MIZZOU",
+    "result": "TC",
+    "defense": "TXST"
   },
   "9": {
-    "result": "GD",
-    "secondary": [],
-    "offense": "TXST",
-    "length": 8,
-    "defense": "MIZZOU",
     "period": "FLOOR",
-    "extras": [],
-    "time": "0513",
+    "secondary": [],
+    "length": 8,
     "primary": [
       "TXST-TJ MARTINEZ"
-    ]
+    ],
+    "time": "0513",
+    "extras": [],
+    "offense": "TXST",
+    "result": "GD",
+    "defense": "MIZZOU"
   },
   "10": {
-    "result": "TB",
+    "period": "FLOOR",
     "secondary": [
       "MIZZOU-VINCENT WOOLSEY"
     ],
-    "offense": "MIZZOU",
     "length": 46,
-    "defense": "TXST",
-    "period": "FLOOR",
+    "primary": [
+      "TXST-JOHN MOLINA"
+    ],
+    "time": "0559",
     "extras": [
       [
         "R",
         "TXST-JOHN MOLINA"
       ]
     ],
-    "time": "0559",
-    "primary": [
-      "TXST-JOHN MOLINA"
-    ]
+    "offense": "MIZZOU",
+    "result": "TB",
+    "defense": "TXST"
   },
   "11": {
-    "result": "EP",
+    "period": "FLOOR",
     "secondary": [
       "TXST-ABBY LUM"
     ],
-    "offense": "TXST",
     "length": 69,
-    "defense": "MIZZOU",
-    "period": "FLOOR",
-    "extras": [],
-    "time": "0628",
     "primary": [
       "TXST-BRANDON MACDOWRA"
-    ]
+    ],
+    "time": "0628",
+    "extras": [],
+    "offense": "TXST",
+    "result": "EP",
+    "defense": "MIZZOU"
   },
   "12": {
-    "result": "GD",
-    "secondary": [],
-    "offense": "MIZZOU",
-    "length": 24,
-    "defense": "TXST",
     "period": "FLOOR",
-    "extras": [],
-    "time": "0652",
+    "secondary": [],
+    "length": 24,
     "primary": [
       "MIZZOU-JACOB PARKER"
-    ]
+    ],
+    "time": "0652",
+    "extras": [],
+    "offense": "MIZZOU",
+    "result": "GD",
+    "defense": "TXST"
   },
   "13": {
-    "result": "TL",
+    "period": "FLOOR",
     "secondary": [
       "TXST-BRANDON MACDOWRA"
     ],
-    "offense": "TXST",
     "length": 104,
-    "defense": "MIZZOU",
-    "period": "FLOOR",
-    "extras": [],
-    "time": "0756",
     "primary": [
       "MIZZOU-JACOB PARKER"
-    ]
+    ],
+    "time": "0756",
+    "extras": [],
+    "offense": "TXST",
+    "result": "TL",
+    "defense": "MIZZOU"
   },
   "14": {
-    "result": "GS",
+    "period": "FLOOR",
     "secondary": [
       "MIZZOU-VINCENT WOOLSEY"
     ],
-    "offense": "MIZZOU",
     "length": 53,
-    "defense": "TXST",
-    "period": "FLOOR",
-    "extras": [],
-    "time": "0809",
     "primary": [
       "MIZZOU-JACOB PARKER"
-    ]
+    ],
+    "time": "0809",
+    "extras": [],
+    "offense": "MIZZOU",
+    "result": "GS",
+    "defense": "TXST"
   },
   "15": {
-    "result": "TB",
+    "period": "FLOOR",
     "secondary": [
       "TXST-STEPHEN VIGIL"
     ],
-    "offense": "TXST",
     "length": 44,
-    "defense": "MIZZOU",
-    "period": "FLOOR",
-    "extras": [],
-    "time": "0853",
     "primary": [
       "MIZZOU-JUSTIN DEWICK"
-    ]
+    ],
+    "time": "0853",
+    "extras": [],
+    "offense": "TXST",
+    "result": "TB",
+    "defense": "MIZZOU"
   },
   "16": {
-    "result": "EM",
-    "secondary": [],
-    "offense": "MIZZOU",
-    "length": 49,
-    "defense": "TXST",
     "period": "FLOOR",
-    "extras": [],
-    "time": "0902",
+    "secondary": [],
+    "length": 49,
     "primary": [
       "MIZZOU-JACOB PARKER"
-    ]
+    ],
+    "time": "0902",
+    "extras": [],
+    "offense": "MIZZOU",
+    "result": "EM",
+    "defense": "TXST"
   },
   "17": {
-    "result": "TB",
+    "period": "FLOOR",
     "secondary": [
       "TXST-DONOVAN MITCHELL"
     ],
-    "offense": "TXST",
     "length": 42,
-    "defense": "MIZZOU",
-    "period": "FLOOR",
-    "extras": [],
-    "time": "0944",
     "primary": [
       "MIZZOU-DAVID BECKER"
-    ]
+    ],
+    "time": "0944",
+    "extras": [],
+    "offense": "TXST",
+    "result": "TB",
+    "defense": "MIZZOU"
   },
   "18": {
-    "result": "TB",
+    "period": "FLOOR",
     "secondary": [
       "MIZZOU-JACOB PARKER"
     ],
-    "offense": "MIZZOU",
     "length": 67,
-    "defense": "TXST",
-    "period": "FLOOR",
-    "extras": [],
-    "time": "1011",
     "primary": [
       "TXST-80"
-    ]
+    ],
+    "time": "1011",
+    "extras": [],
+    "offense": "MIZZOU",
+    "result": "TB",
+    "defense": "TXST"
   },
   "19": {
-    "result": "GD",
-    "secondary": [],
-    "offense": "TXST",
-    "length": 8,
-    "defense": "MIZZOU",
     "period": "FLOOR",
-    "extras": [],
-    "time": "1019",
+    "secondary": [],
+    "length": 8,
     "primary": [
       "TXST-STEPHEN VIGIL"
-    ]
+    ],
+    "time": "1019",
+    "extras": [],
+    "offense": "TXST",
+    "result": "GD",
+    "defense": "MIZZOU"
   },
   "20": {
-    "result": "GP",
+    "period": "FLOOR",
     "secondary": [
       "MIZZOU-COLE JOST"
     ],
-    "offense": "MIZZOU",
     "length": 113,
-    "defense": "TXST",
-    "period": "FLOOR",
+    "primary": [
+      "MIZZOU-VINCENT WOOLSEY"
+    ],
+    "time": "1132",
     "extras": [
       [
         "Y",
         "TXST-DONOVAN MITCHELL"
       ]
     ],
-    "time": "1132",
-    "primary": [
-      "MIZZOU-VINCENT WOOLSEY"
-    ]
+    "offense": "MIZZOU",
+    "result": "GP",
+    "defense": "TXST"
   },
   "21": {
-    "result": "GS",
-    "secondary": [],
-    "offense": "TXST",
-    "length": 79,
-    "defense": "MIZZOU",
     "period": "FLOOR",
-    "extras": [],
-    "time": "1211",
+    "secondary": [],
+    "length": 79,
     "primary": [
       "TXST-TIM NGUYEN"
-    ]
+    ],
+    "time": "1211",
+    "extras": [],
+    "offense": "TXST",
+    "result": "GS",
+    "defense": "MIZZOU"
   },
   "22": {
-    "result": "TC",
+    "period": "FLOOR",
     "secondary": [
       "MIZZOU-VINCENT WOOLSEY"
     ],
-    "offense": "MIZZOU",
     "length": 34,
-    "defense": "TXST",
-    "period": "FLOOR",
-    "extras": [],
-    "time": "1245",
     "primary": [
       "TXST-TJ MARTINEZ"
-    ]
+    ],
+    "time": "1245",
+    "extras": [],
+    "offense": "MIZZOU",
+    "result": "TC",
+    "defense": "TXST"
   },
   "23": {
-    "result": "GS",
-    "secondary": [],
-    "offense": "TXST",
-    "length": 5,
-    "defense": "MIZZOU",
     "period": "FLOOR",
-    "extras": [],
-    "time": "1250",
+    "secondary": [],
+    "length": 5,
     "primary": [
       "TXST-TJ MARTINEZ"
-    ]
+    ],
+    "time": "1250",
+    "extras": [],
+    "offense": "TXST",
+    "result": "GS",
+    "defense": "MIZZOU"
   },
   "24": {
-    "result": "EP",
+    "period": "FLOOR",
     "secondary": [
       "MIZZOU-RUTHIE POLIO"
     ],
-    "offense": "MIZZOU",
     "length": 108,
-    "defense": "TXST",
-    "period": "FLOOR",
-    "extras": [],
-    "time": "1358",
     "primary": [
       "MIZZOU-VINCENT WOOLSEY"
-    ]
+    ],
+    "time": "1358",
+    "extras": [],
+    "offense": "MIZZOU",
+    "result": "EP",
+    "defense": "TXST"
   },
   "25": {
-    "result": "TD",
+    "period": "FLOOR",
     "secondary": [
       "TXST-ERIC REYES",
       "TXST-BRANDON MACDOWRA"
     ],
-    "offense": "TXST",
     "length": 75,
-    "defense": "MIZZOU",
-    "period": "FLOOR",
-    "extras": [],
-    "time": "1433",
     "primary": [
       "MIZZOU-VINCENT WOOLSEY"
-    ]
+    ],
+    "time": "1433",
+    "extras": [],
+    "offense": "TXST",
+    "result": "TD",
+    "defense": "MIZZOU"
   },
   "26": {
-    "result": "GP",
+    "period": "FLOOR",
     "secondary": [
       "MIZZOU-VINCENT WOOLSEY"
     ],
-    "offense": "MIZZOU",
     "length": 113,
-    "defense": "TXST",
-    "period": "FLOOR",
-    "extras": [
-      [
-        "R",
-        "TXST-KRIS DELAFUENTE"
-      ]
+    "primary": [
+      "MIZZOU-NATALIE TERZICH"
     ],
     "time": "1546",
-    "primary": [
-      "MIZZOU-NATALIE TERZICH"
-    ]
+    "extras": [
+      [
+        "R",
+        "TXST-KRIS DELAFUENTE"
+      ]
+    ],
+    "offense": "MIZZOU",
+    "result": "GP",
+    "defense": "TXST"
   },
   "27": {
-    "result": "TL",
+    "period": "FLOOR",
     "secondary": [
       "TXST-BRANDON MACDOWRA"
     ],
-    "offense": "TXST",
     "length": 71,
-    "defense": "MIZZOU",
-    "period": "FLOOR",
-    "extras": [],
-    "time": "1617",
     "primary": [
       "MIZZOU-VINCENT WOOLSEY"
-    ]
+    ],
+    "time": "1617",
+    "extras": [],
+    "offense": "TXST",
+    "result": "TL",
+    "defense": "MIZZOU"
   },
   "28": {
-    "result": "GP",
+    "period": "FLOOR",
     "secondary": [
       "MIZZOU-JACOB PARKER"
     ],
-    "offense": "MIZZOU",
     "length": 8,
-    "defense": "TXST",
-    "period": "FLOOR",
-    "extras": [],
-    "time": "1625",
     "primary": [
       "MIZZOU-RUTHIE POLIO"
-    ]
+    ],
+    "time": "1625",
+    "extras": [],
+    "offense": "MIZZOU",
+    "result": "GP",
+    "defense": "TXST"
   },
   "29": {
-    "result": "GS",
-    "secondary": [],
-    "offense": "TXST",
-    "length": 78,
-    "defense": "MIZZOU",
     "period": "FLOOR",
-    "extras": [],
-    "time": "1703",
+    "secondary": [],
+    "length": 78,
     "primary": [
       "TXST-STEPHEN VIGIL"
-    ]
+    ],
+    "time": "1703",
+    "extras": [],
+    "offense": "TXST",
+    "result": "GS",
+    "defense": "MIZZOU"
   },
   "30": {
-    "result": "EP",
+    "period": "FLOOR",
     "secondary": [
       "MIZZOU-NATALIE TERZICH"
     ],
-    "offense": "MIZZOU",
     "length": 17,
-    "defense": "TXST",
-    "period": "FLOOR",
-    "extras": [],
-    "time": "1720",
     "primary": [
       "MIZZOU-JACOB PARKER"
-    ]
+    ],
+    "time": "1720",
+    "extras": [],
+    "offense": "MIZZOU",
+    "result": "EP",
+    "defense": "TXST"
   },
   "31": {
-    "result": "TL",
+    "period": "FLOOR",
     "secondary": [
       "TXST-BRANDON MACDOWRA"
     ],
-    "offense": "TXST",
     "length": 10,
-    "defense": "MIZZOU",
-    "period": "FLOOR",
-    "extras": [],
-    "time": "1730",
     "primary": [
       "MIZZOU-LAFE ARENS"
-    ]
+    ],
+    "time": "1730",
+    "extras": [],
+    "offense": "TXST",
+    "result": "TL",
+    "defense": "MIZZOU"
   },
   "32": {
-    "result": "TB",
+    "period": "SOP",
     "secondary": [
       "MIZZOU-LAFE ARENS"
     ],
-    "offense": "MIZZOU",
     "length": 73,
-    "defense": "TXST",
-    "period": "SOP",
+    "primary": [
+      "TXST-TESS ACOSTA"
+    ],
+    "time": "1803",
     "extras": [
       [
         "R",
         "TXST-KRIS DELAFUENTE"
       ]
     ],
-    "time": "1803",
-    "primary": [
-      "TXST-TESS ACOSTA"
-    ]
+    "offense": "MIZZOU",
+    "result": "TB",
+    "defense": "TXST"
   },
   "33": {
-    "result": "G",
-    "secondary": [],
-    "offense": "TXST",
-    "length": 1,
-    "defense": "MIZZOU",
     "period": "SOP",
-    "extras": [],
-    "time": "1804",
+    "secondary": [],
+    "length": 1,
     "primary": [
       "TXST-STEPHEN VIGIL"
-    ]
+    ],
+    "time": "1804",
+    "extras": [],
+    "offense": "TXST",
+    "result": "G",
+    "defense": "MIZZOU"
   },
   "34": {
-    "result": "TC",
+    "period": "SOP",
     "secondary": [
       "MIZZOU-JACOB PARKER"
     ],
-    "offense": "MIZZOU",
     "length": 54,
-    "defense": "TXST",
-    "period": "SOP",
+    "primary": [
+      "TXST-STEPHEN VIGIL"
+    ],
+    "time": "1858",
     "extras": [
       [
         "R",
         "TXST-KRIS DELAFUENTE"
       ]
     ],
-    "time": "1858",
-    "primary": [
-      "TXST-STEPHEN VIGIL"
-    ]
+    "offense": "MIZZOU",
+    "result": "TC",
+    "defense": "TXST"
   },
   "35": {
-    "result": "GS",
+    "period": "SOP",
     "secondary": [
       "TXST-BRANDON MACDOWRA"
     ],
-    "offense": "TXST",
     "length": 87,
-    "defense": "MIZZOU",
-    "period": "SOP",
-    "extras": [],
-    "time": "1945",
     "primary": [
       "TXST-ERIC REYES"
-    ]
+    ],
+    "time": "1945",
+    "extras": [],
+    "offense": "TXST",
+    "result": "GS",
+    "defense": "MIZZOU"
   },
   "36": {
-    "result": "TC",
+    "period": "SOP",
     "secondary": [
       "MIZZOU-JACOB PARKER"
     ],
-    "offense": "MIZZOU",
     "length": 56,
-    "defense": "TXST",
-    "period": "SOP",
-    "extras": [],
-    "time": "2001",
     "primary": [
       "TXST-STEPHEN VIGIL"
-    ]
+    ],
+    "time": "2001",
+    "extras": [],
+    "offense": "MIZZOU",
+    "result": "TC",
+    "defense": "TXST"
   },
   "37": {
-    "result": "TD",
+    "period": "SOP",
     "secondary": [
       "TXST-STEPHEN VIGIL",
       "TXST-ABBY LUM"
     ],
-    "offense": "TXST",
     "length": 45,
-    "defense": "MIZZOU",
-    "period": "SOP",
-    "extras": [],
-    "time": "2046",
     "primary": [
       "MIZZOU-JACOB PARKER"
-    ]
+    ],
+    "time": "2046",
+    "extras": [],
+    "offense": "TXST",
+    "result": "TD",
+    "defense": "MIZZOU"
   },
   "38": {
-    "result": "EM",
-    "secondary": [],
-    "offense": "MIZZOU",
-    "length": 106,
-    "defense": "TXST",
     "period": "SOP",
+    "secondary": [],
+    "length": 106,
+    "primary": [
+      "MIZZOU-JACOB PARKER"
+    ],
+    "time": "2152",
     "extras": [
       [
         "R",
         "TXST-KRIS DELAFUENTE"
       ]
     ],
-    "time": "2152",
-    "primary": [
-      "MIZZOU-JACOB PARKER"
-    ]
+    "offense": "MIZZOU",
+    "result": "EM",
+    "defense": "TXST"
   },
   "39": {
-    "result": "GP",
+    "period": "SOP",
     "secondary": [
       "TXST-STEPHEN VIGIL"
     ],
-    "offense": "TXST",
     "length": 82,
-    "defense": "MIZZOU",
-    "period": "SOP",
-    "extras": [],
-    "time": "2234",
     "primary": [
       "TXST-ABBY LUM"
-    ]
+    ],
+    "time": "2234",
+    "extras": [],
+    "offense": "TXST",
+    "result": "GP",
+    "defense": "MIZZOU"
   },
   "40": {
-    "result": "GD",
-    "secondary": [],
-    "offense": "MIZZOU",
-    "length": -1,
-    "defense": "TXST",
     "period": "SOP",
+    "secondary": [],
+    "length": -1,
+    "primary": [
+      "MIZZOU-JACOB PARKER"
+    ],
+    "time": "",
     "extras": [
       [
         "SOP",
         1
       ]
     ],
-    "time": "",
-    "primary": [
-      "MIZZOU-JACOB PARKER"
-    ]
+    "offense": "MIZZOU",
+    "result": "GD",
+    "defense": "TXST"
   },
   "41": {
-    "result": "TC",
+    "period": "SOP",
     "secondary": [
       "TXST-STEPHEN VIGIL"
     ],
-    "offense": "TXST",
     "length": -1,
-    "defense": "MIZZOU",
-    "period": "SOP",
-    "extras": [],
-    "time": "2324",
     "primary": [
       "MIZZOU-JACOB PARKER"
-    ]
+    ],
+    "time": "2324",
+    "extras": [],
+    "offense": "TXST",
+    "result": "TC",
+    "defense": "MIZZOU"
   },
   "42": {
-    "result": "RCA",
-    "secondary": [],
-    "offense": "MIZZOU",
-    "length": -1,
-    "defense": "TXST",
     "period": "SOP",
-    "extras": [],
-    "time": "2345",
+    "secondary": [],
+    "length": -1,
     "primary": [
       "TXST-STEVO GRALINSKI"
-    ]
+    ],
+    "time": "2345",
+    "extras": [],
+    "offense": "MIZZOU",
+    "result": "RCA",
+    "defense": "TXST"
   }
 }

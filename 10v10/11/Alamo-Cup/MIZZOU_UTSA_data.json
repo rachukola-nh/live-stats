@@ -1,509 +1,518 @@
 {
   "0": {
-    "extras": [],
-    "time": "0000",
-    "defense": "",
     "primary": [
       "MIZZOU-JACOB PARKER"
     ],
-    "length": -1,
-    "offense": "Brooms Up",
-    "result": "BU",
-    "period": "FLOOR",
     "secondary": [
       "UTSA-DANIEL WILLIAMS"
-    ]
+    ],
+    "time": "0000",
+    "length": -1,
+    "extras": [],
+    "offense": "Brooms Up",
+    "result": "BU",
+    "defense": "",
+    "period": "FLOOR"
   },
   "1": {
-    "extras": [],
-    "time": "",
-    "defense": "UTSA",
-    "primary": [
-      "UTSA-AUSTIN VILLEJO"
-    ],
-    "length": -1,
-    "offense": "MIZZOU",
-    "result": "TD",
     "period": "FLOOR",
     "secondary": [
       "MIZZOU-JACOB PARKER",
       "MIZZOU-UNK"
-    ]
-  },
-  "2": {
-    "extras": [],
-    "time": "",
-    "defense": "MIZZOU",
-    "primary": [
-      "MIZZOU-UNK"
     ],
     "length": -1,
-    "offense": "UTSA",
-    "result": "TC",
+    "primary": [
+      "UTSA-AUSTIN VILLEJO"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "MIZZOU",
+    "result": "TD",
+    "defense": "UTSA"
+  },
+  "2": {
     "period": "FLOOR",
     "secondary": [
       "UTSA-RENN LEBER"
-    ]
-  },
-  "3": {
-    "extras": [],
-    "time": "",
-    "defense": "UTSA",
-    "primary": [
-      "UTSA-RENN LEBER"
     ],
     "length": -1,
-    "offense": "MIZZOU",
-    "result": "TD",
+    "primary": [
+      "MIZZOU-UNK"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "UTSA",
+    "result": "TC",
+    "defense": "MIZZOU"
+  },
+  "3": {
     "period": "FLOOR",
     "secondary": [
       "MIZZOU-RUTHIE POLIO",
       "MIZZOU-BEN SCHLUETER"
-    ]
-  },
-  "4": {
-    "extras": [],
-    "time": "",
-    "defense": "MIZZOU",
-    "primary": [
-      "UTSA-BROOK WILLET"
     ],
     "length": -1,
-    "offense": "UTSA",
-    "result": "ED",
+    "primary": [
+      "UTSA-RENN LEBER"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "MIZZOU",
+    "result": "TD",
+    "defense": "UTSA"
+  },
+  "4": {
     "period": "FLOOR",
     "secondary": [
       "UTSA-AUSTIN VILLEJO"
-    ]
-  },
-  "5": {
-    "extras": [],
-    "time": "",
-    "defense": "UTSA",
-    "primary": [
-      "MIZZOU-RUTHIE POLIO"
     ],
     "length": -1,
-    "offense": "MIZZOU",
-    "result": "GP",
+    "primary": [
+      "UTSA-BROOK WILLET"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "UTSA",
+    "result": "ED",
+    "defense": "MIZZOU"
+  },
+  "5": {
     "period": "FLOOR",
     "secondary": [
       "MIZZOU-VINCENT WOOLSEY"
-    ]
-  },
-  "6": {
-    "extras": [],
-    "time": "",
-    "defense": "MIZZOU",
-    "primary": [
-      "MIZZOU-JACOB PARKER"
     ],
     "length": -1,
-    "offense": "UTSA",
-    "result": "TD",
+    "primary": [
+      "MIZZOU-RUTHIE POLIO"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "MIZZOU",
+    "result": "GP",
+    "defense": "UTSA"
+  },
+  "6": {
     "period": "FLOOR",
     "secondary": [
       "UTSA-AUSTIN VILLEJO",
       "UTSA-CHUCKY SEPULVEDA"
-    ]
+    ],
+    "length": -1,
+    "primary": [
+      "MIZZOU-JACOB PARKER"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "UTSA",
+    "result": "TD",
+    "defense": "MIZZOU"
   },
   "7": {
+    "period": "FLOOR",
+    "secondary": [
+      "MIZZOU-JACOB PARKER"
+    ],
+    "length": -1,
+    "primary": [
+      "MIZZOU-VINCENT WOOLSEY"
+    ],
+    "time": "",
     "extras": [
       [
         "Y",
         "UTSA-CHUCKY SEPULVEDA"
       ]
     ],
-    "time": "",
-    "defense": "UTSA",
-    "primary": [
-      "MIZZOU-VINCENT WOOLSEY"
-    ],
-    "length": -1,
     "offense": "MIZZOU",
     "result": "GP",
-    "period": "FLOOR",
-    "secondary": [
-      "MIZZOU-JACOB PARKER"
-    ]
+    "defense": "UTSA"
   },
   "8": {
-    "extras": [],
-    "time": "",
-    "defense": "MIZZOU",
+    "period": "FLOOR",
+    "secondary": [
+      "UTSA-RENN LEBER"
+    ],
+    "length": -1,
     "primary": [
       "UTSA-AUSTIN VILLEJO"
     ],
-    "length": -1,
+    "time": "",
+    "extras": [],
     "offense": "UTSA",
     "result": "EP",
-    "period": "FLOOR",
-    "secondary": [
-      "UTSA-RENN LEBER"
-    ]
+    "defense": "MIZZOU"
   },
   "9": {
-    "extras": [],
-    "time": "",
-    "defense": "UTSA",
-    "primary": [
-      "MIZZOU-RUTHIE POLIO"
-    ],
-    "length": -1,
-    "offense": "MIZZOU",
-    "result": "GP",
     "period": "FLOOR",
     "secondary": [
       "MIZZOU-JACOB PARKER"
-    ]
+    ],
+    "length": -1,
+    "primary": [
+      "MIZZOU-RUTHIE POLIO"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "MIZZOU",
+    "result": "GP",
+    "defense": "UTSA"
   },
   "10": {
-    "extras": [],
-    "time": "",
-    "defense": "MIZZOU",
+    "period": "FLOOR",
+    "secondary": [],
+    "length": -1,
     "primary": [
       "UTSA-RENN LEBER"
     ],
-    "length": -1,
+    "time": "",
+    "extras": [],
     "offense": "UTSA",
     "result": "EM",
-    "period": "FLOOR",
-    "secondary": []
+    "defense": "MIZZOU"
   },
   "11": {
+    "period": "FLOOR",
+    "secondary": [
+      "MIZZOU-24"
+    ],
+    "length": -1,
+    "primary": [
+      "MIZZOU-JACOB PARKER"
+    ],
+    "time": "",
     "extras": [
       [
         "Y",
         "MIZZOU-2"
       ]
     ],
-    "time": "",
-    "defense": "UTSA",
-    "primary": [
-      "MIZZOU-JACOB PARKER"
-    ],
-    "length": -1,
     "offense": "MIZZOU",
     "result": "ED",
-    "period": "FLOOR",
-    "secondary": [
-      "MIZZOU-24"
-    ]
+    "defense": "UTSA"
   },
   "12": {
-    "extras": [],
-    "time": "",
-    "defense": "MIZZOU",
+    "period": "FLOOR",
+    "secondary": [],
+    "length": -1,
     "primary": [
       "UTSA-AUSTIN VILLEJO"
     ],
-    "length": -1,
+    "time": "",
+    "extras": [],
     "offense": "UTSA",
     "result": "GS",
-    "period": "FLOOR",
-    "secondary": []
+    "defense": "MIZZOU"
   },
   "13": {
-    "extras": [],
-    "time": "",
-    "defense": "UTSA",
+    "period": "FLOOR",
+    "secondary": [],
+    "length": -1,
     "primary": [
       "MIZZOU-MIKE HOLIDAY"
     ],
-    "length": -1,
+    "time": "",
+    "extras": [],
     "offense": "MIZZOU",
     "result": "EM",
-    "period": "FLOOR",
-    "secondary": []
+    "defense": "UTSA"
   },
   "14": {
-    "extras": [],
-    "time": "",
-    "defense": "MIZZOU",
+    "period": "FLOOR",
+    "secondary": [],
+    "length": -1,
     "primary": [
       "UTSA-MIGUEL ESPARZA"
     ],
-    "length": -1,
+    "time": "",
+    "extras": [],
     "offense": "UTSA",
     "result": "GS",
-    "period": "FLOOR",
-    "secondary": []
+    "defense": "MIZZOU"
   },
   "15": {
-    "extras": [],
-    "time": "",
-    "defense": "UTSA",
+    "period": "FLOOR",
+    "secondary": [
+      "MIZZOU-MIKE HOLIDAY"
+    ],
+    "length": -1,
     "primary": [
       "MIZZOU-DREW MATZES"
     ],
-    "length": -1,
+    "time": "",
+    "extras": [],
     "offense": "MIZZOU",
     "result": "GD",
-    "period": "FLOOR",
-    "secondary": [
-      "MIZZOU-MIKE HOLIDAY"
-    ]
+    "defense": "UTSA"
   },
   "16": {
-    "extras": [],
-    "time": "",
-    "defense": "MIZZOU",
+    "period": "FLOOR",
+    "secondary": [],
+    "length": -1,
     "primary": [
       "UTSA-MIGUEL ESPARZA"
     ],
-    "length": -1,
+    "time": "",
+    "extras": [],
     "offense": "UTSA",
     "result": "EM",
-    "period": "FLOOR",
-    "secondary": []
+    "defense": "MIZZOU"
   },
   "17": {
-    "extras": [],
-    "time": "",
-    "defense": "UTSA",
+    "period": "FLOOR",
+    "secondary": [],
+    "length": -1,
     "primary": [
       "MIZZOU-54"
     ],
-    "length": -1,
+    "time": "",
+    "extras": [],
     "offense": "MIZZOU",
     "result": "GD",
-    "period": "FLOOR",
-    "secondary": []
+    "defense": "UTSA"
   },
   "18": {
-    "extras": [],
-    "time": "",
-    "defense": "MIZZOU",
+    "period": "FLOOR",
+    "secondary": [],
+    "length": -1,
     "primary": [
       "UTSA-MIGUEL ESPARZA"
     ],
-    "length": -1,
+    "time": "",
+    "extras": [],
     "offense": "UTSA",
     "result": "GD",
-    "period": "FLOOR",
-    "secondary": []
+    "defense": "MIZZOU"
   },
   "19": {
-    "extras": [],
-    "time": "",
-    "defense": "UTSA",
+    "period": "FLOOR",
+    "secondary": [],
+    "length": -1,
     "primary": [
       "MIZZOU-54"
     ],
-    "length": -1,
+    "time": "",
+    "extras": [],
     "offense": "MIZZOU",
     "result": "GS",
-    "period": "FLOOR",
-    "secondary": []
+    "defense": "UTSA"
   },
   "20": {
-    "extras": [],
-    "time": "",
-    "defense": "MIZZOU",
+    "period": "FLOOR",
+    "secondary": [
+      "UTSA-MIGUEL ESPARZA"
+    ],
+    "length": -1,
     "primary": [
       "UTSA-CHUCKY SEPULVEDA"
     ],
-    "length": -1,
+    "time": "",
+    "extras": [],
     "offense": "UTSA",
     "result": "ED",
-    "period": "FLOOR",
-    "secondary": [
-      "UTSA-MIGUEL ESPARZA"
-    ]
+    "defense": "MIZZOU"
   },
   "21": {
-    "extras": [],
-    "time": "",
-    "defense": "UTSA",
+    "period": "FLOOR",
+    "secondary": [],
+    "length": -1,
     "primary": [
       "MIZZOU-JACOB PARKER"
     ],
-    "length": -1,
+    "time": "",
+    "extras": [],
     "offense": "MIZZOU",
     "result": "GD",
-    "period": "FLOOR",
-    "secondary": []
+    "defense": "UTSA"
   },
   "22": {
+    "period": "FLOOR",
+    "secondary": [
+      "UTSA-MIGUEL ESPARZA"
+    ],
+    "length": -1,
+    "primary": [
+      "MIZZOU-54"
+    ],
+    "time": "",
     "extras": [
       [
         "Y",
         "UTSA-0"
       ]
     ],
-    "time": "",
-    "defense": "MIZZOU",
-    "primary": [
-      "MIZZOU-54"
-    ],
-    "length": -1,
     "offense": "UTSA",
     "result": "TC",
-    "period": "FLOOR",
-    "secondary": [
-      "UTSA-MIGUEL ESPARZA"
-    ]
+    "defense": "MIZZOU"
   },
   "23": {
-    "extras": [],
-    "time": "",
-    "defense": "UTSA",
-    "primary": [
-      "UTSA-DAVID KEIM"
-    ],
-    "length": -1,
-    "offense": "MIZZOU",
-    "result": "TC",
     "period": "FLOOR",
     "secondary": [
       "MIZZOU-DREW MATZES"
-    ]
+    ],
+    "length": -1,
+    "primary": [
+      "UTSA-DAVID KEIM"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "MIZZOU",
+    "result": "TC",
+    "defense": "UTSA"
   },
   "24": {
+    "period": "FLOOR",
+    "secondary": [],
+    "length": -1,
+    "primary": [
+      "UTSA-MIGUEL ESPARZA"
+    ],
+    "time": "",
     "extras": [
       [
         "R",
         "MIZZOU-MORGAN SMITH"
       ]
     ],
-    "time": "",
-    "defense": "MIZZOU",
-    "primary": [
-      "UTSA-MIGUEL ESPARZA"
-    ],
-    "length": -1,
     "offense": "UTSA",
     "result": "EM",
-    "period": "FLOOR",
-    "secondary": []
+    "defense": "MIZZOU"
   },
   "25": {
-    "extras": [],
-    "time": "",
-    "defense": "UTSA",
+    "period": "FLOOR",
+    "secondary": [
+      "MIZZOU-JACOB PARKER"
+    ],
+    "length": -1,
     "primary": [
       "MIZZOU-DREW MATZES"
     ],
-    "length": -1,
+    "time": "",
+    "extras": [],
     "offense": "MIZZOU",
     "result": "GP",
-    "period": "FLOOR",
-    "secondary": [
-      "MIZZOU-JACOB PARKER"
-    ]
+    "defense": "UTSA"
   },
   "26": {
-    "extras": [],
-    "time": "",
-    "defense": "MIZZOU",
-    "primary": [
-      "MIZZOU-JACOB PARKER"
-    ],
-    "length": -1,
-    "offense": "UTSA",
-    "result": "TC",
     "period": "FLOOR",
     "secondary": [
       "UTSA-AUSTIN VILLEJO"
-    ]
+    ],
+    "length": -1,
+    "primary": [
+      "MIZZOU-JACOB PARKER"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "UTSA",
+    "result": "TC",
+    "defense": "MIZZOU"
   },
   "27": {
+    "period": "FLOOR",
+    "secondary": [
+      "MIZZOU-MIKE HOLIDAY"
+    ],
+    "length": -1,
+    "primary": [
+      "MIZZOU-DREW MATZES"
+    ],
+    "time": "",
     "extras": [
       [
         "Y",
         "UTSA-4"
       ]
     ],
-    "time": "",
-    "defense": "UTSA",
-    "primary": [
-      "MIZZOU-DREW MATZES"
-    ],
-    "length": -1,
     "offense": "MIZZOU",
     "result": "GS",
-    "period": "FLOOR",
-    "secondary": [
-      "MIZZOU-MIKE HOLIDAY"
-    ]
+    "defense": "UTSA"
   },
   "28": {
-    "extras": [],
-    "time": "",
-    "defense": "MIZZOU",
-    "primary": [
-      "MIZZOU-MORGAN SMITH"
-    ],
-    "length": -1,
-    "offense": "UTSA",
-    "result": "TB",
     "period": "FLOOR",
     "secondary": [
       "UTSA-MIGUEL ESPARZA"
-    ]
-  },
-  "29": {
-    "extras": [],
-    "time": "",
-    "defense": "UTSA",
-    "primary": [
-      "UTSA-AUSTIN VILLEJO"
     ],
     "length": -1,
-    "offense": "MIZZOU",
-    "result": "TL",
+    "primary": [
+      "MIZZOU-MORGAN SMITH"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "UTSA",
+    "result": "TB",
+    "defense": "MIZZOU"
+  },
+  "29": {
     "period": "FLOOR",
     "secondary": [
       "MIZZOU-RUTHIE POLIO"
-    ]
-  },
-  "30": {
-    "extras": [],
-    "time": "",
-    "defense": "MIZZOU",
-    "primary": [
-      "MIZZOU-JUSTIN DEWICK"
     ],
     "length": -1,
-    "offense": "UTSA",
-    "result": "TB",
+    "primary": [
+      "UTSA-AUSTIN VILLEJO"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "MIZZOU",
+    "result": "TL",
+    "defense": "UTSA"
+  },
+  "30": {
     "period": "FLOOR",
     "secondary": [
       "UTSA-4"
-    ]
-  },
-  "31": {
-    "extras": [],
-    "time": "",
-    "defense": "UTSA",
-    "primary": [
-      "UTSA-JONATHAN GARCIA"
     ],
     "length": -1,
-    "offense": "MIZZOU",
+    "primary": [
+      "MIZZOU-JUSTIN DEWICK"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "UTSA",
     "result": "TB",
+    "defense": "MIZZOU"
+  },
+  "31": {
     "period": "FLOOR",
     "secondary": [
       "MIZZOU-DREW MATZES"
-    ]
-  },
-  "32": {
-    "extras": [],
-    "time": "",
-    "defense": "MIZZOU",
-    "primary": [
-      "MIZZOU-DREW MATZES"
     ],
     "length": -1,
-    "offense": "UTSA",
-    "result": "TD",
+    "primary": [
+      "UTSA-JONATHAN GARCIA"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "MIZZOU",
+    "result": "TB",
+    "defense": "UTSA"
+  },
+  "32": {
     "period": "FLOOR",
     "secondary": [
       "UTSA-AUSTIN VILLEJO",
       "UTSA-BROOK WILLET"
-    ]
+    ],
+    "length": -1,
+    "primary": [
+      "MIZZOU-DREW MATZES"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "UTSA",
+    "result": "TD",
+    "defense": "MIZZOU"
   },
   "33": {
+    "period": "SOP",
+    "secondary": [
+      "MIZZOU-MIKE HOLIDAY"
+    ],
+    "length": -1,
+    "primary": [
+      "MIZZOU-JACOB PARKER"
+    ],
+    "time": "",
     "extras": [
       [
         "SOP",
@@ -514,467 +523,458 @@
         "UTSA-TYLER ZREET"
       ]
     ],
-    "time": "",
-    "defense": "UTSA",
-    "primary": [
-      "MIZZOU-JACOB PARKER"
-    ],
-    "length": -1,
     "offense": "MIZZOU",
     "result": "EP",
-    "period": "SOP",
-    "secondary": [
-      "MIZZOU-MIKE HOLIDAY"
-    ]
+    "defense": "UTSA"
   },
   "34": {
+    "period": "SOP",
+    "secondary": [
+      "UTSA-AUSTIN VILLEJO"
+    ],
+    "length": -1,
+    "primary": [
+      "UTSA-4"
+    ],
+    "time": "",
     "extras": [
       [
         "R",
         "MIZZOU-35"
       ]
     ],
-    "time": "",
-    "defense": "MIZZOU",
-    "primary": [
-      "UTSA-4"
-    ],
-    "length": -1,
     "offense": "UTSA",
     "result": "GP",
-    "period": "SOP",
-    "secondary": [
-      "UTSA-AUSTIN VILLEJO"
-    ]
+    "defense": "MIZZOU"
   },
   "35": {
+    "period": "SOP",
+    "secondary": [],
+    "length": -1,
+    "primary": [
+      "MIZZOU-JACOB PARKER"
+    ],
+    "time": "",
     "extras": [
       [
         "R",
         "UTSA-JONATHAN GARCIA"
       ]
     ],
-    "time": "",
-    "defense": "UTSA",
-    "primary": [
-      "MIZZOU-JACOB PARKER"
-    ],
-    "length": -1,
     "offense": "MIZZOU",
     "result": "ED",
-    "period": "SOP",
-    "secondary": []
+    "defense": "UTSA"
   },
   "36": {
-    "extras": [],
-    "time": "",
-    "defense": "MIZZOU",
-    "primary": [
-      "MIZZOU-DAVID BECKER"
-    ],
-    "length": -1,
-    "offense": "UTSA",
-    "result": "TB",
     "period": "SOP",
     "secondary": [
       "UTSA-4"
-    ]
+    ],
+    "length": -1,
+    "primary": [
+      "MIZZOU-DAVID BECKER"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "UTSA",
+    "result": "TB",
+    "defense": "MIZZOU"
   },
   "37": {
-    "extras": [],
-    "time": "",
-    "defense": "UTSA",
+    "period": "SOP",
+    "secondary": [
+      "MIZZOU-JACOB PARKER"
+    ],
+    "length": -1,
     "primary": [
       "MIZZOU-RUTHIE POLIO"
     ],
-    "length": -1,
+    "time": "",
+    "extras": [],
     "offense": "MIZZOU",
     "result": "GP",
-    "period": "SOP",
-    "secondary": [
-      "MIZZOU-JACOB PARKER"
-    ]
+    "defense": "UTSA"
   },
   "38": {
-    "extras": [],
-    "time": "",
-    "defense": "MIZZOU",
+    "period": "SOP",
+    "secondary": [
+      "UTSA-AUSTIN VILLEJO"
+    ],
+    "length": -1,
     "primary": [
       "MIZZOU-DAVID BECKER"
     ],
-    "length": -1,
+    "time": "",
+    "extras": [],
     "offense": "UTSA",
     "result": "TB",
-    "period": "SOP",
-    "secondary": [
-      "UTSA-AUSTIN VILLEJO"
-    ]
+    "defense": "MIZZOU"
   },
   "39": {
-    "extras": [],
-    "time": "",
-    "defense": "UTSA",
+    "period": "SOP",
+    "secondary": [
+      "MIZZOU-JACOB PARKER"
+    ],
+    "length": -1,
     "primary": [
       "UTSA-DANIEL WILLIAMS"
     ],
-    "length": -1,
+    "time": "",
+    "extras": [],
     "offense": "MIZZOU",
     "result": "TB",
-    "period": "SOP",
-    "secondary": [
-      "MIZZOU-JACOB PARKER"
-    ]
+    "defense": "UTSA"
   },
   "40": {
-    "extras": [],
-    "time": "",
-    "defense": "MIZZOU",
+    "period": "SOP",
+    "secondary": [],
+    "length": -1,
     "primary": [
       "UTSA-AUSTIN VILLEJO"
     ],
-    "length": -1,
+    "time": "",
+    "extras": [],
     "offense": "UTSA",
     "result": "EM",
-    "period": "SOP",
-    "secondary": []
+    "defense": "MIZZOU"
   },
   "41": {
-    "extras": [],
-    "time": "",
-    "defense": "UTSA",
-    "primary": [
-      "UTSA-MIGUEL ESPARZA"
-    ],
-    "length": -1,
-    "offense": "MIZZOU",
-    "result": "TC",
     "period": "SOP",
     "secondary": [
       "MIZZOU-JACOB PARKER"
-    ]
-  },
-  "42": {
-    "extras": [],
-    "time": "",
-    "defense": "MIZZOU",
+    ],
+    "length": -1,
     "primary": [
       "UTSA-MIGUEL ESPARZA"
     ],
+    "time": "",
+    "extras": [],
+    "offense": "MIZZOU",
+    "result": "TC",
+    "defense": "UTSA"
+  },
+  "42": {
+    "period": "SOP",
+    "secondary": [],
     "length": -1,
+    "primary": [
+      "UTSA-MIGUEL ESPARZA"
+    ],
+    "time": "",
+    "extras": [],
     "offense": "UTSA",
     "result": "GD",
-    "period": "SOP",
-    "secondary": []
+    "defense": "MIZZOU"
   },
   "43": {
-    "extras": [],
-    "time": "",
-    "defense": "UTSA",
+    "period": "SOP",
+    "secondary": [],
+    "length": -1,
     "primary": [
       "MIZZOU-JACOB PARKER"
     ],
-    "length": -1,
+    "time": "",
+    "extras": [],
     "offense": "MIZZOU",
     "result": "GD",
-    "period": "SOP",
-    "secondary": []
+    "defense": "UTSA"
   },
   "44": {
-    "extras": [],
-    "time": "",
-    "defense": "MIZZOU",
+    "period": "SOP",
+    "secondary": [
+      "UTSA-AUSTIN VILLEJO"
+    ],
+    "length": -1,
     "primary": [
       "UTSA-4"
     ],
-    "length": -1,
+    "time": "",
+    "extras": [],
     "offense": "UTSA",
     "result": "ED",
-    "period": "SOP",
-    "secondary": [
-      "UTSA-AUSTIN VILLEJO"
-    ]
+    "defense": "MIZZOU"
   },
   "45": {
-    "extras": [],
-    "time": "",
-    "defense": "UTSA",
-    "primary": [
-      "MIZZOU-UNK"
-    ],
-    "length": -1,
-    "offense": "MIZZOU",
-    "result": "GP",
     "period": "SOP",
     "secondary": [
       "MIZZOU-JACOB PARKER"
-    ]
-  },
-  "46": {
-    "extras": [],
-    "time": "",
-    "defense": "MIZZOU",
+    ],
+    "length": -1,
     "primary": [
       "MIZZOU-UNK"
     ],
-    "length": -1,
-    "offense": "UTSA",
-    "result": "TD",
+    "time": "",
+    "extras": [],
+    "offense": "MIZZOU",
+    "result": "GP",
+    "defense": "UTSA"
+  },
+  "46": {
     "period": "SOP",
     "secondary": [
       "UTSA-AUSTIN VILLEJO",
       "UTSA-4"
-    ]
+    ],
+    "length": -1,
+    "primary": [
+      "MIZZOU-UNK"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "UTSA",
+    "result": "TD",
+    "defense": "MIZZOU"
   },
   "47": {
-    "extras": [],
-    "time": "",
-    "defense": "UTSA",
+    "period": "SOP",
+    "secondary": [],
+    "length": -1,
     "primary": [
       "MIZZOU-JACOB PARKER"
     ],
-    "length": -1,
+    "time": "",
+    "extras": [],
     "offense": "MIZZOU",
     "result": "EB",
-    "period": "SOP",
-    "secondary": []
+    "defense": "UTSA"
   },
   "48": {
-    "extras": [],
-    "time": "",
-    "defense": "MIZZOU",
+    "period": "SOP",
+    "secondary": [],
+    "length": -1,
     "primary": [
       "UTSA-MIGUEL ESPARZA"
     ],
-    "length": -1,
+    "time": "",
+    "extras": [],
     "offense": "UTSA",
     "result": "GD",
-    "period": "SOP",
-    "secondary": []
+    "defense": "MIZZOU"
   },
   "49": {
-    "extras": [],
-    "time": "",
-    "defense": "UTSA",
+    "period": "SOP",
+    "secondary": [],
+    "length": -1,
     "primary": [
       "MIZZOU-JACOB PARKER"
     ],
-    "length": -1,
+    "time": "",
+    "extras": [],
     "offense": "MIZZOU",
     "result": "GS",
-    "period": "SOP",
-    "secondary": []
+    "defense": "UTSA"
   },
   "50": {
-    "extras": [],
-    "time": "",
-    "defense": "MIZZOU",
-    "primary": [
-      "UTSA-BROOK WILLET"
-    ],
-    "length": -1,
-    "offense": "UTSA",
-    "result": "GP",
     "period": "SOP",
     "secondary": [
       "UTSA-AUSTIN VILLEJO"
-    ]
+    ],
+    "length": -1,
+    "primary": [
+      "UTSA-BROOK WILLET"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "UTSA",
+    "result": "GP",
+    "defense": "MIZZOU"
   },
   "51": {
+    "period": "SOP",
+    "secondary": [
+      "MIZZOU-JACOB PARKER"
+    ],
+    "length": -1,
+    "primary": [
+      "UTSA-DANIEL WILLIAMS"
+    ],
+    "time": "",
     "extras": [
       [
         "R",
         "UTSA-JONATHAN GARCIA"
       ]
     ],
-    "time": "",
-    "defense": "UTSA",
-    "primary": [
-      "UTSA-DANIEL WILLIAMS"
-    ],
-    "length": -1,
     "offense": "MIZZOU",
     "result": "TB",
-    "period": "SOP",
-    "secondary": [
-      "MIZZOU-JACOB PARKER"
-    ]
+    "defense": "UTSA"
   },
   "52": {
-    "extras": [],
-    "time": "",
-    "defense": "MIZZOU",
+    "period": "SOP",
+    "secondary": [],
+    "length": -1,
     "primary": [
       "UTSA-MIGUEL ESPARZA"
     ],
-    "length": -1,
+    "time": "",
+    "extras": [],
     "offense": "UTSA",
     "result": "GD",
-    "period": "SOP",
-    "secondary": []
+    "defense": "MIZZOU"
   },
   "53": {
-    "extras": [],
-    "time": "",
-    "defense": "UTSA",
-    "primary": [
-      "UTSA-MIGUEL ESPARZA"
-    ],
-    "length": -1,
-    "offense": "MIZZOU",
-    "result": "TD",
     "period": "SOP",
     "secondary": [
       "MIZZOU-JACOB PARKER",
       "MIZZOU-24"
-    ]
-  },
-  "54": {
-    "extras": [],
-    "time": "",
-    "defense": "MIZZOU",
-    "primary": [
-      "UTSA-AUSTIN VILLEJO"
     ],
     "length": -1,
-    "offense": "UTSA",
-    "result": "GS",
-    "period": "SOP",
-    "secondary": []
-  },
-  "55": {
-    "extras": [],
-    "time": "",
-    "defense": "UTSA",
-    "primary": [
-      "MIZZOU-RUTHIE POLIO"
-    ],
-    "length": -1,
-    "offense": "MIZZOU",
-    "result": "GP",
-    "period": "SOP",
-    "secondary": [
-      "MIZZOU-JACOB PARKER"
-    ]
-  },
-  "56": {
-    "extras": [],
-    "time": "",
-    "defense": "MIZZOU",
     "primary": [
       "UTSA-MIGUEL ESPARZA"
     ],
+    "time": "",
+    "extras": [],
+    "offense": "MIZZOU",
+    "result": "TD",
+    "defense": "UTSA"
+  },
+  "54": {
+    "period": "SOP",
+    "secondary": [],
     "length": -1,
+    "primary": [
+      "UTSA-AUSTIN VILLEJO"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "UTSA",
+    "result": "GS",
+    "defense": "MIZZOU"
+  },
+  "55": {
+    "period": "SOP",
+    "secondary": [
+      "MIZZOU-JACOB PARKER"
+    ],
+    "length": -1,
+    "primary": [
+      "MIZZOU-RUTHIE POLIO"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "MIZZOU",
+    "result": "GP",
+    "defense": "UTSA"
+  },
+  "56": {
+    "period": "SOP",
+    "secondary": [],
+    "length": -1,
+    "primary": [
+      "UTSA-MIGUEL ESPARZA"
+    ],
+    "time": "",
+    "extras": [],
     "offense": "UTSA",
     "result": "GD",
-    "period": "SOP",
-    "secondary": []
+    "defense": "MIZZOU"
   },
   "57": {
+    "period": "SOP",
+    "secondary": [],
+    "length": -1,
+    "primary": [
+      "MIZZOU-JACOB PARKER"
+    ],
+    "time": "",
     "extras": [
       [
         "Y",
         "UTSA-RENN LEBER"
       ]
     ],
-    "time": "",
-    "defense": "UTSA",
-    "primary": [
-      "MIZZOU-JACOB PARKER"
-    ],
-    "length": -1,
     "offense": "MIZZOU",
     "result": "GS",
-    "period": "SOP",
-    "secondary": []
+    "defense": "UTSA"
   },
   "58": {
-    "extras": [],
-    "time": "",
-    "defense": "MIZZOU",
+    "period": "SOP",
+    "secondary": [],
+    "length": -1,
     "primary": [
       "UTSA-RENN LEBER"
     ],
-    "length": -1,
+    "time": "",
+    "extras": [],
     "offense": "UTSA",
     "result": "GD",
-    "period": "SOP",
-    "secondary": []
+    "defense": "MIZZOU"
   },
   "59": {
-    "extras": [],
-    "time": "",
-    "defense": "UTSA",
+    "period": "SOP",
+    "secondary": [],
+    "length": -1,
     "primary": [
       "MIZZOU-JACOB PARKER"
     ],
-    "length": -1,
+    "time": "",
+    "extras": [],
     "offense": "MIZZOU",
     "result": "GD",
-    "period": "SOP",
-    "secondary": []
+    "defense": "UTSA"
   },
   "60": {
-    "extras": [],
-    "time": "",
-    "defense": "MIZZOU",
-    "primary": [
-      "UTSA-CHUCKY SEPULVEDA"
-    ],
-    "length": -1,
-    "offense": "UTSA",
-    "result": "GP",
     "period": "SOP",
     "secondary": [
       "UTSA-AUSTIN VILLEJO"
-    ]
-  },
-  "61": {
-    "extras": [],
-    "time": "",
-    "defense": "UTSA",
-    "primary": [
-      "UTSA-BROOK WILLET"
     ],
     "length": -1,
-    "offense": "MIZZOU",
-    "result": "TD",
+    "primary": [
+      "UTSA-CHUCKY SEPULVEDA"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "UTSA",
+    "result": "GP",
+    "defense": "MIZZOU"
+  },
+  "61": {
     "period": "SOP",
     "secondary": [
       "MIZZOU-RUTHIE POLIO",
       "MIZZOU-UNK"
-    ]
+    ],
+    "length": -1,
+    "primary": [
+      "UTSA-BROOK WILLET"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "MIZZOU",
+    "result": "TD",
+    "defense": "UTSA"
   },
   "62": {
+    "period": "SOP",
+    "secondary": [
+      "UTSA-AUSTIN VILLEJO"
+    ],
+    "length": -1,
+    "primary": [
+      "UTSA-BROOK WILLET"
+    ],
+    "time": "",
     "extras": [
       [
         "Y",
         "MIZZOU-UNK"
       ]
     ],
-    "time": "",
-    "defense": "MIZZOU",
-    "primary": [
-      "UTSA-BROOK WILLET"
-    ],
-    "length": -1,
     "offense": "UTSA",
     "result": "GS",
-    "period": "SOP",
-    "secondary": [
-      "UTSA-AUSTIN VILLEJO"
-    ]
+    "defense": "MIZZOU"
   },
   "63": {
-    "extras": [],
-    "time": "",
-    "defense": "UTSA",
+    "period": "SOP",
+    "secondary": [],
+    "length": -1,
     "primary": [
       "UTSA-DAVID KEIM"
     ],
-    "length": -1,
+    "time": "",
+    "extras": [],
     "offense": "MIZZOU",
     "result": "RCB",
-    "period": "SOP",
-    "secondary": []
+    "defense": "UTSA"
   }
 }

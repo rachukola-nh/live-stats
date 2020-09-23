@@ -1,23 +1,26 @@
 {
   "0": {
-    "defense": "",
-    "offense": "Brooms Up",
-    "result": "BU",
-    "time": "0000",
-    "length": -1,
-    "extras": [],
     "primary": [
       "ROCHESTER-32"
     ],
-    "period": "FLOOR",
     "secondary": [
       "UTSA-JONATHAN GARCIA"
-    ]
+    ],
+    "time": "0000",
+    "length": -1,
+    "extras": [],
+    "offense": "Brooms Up",
+    "result": "BU",
+    "defense": "",
+    "period": "FLOOR"
   },
   "1": {
-    "defense": "ROCHESTER",
-    "offense": "UTSA",
-    "result": "GD",
+    "period": "FLOOR",
+    "secondary": [],
+    "length": -1,
+    "primary": [
+      "UTSA-AUSTIN VILLEJO"
+    ],
     "time": "",
     "extras": [
       [
@@ -25,62 +28,62 @@
         "ROCHESTER-EMMA FOLEY"
       ]
     ],
-    "length": -1,
-    "primary": [
-      "UTSA-AUSTIN VILLEJO"
-    ],
-    "period": "FLOOR",
-    "secondary": []
+    "offense": "UTSA",
+    "result": "GD",
+    "defense": "ROCHESTER"
   },
   "2": {
-    "defense": "UTSA",
-    "offense": "ROCHESTER",
-    "result": "GP",
-    "time": "",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "ROCHESTER-JUSTIN KING"
+    ],
     "length": -1,
     "primary": [
       "ROCHESTER-MADDISON JORDAN"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "ROCHESTER-JUSTIN KING"
-    ]
-  },
-  "3": {
-    "defense": "ROCHESTER",
-    "offense": "UTSA",
-    "result": "GP",
     "time": "",
     "extras": [],
+    "offense": "ROCHESTER",
+    "result": "GP",
+    "defense": "UTSA"
+  },
+  "3": {
+    "period": "FLOOR",
+    "secondary": [
+      "UTSA-AUSTIN VILLEJO"
+    ],
     "length": -1,
     "primary": [
       "UTSA-UNK"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "UTSA-AUSTIN VILLEJO"
-    ]
-  },
-  "4": {
-    "defense": "UTSA",
-    "offense": "ROCHESTER",
-    "result": "EP",
     "time": "",
     "extras": [],
+    "offense": "UTSA",
+    "result": "GP",
+    "defense": "ROCHESTER"
+  },
+  "4": {
+    "period": "FLOOR",
+    "secondary": [
+      "ROCHESTER-UNK"
+    ],
     "length": -1,
     "primary": [
       "ROCHESTER-JUSTIN KING"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "ROCHESTER-UNK"
-    ]
+    "time": "",
+    "extras": [],
+    "offense": "ROCHESTER",
+    "result": "EP",
+    "defense": "UTSA"
   },
   "5": {
-    "defense": "ROCHESTER",
-    "offense": "UTSA",
-    "result": "GD",
+    "period": "FLOOR",
+    "secondary": [],
+    "length": -1,
+    "primary": [
+      "UTSA-AUSTIN VILLEJO"
+    ],
     "time": "0245",
     "extras": [
       [
@@ -88,117 +91,119 @@
         "UTSA-95"
       ]
     ],
-    "length": -1,
-    "primary": [
-      "UTSA-AUSTIN VILLEJO"
-    ],
-    "period": "FLOOR",
-    "secondary": []
+    "offense": "UTSA",
+    "result": "GD",
+    "defense": "ROCHESTER"
   },
   "6": {
-    "defense": "UTSA",
-    "offense": "ROCHESTER",
-    "result": "TB",
-    "time": "",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "ROCHESTER-OWYN GUINNIP"
+    ],
     "length": -1,
     "primary": [
       "UTSA-JONATHAN GARCIA"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "ROCHESTER-OWYN GUINNIP"
-    ]
-  },
-  "7": {
-    "defense": "ROCHESTER",
-    "offense": "UTSA",
-    "result": "GP",
     "time": "",
     "extras": [],
-    "length": -1,
-    "primary": [
-      "UTSA-AUSTIN VILLEJO"
-    ],
+    "offense": "ROCHESTER",
+    "result": "TB",
+    "defense": "UTSA"
+  },
+  "7": {
     "period": "FLOOR",
     "secondary": [
       "UTSA-17"
-    ]
-  },
-  "8": {
-    "defense": "UTSA",
-    "offense": "ROCHESTER",
-    "result": "EP",
-    "time": "",
-    "extras": [],
-    "length": -1,
-    "primary": [
-      "ROCHESTER-BASEM ASHKAR"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "ROCHESTER-SAMANTHA DINGA"
-    ]
-  },
-  "9": {
-    "defense": "ROCHESTER",
-    "offense": "UTSA",
-    "result": "GS",
-    "time": "",
-    "extras": [],
     "length": -1,
     "primary": [
       "UTSA-AUSTIN VILLEJO"
     ],
-    "period": "FLOOR",
-    "secondary": []
-  },
-  "10": {
-    "defense": "UTSA",
-    "offense": "ROCHESTER",
-    "result": "GD",
     "time": "",
     "extras": [],
+    "offense": "UTSA",
+    "result": "GP",
+    "defense": "ROCHESTER"
+  },
+  "8": {
+    "period": "FLOOR",
+    "secondary": [
+      "ROCHESTER-SAMANTHA DINGA"
+    ],
     "length": -1,
     "primary": [
       "ROCHESTER-BASEM ASHKAR"
     ],
-    "period": "FLOOR",
-    "secondary": []
-  },
-  "11": {
-    "defense": "ROCHESTER",
-    "offense": "UTSA",
-    "result": "TD",
     "time": "",
     "extras": [],
+    "offense": "ROCHESTER",
+    "result": "EP",
+    "defense": "UTSA"
+  },
+  "9": {
+    "period": "FLOOR",
+    "secondary": [],
     "length": -1,
     "primary": [
-      "ROCHESTER-MIKE PASCUTOI"
+      "UTSA-AUSTIN VILLEJO"
     ],
+    "time": "",
+    "extras": [],
+    "offense": "UTSA",
+    "result": "GS",
+    "defense": "ROCHESTER"
+  },
+  "10": {
+    "period": "FLOOR",
+    "secondary": [],
+    "length": -1,
+    "primary": [
+      "ROCHESTER-BASEM ASHKAR"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "ROCHESTER",
+    "result": "GD",
+    "defense": "UTSA"
+  },
+  "11": {
     "period": "FLOOR",
     "secondary": [
       "UTSA-CHUCKY SEPULVEDA",
       "UTSA-AUSTIN VILLEJO"
-    ]
-  },
-  "12": {
-    "defense": "UTSA",
-    "offense": "ROCHESTER",
-    "result": "EM",
+    ],
+    "length": -1,
+    "primary": [
+      "ROCHESTER-MIKE PASCUTOI"
+    ],
     "time": "",
     "extras": [],
+    "offense": "UTSA",
+    "result": "TD",
+    "defense": "ROCHESTER"
+  },
+  "12": {
+    "period": "FLOOR",
+    "secondary": [],
     "length": -1,
     "primary": [
       "ROCHESTER-BASEM ASHKAR"
     ],
-    "period": "FLOOR",
-    "secondary": []
+    "time": "",
+    "extras": [],
+    "offense": "ROCHESTER",
+    "result": "EM",
+    "defense": "UTSA"
   },
   "13": {
-    "defense": "ROCHESTER",
-    "offense": "UTSA",
-    "result": "TL",
+    "period": "FLOOR",
+    "secondary": [
+      "UTSA-UNK"
+    ],
+    "length": -1,
+    "primary": [
+      "ROCHESTER-BASEM ASHKAR"
+    ],
     "time": "",
     "extras": [
       [
@@ -206,49 +211,47 @@
         "ROCHESTER-PERRY WANG"
       ]
     ],
-    "length": -1,
-    "primary": [
-      "ROCHESTER-BASEM ASHKAR"
-    ],
-    "period": "FLOOR",
-    "secondary": [
-      "UTSA-UNK"
-    ]
+    "offense": "UTSA",
+    "result": "TL",
+    "defense": "ROCHESTER"
   },
   "14": {
-    "defense": "UTSA",
-    "offense": "ROCHESTER",
-    "result": "GD",
-    "time": "",
-    "extras": [],
-    "length": -1,
-    "primary": [
-      "ROCHESTER-BASEM ASHKAR"
-    ],
     "period": "FLOOR",
     "secondary": [
       "ROCHESTER-34"
-    ]
-  },
-  "15": {
-    "defense": "ROCHESTER",
-    "offense": "UTSA",
-    "result": "TB",
+    ],
+    "length": -1,
+    "primary": [
+      "ROCHESTER-BASEM ASHKAR"
+    ],
     "time": "",
     "extras": [],
+    "offense": "ROCHESTER",
+    "result": "GD",
+    "defense": "UTSA"
+  },
+  "15": {
+    "period": "FLOOR",
+    "secondary": [
+      "UTSA-17"
+    ],
     "length": -1,
     "primary": [
       "ROCHESTER-PERRY WANG"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "UTSA-17"
-    ]
+    "time": "",
+    "extras": [],
+    "offense": "UTSA",
+    "result": "TB",
+    "defense": "ROCHESTER"
   },
   "16": {
-    "defense": "UTSA",
-    "offense": "ROCHESTER",
-    "result": "GD",
+    "period": "FLOOR",
+    "secondary": [],
+    "length": -1,
+    "primary": [
+      "ROCHESTER-BASEM ASHKAR"
+    ],
     "time": "",
     "extras": [
       [
@@ -256,160 +259,162 @@
         "UTSA-MIGUEL ESPARZA"
       ]
     ],
-    "length": -1,
-    "primary": [
-      "ROCHESTER-BASEM ASHKAR"
-    ],
-    "period": "FLOOR",
-    "secondary": []
+    "offense": "ROCHESTER",
+    "result": "GD",
+    "defense": "UTSA"
   },
   "17": {
-    "defense": "ROCHESTER",
-    "offense": "UTSA",
-    "result": "EP",
-    "time": "",
-    "extras": [],
-    "length": -1,
-    "primary": [
-      "UTSA-UNK"
-    ],
     "period": "FLOOR",
     "secondary": [
       "UTSA-UNK"
-    ]
-  },
-  "18": {
-    "defense": "UTSA",
-    "offense": "ROCHESTER",
-    "result": "GD",
+    ],
+    "length": -1,
+    "primary": [
+      "UTSA-UNK"
+    ],
     "time": "",
     "extras": [],
+    "offense": "UTSA",
+    "result": "EP",
+    "defense": "ROCHESTER"
+  },
+  "18": {
+    "period": "FLOOR",
+    "secondary": [],
     "length": -1,
     "primary": [
       "ROCHESTER-BASEM ASHKAR"
     ],
-    "period": "FLOOR",
-    "secondary": []
+    "time": "",
+    "extras": [],
+    "offense": "ROCHESTER",
+    "result": "GD",
+    "defense": "UTSA"
   },
   "19": {
-    "defense": "ROCHESTER",
-    "offense": "UTSA",
-    "result": "EM",
-    "time": "1038",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [],
     "length": -1,
     "primary": [
       "UTSA-RENN LEBER"
     ],
-    "period": "FLOOR",
-    "secondary": []
+    "time": "1038",
+    "extras": [],
+    "offense": "UTSA",
+    "result": "EM",
+    "defense": "ROCHESTER"
   },
   "20": {
-    "defense": "UTSA",
-    "offense": "ROCHESTER",
-    "result": "GP",
-    "time": "",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "ROCHESTER-BASEM ASHKAR"
+    ],
     "length": -1,
     "primary": [
       "ROCHESTER-EMMA FOLEY"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "ROCHESTER-BASEM ASHKAR"
-    ]
-  },
-  "21": {
-    "defense": "ROCHESTER",
-    "offense": "UTSA",
-    "result": "GD",
     "time": "",
     "extras": [],
-    "length": -1,
-    "primary": [
-      "UTSA-CHUCKY SEPULVEDA"
-    ],
+    "offense": "ROCHESTER",
+    "result": "GP",
+    "defense": "UTSA"
+  },
+  "21": {
     "period": "FLOOR",
     "secondary": [
       "UTSA-UNK"
-    ]
+    ],
+    "length": -1,
+    "primary": [
+      "UTSA-CHUCKY SEPULVEDA"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "UTSA",
+    "result": "GD",
+    "defense": "ROCHESTER"
   },
   "22": {
-    "defense": "UTSA",
+    "period": "FLOOR",
+    "secondary": [],
+    "length": -1,
+    "primary": [
+      "ROCHESTER-BASEM ASHKAR"
+    ],
+    "time": "",
+    "extras": [],
     "offense": "ROCHESTER",
     "result": "GS",
-    "time": "",
-    "extras": [],
-    "length": -1,
-    "primary": [
-      "ROCHESTER-BASEM ASHKAR"
-    ],
-    "period": "FLOOR",
-    "secondary": []
+    "defense": "UTSA"
   },
   "23": {
-    "defense": "ROCHESTER",
-    "offense": "UTSA",
-    "result": "TD",
-    "time": "",
-    "extras": [],
-    "length": -1,
-    "primary": [
-      "ROCHESTER-BASEM ASHKAR"
-    ],
     "period": "FLOOR",
     "secondary": [
       "UTSA-CHUCKY SEPULVEDA"
-    ]
-  },
-  "24": {
-    "defense": "UTSA",
-    "offense": "ROCHESTER",
-    "result": "EM",
-    "time": "",
-    "extras": [],
+    ],
     "length": -1,
     "primary": [
       "ROCHESTER-BASEM ASHKAR"
     ],
-    "period": "FLOOR",
-    "secondary": []
-  },
-  "25": {
-    "defense": "ROCHESTER",
-    "offense": "UTSA",
-    "result": "TD",
     "time": "",
     "extras": [],
+    "offense": "UTSA",
+    "result": "TD",
+    "defense": "ROCHESTER"
+  },
+  "24": {
+    "period": "FLOOR",
+    "secondary": [],
     "length": -1,
     "primary": [
-      "ROCHESTER-OWYN GUINNIP"
+      "ROCHESTER-BASEM ASHKAR"
     ],
+    "time": "",
+    "extras": [],
+    "offense": "ROCHESTER",
+    "result": "EM",
+    "defense": "UTSA"
+  },
+  "25": {
     "period": "FLOOR",
     "secondary": [
       "UTSA-UNK",
       "UTSA-CHUCKY SEPULVEDA"
-    ]
-  },
-  "26": {
-    "defense": "UTSA",
-    "offense": "ROCHESTER",
-    "result": "EP",
-    "time": "",
-    "extras": [],
+    ],
     "length": -1,
     "primary": [
       "ROCHESTER-OWYN GUINNIP"
     ],
+    "time": "",
+    "extras": [],
+    "offense": "UTSA",
+    "result": "TD",
+    "defense": "ROCHESTER"
+  },
+  "26": {
     "period": "FLOOR",
     "secondary": [
       "ROCHESTER-EMMA FOLEY"
-    ]
+    ],
+    "length": -1,
+    "primary": [
+      "ROCHESTER-OWYN GUINNIP"
+    ],
+    "time": "",
+    "extras": [],
+    "offense": "ROCHESTER",
+    "result": "EP",
+    "defense": "UTSA"
   },
   "27": {
-    "defense": "ROCHESTER",
-    "offense": "UTSA",
-    "result": "TC",
+    "period": "FLOOR",
+    "secondary": [
+      "UTSA-MIGUEL ESPARZA"
+    ],
+    "length": -1,
+    "primary": [
+      "ROCHESTER-OWYN GUINNIP"
+    ],
     "time": "",
     "extras": [
       [
@@ -421,19 +426,19 @@
         "ROCHESTER-OWYN GUINNIP"
       ]
     ],
-    "length": -1,
-    "primary": [
-      "ROCHESTER-OWYN GUINNIP"
-    ],
-    "period": "FLOOR",
-    "secondary": [
-      "UTSA-MIGUEL ESPARZA"
-    ]
+    "offense": "UTSA",
+    "result": "TC",
+    "defense": "ROCHESTER"
   },
   "28": {
-    "defense": "UTSA",
-    "offense": "ROCHESTER",
-    "result": "TB",
+    "period": "FLOOR",
+    "secondary": [
+      "ROCHESTER-MADDISON JORDAN"
+    ],
+    "length": -1,
+    "primary": [
+      "UTSA-UNK"
+    ],
     "time": "",
     "extras": [
       [
@@ -441,62 +446,60 @@
         "UTSA-CHUCKY SEPULVEDA"
       ]
     ],
-    "length": -1,
-    "primary": [
-      "UTSA-UNK"
-    ],
-    "period": "FLOOR",
-    "secondary": [
-      "ROCHESTER-MADDISON JORDAN"
-    ]
+    "offense": "ROCHESTER",
+    "result": "TB",
+    "defense": "UTSA"
   },
   "29": {
-    "defense": "ROCHESTER",
-    "offense": "UTSA",
-    "result": "EM",
-    "time": "",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [],
     "length": -1,
     "primary": [
       "UTSA-DAVID KEIM"
     ],
-    "period": "FLOOR",
-    "secondary": []
-  },
-  "30": {
-    "defense": "UTSA",
-    "offense": "ROCHESTER",
-    "result": "TB",
     "time": "",
     "extras": [],
+    "offense": "UTSA",
+    "result": "EM",
+    "defense": "ROCHESTER"
+  },
+  "30": {
+    "period": "FLOOR",
+    "secondary": [
+      "ROCHESTER-SAMANTHA DINGA"
+    ],
     "length": -1,
     "primary": [
       "UTSA-DANIEL WILLIAMS"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "ROCHESTER-SAMANTHA DINGA"
-    ]
-  },
-  "31": {
-    "defense": "ROCHESTER",
-    "offense": "UTSA",
-    "result": "TC",
     "time": "",
     "extras": [],
+    "offense": "ROCHESTER",
+    "result": "TB",
+    "defense": "UTSA"
+  },
+  "31": {
+    "period": "FLOOR",
+    "secondary": [
+      "UTSA-MIGUEL ESPARZA"
+    ],
     "length": -1,
     "primary": [
       "ROCHESTER-MADDISON JORDAN"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "UTSA-MIGUEL ESPARZA"
-    ]
+    "time": "",
+    "extras": [],
+    "offense": "UTSA",
+    "result": "TC",
+    "defense": "ROCHESTER"
   },
   "32": {
-    "defense": "UTSA",
-    "offense": "ROCHESTER",
-    "result": "GD",
+    "period": "SOP",
+    "secondary": [],
+    "length": -1,
+    "primary": [
+      "ROCHESTER-BASEM ASHKAR"
+    ],
     "time": "",
     "extras": [
       [
@@ -508,17 +511,19 @@
         1
       ]
     ],
-    "length": -1,
-    "primary": [
-      "ROCHESTER-BASEM ASHKAR"
-    ],
-    "period": "SOP",
-    "secondary": []
+    "offense": "ROCHESTER",
+    "result": "GD",
+    "defense": "UTSA"
   },
   "33": {
-    "defense": "ROCHESTER",
-    "offense": "UTSA",
-    "result": "GD",
+    "period": "SOP",
+    "secondary": [
+      "UTSA-MIGUEL ESPARZA"
+    ],
+    "length": -1,
+    "primary": [
+      "UTSA-TYLER ZREET"
+    ],
     "time": "",
     "extras": [
       [
@@ -526,19 +531,19 @@
         "ROCHESTER-BASEM ASHKAR"
       ]
     ],
-    "length": -1,
-    "primary": [
-      "UTSA-TYLER ZREET"
-    ],
-    "period": "SOP",
-    "secondary": [
-      "UTSA-MIGUEL ESPARZA"
-    ]
+    "offense": "UTSA",
+    "result": "GD",
+    "defense": "ROCHESTER"
   },
   "34": {
-    "defense": "UTSA",
-    "offense": "ROCHESTER",
-    "result": "TC",
+    "period": "SOP",
+    "secondary": [
+      "ROCHESTER-UNK"
+    ],
+    "length": -1,
+    "primary": [
+      "UTSA-UNK"
+    ],
     "time": "",
     "extras": [
       [
@@ -546,19 +551,19 @@
         "UTSA-AUSTIN VILLEJO"
       ]
     ],
+    "offense": "ROCHESTER",
+    "result": "TC",
+    "defense": "UTSA"
+  },
+  "35": {
+    "period": "SOP",
+    "secondary": [
+      "UTSA-MIGUEL ESPARZA"
+    ],
     "length": -1,
     "primary": [
       "UTSA-UNK"
     ],
-    "period": "SOP",
-    "secondary": [
-      "ROCHESTER-UNK"
-    ]
-  },
-  "35": {
-    "defense": "ROCHESTER",
-    "offense": "UTSA",
-    "result": "GP",
     "time": "",
     "extras": [
       [
@@ -566,19 +571,17 @@
         "ROCHESTER-PERRY WANG"
       ]
     ],
-    "length": -1,
-    "primary": [
-      "UTSA-UNK"
-    ],
-    "period": "SOP",
-    "secondary": [
-      "UTSA-MIGUEL ESPARZA"
-    ]
+    "offense": "UTSA",
+    "result": "GP",
+    "defense": "ROCHESTER"
   },
   "36": {
-    "defense": "UTSA",
-    "offense": "ROCHESTER",
-    "result": "GD",
+    "period": "SOP",
+    "secondary": [],
+    "length": -1,
+    "primary": [
+      "ROCHESTER-BASEM ASHKAR"
+    ],
     "time": "2050",
     "extras": [
       [
@@ -590,54 +593,51 @@
         "UTSA-TYLER ZREET"
       ]
     ],
-    "length": -1,
-    "primary": [
-      "ROCHESTER-BASEM ASHKAR"
-    ],
-    "period": "SOP",
-    "secondary": []
+    "offense": "ROCHESTER",
+    "result": "GD",
+    "defense": "UTSA"
   },
   "37": {
-    "defense": "ROCHESTER",
-    "offense": "UTSA",
-    "result": "TC",
-    "time": "",
-    "extras": [],
+    "period": "SOP",
+    "secondary": [
+      "UTSA-MIGUEL ESPARZA"
+    ],
     "length": -1,
     "primary": [
       "ROCHESTER-SAMANTHA DINGA"
     ],
-    "period": "SOP",
-    "secondary": [
-      "UTSA-MIGUEL ESPARZA"
-    ]
-  },
-  "38": {
-    "defense": "UTSA",
-    "offense": "ROCHESTER",
-    "result": "GP",
     "time": "",
     "extras": [],
+    "offense": "UTSA",
+    "result": "TC",
+    "defense": "ROCHESTER"
+  },
+  "38": {
+    "period": "SOP",
+    "secondary": [
+      "ROCHESTER-BASEM ASHKAR"
+    ],
     "length": -1,
     "primary": [
       "ROCHESTER-JUSTIN KING"
     ],
-    "period": "SOP",
-    "secondary": [
-      "ROCHESTER-BASEM ASHKAR"
-    ]
-  },
-  "39": {
-    "defense": "ROCHESTER",
-    "offense": "UTSA",
-    "result": "RCA",
     "time": "",
     "extras": [],
+    "offense": "ROCHESTER",
+    "result": "GP",
+    "defense": "UTSA"
+  },
+  "39": {
+    "period": "SOP",
+    "secondary": [],
     "length": -1,
     "primary": [
       "ROCHESTER-MIKE PASCUTOI"
     ],
-    "period": "SOP",
-    "secondary": []
+    "time": "",
+    "extras": [],
+    "offense": "UTSA",
+    "result": "RCA",
+    "defense": "ROCHESTER"
   }
 }

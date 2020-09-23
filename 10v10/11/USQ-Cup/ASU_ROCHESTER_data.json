@@ -1,96 +1,99 @@
 {
   "0": {
-    "defense": "",
-    "offense": "Brooms Up",
-    "result": "BU",
-    "time": "0000",
-    "length": -1,
-    "extras": [],
     "primary": [
       "ASU-MAKENNA BAUM"
     ],
-    "period": "FLOOR",
     "secondary": [
       "ASU-JARROD BAILEY"
-    ]
+    ],
+    "time": "0000",
+    "length": -1,
+    "extras": [],
+    "offense": "Brooms Up",
+    "result": "BU",
+    "defense": "",
+    "period": "FLOOR"
   },
   "1": {
-    "defense": "ROCHESTER",
-    "offense": "ASU",
-    "result": "ED",
-    "time": "0026",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "ASU-BRENTLEE CASS"
+    ],
     "length": 26,
     "primary": [
       "ASU-12"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "ASU-BRENTLEE CASS"
-    ]
+    "time": "0026",
+    "extras": [],
+    "offense": "ASU",
+    "result": "ED",
+    "defense": "ROCHESTER"
   },
   "2": {
-    "defense": "ASU",
-    "offense": "ROCHESTER",
-    "result": "GP",
-    "time": "0059",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "ROCHESTER-OWYN GUINNIP"
+    ],
     "length": 33,
     "primary": [
       "ROCHESTER-JUSTIN KING"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "ROCHESTER-OWYN GUINNIP"
-    ]
+    "time": "0059",
+    "extras": [],
+    "offense": "ROCHESTER",
+    "result": "GP",
+    "defense": "ASU"
   },
   "3": {
-    "defense": "ROCHESTER",
-    "offense": "ASU",
-    "result": "GS",
-    "time": "0129",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "ASU-BRENTLEE CASS"
+    ],
     "length": 70,
     "primary": [
       "ASU-12"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "ASU-BRENTLEE CASS"
-    ]
+    "time": "0129",
+    "extras": [],
+    "offense": "ASU",
+    "result": "GS",
+    "defense": "ROCHESTER"
   },
   "4": {
-    "defense": "ASU",
-    "offense": "ROCHESTER",
-    "result": "EM",
-    "time": "0155",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [],
     "length": 26,
     "primary": [
       "ROCHESTER-JUSTIN KING"
     ],
-    "period": "FLOOR",
-    "secondary": []
+    "time": "0155",
+    "extras": [],
+    "offense": "ROCHESTER",
+    "result": "EM",
+    "defense": "ASU"
   },
   "5": {
-    "defense": "ROCHESTER",
-    "offense": "ASU",
-    "result": "TB",
-    "time": "0227",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "ASU-QUINN PITCHER"
+    ],
     "length": 72,
     "primary": [
       "ROCHESTER-PERRY WANG"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "ASU-QUINN PITCHER"
-    ]
+    "time": "0227",
+    "extras": [],
+    "offense": "ASU",
+    "result": "TB",
+    "defense": "ROCHESTER"
   },
   "6": {
-    "defense": "ASU",
-    "offense": "ROCHESTER",
-    "result": "EM",
+    "period": "FLOOR",
+    "secondary": [],
+    "length": 87,
+    "primary": [
+      "ROCHESTER-JUSTIN KING"
+    ],
     "time": "0314",
     "extras": [
       [
@@ -98,214 +101,216 @@
         "ASU-JOSHUA COVERICK"
       ]
     ],
-    "length": 87,
-    "primary": [
-      "ROCHESTER-JUSTIN KING"
-    ],
-    "period": "FLOOR",
-    "secondary": []
+    "offense": "ROCHESTER",
+    "result": "EM",
+    "defense": "ASU"
   },
   "7": {
-    "defense": "ROCHESTER",
-    "offense": "ASU",
-    "result": "TC",
-    "time": "0351",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "ASU-1"
+    ],
     "length": 37,
     "primary": [
       "ROCHESTER-MADDISON JORDAN"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "ASU-1"
-    ]
+    "time": "0351",
+    "extras": [],
+    "offense": "ASU",
+    "result": "TC",
+    "defense": "ROCHESTER"
   },
   "8": {
-    "defense": "ASU",
-    "offense": "ROCHESTER",
-    "result": "EP",
-    "time": "0417",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "ROCHESTER-SAMANTHA DINGA"
+    ],
     "length": 66,
     "primary": [
       "ROCHESTER-BASEM ASHKAR"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "ROCHESTER-SAMANTHA DINGA"
-    ]
+    "time": "0417",
+    "extras": [],
+    "offense": "ROCHESTER",
+    "result": "EP",
+    "defense": "ASU"
   },
   "9": {
-    "defense": "ROCHESTER",
-    "offense": "ASU",
-    "result": "ET",
-    "time": "0452",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [],
     "length": 35,
     "primary": [
       "ASU-9"
     ],
-    "period": "FLOOR",
-    "secondary": []
+    "time": "0452",
+    "extras": [],
+    "offense": "ASU",
+    "result": "ET",
+    "defense": "ROCHESTER"
   },
   "10": {
-    "defense": "ASU",
-    "offense": "ROCHESTER",
-    "result": "TB",
-    "time": "0515",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "ROCHESTER-BASEM ASHKAR"
+    ],
     "length": 63,
     "primary": [
       "ASU-VICKY SANFORD"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "ROCHESTER-BASEM ASHKAR"
-    ]
+    "time": "0515",
+    "extras": [],
+    "offense": "ROCHESTER",
+    "result": "TB",
+    "defense": "ASU"
   },
   "11": {
-    "defense": "ROCHESTER",
-    "offense": "ASU",
-    "result": "GD",
-    "time": "0520",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [],
     "length": 5,
     "primary": [
       "ASU-JOSHUA COVERICK"
     ],
-    "period": "FLOOR",
-    "secondary": []
+    "time": "0520",
+    "extras": [],
+    "offense": "ASU",
+    "result": "GD",
+    "defense": "ROCHESTER"
   },
   "12": {
-    "defense": "ASU",
-    "offense": "ROCHESTER",
-    "result": "TB",
-    "time": "0553",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "ROCHESTER-BASEM ASHKAR"
+    ],
     "length": 33,
     "primary": [
       "ASU-CALEB RAGATZ"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "ROCHESTER-BASEM ASHKAR"
-    ]
+    "time": "0553",
+    "extras": [],
+    "offense": "ROCHESTER",
+    "result": "TB",
+    "defense": "ASU"
   },
   "13": {
-    "defense": "ROCHESTER",
-    "offense": "ASU",
-    "result": "GD",
-    "time": "0556",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [],
     "length": 3,
     "primary": [
       "ASU-COLTON LISH "
     ],
-    "period": "FLOOR",
-    "secondary": []
+    "time": "0556",
+    "extras": [],
+    "offense": "ASU",
+    "result": "GD",
+    "defense": "ROCHESTER"
   },
   "14": {
-    "defense": "ASU",
-    "offense": "ROCHESTER",
-    "result": "GD",
-    "time": "0636",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [],
     "length": 80,
     "primary": [
       "ROCHESTER-BASEM ASHKAR"
     ],
-    "period": "FLOOR",
-    "secondary": []
+    "time": "0636",
+    "extras": [],
+    "offense": "ROCHESTER",
+    "result": "GD",
+    "defense": "ASU"
   },
   "15": {
-    "defense": "ROCHESTER",
-    "offense": "ASU",
-    "result": "ED",
-    "time": "0710",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "ASU-DYLAN BRYANT"
+    ],
     "length": 74,
     "primary": [
       "ASU-COLTON LISH "
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "ASU-DYLAN BRYANT"
-    ]
+    "time": "0710",
+    "extras": [],
+    "offense": "ASU",
+    "result": "ED",
+    "defense": "ROCHESTER"
   },
   "16": {
-    "defense": "ASU",
-    "offense": "ROCHESTER",
-    "result": "GD",
-    "time": "0717",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [],
     "length": 7,
     "primary": [
       "ROCHESTER-MIKE PASCUTOI"
     ],
-    "period": "FLOOR",
-    "secondary": []
+    "time": "0717",
+    "extras": [],
+    "offense": "ROCHESTER",
+    "result": "GD",
+    "defense": "ASU"
   },
   "17": {
-    "defense": "ROCHESTER",
-    "offense": "ASU",
-    "result": "ER",
-    "time": "0805",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [],
     "length": 88,
     "primary": [
       "ASU-DYLAN BRYANT"
     ],
-    "period": "FLOOR",
-    "secondary": []
+    "time": "0805",
+    "extras": [],
+    "offense": "ASU",
+    "result": "ER",
+    "defense": "ROCHESTER"
   },
   "18": {
-    "defense": "ASU",
-    "offense": "ROCHESTER",
-    "result": "TD",
-    "time": "0828",
-    "extras": [],
-    "length": 23,
-    "primary": [
-      "ASU-MEGAN SOPA"
-    ],
     "period": "FLOOR",
     "secondary": [
       "ROCHESTER-BASEM ASHKAR",
       "ROCHESTER-SAMANTHA DINGA"
-    ]
+    ],
+    "length": 23,
+    "primary": [
+      "ASU-MEGAN SOPA"
+    ],
+    "time": "0828",
+    "extras": [],
+    "offense": "ROCHESTER",
+    "result": "TD",
+    "defense": "ASU"
   },
   "19": {
-    "defense": "ROCHESTER",
-    "offense": "ASU",
-    "result": "TB",
-    "time": "0919",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "ASU-MEGAN SOPA"
+    ],
     "length": 91,
     "primary": [
       "ROCHESTER-STEVEN BELITZKY"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "ASU-MEGAN SOPA"
-    ]
+    "time": "0919",
+    "extras": [],
+    "offense": "ASU",
+    "result": "TB",
+    "defense": "ROCHESTER"
   },
   "20": {
-    "defense": "ASU",
-    "offense": "ROCHESTER",
-    "result": "GD",
-    "time": "0937",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [],
     "length": 18,
     "primary": [
       "ROCHESTER-BASEM ASHKAR"
     ],
-    "period": "FLOOR",
-    "secondary": []
+    "time": "0937",
+    "extras": [],
+    "offense": "ROCHESTER",
+    "result": "GD",
+    "defense": "ASU"
   },
   "21": {
-    "defense": "ROCHESTER",
-    "offense": "ASU",
-    "result": "TL",
+    "period": "FLOOR",
+    "secondary": [
+      "ASU-JARED MOREDA"
+    ],
+    "length": 68,
+    "primary": [
+      "ROCHESTER-BASEM ASHKAR"
+    ],
     "time": "1005",
     "extras": [
       [
@@ -313,265 +318,265 @@
         "ROCHESTER-STEVEN BELITZKY"
       ]
     ],
-    "length": 68,
-    "primary": [
-      "ROCHESTER-BASEM ASHKAR"
-    ],
-    "period": "FLOOR",
-    "secondary": [
-      "ASU-JARED MOREDA"
-    ]
+    "offense": "ASU",
+    "result": "TL",
+    "defense": "ROCHESTER"
   },
   "22": {
-    "defense": "ASU",
-    "offense": "ROCHESTER",
-    "result": "TC",
-    "time": "1025",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "ROCHESTER-JUSTIN KING"
+    ],
     "length": 20,
     "primary": [
       "ASU-10"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "ROCHESTER-JUSTIN KING"
-    ]
+    "time": "1025",
+    "extras": [],
+    "offense": "ROCHESTER",
+    "result": "TC",
+    "defense": "ASU"
   },
   "23": {
-    "defense": "ROCHESTER",
-    "offense": "ASU",
-    "result": "GP",
-    "time": "1033",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "ASU-JARED MOREDA"
+    ],
     "length": 8,
     "primary": [
       "ASU-CELIA EVANS"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "ASU-JARED MOREDA"
-    ]
+    "time": "1033",
+    "extras": [],
+    "offense": "ASU",
+    "result": "GP",
+    "defense": "ROCHESTER"
   },
   "24": {
-    "defense": "ASU",
-    "offense": "ROCHESTER",
-    "result": "GD",
-    "time": "1051",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [],
     "length": 18,
     "primary": [
       "ROCHESTER-BASEM ASHKAR"
     ],
-    "period": "FLOOR",
-    "secondary": []
+    "time": "1051",
+    "extras": [],
+    "offense": "ROCHESTER",
+    "result": "GD",
+    "defense": "ASU"
   },
   "25": {
-    "defense": "ROCHESTER",
-    "offense": "ASU",
-    "result": "GS",
-    "time": "1114",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "ASU-JARED MOREDA"
+    ],
     "length": 63,
     "primary": [
       "ASU-10"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "ASU-JARED MOREDA"
-    ]
+    "time": "1114",
+    "extras": [],
+    "offense": "ASU",
+    "result": "GS",
+    "defense": "ROCHESTER"
   },
   "26": {
-    "defense": "ASU",
-    "offense": "ROCHESTER",
-    "result": "GS",
-    "time": "1132",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [],
     "length": 18,
     "primary": [
       "ROCHESTER-BASEM ASHKAR"
     ],
-    "period": "FLOOR",
-    "secondary": []
+    "time": "1132",
+    "extras": [],
+    "offense": "ROCHESTER",
+    "result": "GS",
+    "defense": "ASU"
   },
   "27": {
-    "defense": "ROCHESTER",
-    "offense": "ASU",
-    "result": "TB",
-    "time": "1207",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "ASU-JARED MOREDA"
+    ],
     "length": 75,
     "primary": [
       "ROCHESTER-STEVEN BELITZKY"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "ASU-JARED MOREDA"
-    ]
+    "time": "1207",
+    "extras": [],
+    "offense": "ASU",
+    "result": "TB",
+    "defense": "ROCHESTER"
   },
   "28": {
-    "defense": "ASU",
-    "offense": "ROCHESTER",
-    "result": "ED",
-    "time": "1251",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "ROCHESTER-JUSTIN KING"
+    ],
     "length": 44,
     "primary": [
       "ROCHESTER-SAMANTHA DINGA"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "ROCHESTER-JUSTIN KING"
-    ]
+    "time": "1251",
+    "extras": [],
+    "offense": "ROCHESTER",
+    "result": "ED",
+    "defense": "ASU"
   },
   "29": {
-    "defense": "ROCHESTER",
-    "offense": "ASU",
-    "result": "EM",
-    "time": "1333",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [],
     "length": 82,
     "primary": [
       "ASU-BRENTLEE CASS"
     ],
-    "period": "FLOOR",
-    "secondary": []
+    "time": "1333",
+    "extras": [],
+    "offense": "ASU",
+    "result": "EM",
+    "defense": "ROCHESTER"
   },
   "30": {
-    "defense": "ASU",
-    "offense": "ROCHESTER",
-    "result": "EM",
-    "time": "1354",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [],
     "length": 21,
     "primary": [
       "ROCHESTER-BASEM ASHKAR"
     ],
-    "period": "FLOOR",
-    "secondary": []
+    "time": "1354",
+    "extras": [],
+    "offense": "ROCHESTER",
+    "result": "EM",
+    "defense": "ASU"
   },
   "31": {
-    "defense": "ROCHESTER",
-    "offense": "ASU",
-    "result": "G",
-    "time": "1438",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [],
     "length": 84,
     "primary": [
       "ASU-COLTON LISH "
     ],
-    "period": "FLOOR",
-    "secondary": []
+    "time": "1438",
+    "extras": [],
+    "offense": "ASU",
+    "result": "G",
+    "defense": "ROCHESTER"
   },
   "32": {
-    "defense": "ASU",
-    "offense": "ROCHESTER",
-    "result": "TD",
-    "time": "1459",
-    "extras": [],
-    "length": 21,
-    "primary": [
-      "ASU-MAKENNA BAUM"
-    ],
     "period": "FLOOR",
     "secondary": [
       "ROCHESTER-BASEM ASHKAR",
       "ROCHESTER-MIKE PASCUTOI"
-    ]
+    ],
+    "length": 21,
+    "primary": [
+      "ASU-MAKENNA BAUM"
+    ],
+    "time": "1459",
+    "extras": [],
+    "offense": "ROCHESTER",
+    "result": "TD",
+    "defense": "ASU"
   },
   "33": {
-    "defense": "ROCHESTER",
-    "offense": "ASU",
-    "result": "TD",
-    "time": "1516",
-    "extras": [],
-    "length": 57,
-    "primary": [
-      "ROCHESTER-OWYN GUINNIP"
-    ],
     "period": "FLOOR",
     "secondary": [
       "ASU-9",
       "ASU-MAKENNA BAUM"
-    ]
+    ],
+    "length": 57,
+    "primary": [
+      "ROCHESTER-OWYN GUINNIP"
+    ],
+    "time": "1516",
+    "extras": [],
+    "offense": "ASU",
+    "result": "TD",
+    "defense": "ROCHESTER"
   },
   "34": {
-    "defense": "ASU",
-    "offense": "ROCHESTER",
-    "result": "TD",
-    "time": "1553",
-    "extras": [],
-    "length": 37,
-    "primary": [
-      "ASU-BRENTLEE CASS"
-    ],
     "period": "FLOOR",
     "secondary": [
       "ROCHESTER-EMMA FOLEY",
       "ROCHESTER-MIKE PASCUTOI"
-    ]
+    ],
+    "length": 37,
+    "primary": [
+      "ASU-BRENTLEE CASS"
+    ],
+    "time": "1553",
+    "extras": [],
+    "offense": "ROCHESTER",
+    "result": "TD",
+    "defense": "ASU"
   },
   "35": {
-    "defense": "ROCHESTER",
-    "offense": "ASU",
-    "result": "GD",
-    "time": "1609",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "ASU-10"
+    ],
     "length": 56,
     "primary": [
       "ASU-9"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "ASU-10"
-    ]
+    "time": "1609",
+    "extras": [],
+    "offense": "ASU",
+    "result": "GD",
+    "defense": "ROCHESTER"
   },
   "36": {
-    "defense": "ASU",
-    "offense": "ROCHESTER",
-    "result": "TB",
-    "time": "1643",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "ROCHESTER-BASEM ASHKAR"
+    ],
     "length": 34,
     "primary": [
       "ASU-AMANI BURTON"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "ROCHESTER-BASEM ASHKAR"
-    ]
+    "time": "1643",
+    "extras": [],
+    "offense": "ROCHESTER",
+    "result": "TB",
+    "defense": "ASU"
   },
   "37": {
-    "defense": "ROCHESTER",
-    "offense": "ASU",
-    "result": "EM",
-    "time": "1654",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [],
     "length": 11,
     "primary": [
       "ASU-10"
     ],
-    "period": "FLOOR",
-    "secondary": []
+    "time": "1654",
+    "extras": [],
+    "offense": "ASU",
+    "result": "EM",
+    "defense": "ROCHESTER"
   },
   "38": {
-    "defense": "ASU",
-    "offense": "ROCHESTER",
-    "result": "TC",
-    "time": "1757",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "ROCHESTER-BASEM ASHKAR"
+    ],
     "length": 103,
     "primary": [
       "ASU-BRENTLEE CASS"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "ROCHESTER-BASEM ASHKAR"
-    ]
+    "time": "1757",
+    "extras": [],
+    "offense": "ROCHESTER",
+    "result": "TC",
+    "defense": "ASU"
   },
   "39": {
-    "defense": "ROCHESTER",
-    "offense": "ASU",
-    "result": "GP",
+    "period": "SOP",
+    "secondary": [
+      "ASU-JARED MOREDA"
+    ],
+    "length": 148,
+    "primary": [
+      "ASU-JOSHUA COVERICK"
+    ],
     "time": "1905",
     "extras": [
       [
@@ -579,76 +584,76 @@
         1
       ]
     ],
-    "length": 148,
-    "primary": [
-      "ASU-JOSHUA COVERICK"
-    ],
-    "period": "SOP",
-    "secondary": [
-      "ASU-JARED MOREDA"
-    ]
+    "offense": "ASU",
+    "result": "GP",
+    "defense": "ROCHESTER"
   },
   "40": {
-    "defense": "ASU",
-    "offense": "ROCHESTER",
-    "result": "EM",
-    "time": "1932",
-    "extras": [],
+    "period": "SOP",
+    "secondary": [],
     "length": 27,
     "primary": [
       "ROCHESTER-BASEM ASHKAR"
     ],
-    "period": "SOP",
-    "secondary": []
+    "time": "1932",
+    "extras": [],
+    "offense": "ROCHESTER",
+    "result": "EM",
+    "defense": "ASU"
   },
   "41": {
-    "defense": "ROCHESTER",
-    "offense": "ASU",
-    "result": "TD",
-    "time": "1946",
-    "extras": [],
-    "length": 14,
-    "primary": [
-      "ROCHESTER-BASEM ASHKAR"
-    ],
     "period": "SOP",
     "secondary": [
       "ASU-JARED MOREDA",
       "ASU-JOSHUA COVERICK"
-    ]
+    ],
+    "length": 14,
+    "primary": [
+      "ROCHESTER-BASEM ASHKAR"
+    ],
+    "time": "1946",
+    "extras": [],
+    "offense": "ASU",
+    "result": "TD",
+    "defense": "ROCHESTER"
   },
   "42": {
-    "defense": "ASU",
-    "offense": "ROCHESTER",
-    "result": "GS",
-    "time": "2013",
-    "extras": [],
+    "period": "SOP",
+    "secondary": [],
     "length": 67,
     "primary": [
       "ROCHESTER-BASEM ASHKAR"
     ],
-    "period": "SOP",
-    "secondary": []
+    "time": "2013",
+    "extras": [],
+    "offense": "ROCHESTER",
+    "result": "GS",
+    "defense": "ASU"
   },
   "43": {
-    "defense": "ROCHESTER",
-    "offense": "ASU",
-    "result": "TC",
-    "time": "2027",
-    "extras": [],
+    "period": "SOP",
+    "secondary": [
+      "ASU-COLTON LISH "
+    ],
     "length": 14,
     "primary": [
       "ROCHESTER-MADDISON JORDAN"
     ],
-    "period": "SOP",
-    "secondary": [
-      "ASU-COLTON LISH "
-    ]
+    "time": "2027",
+    "extras": [],
+    "offense": "ASU",
+    "result": "TC",
+    "defense": "ROCHESTER"
   },
   "44": {
-    "defense": "ASU",
-    "offense": "ROCHESTER",
-    "result": "TB",
+    "period": "SOP",
+    "secondary": [
+      "ROCHESTER-OWYN GUINNIP"
+    ],
+    "length": 21,
+    "primary": [
+      "ASU-CALEB RAGATZ"
+    ],
     "time": "2048",
     "extras": [
       [
@@ -656,60 +661,58 @@
         "ASU-COLTON LISH "
       ]
     ],
-    "length": 21,
-    "primary": [
-      "ASU-CALEB RAGATZ"
-    ],
-    "period": "SOP",
-    "secondary": [
-      "ROCHESTER-OWYN GUINNIP"
-    ]
+    "offense": "ROCHESTER",
+    "result": "TB",
+    "defense": "ASU"
   },
   "45": {
-    "defense": "ROCHESTER",
-    "offense": "ASU",
-    "result": "GD",
-    "time": "2110",
-    "extras": [],
+    "period": "SOP",
+    "secondary": [],
     "length": 62,
     "primary": [
       "ASU-JARED MOREDA"
     ],
-    "period": "SOP",
-    "secondary": []
+    "time": "2110",
+    "extras": [],
+    "offense": "ASU",
+    "result": "GD",
+    "defense": "ROCHESTER"
   },
   "46": {
-    "defense": "ASU",
-    "offense": "ROCHESTER",
-    "result": "ED",
-    "time": "2140",
-    "extras": [],
+    "period": "SOP",
+    "secondary": [
+      "ROCHESTER-SAMANTHA DINGA"
+    ],
     "length": 30,
     "primary": [
       "ROCHESTER-OWYN GUINNIP"
     ],
-    "period": "SOP",
-    "secondary": [
-      "ROCHESTER-SAMANTHA DINGA"
-    ]
+    "time": "2140",
+    "extras": [],
+    "offense": "ROCHESTER",
+    "result": "ED",
+    "defense": "ASU"
   },
   "47": {
-    "defense": "ROCHESTER",
-    "offense": "ASU",
-    "result": "GD",
-    "time": "2156",
-    "extras": [],
+    "period": "SOP",
+    "secondary": [],
     "length": 16,
     "primary": [
       "ASU-JARED MOREDA"
     ],
-    "period": "SOP",
-    "secondary": []
+    "time": "2156",
+    "extras": [],
+    "offense": "ASU",
+    "result": "GD",
+    "defense": "ROCHESTER"
   },
   "48": {
-    "defense": "ASU",
-    "offense": "ROCHESTER",
-    "result": "GD",
+    "period": "SOP",
+    "secondary": [],
+    "length": 68,
+    "primary": [
+      "ROCHESTER-BASEM ASHKAR"
+    ],
     "time": "2224",
     "extras": [
       [
@@ -717,39 +720,36 @@
         "ASU-COLTON LISH "
       ]
     ],
-    "length": 68,
-    "primary": [
-      "ROCHESTER-BASEM ASHKAR"
-    ],
-    "period": "SOP",
-    "secondary": []
+    "offense": "ROCHESTER",
+    "result": "GD",
+    "defense": "ASU"
   },
   "49": {
-    "defense": "ROCHESTER",
-    "offense": "ASU",
-    "result": "TC",
-    "time": "2303",
-    "extras": [],
+    "period": "SOP",
+    "secondary": [
+      "ASU-BRENTLEE CASS"
+    ],
     "length": 79,
     "primary": [
       "ROCHESTER-MADDISON JORDAN"
     ],
-    "period": "SOP",
-    "secondary": [
-      "ASU-BRENTLEE CASS"
-    ]
+    "time": "2303",
+    "extras": [],
+    "offense": "ASU",
+    "result": "TC",
+    "defense": "ROCHESTER"
   },
   "50": {
-    "defense": "ASU",
-    "offense": "ROCHESTER",
-    "result": "RCA",
-    "time": "2316",
-    "extras": [],
+    "period": "SOP",
+    "secondary": [],
     "length": -1,
     "primary": [
       "ASU-10"
     ],
-    "period": "SOP",
-    "secondary": []
+    "time": "2316",
+    "extras": [],
+    "offense": "ROCHESTER",
+    "result": "RCA",
+    "defense": "ASU"
   }
 }

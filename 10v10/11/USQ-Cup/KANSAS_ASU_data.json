@@ -1,81 +1,86 @@
 {
   "0": {
-    "defense": "",
-    "offense": "Brooms Up",
-    "result": "BU",
+    "primary": [
+      "KANSAS-IAN MCCABE"
+    ],
+    "secondary": [
+      "ASU-JARROD BAILEY"
+    ],
     "time": "0000",
     "length": -1,
     "extras": [],
-    "primary": [
-      "KANSAS-IAN MCCABE"
-    ],
-    "period": "FLOOR",
-    "secondary": [
-      "ASU-JARROD BAILEY"
-    ]
+    "offense": "Brooms Up",
+    "result": "BU",
+    "defense": "",
+    "period": "FLOOR"
   },
   "1": {
-    "defense": "ASU",
-    "offense": "KANSAS",
-    "result": "EM",
-    "time": "",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [],
     "length": -1,
     "primary": [
       "KANSAS-IAN MCCABE"
     ],
-    "period": "FLOOR",
-    "secondary": []
-  },
-  "2": {
-    "defense": "KANSAS",
-    "offense": "ASU",
-    "result": "TL",
     "time": "",
     "extras": [],
+    "offense": "KANSAS",
+    "result": "EM",
+    "defense": "ASU"
+  },
+  "2": {
+    "period": "FLOOR",
+    "secondary": [
+      "ASU-MAKENNA BAUM"
+    ],
     "length": -1,
     "primary": [
       "KANSAS-RACHEL HEALD"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "ASU-MAKENNA BAUM"
-    ]
-  },
-  "3": {
-    "defense": "ASU",
-    "offense": "KANSAS",
-    "result": "TL",
     "time": "",
     "extras": [],
+    "offense": "ASU",
+    "result": "TL",
+    "defense": "KANSAS"
+  },
+  "3": {
+    "period": "FLOOR",
+    "secondary": [
+      "KANSAS-BEN ENGELS"
+    ],
     "length": -1,
     "primary": [
       "ASU-BRENTLEE CASS"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "KANSAS-BEN ENGELS"
-    ]
-  },
-  "4": {
-    "defense": "KANSAS",
-    "offense": "ASU",
-    "result": "TB",
     "time": "",
     "extras": [],
+    "offense": "KANSAS",
+    "result": "TL",
+    "defense": "ASU"
+  },
+  "4": {
+    "period": "FLOOR",
+    "secondary": [
+      "ASU-JOSHUA COVERICK"
+    ],
     "length": -1,
     "primary": [
       "KANSAS-RACHEL ENGLAND"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "ASU-JOSHUA COVERICK"
-    ]
+    "time": "",
+    "extras": [],
+    "offense": "ASU",
+    "result": "TB",
+    "defense": "KANSAS"
   },
   "5": {
-    "defense": "ASU",
-    "offense": "KANSAS",
-    "result": "TB",
+    "period": "FLOOR",
+    "secondary": [
+      "KANSAS-BRANDON TABOR"
+    ],
+    "length": -1,
+    "primary": [
+      "ASU-VICKY SANFORD"
+    ],
     "time": "0225",
     "extras": [
       [
@@ -83,19 +88,19 @@
         "ASU-JARROD BAILEY"
       ]
     ],
-    "length": -1,
-    "primary": [
-      "ASU-VICKY SANFORD"
-    ],
-    "period": "FLOOR",
-    "secondary": [
-      "KANSAS-BRANDON TABOR"
-    ]
+    "offense": "KANSAS",
+    "result": "TB",
+    "defense": "ASU"
   },
   "6": {
-    "defense": "KANSAS",
-    "offense": "ASU",
-    "result": "TC",
+    "period": "FLOOR",
+    "secondary": [
+      "ASU-BRENTLEE CASS"
+    ],
+    "length": -1,
+    "primary": [
+      "KANSAS-IAN MCCABE"
+    ],
     "time": "",
     "extras": [
       [
@@ -103,90 +108,90 @@
         "KANSAS-RYLEY ANDREWS"
       ]
     ],
-    "length": -1,
-    "primary": [
-      "KANSAS-IAN MCCABE"
-    ],
-    "period": "FLOOR",
-    "secondary": [
-      "ASU-BRENTLEE CASS"
-    ]
+    "offense": "ASU",
+    "result": "TC",
+    "defense": "KANSAS"
   },
   "7": {
-    "defense": "ASU",
-    "offense": "KANSAS",
-    "result": "GD",
-    "time": "0314",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [],
     "length": -1,
     "primary": [
       "KANSAS-BRANDON TABOR"
     ],
-    "period": "FLOOR",
-    "secondary": []
+    "time": "0314",
+    "extras": [],
+    "offense": "KANSAS",
+    "result": "GD",
+    "defense": "ASU"
   },
   "8": {
-    "defense": "KANSAS",
-    "offense": "ASU",
-    "result": "GS",
-    "time": "0346",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "ASU-DYLAN BRYANT"
+    ],
     "length": 32,
     "primary": [
       "ASU-JOSH LOVATO"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "ASU-DYLAN BRYANT"
-    ]
+    "time": "0346",
+    "extras": [],
+    "offense": "ASU",
+    "result": "GS",
+    "defense": "KANSAS"
   },
   "9": {
-    "defense": "ASU",
-    "offense": "KANSAS",
-    "result": "GS",
-    "time": "0357",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [],
     "length": 11,
     "primary": [
       "KANSAS-RACHEL HEALD"
     ],
-    "period": "FLOOR",
-    "secondary": []
+    "time": "0357",
+    "extras": [],
+    "offense": "KANSAS",
+    "result": "GS",
+    "defense": "ASU"
   },
   "10": {
-    "defense": "KANSAS",
-    "offense": "ASU",
-    "result": "EP",
-    "time": "0432",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "ASU-CELIA EVANS"
+    ],
     "length": 75,
     "primary": [
       "ASU-DYLAN BRYANT"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "ASU-CELIA EVANS"
-    ]
+    "time": "0432",
+    "extras": [],
+    "offense": "ASU",
+    "result": "EP",
+    "defense": "KANSAS"
   },
   "11": {
-    "defense": "ASU",
-    "offense": "KANSAS",
-    "result": "TB",
-    "time": "0511",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "KANSAS-BRYAN WEARY"
+    ],
     "length": 79,
     "primary": [
       "ASU-RYAN MCGONAGLE"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "KANSAS-BRYAN WEARY"
-    ]
+    "time": "0511",
+    "extras": [],
+    "offense": "KANSAS",
+    "result": "TB",
+    "defense": "ASU"
   },
   "12": {
-    "defense": "KANSAS",
-    "offense": "ASU",
-    "result": "TB",
+    "period": "FLOOR",
+    "secondary": [
+      "ASU-DYLAN BRYANT"
+    ],
+    "length": 107,
+    "primary": [
+      "KANSAS-RYLEY ANDREWS"
+    ],
     "time": "0618",
     "extras": [
       [
@@ -202,45 +207,43 @@
         "KANSAS-RYLEY ANDREWS"
       ]
     ],
-    "length": 107,
-    "primary": [
-      "KANSAS-RYLEY ANDREWS"
-    ],
-    "period": "FLOOR",
-    "secondary": [
-      "ASU-DYLAN BRYANT"
-    ]
+    "offense": "ASU",
+    "result": "TB",
+    "defense": "KANSAS"
   },
   "13": {
-    "defense": "ASU",
-    "offense": "KANSAS",
-    "result": "EM",
-    "time": "0624",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [],
     "length": 6,
     "primary": [
       "KANSAS-IAN MCCABE"
     ],
-    "period": "FLOOR",
-    "secondary": []
+    "time": "0624",
+    "extras": [],
+    "offense": "KANSAS",
+    "result": "EM",
+    "defense": "ASU"
   },
   "14": {
-    "defense": "KANSAS",
-    "offense": "ASU",
-    "result": "GD",
-    "time": "0652",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [],
     "length": 28,
     "primary": [
       "ASU-JARED MOREDA"
     ],
-    "period": "FLOOR",
-    "secondary": []
+    "time": "0652",
+    "extras": [],
+    "offense": "ASU",
+    "result": "GD",
+    "defense": "KANSAS"
   },
   "15": {
-    "defense": "ASU",
-    "offense": "KANSAS",
-    "result": "GS",
+    "period": "FLOOR",
+    "secondary": [],
+    "length": 78,
+    "primary": [
+      "KANSAS-BRANDON TABOR"
+    ],
     "time": "0730",
     "extras": [
       [
@@ -248,47 +251,49 @@
         "ASU-JOSH LOVATO"
       ]
     ],
-    "length": 78,
-    "primary": [
-      "KANSAS-BRANDON TABOR"
-    ],
-    "period": "FLOOR",
-    "secondary": []
+    "offense": "KANSAS",
+    "result": "GS",
+    "defense": "ASU"
   },
   "16": {
-    "defense": "KANSAS",
-    "offense": "ASU",
-    "result": "TC",
-    "time": "0800",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "ASU-JARED MOREDA"
+    ],
     "length": 70,
     "primary": [
       "KANSAS-KEVIN MCMORRIS"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "ASU-JARED MOREDA"
-    ]
+    "time": "0800",
+    "extras": [],
+    "offense": "ASU",
+    "result": "TC",
+    "defense": "KANSAS"
   },
   "17": {
-    "defense": "ASU",
-    "offense": "KANSAS",
-    "result": "TB",
-    "time": "0834",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "KANSAS-BRANDON TABOR"
+    ],
     "length": 34,
     "primary": [
       "ASU-AMANI BURTON"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "KANSAS-BRANDON TABOR"
-    ]
+    "time": "0834",
+    "extras": [],
+    "offense": "KANSAS",
+    "result": "TB",
+    "defense": "ASU"
   },
   "18": {
-    "defense": "KANSAS",
-    "offense": "ASU",
-    "result": "TB",
+    "period": "FLOOR",
+    "secondary": [
+      "ASU-JARED MOREDA"
+    ],
+    "length": 18,
+    "primary": [
+      "KANSAS-ADAM MCMORRIS"
+    ],
     "time": "0852",
     "extras": [
       [
@@ -296,60 +301,60 @@
         "KANSAS-BRANDON TABOR"
       ]
     ],
-    "length": 18,
-    "primary": [
-      "KANSAS-ADAM MCMORRIS"
-    ],
-    "period": "FLOOR",
-    "secondary": [
-      "ASU-JARED MOREDA"
-    ]
+    "offense": "ASU",
+    "result": "TB",
+    "defense": "KANSAS"
   },
   "19": {
-    "defense": "ASU",
-    "offense": "KANSAS",
-    "result": "TL",
-    "time": "0917",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "KANSAS-MATT DWYER"
+    ],
     "length": 65,
     "primary": [
       "ASU-JARED MOREDA"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "KANSAS-MATT DWYER"
-    ]
+    "time": "0917",
+    "extras": [],
+    "offense": "KANSAS",
+    "result": "TL",
+    "defense": "ASU"
   },
   "20": {
-    "defense": "KANSAS",
-    "offense": "ASU",
-    "result": "GD",
-    "time": "0937",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [],
     "length": 20,
     "primary": [
       "ASU-JOSH LOVATO"
     ],
-    "period": "FLOOR",
-    "secondary": []
+    "time": "0937",
+    "extras": [],
+    "offense": "ASU",
+    "result": "GD",
+    "defense": "KANSAS"
   },
   "21": {
-    "defense": "ASU",
-    "offense": "KANSAS",
-    "result": "GD",
-    "time": "1014",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [],
     "length": 77,
     "primary": [
       "KANSAS-BRANDON TABOR"
     ],
-    "period": "FLOOR",
-    "secondary": []
+    "time": "1014",
+    "extras": [],
+    "offense": "KANSAS",
+    "result": "GD",
+    "defense": "ASU"
   },
   "22": {
-    "defense": "KANSAS",
-    "offense": "ASU",
-    "result": "TB",
+    "period": "FLOOR",
+    "secondary": [
+      "ASU-JOSHUA COVERICK"
+    ],
+    "length": 36,
+    "primary": [
+      "KANSAS-JAKE SIMON"
+    ],
     "time": "1050",
     "extras": [
       [
@@ -357,104 +362,104 @@
         "KANSAS-ADAM MCMORRIS"
       ]
     ],
-    "length": 36,
-    "primary": [
-      "KANSAS-JAKE SIMON"
-    ],
-    "period": "FLOOR",
-    "secondary": [
-      "ASU-JOSHUA COVERICK"
-    ]
+    "offense": "ASU",
+    "result": "TB",
+    "defense": "KANSAS"
   },
   "23": {
-    "defense": "ASU",
-    "offense": "KANSAS",
-    "result": "EM",
-    "time": "1107",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [],
     "length": 57,
     "primary": [
       "KANSAS-BRANDON TABOR"
     ],
-    "period": "FLOOR",
-    "secondary": []
+    "time": "1107",
+    "extras": [],
+    "offense": "KANSAS",
+    "result": "EM",
+    "defense": "ASU"
   },
   "24": {
-    "defense": "KANSAS",
-    "offense": "ASU",
-    "result": "GS",
-    "time": "1145",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [],
     "length": 38,
     "primary": [
       "ASU-JARED MOREDA"
     ],
-    "period": "FLOOR",
-    "secondary": []
+    "time": "1145",
+    "extras": [],
+    "offense": "ASU",
+    "result": "GS",
+    "defense": "KANSAS"
   },
   "25": {
-    "defense": "ASU",
-    "offense": "KANSAS",
-    "result": "TB",
-    "time": "1232",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "KANSAS-BEN ENGELS"
+    ],
     "length": 87,
     "primary": [
       "ASU-JARROD BAILEY"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "KANSAS-BEN ENGELS"
-    ]
+    "time": "1232",
+    "extras": [],
+    "offense": "KANSAS",
+    "result": "TB",
+    "defense": "ASU"
   },
   "26": {
-    "defense": "KANSAS",
-    "offense": "ASU",
-    "result": "GS",
-    "time": "1242",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "ASU-DYLAN BRYANT"
+    ],
     "length": 10,
     "primary": [
       "ASU-JARED MOREDA"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "ASU-DYLAN BRYANT"
-    ]
+    "time": "1242",
+    "extras": [],
+    "offense": "ASU",
+    "result": "GS",
+    "defense": "KANSAS"
   },
   "27": {
-    "defense": "ASU",
-    "offense": "KANSAS",
-    "result": "TD",
-    "time": "1319",
-    "extras": [],
-    "length": 77,
-    "primary": [
-      "ASU-JARED MOREDA"
-    ],
     "period": "FLOOR",
     "secondary": [
       "KANSAS-BEN ENGELS",
       "KANSAS-RACHEL HEALD"
-    ]
+    ],
+    "length": 77,
+    "primary": [
+      "ASU-JARED MOREDA"
+    ],
+    "time": "1319",
+    "extras": [],
+    "offense": "KANSAS",
+    "result": "TD",
+    "defense": "ASU"
   },
   "28": {
-    "defense": "KANSAS",
-    "offense": "ASU",
-    "result": "GD",
-    "time": "1326",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [],
     "length": 7,
     "primary": [
       "ASU-JARED MOREDA"
     ],
-    "period": "FLOOR",
-    "secondary": []
+    "time": "1326",
+    "extras": [],
+    "offense": "ASU",
+    "result": "GD",
+    "defense": "KANSAS"
   },
   "29": {
-    "defense": "ASU",
-    "offense": "KANSAS",
-    "result": "EP",
+    "period": "FLOOR",
+    "secondary": [
+      "KANSAS-RYAN DICKEY"
+    ],
+    "length": 31,
+    "primary": [
+      "KANSAS-BEN ENGELS"
+    ],
     "time": "1357",
     "extras": [
       [
@@ -462,19 +467,19 @@
         "ASU-JARED MOREDA"
       ]
     ],
-    "length": 31,
-    "primary": [
-      "KANSAS-BEN ENGELS"
-    ],
-    "period": "FLOOR",
-    "secondary": [
-      "KANSAS-RYAN DICKEY"
-    ]
+    "offense": "KANSAS",
+    "result": "EP",
+    "defense": "ASU"
   },
   "30": {
-    "defense": "KANSAS",
-    "offense": "ASU",
-    "result": "TL",
+    "period": "FLOOR",
+    "secondary": [
+      "ASU-MAKENNA BAUM"
+    ],
+    "length": -1,
+    "primary": [
+      "KANSAS-RACHEL HEALD"
+    ],
     "time": "",
     "extras": [
       [
@@ -486,92 +491,90 @@
         "KANSAS-IAN MCCABE"
       ]
     ],
-    "length": -1,
-    "primary": [
-      "KANSAS-RACHEL HEALD"
-    ],
-    "period": "FLOOR",
-    "secondary": [
-      "ASU-MAKENNA BAUM"
-    ]
+    "offense": "ASU",
+    "result": "TL",
+    "defense": "KANSAS"
   },
   "31": {
-    "defense": "ASU",
-    "offense": "KANSAS",
-    "result": "TC",
-    "time": "",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "KANSAS-BRANDON TABOR"
+    ],
     "length": -1,
     "primary": [
       "ASU-BRENTLEE CASS"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "KANSAS-BRANDON TABOR"
-    ]
-  },
-  "32": {
-    "defense": "KANSAS",
-    "offense": "ASU",
-    "result": "EY",
     "time": "",
     "extras": [],
+    "offense": "KANSAS",
+    "result": "TC",
+    "defense": "ASU"
+  },
+  "32": {
+    "period": "FLOOR",
+    "secondary": [],
     "length": -1,
     "primary": [
       "ASU-CALEB RAGATZ"
     ],
-    "period": "FLOOR",
-    "secondary": []
-  },
-  "33": {
-    "defense": "ASU",
-    "offense": "KANSAS",
-    "result": "TB",
     "time": "",
     "extras": [],
+    "offense": "ASU",
+    "result": "EY",
+    "defense": "KANSAS"
+  },
+  "33": {
+    "period": "FLOOR",
+    "secondary": [
+      "KANSAS-BEN ENGELS"
+    ],
     "length": -1,
     "primary": [
       "ASU-AMANI BURTON"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "KANSAS-BEN ENGELS"
-    ]
-  },
-  "34": {
-    "defense": "KANSAS",
-    "offense": "ASU",
-    "result": "TB",
     "time": "",
     "extras": [],
+    "offense": "KANSAS",
+    "result": "TB",
+    "defense": "ASU"
+  },
+  "34": {
+    "period": "FLOOR",
+    "secondary": [
+      "ASU-BRENTLEE CASS"
+    ],
     "length": -1,
     "primary": [
       "KANSAS-RYLEY ANDREWS"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "ASU-BRENTLEE CASS"
-    ]
-  },
-  "35": {
-    "defense": "ASU",
-    "offense": "KANSAS",
-    "result": "TL",
     "time": "",
     "extras": [],
+    "offense": "ASU",
+    "result": "TB",
+    "defense": "KANSAS"
+  },
+  "35": {
+    "period": "FLOOR",
+    "secondary": [
+      "KANSAS-RACHEL HEALD"
+    ],
     "length": -1,
     "primary": [
       "ASU-BRENTLEE CASS"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "KANSAS-RACHEL HEALD"
-    ]
+    "time": "",
+    "extras": [],
+    "offense": "KANSAS",
+    "result": "TL",
+    "defense": "ASU"
   },
   "36": {
-    "defense": "KANSAS",
-    "offense": "ASU",
-    "result": "E",
+    "period": "SOP",
+    "secondary": [],
+    "length": -1,
+    "primary": [
+      "ASU-JARED MOREDA"
+    ],
     "time": "1810",
     "extras": [
       [
@@ -579,17 +582,17 @@
         1
       ]
     ],
-    "length": -1,
-    "primary": [
-      "ASU-JARED MOREDA"
-    ],
-    "period": "SOP",
-    "secondary": []
+    "offense": "ASU",
+    "result": "E",
+    "defense": "KANSAS"
   },
   "37": {
-    "defense": "ASU",
-    "offense": "KANSAS",
-    "result": "G",
+    "period": "SOP",
+    "secondary": [],
+    "length": 97,
+    "primary": [
+      "KANSAS-UNK"
+    ],
     "time": "1907",
     "extras": [
       [
@@ -597,93 +600,90 @@
         "ASU-CALEB RAGATZ"
       ]
     ],
-    "length": 97,
-    "primary": [
-      "KANSAS-UNK"
-    ],
-    "period": "SOP",
-    "secondary": []
+    "offense": "KANSAS",
+    "result": "G",
+    "defense": "ASU"
   },
   "38": {
-    "defense": "KANSAS",
-    "offense": "ASU",
-    "result": "GP",
-    "time": "1921",
-    "extras": [],
+    "period": "SOP",
+    "secondary": [
+      "ASU-JARED MOREDA"
+    ],
     "length": 14,
     "primary": [
       "ASU-DYLAN BRYANT"
     ],
-    "period": "SOP",
-    "secondary": [
-      "ASU-JARED MOREDA"
-    ]
+    "time": "1921",
+    "extras": [],
+    "offense": "ASU",
+    "result": "GP",
+    "defense": "KANSAS"
   },
   "39": {
-    "defense": "ASU",
-    "offense": "KANSAS",
-    "result": "GD",
-    "time": "1959",
-    "extras": [],
+    "period": "SOP",
+    "secondary": [
+      "KANSAS-RACHEL HEALD"
+    ],
     "length": 38,
     "primary": [
       "KANSAS-BRANDON TABOR"
     ],
-    "period": "SOP",
-    "secondary": [
-      "KANSAS-RACHEL HEALD"
-    ]
+    "time": "1959",
+    "extras": [],
+    "offense": "KANSAS",
+    "result": "GD",
+    "defense": "ASU"
   },
   "40": {
-    "defense": "KANSAS",
-    "offense": "ASU",
-    "result": "GD",
-    "time": "2018",
-    "extras": [],
+    "period": "SOP",
+    "secondary": [],
     "length": 59,
     "primary": [
       "ASU-JARED MOREDA"
     ],
-    "period": "SOP",
-    "secondary": []
+    "time": "2018",
+    "extras": [],
+    "offense": "ASU",
+    "result": "GD",
+    "defense": "KANSAS"
   },
   "41": {
-    "defense": "ASU",
-    "offense": "KANSAS",
-    "result": "G",
-    "time": "2110",
-    "extras": [],
+    "period": "SOP",
+    "secondary": [],
     "length": 92,
     "primary": [
       "KANSAS-UNK"
     ],
-    "period": "SOP",
-    "secondary": []
+    "time": "2110",
+    "extras": [],
+    "offense": "KANSAS",
+    "result": "G",
+    "defense": "ASU"
   },
   "42": {
-    "defense": "KANSAS",
-    "offense": "ASU",
-    "result": "G",
-    "time": "2137",
-    "extras": [],
+    "period": "SOP",
+    "secondary": [],
     "length": 27,
     "primary": [
       "ASU-UNK"
     ],
-    "period": "SOP",
-    "secondary": []
+    "time": "2137",
+    "extras": [],
+    "offense": "ASU",
+    "result": "G",
+    "defense": "KANSAS"
   },
   "43": {
-    "defense": "ASU",
-    "offense": "KANSAS",
-    "result": "RCA",
-    "time": "2151",
-    "extras": [],
+    "period": "SOP",
+    "secondary": [],
     "length": -1,
     "primary": [
       "KANSAS-BRYAN WEARY"
     ],
-    "period": "SOP",
-    "secondary": []
+    "time": "2151",
+    "extras": [],
+    "offense": "KANSAS",
+    "result": "RCA",
+    "defense": "ASU"
   }
 }
