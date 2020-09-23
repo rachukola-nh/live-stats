@@ -1,217 +1,218 @@
 {
   "0": {
-    "defense": "",
     "primary": [
       "UTSA-JAY STEWART"
     ],
-    "period": "FLOOR",
-    "time": "0000",
-    "extras": [],
-    "result": "BU",
     "secondary": [
       "UTSA-DANIEL WILLIAMS"
     ],
+    "time": "0000",
     "length": -1,
-    "offense": "Brooms Up"
+    "extras": [],
+    "offense": "Brooms Up",
+    "result": "BU",
+    "defense": "",
+    "period": "FLOOR"
   },
   "1": {
-    "defense": "TEXAS",
+    "period": "FLOOR",
+    "secondary": [],
+    "length": 6,
     "primary": [
       "UTSA-JAY STEWART"
     ],
-    "period": "FLOOR",
     "time": "0006",
     "extras": [],
+    "offense": "UTSA",
     "result": "GD",
-    "secondary": [],
-    "length": 6,
-    "offense": "UTSA"
+    "defense": "TEXAS"
   },
   "2": {
-    "defense": "UTSA",
+    "period": "FLOOR",
+    "secondary": [],
+    "length": 48,
     "primary": [
       "TEXAS-DAVIS ROE"
     ],
-    "period": "FLOOR",
     "time": "0054",
     "extras": [],
+    "offense": "TEXAS",
     "result": "GD",
-    "secondary": [],
-    "length": 48,
-    "offense": "TEXAS"
+    "defense": "UTSA"
   },
   "3": {
-    "defense": "TEXAS",
-    "primary": [
-      "TEXAS-TATE KAY"
-    ],
     "period": "FLOOR",
-    "time": "0141",
-    "extras": [],
-    "result": "TB",
     "secondary": [
       "UTSA-AVERIE MESSENGER"
     ],
     "length": 87,
-    "offense": "UTSA"
+    "primary": [
+      "TEXAS-TATE KAY"
+    ],
+    "time": "0141",
+    "extras": [],
+    "offense": "UTSA",
+    "result": "TB",
+    "defense": "TEXAS"
   },
   "4": {
-    "defense": "UTSA",
+    "period": "FLOOR",
+    "secondary": [],
+    "length": 89,
     "primary": [
       "TEXAS-LUKE MEISSNER"
     ],
-    "period": "FLOOR",
     "time": "0230",
     "extras": [],
+    "offense": "TEXAS",
     "result": "GD",
-    "secondary": [],
-    "length": 89,
-    "offense": "TEXAS"
+    "defense": "UTSA"
   },
   "5": {
-    "defense": "TEXAS",
+    "period": "FLOOR",
+    "secondary": [],
+    "length": 18,
     "primary": [
       "UTSA-CARLOS PRADO"
     ],
-    "period": "FLOOR",
     "time": "0248",
     "extras": [],
+    "offense": "UTSA",
     "result": "GD",
-    "secondary": [],
-    "length": 18,
-    "offense": "UTSA"
+    "defense": "TEXAS"
   },
   "6": {
-    "defense": "UTSA",
+    "period": "FLOOR",
+    "secondary": [],
+    "length": 109,
     "primary": [
       "TEXAS-COLE BURKE"
     ],
-    "period": "FLOOR",
     "time": "0357",
     "extras": [],
+    "offense": "TEXAS",
     "result": "EM",
-    "secondary": [],
-    "length": 109,
-    "offense": "TEXAS"
+    "defense": "UTSA"
   },
   "7": {
-    "defense": "TEXAS",
-    "primary": [
-      "UTSA-CHRISTIAN CORTEZ"
-    ],
     "period": "FLOOR",
-    "time": "0432",
-    "extras": [],
-    "result": "EP",
     "secondary": [
       "UTSA-UNK"
     ],
     "length": 75,
-    "offense": "UTSA"
+    "primary": [
+      "UTSA-CHRISTIAN CORTEZ"
+    ],
+    "time": "0432",
+    "extras": [],
+    "offense": "UTSA",
+    "result": "EP",
+    "defense": "TEXAS"
   },
   "8": {
-    "defense": "UTSA",
+    "period": "FLOOR",
+    "secondary": [],
+    "length": 68,
     "primary": [
       "TEXAS-COLE BURKE"
     ],
-    "period": "FLOOR",
     "time": "0500",
     "extras": [],
+    "offense": "TEXAS",
     "result": "EM",
-    "secondary": [],
-    "length": 68,
-    "offense": "TEXAS"
+    "defense": "UTSA"
   },
   "9": {
-    "defense": "TEXAS",
-    "primary": [
-      "TEXAS-DAVIS ROE"
-    ],
     "period": "FLOOR",
-    "time": "0547",
-    "extras": [],
-    "result": "TC",
     "secondary": [
       "UTSA-CARLOS PRADO"
     ],
     "length": 47,
-    "offense": "UTSA"
+    "primary": [
+      "TEXAS-DAVIS ROE"
+    ],
+    "time": "0547",
+    "extras": [],
+    "offense": "UTSA",
+    "result": "TC",
+    "defense": "TEXAS"
   },
   "10": {
-    "defense": "UTSA",
-    "primary": [
-      "UTSA-DANIEL WILLIAMS"
-    ],
     "period": "FLOOR",
-    "time": "0652",
-    "extras": [],
-    "result": "TB",
     "secondary": [
       "TEXAS-JOHN ANDERSON"
     ],
     "length": 105,
-    "offense": "TEXAS"
+    "primary": [
+      "UTSA-DANIEL WILLIAMS"
+    ],
+    "time": "0652",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "TB",
+    "defense": "UTSA"
   },
   "11": {
-    "defense": "TEXAS",
-    "primary": [
-      "TEXAS-TATE KAY"
-    ],
     "period": "FLOOR",
-    "time": "0655",
-    "extras": [],
-    "result": "TB",
     "secondary": [
       "UTSA-CHRISTIAN CORTEZ"
     ],
     "length": 3,
-    "offense": "UTSA"
+    "primary": [
+      "TEXAS-TATE KAY"
+    ],
+    "time": "0655",
+    "extras": [],
+    "offense": "UTSA",
+    "result": "TB",
+    "defense": "TEXAS"
   },
   "12": {
-    "defense": "UTSA",
+    "period": "FLOOR",
+    "secondary": [],
+    "length": 67,
     "primary": [
       "TEXAS-JOHN ANDERSON"
     ],
-    "period": "FLOOR",
     "time": "0722",
     "extras": [],
+    "offense": "TEXAS",
     "result": "EM",
-    "secondary": [],
-    "length": 67,
-    "offense": "TEXAS"
+    "defense": "UTSA"
   },
   "13": {
-    "defense": "TEXAS",
+    "period": "FLOOR",
+    "secondary": [],
+    "length": 30,
     "primary": [
       "UTSA-CHRISTIAN CORTEZ"
     ],
-    "period": "FLOOR",
     "time": "0752",
     "extras": [],
+    "offense": "UTSA",
     "result": "EM",
-    "secondary": [],
-    "length": 30,
-    "offense": "UTSA"
+    "defense": "TEXAS"
   },
   "14": {
-    "defense": "UTSA",
+    "period": "FLOOR",
+    "secondary": [],
+    "length": 85,
     "primary": [
       "TEXAS-JAYDAN GILSTRAP"
     ],
-    "period": "FLOOR",
     "time": "0837",
     "extras": [],
+    "offense": "TEXAS",
     "result": "EM",
-    "secondary": [],
-    "length": 85,
-    "offense": "TEXAS"
+    "defense": "UTSA"
   },
   "15": {
-    "defense": "TEXAS",
+    "period": "FLOOR",
+    "secondary": [],
+    "length": 13,
     "primary": [
       "UTSA-TYLER ZREET"
     ],
-    "period": "FLOOR",
     "time": "0850",
     "extras": [
       [
@@ -219,76 +220,78 @@
         "TEXAS-JAYDAN GILSTRAP"
       ]
     ],
+    "offense": "UTSA",
     "result": "GD",
-    "secondary": [],
-    "length": 13,
-    "offense": "UTSA"
+    "defense": "TEXAS"
   },
   "16": {
-    "defense": "UTSA",
-    "primary": [
-      "TEXAS-JAYDAN GILSTRAP"
-    ],
     "period": "FLOOR",
-    "time": "0920",
-    "extras": [],
-    "result": "ED",
     "secondary": [
       "TEXAS-JOHN ANDERSON"
     ],
     "length": 70,
-    "offense": "TEXAS"
+    "primary": [
+      "TEXAS-JAYDAN GILSTRAP"
+    ],
+    "time": "0920",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "ED",
+    "defense": "UTSA"
   },
   "17": {
-    "defense": "TEXAS",
-    "primary": [
-      "TEXAS-JOHN ANDERSON"
-    ],
     "period": "FLOOR",
-    "time": "1014",
-    "extras": [],
-    "result": "TD",
     "secondary": [
       "UTSA-MATT BLACKWOOD",
       "UTSA-AVERIE MESSENGER"
     ],
     "length": 94,
-    "offense": "UTSA"
-  },
-  "18": {
-    "defense": "UTSA",
     "primary": [
       "TEXAS-JOHN ANDERSON"
     ],
-    "period": "FLOOR",
-    "time": "1057",
+    "time": "1014",
     "extras": [],
-    "result": "GS",
+    "offense": "UTSA",
+    "result": "TD",
+    "defense": "TEXAS"
+  },
+  "18": {
+    "period": "FLOOR",
     "secondary": [
       "TEXAS-MICHAEL JOHNSTON"
     ],
     "length": 43,
-    "offense": "TEXAS"
+    "primary": [
+      "TEXAS-JOHN ANDERSON"
+    ],
+    "time": "1057",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "GS",
+    "defense": "UTSA"
   },
   "19": {
-    "defense": "TEXAS",
+    "period": "FLOOR",
+    "secondary": [],
+    "length": 54,
     "primary": [
       "UTSA-MATT BLACKWOOD"
     ],
-    "period": "FLOOR",
     "time": "1111",
     "extras": [],
+    "offense": "UTSA",
     "result": "GS",
-    "secondary": [],
-    "length": 54,
-    "offense": "UTSA"
+    "defense": "TEXAS"
   },
   "20": {
-    "defense": "UTSA",
+    "period": "FLOOR",
+    "secondary": [
+      "TEXAS-JAYDAN GILSTRAP"
+    ],
+    "length": 107,
     "primary": [
       "UTSA-CHUCKY SEPULVEDA"
     ],
-    "period": "FLOOR",
     "time": "1218",
     "extras": [
       [
@@ -296,32 +299,30 @@
         "UTSA-DANIEL WILLIAMS"
       ]
     ],
+    "offense": "TEXAS",
     "result": "TC",
-    "secondary": [
-      "TEXAS-JAYDAN GILSTRAP"
-    ],
-    "length": 107,
-    "offense": "TEXAS"
+    "defense": "UTSA"
   },
   "21": {
-    "defense": "TEXAS",
+    "period": "FLOOR",
+    "secondary": [],
+    "length": 10,
     "primary": [
       "UTSA-MATT BLACKWOOD"
     ],
-    "period": "FLOOR",
     "time": "1228",
     "extras": [],
+    "offense": "UTSA",
     "result": "EM",
-    "secondary": [],
-    "length": 10,
-    "offense": "UTSA"
+    "defense": "TEXAS"
   },
   "22": {
-    "defense": "UTSA",
+    "period": "FLOOR",
+    "secondary": [],
+    "length": 115,
     "primary": [
       "TEXAS-MICHAEL JOHNSTON"
     ],
-    "period": "FLOOR",
     "time": "1343",
     "extras": [
       [
@@ -329,30 +330,32 @@
         "UTSA-ALLIE MESSENGER"
       ]
     ],
+    "offense": "TEXAS",
     "result": "GS",
-    "secondary": [],
-    "length": 115,
-    "offense": "TEXAS"
+    "defense": "UTSA"
   },
   "23": {
-    "defense": "TEXAS",
+    "period": "FLOOR",
+    "secondary": [],
+    "length": 74,
     "primary": [
       "UTSA-AVERIE MESSENGER"
     ],
-    "period": "FLOOR",
     "time": "1417",
     "extras": [],
+    "offense": "UTSA",
     "result": "ED",
-    "secondary": [],
-    "length": 74,
-    "offense": "UTSA"
+    "defense": "TEXAS"
   },
   "24": {
-    "defense": "UTSA",
+    "period": "FLOOR",
+    "secondary": [
+      "TEXAS-JOHN ANDERSON"
+    ],
+    "length": 93,
     "primary": [
       "UTSA-CHUCKY SEPULVEDA"
     ],
-    "period": "FLOOR",
     "time": "1510",
     "extras": [
       [
@@ -360,62 +363,60 @@
         "UTSA-DANIEL WILLIAMS"
       ]
     ],
+    "offense": "TEXAS",
     "result": "TC",
-    "secondary": [
-      "TEXAS-JOHN ANDERSON"
-    ],
-    "length": 93,
-    "offense": "TEXAS"
+    "defense": "UTSA"
   },
   "25": {
-    "defense": "TEXAS",
-    "primary": [
-      "TEXAS-JAYDAN GILSTRAP"
-    ],
     "period": "FLOOR",
-    "time": "1521",
-    "extras": [],
-    "result": "TC",
     "secondary": [
       "UTSA-CHUCKY SEPULVEDA"
     ],
     "length": 11,
-    "offense": "UTSA"
+    "primary": [
+      "TEXAS-JAYDAN GILSTRAP"
+    ],
+    "time": "1521",
+    "extras": [],
+    "offense": "UTSA",
+    "result": "TC",
+    "defense": "TEXAS"
   },
   "26": {
-    "defense": "UTSA",
-    "primary": [
-      "TEXAS-GRAYSON BRIGGS"
-    ],
     "period": "FLOOR",
-    "time": "1650",
-    "extras": [],
-    "result": "EM",
     "secondary": [],
     "length": 129,
-    "offense": "TEXAS"
-  },
-  "27": {
-    "defense": "TEXAS",
     "primary": [
       "TEXAS-GRAYSON BRIGGS"
     ],
-    "period": "FLOOR",
-    "time": "1729",
+    "time": "1650",
     "extras": [],
-    "result": "TL",
+    "offense": "TEXAS",
+    "result": "EM",
+    "defense": "UTSA"
+  },
+  "27": {
+    "period": "FLOOR",
     "secondary": [
       "UTSA-MATT BLACKWOOD"
     ],
     "length": 79,
-    "offense": "UTSA"
+    "primary": [
+      "TEXAS-GRAYSON BRIGGS"
+    ],
+    "time": "1729",
+    "extras": [],
+    "offense": "UTSA",
+    "result": "TL",
+    "defense": "TEXAS"
   },
   "28": {
-    "defense": "UTSA",
+    "period": "SOP",
+    "secondary": [],
+    "length": 77,
     "primary": [
       "TEXAS-DAVIS ROE"
     ],
-    "period": "SOP",
     "time": "1806",
     "extras": [
       [
@@ -423,45 +424,45 @@
         1
       ]
     ],
+    "offense": "TEXAS",
     "result": "GD",
-    "secondary": [],
-    "length": 77,
-    "offense": "TEXAS"
+    "defense": "UTSA"
   },
   "29": {
-    "defense": "TEXAS",
+    "period": "SOP",
+    "secondary": [],
+    "length": 25,
     "primary": [
       "UTSA-AVERIE MESSENGER"
     ],
-    "period": "SOP",
     "time": "1831",
     "extras": [],
+    "offense": "UTSA",
     "result": "EM",
-    "secondary": [],
-    "length": 25,
-    "offense": "UTSA"
+    "defense": "TEXAS"
   },
   "30": {
-    "defense": "UTSA",
-    "primary": [
-      "TEXAS-CAROLINE TAO"
-    ],
     "period": "SOP",
-    "time": "1842",
-    "extras": [],
-    "result": "GP",
     "secondary": [
       "TEXAS-DAVIS ROE"
     ],
     "length": 11,
-    "offense": "TEXAS"
+    "primary": [
+      "TEXAS-CAROLINE TAO"
+    ],
+    "time": "1842",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "GP",
+    "defense": "UTSA"
   },
   "31": {
-    "defense": "TEXAS",
+    "period": "SOP",
+    "secondary": [],
+    "length": 106,
     "primary": [
       "UTSA-TYLER ZREET"
     ],
-    "period": "SOP",
     "time": "1948",
     "extras": [
       [
@@ -469,160 +470,159 @@
         "TEXAS-LUKE MEISSNER"
       ]
     ],
+    "offense": "UTSA",
     "result": "GD",
-    "secondary": [],
-    "length": 106,
-    "offense": "UTSA"
+    "defense": "TEXAS"
   },
   "32": {
-    "defense": "UTSA",
+    "period": "SOP",
+    "secondary": [],
+    "length": 78,
     "primary": [
       "TEXAS-LUKE MEISSNER"
     ],
-    "period": "SOP",
     "time": "2026",
     "extras": [],
+    "offense": "TEXAS",
     "result": "GS",
-    "secondary": [],
-    "length": 78,
-    "offense": "TEXAS"
+    "defense": "UTSA"
   },
   "33": {
-    "defense": "TEXAS",
-    "primary": [
-      "UTSA-CARLOS PRADO"
-    ],
     "period": "SOP",
-    "time": "2047",
-    "extras": [],
-    "result": "GP",
     "secondary": [
       "UTSA-RENN LEBER"
     ],
     "length": 21,
-    "offense": "UTSA"
+    "primary": [
+      "UTSA-CARLOS PRADO"
+    ],
+    "time": "2047",
+    "extras": [],
+    "offense": "UTSA",
+    "result": "GP",
+    "defense": "TEXAS"
   },
   "34": {
-    "defense": "UTSA",
-    "primary": [
-      "TEXAS-JOSH JOHNSON"
-    ],
     "period": "SOP",
-    "time": "2112",
-    "extras": [],
-    "result": "EP",
     "secondary": [
       "TEXAS-UNK"
     ],
     "length": 65,
-    "offense": "TEXAS"
+    "primary": [
+      "TEXAS-JOSH JOHNSON"
+    ],
+    "time": "2112",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "EP",
+    "defense": "UTSA"
   },
   "35": {
-    "defense": "TEXAS",
+    "period": "SOP",
+    "secondary": [],
+    "length": 23,
     "primary": [
       "UTSA-CARLOS PRADO"
     ],
-    "period": "SOP",
     "time": "2135",
     "extras": [],
+    "offense": "UTSA",
     "result": "GD",
-    "secondary": [],
-    "length": 23,
-    "offense": "UTSA"
+    "defense": "TEXAS"
   },
   "36": {
-    "defense": "UTSA",
+    "period": "SOP",
+    "secondary": [],
+    "length": 95,
     "primary": [
       "TEXAS-LUKE MEISSNER"
     ],
-    "period": "SOP",
     "time": "2230",
     "extras": [],
+    "offense": "TEXAS",
     "result": "GD",
-    "secondary": [],
-    "length": 95,
-    "offense": "TEXAS"
+    "defense": "UTSA"
   },
   "37": {
-    "defense": "TEXAS",
+    "period": "SOP",
+    "secondary": [],
+    "length": 81,
     "primary": [
       "UTSA-UNK"
     ],
-    "period": "SOP",
     "time": "2311",
     "extras": [],
+    "offense": "UTSA",
     "result": "G",
-    "secondary": [],
-    "length": 81,
-    "offense": "UTSA"
+    "defense": "TEXAS"
   },
   "38": {
-    "defense": "UTSA",
+    "period": "SOP",
+    "secondary": [],
+    "length": 190,
     "primary": [
       "TEXAS-UNK"
     ],
-    "period": "SOP",
     "time": "2501",
     "extras": [],
+    "offense": "TEXAS",
     "result": "G",
-    "secondary": [],
-    "length": 190,
-    "offense": "TEXAS"
+    "defense": "UTSA"
   },
   "39": {
-    "defense": "TEXAS",
+    "period": "SOP",
+    "secondary": [],
+    "length": 29,
     "primary": [
       "UTSA-UNK"
     ],
-    "period": "SOP",
     "time": "2530",
     "extras": [],
+    "offense": "UTSA",
     "result": "G",
-    "secondary": [],
-    "length": 29,
-    "offense": "UTSA"
+    "defense": "TEXAS"
   },
   "40": {
-    "defense": "UTSA",
-    "primary": [
-      "UTSA-DANIEL WILLIAMS"
-    ],
     "period": "SOP",
-    "time": "2623",
-    "extras": [],
-    "result": "TB",
     "secondary": [
       "TEXAS-KASYE BEVERS"
     ],
     "length": 93,
-    "offense": "TEXAS"
+    "primary": [
+      "UTSA-DANIEL WILLIAMS"
+    ],
+    "time": "2623",
+    "extras": [],
+    "offense": "TEXAS",
+    "result": "TB",
+    "defense": "UTSA"
   },
   "41": {
-    "defense": "TEXAS",
-    "primary": [
-      "TEXAS-DAVIS ROE"
-    ],
     "period": "SOP",
-    "time": "2647",
-    "extras": [],
-    "result": "TC",
     "secondary": [
       "UTSA-TYLER ZREET"
     ],
     "length": 24,
-    "offense": "UTSA"
+    "primary": [
+      "TEXAS-DAVIS ROE"
+    ],
+    "time": "2647",
+    "extras": [],
+    "offense": "UTSA",
+    "result": "TC",
+    "defense": "TEXAS"
   },
   "42": {
-    "defense": "UTSA",
+    "period": "SOP",
+    "secondary": [],
+    "length": -1,
     "primary": [
       "TEXAS-JOHN ANDERSON"
     ],
-    "period": "SOP",
     "time": "2705",
     "extras": [],
+    "offense": "TEXAS",
     "result": "RCA",
-    "secondary": [],
-    "length": -1,
-    "offense": "TEXAS"
+    "defense": "UTSA"
   }
 }

@@ -1,23 +1,28 @@
 {
   "0": {
-    "defense": "",
-    "offense": "Brooms Up",
-    "result": "BU",
-    "time": "0000",
-    "length": -1,
-    "extras": [],
     "primary": [
       "UTSA-RENN LEBER"
     ],
-    "period": "FLOOR",
     "secondary": [
       "UTSA-NATE SALDIVAR"
-    ]
+    ],
+    "time": "0000",
+    "length": -1,
+    "extras": [],
+    "offense": "Brooms Up",
+    "result": "BU",
+    "defense": "",
+    "period": "FLOOR"
   },
   "1": {
-    "defense": "TXST",
-    "offense": "UTSA",
-    "result": "ED",
+    "period": "FLOOR",
+    "secondary": [
+      "UTSA-RENN LEBER"
+    ],
+    "length": 25,
+    "primary": [
+      "UTSA-AVERIE MESSENGER"
+    ],
     "time": "0025",
     "extras": [
       [
@@ -25,135 +30,135 @@
         "UTSA-JAY STEWART"
       ]
     ],
-    "length": 25,
-    "primary": [
-      "UTSA-AVERIE MESSENGER"
-    ],
-    "period": "FLOOR",
-    "secondary": [
-      "UTSA-RENN LEBER"
-    ]
+    "offense": "UTSA",
+    "result": "ED",
+    "defense": "TXST"
   },
   "2": {
-    "defense": "UTSA",
-    "offense": "TXST",
-    "result": "TB",
-    "time": "0110",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "TXST-MELISSA KITE"
+    ],
     "length": 85,
     "primary": [
       "UTSA-DANIEL WILLIAMS"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "TXST-MELISSA KITE"
-    ]
+    "time": "0110",
+    "extras": [],
+    "offense": "TXST",
+    "result": "TB",
+    "defense": "UTSA"
   },
   "3": {
-    "defense": "TXST",
-    "offense": "UTSA",
-    "result": "EM",
-    "time": "0144",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [],
     "length": 34,
     "primary": [
       "UTSA-AVERIE MESSENGER"
     ],
-    "period": "FLOOR",
-    "secondary": []
+    "time": "0144",
+    "extras": [],
+    "offense": "UTSA",
+    "result": "EM",
+    "defense": "TXST"
   },
   "4": {
-    "defense": "UTSA",
-    "offense": "TXST",
-    "result": "GS",
-    "time": "0209",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "TXST-ERIC REYES"
+    ],
     "length": 65,
     "primary": [
       "TXST-IAN GAONA"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "TXST-ERIC REYES"
-    ]
+    "time": "0209",
+    "extras": [],
+    "offense": "TXST",
+    "result": "GS",
+    "defense": "UTSA"
   },
   "5": {
-    "defense": "TXST",
-    "offense": "UTSA",
-    "result": "GD",
-    "time": "0244",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "UTSA-RENN LEBER"
+    ],
     "length": 35,
     "primary": [
       "UTSA-AVERIE MESSENGER"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "UTSA-RENN LEBER"
-    ]
+    "time": "0244",
+    "extras": [],
+    "offense": "UTSA",
+    "result": "GD",
+    "defense": "TXST"
   },
   "6": {
-    "defense": "UTSA",
-    "offense": "TXST",
-    "result": "TB",
-    "time": "0322",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "TXST-IAN GAONA"
+    ],
     "length": 78,
     "primary": [
       "UTSA-NATE SALDIVAR"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "TXST-IAN GAONA"
-    ]
+    "time": "0322",
+    "extras": [],
+    "offense": "TXST",
+    "result": "TB",
+    "defense": "UTSA"
   },
   "7": {
-    "defense": "TXST",
-    "offense": "UTSA",
-    "result": "EP",
-    "time": "0342",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "UTSA-TYLER ZREET"
+    ],
     "length": 20,
     "primary": [
       "UTSA-RENN LEBER"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "UTSA-TYLER ZREET"
-    ]
+    "time": "0342",
+    "extras": [],
+    "offense": "UTSA",
+    "result": "EP",
+    "defense": "TXST"
   },
   "8": {
-    "defense": "UTSA",
-    "offense": "TXST",
-    "result": "GS",
-    "time": "0436",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [],
     "length": 94,
     "primary": [
       "TXST-NICK ED"
     ],
-    "period": "FLOOR",
-    "secondary": []
+    "time": "0436",
+    "extras": [],
+    "offense": "TXST",
+    "result": "GS",
+    "defense": "UTSA"
   },
   "9": {
-    "defense": "TXST",
-    "offense": "UTSA",
-    "result": "ED",
-    "time": "0526",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "UTSA-RENN LEBER"
+    ],
     "length": 90,
     "primary": [
       "UTSA-AVERIE MESSENGER"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "UTSA-RENN LEBER"
-    ]
+    "time": "0526",
+    "extras": [],
+    "offense": "UTSA",
+    "result": "ED",
+    "defense": "TXST"
   },
   "10": {
-    "defense": "UTSA",
-    "offense": "TXST",
-    "result": "TB",
+    "period": "FLOOR",
+    "secondary": [
+      "TXST-IAN GAONA"
+    ],
+    "length": 20,
+    "primary": [
+      "UTSA-NATE SALDIVAR"
+    ],
     "time": "0546",
     "extras": [
       [
@@ -161,73 +166,71 @@
         "UTSA-RENN LEBER"
       ]
     ],
-    "length": 20,
-    "primary": [
-      "UTSA-NATE SALDIVAR"
-    ],
-    "period": "FLOOR",
-    "secondary": [
-      "TXST-IAN GAONA"
-    ]
+    "offense": "TXST",
+    "result": "TB",
+    "defense": "UTSA"
   },
   "11": {
-    "defense": "TXST",
-    "offense": "UTSA",
-    "result": "EM",
-    "time": "0610",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [],
     "length": 64,
     "primary": [
       "UTSA-TYLER ZREET"
     ],
-    "period": "FLOOR",
-    "secondary": []
+    "time": "0610",
+    "extras": [],
+    "offense": "UTSA",
+    "result": "EM",
+    "defense": "TXST"
   },
   "12": {
-    "defense": "UTSA",
-    "offense": "TXST",
-    "result": "GD",
-    "time": "0628",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [],
     "length": 18,
     "primary": [
       "TXST-NICK ED"
     ],
-    "period": "FLOOR",
-    "secondary": []
+    "time": "0628",
+    "extras": [],
+    "offense": "TXST",
+    "result": "GD",
+    "defense": "UTSA"
   },
   "13": {
-    "defense": "TXST",
-    "offense": "UTSA",
-    "result": "TB",
-    "time": "0721",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "UTSA-JAY STEWART"
+    ],
     "length": 93,
     "primary": [
       "TXST-MAYA HINEBAUGH"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "UTSA-JAY STEWART"
-    ]
+    "time": "0721",
+    "extras": [],
+    "offense": "UTSA",
+    "result": "TB",
+    "defense": "TXST"
   },
   "14": {
-    "defense": "UTSA",
-    "offense": "TXST",
-    "result": "EM",
-    "time": "0750",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [],
     "length": 29,
     "primary": [
       "TXST-NICK ED"
     ],
-    "period": "FLOOR",
-    "secondary": []
+    "time": "0750",
+    "extras": [],
+    "offense": "TXST",
+    "result": "EM",
+    "defense": "UTSA"
   },
   "15": {
-    "defense": "TXST",
-    "offense": "UTSA",
-    "result": "GS",
+    "period": "FLOOR",
+    "secondary": [],
+    "length": 101,
+    "primary": [
+      "UTSA-MATT BLACKWOOD"
+    ],
     "time": "0851",
     "extras": [
       [
@@ -235,318 +238,315 @@
         "TXST-CALEB RATLIFF"
       ]
     ],
-    "length": 101,
-    "primary": [
-      "UTSA-MATT BLACKWOOD"
-    ],
-    "period": "FLOOR",
-    "secondary": []
+    "offense": "UTSA",
+    "result": "GS",
+    "defense": "TXST"
   },
   "16": {
-    "defense": "UTSA",
-    "offense": "TXST",
-    "result": "ED",
-    "time": "0934",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "TXST-ERIC REYES"
+    ],
     "length": 83,
     "primary": [
       "TXST-22"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "TXST-ERIC REYES"
-    ]
+    "time": "0934",
+    "extras": [],
+    "offense": "TXST",
+    "result": "ED",
+    "defense": "UTSA"
   },
   "17": {
-    "defense": "TXST",
-    "offense": "UTSA",
-    "result": "TB",
-    "time": "0951",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "UTSA-MATT BLACKWOOD"
+    ],
     "length": 17,
     "primary": [
       "TXST-JOHN MOLINA"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "UTSA-MATT BLACKWOOD"
-    ]
+    "time": "0951",
+    "extras": [],
+    "offense": "UTSA",
+    "result": "TB",
+    "defense": "TXST"
   },
   "18": {
-    "defense": "UTSA",
-    "offense": "TXST",
-    "result": "TD",
-    "time": "1038",
-    "extras": [],
-    "length": 87,
-    "primary": [
-      "UTSA-MATT BLACKWOOD"
-    ],
     "period": "FLOOR",
     "secondary": [
       "TXST-ERIC REYES",
       "TXST-22"
-    ]
+    ],
+    "length": 87,
+    "primary": [
+      "UTSA-MATT BLACKWOOD"
+    ],
+    "time": "1038",
+    "extras": [],
+    "offense": "TXST",
+    "result": "TD",
+    "defense": "UTSA"
   },
   "19": {
-    "defense": "TXST",
-    "offense": "UTSA",
-    "result": "GP",
-    "time": "1055",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "UTSA-MATT BLACKWOOD"
+    ],
     "length": 17,
     "primary": [
       "UTSA-KEVIN GONZALEZ"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "UTSA-MATT BLACKWOOD"
-    ]
+    "time": "1055",
+    "extras": [],
+    "offense": "UTSA",
+    "result": "GP",
+    "defense": "TXST"
   },
   "20": {
-    "defense": "UTSA",
-    "offense": "TXST",
-    "result": "TB",
-    "time": "1113",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "TXST-22"
+    ],
     "length": 58,
     "primary": [
       "UTSA-CHRISTIAN BOLA"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "TXST-22"
-    ]
+    "time": "1113",
+    "extras": [],
+    "offense": "TXST",
+    "result": "TB",
+    "defense": "UTSA"
   },
   "21": {
-    "defense": "TXST",
-    "offense": "UTSA",
-    "result": "TD",
-    "time": "1134",
-    "extras": [],
-    "length": 21,
-    "primary": [
-      "TXST-JANETTE GARCIA"
-    ],
     "period": "FLOOR",
     "secondary": [
       "UTSA-JAY STEWART",
       "UTSA-CARSYN DIETZ"
-    ]
+    ],
+    "length": 21,
+    "primary": [
+      "TXST-JANETTE GARCIA"
+    ],
+    "time": "1134",
+    "extras": [],
+    "offense": "UTSA",
+    "result": "TD",
+    "defense": "TXST"
   },
   "22": {
-    "defense": "UTSA",
-    "offense": "TXST",
-    "result": "TC",
-    "time": "1204",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "TXST-ERIC REYES"
+    ],
     "length": 70,
     "primary": [
       "UTSA-KEVIN GONZALEZ"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "TXST-ERIC REYES"
-    ]
+    "time": "1204",
+    "extras": [],
+    "offense": "TXST",
+    "result": "TC",
+    "defense": "UTSA"
   },
   "23": {
-    "defense": "TXST",
-    "offense": "UTSA",
-    "result": "EP",
-    "time": "1211",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "UTSA-MATT BLACKWOOD"
+    ],
     "length": 7,
     "primary": [
       "UTSA-KEVIN GONZALEZ"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "UTSA-MATT BLACKWOOD"
-    ]
+    "time": "1211",
+    "extras": [],
+    "offense": "UTSA",
+    "result": "EP",
+    "defense": "TXST"
   },
   "24": {
-    "defense": "UTSA",
-    "offense": "TXST",
-    "result": "TC",
-    "time": "1242",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "TXST-ERIC REYES"
+    ],
     "length": 31,
     "primary": [
       "UTSA-CARLOS PRADO"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "TXST-ERIC REYES"
-    ]
+    "time": "1242",
+    "extras": [],
+    "offense": "TXST",
+    "result": "TC",
+    "defense": "UTSA"
   },
   "25": {
-    "defense": "TXST",
-    "offense": "UTSA",
-    "result": "GP",
-    "time": "1340",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "UTSA-CARLOS PRADO"
+    ],
     "length": 98,
     "primary": [
       "UTSA-TYLER ZREET"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "UTSA-CARLOS PRADO"
-    ]
+    "time": "1340",
+    "extras": [],
+    "offense": "UTSA",
+    "result": "GP",
+    "defense": "TXST"
   },
   "26": {
-    "defense": "UTSA",
-    "offense": "TXST",
-    "result": "GP",
-    "time": "1416",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "TXST-ERIC REYES"
+    ],
     "length": 76,
     "primary": [
       "TXST-22"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "TXST-ERIC REYES"
-    ]
+    "time": "1416",
+    "extras": [],
+    "offense": "TXST",
+    "result": "GP",
+    "defense": "UTSA"
   },
   "27": {
-    "defense": "TXST",
-    "offense": "UTSA",
-    "result": "TB",
-    "time": "1447",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "UTSA-TYLER ZREET"
+    ],
     "length": 31,
     "primary": [
       "TXST-CAMERON OGILVIE"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "UTSA-TYLER ZREET"
-    ]
+    "time": "1447",
+    "extras": [],
+    "offense": "UTSA",
+    "result": "TB",
+    "defense": "TXST"
   },
   "28": {
-    "defense": "UTSA",
-    "offense": "TXST",
-    "result": "GP",
-    "time": "1505",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "TXST-CLAYTON CARLISLE"
+    ],
     "length": 58,
     "primary": [
       "TXST-MELISSA KITE"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "TXST-CLAYTON CARLISLE"
-    ]
+    "time": "1505",
+    "extras": [],
+    "offense": "TXST",
+    "result": "GP",
+    "defense": "UTSA"
   },
   "29": {
-    "defense": "TXST",
-    "offense": "UTSA",
-    "result": "GD",
-    "time": "1602",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [],
     "length": 97,
     "primary": [
       "UTSA-RENN LEBER"
     ],
-    "period": "FLOOR",
-    "secondary": []
+    "time": "1602",
+    "extras": [],
+    "offense": "UTSA",
+    "result": "GD",
+    "defense": "TXST"
   },
   "30": {
-    "defense": "UTSA",
-    "offense": "TXST",
-    "result": "TB",
-    "time": "1649",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "TXST-MELISSA KITE"
+    ],
     "length": 47,
     "primary": [
       "UTSA-DANIEL WILLIAMS"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "TXST-MELISSA KITE"
-    ]
+    "time": "1649",
+    "extras": [],
+    "offense": "TXST",
+    "result": "TB",
+    "defense": "UTSA"
   },
   "31": {
-    "defense": "TXST",
-    "offense": "UTSA",
-    "result": "TL",
-    "time": "1737",
-    "extras": [],
+    "period": "FLOOR",
+    "secondary": [
+      "UTSA-TYLER ZREET"
+    ],
     "length": 88,
     "primary": [
       "TXST-ERIC REYES"
     ],
-    "period": "FLOOR",
-    "secondary": [
-      "UTSA-TYLER ZREET"
-    ]
+    "time": "1737",
+    "extras": [],
+    "offense": "UTSA",
+    "result": "TL",
+    "defense": "TXST"
   },
   "32": {
-    "defense": "UTSA",
-    "offense": "TXST",
-    "result": "EM",
-    "time": "1808",
-    "extras": [],
+    "period": "SOP",
+    "secondary": [],
     "length": 71,
     "primary": [
       "TXST-MELISSA KITE"
     ],
-    "period": "SOP",
-    "secondary": []
+    "time": "1808",
+    "extras": [],
+    "offense": "TXST",
+    "result": "EM",
+    "defense": "UTSA"
   },
   "33": {
-    "defense": "TXST",
-    "offense": "UTSA",
-    "result": "TC",
-    "time": "1823",
-    "extras": [],
+    "period": "SOP",
+    "secondary": [
+      "UTSA-RENN LEBER"
+    ],
     "length": 15,
     "primary": [
       "TXST-ERIC REYES"
     ],
-    "period": "SOP",
-    "secondary": [
-      "UTSA-RENN LEBER"
-    ]
+    "time": "1823",
+    "extras": [],
+    "offense": "UTSA",
+    "result": "TC",
+    "defense": "TXST"
   },
   "34": {
-    "defense": "UTSA",
-    "offense": "TXST",
-    "result": "GD",
-    "time": "1827",
-    "extras": [],
+    "period": "SOP",
+    "secondary": [],
     "length": 4,
     "primary": [
       "TXST-ERIC REYES"
     ],
-    "period": "SOP",
-    "secondary": []
+    "time": "1827",
+    "extras": [],
+    "offense": "TXST",
+    "result": "GD",
+    "defense": "UTSA"
   },
   "35": {
-    "defense": "TXST",
-    "offense": "UTSA",
-    "result": "GD",
-    "time": "2008",
-    "extras": [],
+    "period": "SOP",
+    "secondary": [],
     "length": 181,
     "primary": [
       "UTSA-TYLER ZREET"
     ],
-    "period": "SOP",
-    "secondary": []
+    "time": "2008",
+    "extras": [],
+    "offense": "UTSA",
+    "result": "GD",
+    "defense": "TXST"
   },
   "36": {
-    "defense": "UTSA",
-    "offense": "TXST",
-    "result": "RCA",
-    "time": "2029",
-    "extras": [],
+    "period": "SOP",
+    "secondary": [],
     "length": -1,
     "primary": [
       "TXST-JOHN ALVAREZ"
     ],
-    "period": "SOP",
-    "secondary": []
+    "time": "2029",
+    "extras": [],
+    "offense": "TXST",
+    "result": "RCA",
+    "defense": "UTSA"
   }
 }
