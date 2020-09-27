@@ -1,64 +1,64 @@
 (00:00)Brooms Up possession: BROOMS UP! Quaffle Possession by ['MIZZOU-JACOB PARKER'], Bludger Control by ['UTSA-DANIEL WILLIAMS']
-MIZZOU possession: Pass between ['MIZZOU-JACOB PARKER', 'MIZZOU-UNK'] defended by ['UTSA-AUSTIN VILLEJO']. Turnover
-UTSA possession: Turnover forced by physical contact by ['MIZZOU-UNK'] on ['UTSA-RENN LEBER']
-MIZZOU possession: Pass between ['MIZZOU-RUTHIE POLIO', 'MIZZOU-BEN SCHLUETER'] defended by ['UTSA-RENN LEBER']. Turnover
-UTSA possession: Pass by ['UTSA-AUSTIN VILLEJO'] dropped by ['UTSA-BROOK WILLET']. Turnover
-MIZZOU possession: ['MIZZOU-VINCENT WOOLSEY'] passes to ['MIZZOU-RUTHIE POLIO'] at the hoops, GOAL.
-UTSA possession: Pass between ['UTSA-AUSTIN VILLEJO', 'UTSA-CHUCKY SEPULVEDA'] defended by ['MIZZOU-JACOB PARKER']. Turnover
-MIZZOU possession: ['MIZZOU-JACOB PARKER'] passes to ['MIZZOU-VINCENT WOOLSEY'] at the hoops, GOAL. During the play, yellow card on UTSA-CHUCKY SEPULVEDA
-UTSA possession: Errant pass from ['UTSA-AUSTIN VILLEJO'] to ['UTSA-RENN LEBER']. Turnover
-MIZZOU possession: ['MIZZOU-JACOB PARKER'] passes to ['MIZZOU-RUTHIE POLIO'] at the hoops, GOAL.
-UTSA possession: Missed shot by ['UTSA-RENN LEBER']. Turnover.
-MIZZOU possession: Pass by ['MIZZOU-24'] dropped by ['MIZZOU-JACOB PARKER']. Turnover During the play, yellow card on MIZZOU-2
-UTSA possession: Goal on the shot by ['UTSA-AUSTIN VILLEJO'].
-MIZZOU possession: Missed shot by ['MIZZOU-MIKE HOLIDAY']. Turnover.
-UTSA possession: Goal on the shot by ['UTSA-MIGUEL ESPARZA'].
-MIZZOU possession: Goal on the drive by ['MIZZOU-DREW MATZES'], assist by ['MIZZOU-MIKE HOLIDAY']
-UTSA possession: Missed shot by ['UTSA-MIGUEL ESPARZA']. Turnover.
-MIZZOU possession: Goal on the drive by ['MIZZOU-54'].
-UTSA possession: Goal on the drive by ['UTSA-MIGUEL ESPARZA'].
-MIZZOU possession: Goal on the shot by ['MIZZOU-54'].
-UTSA possession: Pass by ['UTSA-MIGUEL ESPARZA'] dropped by ['UTSA-CHUCKY SEPULVEDA']. Turnover
-MIZZOU possession: Goal on the drive by ['MIZZOU-JACOB PARKER'].
-UTSA possession: Turnover forced by physical contact by ['MIZZOU-54'] on ['UTSA-MIGUEL ESPARZA'] During the play, yellow card on UTSA-0
-MIZZOU possession: Turnover forced by physical contact by ['UTSA-DAVID KEIM'] on ['MIZZOU-DREW MATZES']
-UTSA possession: Missed shot by ['UTSA-MIGUEL ESPARZA']. Turnover. During the play, reset forced by MIZZOU-MORGAN SMITH
-MIZZOU possession: ['MIZZOU-JACOB PARKER'] passes to ['MIZZOU-DREW MATZES'] at the hoops, GOAL.
-UTSA possession: Turnover forced by physical contact by ['MIZZOU-JACOB PARKER'] on ['UTSA-AUSTIN VILLEJO']
-MIZZOU possession: Goal on the shot by ['MIZZOU-DREW MATZES'], assist by ['MIZZOU-MIKE HOLIDAY'] During the play, yellow card on UTSA-4
-UTSA possession: Beat by ['MIZZOU-MORGAN SMITH'] on ['UTSA-MIGUEL ESPARZA'] forces a TURNOVER.
-MIZZOU possession: Shot by ['MIZZOU-RUTHIE POLIO'] blocked by ['UTSA-AUSTIN VILLEJO']. Turnover.
-UTSA possession: Beat by ['MIZZOU-JUSTIN DEWICK'] on ['UTSA-4'] forces a TURNOVER.
-MIZZOU possession: Beat by ['UTSA-JONATHAN GARCIA'] on ['MIZZOU-DREW MATZES'] forces a TURNOVER.
-UTSA possession: Pass between ['UTSA-AUSTIN VILLEJO', 'UTSA-BROOK WILLET'] defended by ['MIZZOU-DREW MATZES']. Turnover
-MIZZOU possession: Errant pass from ['MIZZOU-JACOB PARKER'] to ['MIZZOU-MIKE HOLIDAY']. Turnover During the play, SNITCH ON PITCH begins,reset forced by UTSA-TYLER ZREET
-UTSA possession: ['UTSA-AUSTIN VILLEJO'] passes to ['UTSA-4'] at the hoops, GOAL. During the play, reset forced by MIZZOU-35
-MIZZOU possession: Drop by ['MIZZOU-JACOB PARKER']. Turnover. During the play, reset forced by UTSA-JONATHAN GARCIA
-UTSA possession: Beat by ['MIZZOU-DAVID BECKER'] on ['UTSA-4'] forces a TURNOVER.
-MIZZOU possession: ['MIZZOU-JACOB PARKER'] passes to ['MIZZOU-RUTHIE POLIO'] at the hoops, GOAL.
-UTSA possession: Beat by ['MIZZOU-DAVID BECKER'] on ['UTSA-AUSTIN VILLEJO'] forces a TURNOVER.
-MIZZOU possession: Beat by ['UTSA-DANIEL WILLIAMS'] on ['MIZZOU-JACOB PARKER'] forces a TURNOVER.
-UTSA possession: Missed shot by ['UTSA-AUSTIN VILLEJO']. Turnover.
-MIZZOU possession: Turnover forced by physical contact by ['UTSA-MIGUEL ESPARZA'] on ['MIZZOU-JACOB PARKER']
-UTSA possession: Goal on the drive by ['UTSA-MIGUEL ESPARZA'].
-MIZZOU possession: Goal on the drive by ['MIZZOU-JACOB PARKER'].
-UTSA possession: Pass by ['UTSA-AUSTIN VILLEJO'] dropped by ['UTSA-4']. Turnover
-MIZZOU possession: ['MIZZOU-JACOB PARKER'] passes to ['MIZZOU-UNK'] at the hoops, GOAL.
-UTSA possession: Pass between ['UTSA-AUSTIN VILLEJO', 'UTSA-4'] defended by ['MIZZOU-UNK']. Turnover
-MIZZOU possession: Blue card on ['MIZZOU-JACOB PARKER'] forces turnover.
-UTSA possession: Goal on the drive by ['UTSA-MIGUEL ESPARZA'].
-MIZZOU possession: Goal on the shot by ['MIZZOU-JACOB PARKER'].
-UTSA possession: ['UTSA-AUSTIN VILLEJO'] passes to ['UTSA-BROOK WILLET'] at the hoops, GOAL.
-MIZZOU possession: Beat by ['UTSA-DANIEL WILLIAMS'] on ['MIZZOU-JACOB PARKER'] forces a TURNOVER. During the play, reset forced by UTSA-JONATHAN GARCIA
-UTSA possession: Goal on the drive by ['UTSA-MIGUEL ESPARZA'].
-MIZZOU possession: Pass between ['MIZZOU-JACOB PARKER', 'MIZZOU-24'] defended by ['UTSA-MIGUEL ESPARZA']. Turnover
-UTSA possession: Goal on the shot by ['UTSA-AUSTIN VILLEJO'].
-MIZZOU possession: ['MIZZOU-JACOB PARKER'] passes to ['MIZZOU-RUTHIE POLIO'] at the hoops, GOAL.
-UTSA possession: Goal on the drive by ['UTSA-MIGUEL ESPARZA'].
-MIZZOU possession: Goal on the shot by ['MIZZOU-JACOB PARKER']. During the play, yellow card on UTSA-RENN LEBER
-UTSA possession: Goal on the drive by ['UTSA-RENN LEBER'].
-MIZZOU possession: Goal on the drive by ['MIZZOU-JACOB PARKER'].
-UTSA possession: ['UTSA-AUSTIN VILLEJO'] passes to ['UTSA-CHUCKY SEPULVEDA'] at the hoops, GOAL.
-MIZZOU possession: Pass between ['MIZZOU-RUTHIE POLIO', 'MIZZOU-UNK'] defended by ['UTSA-BROOK WILLET']. Turnover
-UTSA possession: Goal on the shot by ['UTSA-BROOK WILLET'], assist by ['UTSA-AUSTIN VILLEJO'] During the play, yellow card on MIZZOU-UNK
-MIZZOU possession: Snitch catch by ['UTSA-DAVID KEIM'] is GOOD.
+(00:12)MIZZOU possession: Pass between ['MIZZOU-JACOB PARKER', 'MIZZOU-UNK'] defended by ['UTSA-AUSTIN VILLEJO']. Turnover
+(00:59)UTSA possession: Turnover forced by physical contact by ['MIZZOU-UNK'] on ['UTSA-RENN LEBER']
+(02:05)MIZZOU possession: Pass between ['MIZZOU-RUTHIE POLIO', 'MIZZOU-BEN SCHLUETER'] defended by ['UTSA-RENN LEBER']. Turnover
+(02:25)UTSA possession: Pass by ['UTSA-AUSTIN VILLEJO'] dropped by ['UTSA-BROOK WILLETT']. Turnover
+(02:41)MIZZOU possession: ['MIZZOU-VINCENT WOOLSEY'] passes to ['MIZZOU-RUTHIE POLIO'] at the hoops, GOAL.
+(03:09)UTSA possession: Pass by ['UTSA-AUSTIN VILLEJO'] dropped by ['UTSA-CHUCKY SEPULVEDA']. Turnover
+(03:23)MIZZOU possession: ['MIZZOU-JACOB PARKER'] passes to ['MIZZOU-VINCENT WOOLSEY'] at the hoops, GOAL. During the play, yellow card on UTSA-CHUCKY SEPULVEDA
+(03:52)UTSA possession: Missed shot by ['UTSA-AUSTIN VILLEJO']. Turnover.
+(04:38)MIZZOU possession: ['MIZZOU-JACOB PARKER'] passes to ['MIZZOU-RUTHIE POLIO'] at the hoops, GOAL.
+(05:08)UTSA possession: Missed shot by ['UTSA-RENN LEBER']. Turnover.
+(05:55)MIZZOU possession: Pass by ['MIZZOU-24'] dropped by ['MIZZOU-JACOB PARKER']. Turnover During the play, yellow card on MIZZOU-2
+(06:30)UTSA possession: Goal on the shot by ['UTSA-AUSTIN VILLEJO'].
+(07:24)MIZZOU possession: Missed shot by ['MIZZOU-MIKE HOLIDAY']. Turnover.
+(08:01)UTSA possession: Goal on the shot by ['UTSA-MIGUEL ESPARZA'].
+(08:21)MIZZOU possession: Goal on the drive by ['MIZZOU-DREW MATZES'], assist by ['MIZZOU-MIKE HOLIDAY']
+(08:51)UTSA possession: Missed shot by ['UTSA-MIGUEL ESPARZA']. Turnover.
+(09:39)MIZZOU possession: Goal on the drive by ['MIZZOU-54'].
+(09:44)UTSA possession: Goal on the drive by ['UTSA-MIGUEL ESPARZA'].
+(10:34)MIZZOU possession: Goal on the shot by ['MIZZOU-54'].
+(10:57)UTSA possession: Pass by ['UTSA-MIGUEL ESPARZA'] dropped by ['UTSA-CHUCKY SEPULVEDA']. Turnover
+(11:49)MIZZOU possession: Goal on the drive by ['MIZZOU-JACOB PARKER'].
+(12:26)UTSA possession: Turnover forced by physical contact by ['MIZZOU-54'] on ['UTSA-MIGUEL ESPARZA'] During the play, yellow card on UTSA-0
+(12:49)MIZZOU possession: Turnover forced by physical contact by ['UTSA-DAVID KEIM'] on ['MIZZOU-DREW MATZES']
+(13:41)UTSA possession: Missed shot by ['UTSA-MIGUEL ESPARZA']. Turnover. During the play, reset forced by MIZZOU-MORGAN SMITH
+(13:53)MIZZOU possession: ['MIZZOU-JACOB PARKER'] passes to ['MIZZOU-DREW MATZES'] at the hoops, GOAL.
+(14:25)UTSA possession: Turnover forced by physical contact by ['MIZZOU-JACOB PARKER'] on ['UTSA-AUSTIN VILLEJO']
+(15:09)MIZZOU possession: Goal on the shot by ['MIZZOU-DREW MATZES'], assist by ['MIZZOU-MIKE HOLIDAY'] During the play, yellow card on UTSA-4
+(15:37)UTSA possession: Beat by ['MIZZOU-MORGAN SMITH'] on ['UTSA-MIGUEL ESPARZA'] forces a TURNOVER.
+(16:21)MIZZOU possession: Shot by ['MIZZOU-RUTHIE POLIO'] blocked by ['UTSA-AUSTIN VILLEJO']. Turnover.
+(16:38)UTSA possession: Beat by ['MIZZOU-JUSTIN DEWICK'] on ['UTSA-4'] forces a TURNOVER.
+(17:20)MIZZOU possession: Beat by ['UTSA-JONATHAN GARCIA'] on ['MIZZOU-DREW MATZES'] forces a TURNOVER.
+(17:44)UTSA possession: Pass between ['UTSA-AUSTIN VILLEJO', 'UTSA-BROOK WILLETT'] defended by ['MIZZOU-DREW MATZES']. Turnover
+(18:56)MIZZOU possession: Errant pass from ['MIZZOU-JACOB PARKER'] to ['MIZZOU-MIKE HOLIDAY']. Turnover During the play, SNITCH ON PITCH begins,reset forced by UTSA-TYLER ZREET
+(19:17)UTSA possession: ['UTSA-AUSTIN VILLEJO'] passes to ['UTSA-4'] at the hoops, GOAL.
+(19:58)MIZZOU possession: Drop by ['MIZZOU-JACOB PARKER']. Turnover. During the play, reset forced by UTSA-JONATHAN GARCIA
+(20:07)UTSA possession: Beat by ['MIZZOU-DAVID BECKER'] on ['UTSA-4'] forces a TURNOVER.
+(20:46)MIZZOU possession: ['MIZZOU-JACOB PARKER'] passes to ['MIZZOU-RUTHIE POLIO'] at the hoops, GOAL.
+(21:04)UTSA possession: Beat by ['MIZZOU-DAVID BECKER'] on ['UTSA-AUSTIN VILLEJO'] forces a TURNOVER.
+(22:21)MIZZOU possession: Beat by ['UTSA-DANIEL WILLIAMS'] on ['MIZZOU-JACOB PARKER'] forces a TURNOVER.
+(22:37)UTSA possession: Missed shot by ['UTSA-AUSTIN VILLEJO']. Turnover.
+(22:49)MIZZOU possession: Beat by ['UTSA-JONATHAN GARCIA'] on ['MIZZOU-JACOB PARKER'] forces a TURNOVER.
+(22:53)UTSA possession: Goal on the drive by ['UTSA-MIGUEL ESPARZA'].
+(23:59)MIZZOU possession: Goal on the drive by ['MIZZOU-JACOB PARKER'].
+(24:13)UTSA possession: Pass by ['UTSA-AUSTIN VILLEJO'] dropped by ['UTSA-4']. Turnover
+(25:04)MIZZOU possession: ['MIZZOU-JACOB PARKER'] passes to ['MIZZOU-DREW MATZES'] at the hoops, GOAL.
+(25:19)UTSA possession: Pass between ['UTSA-AUSTIN VILLEJO', 'UTSA-4'] defended by ['MIZZOU-DREW MATZES']. Turnover
+(25:35)MIZZOU possession: Blue card on ['MIZZOU-JACOB PARKER'] forces turnover.
+(25:39)UTSA possession: Goal on the drive by ['UTSA-MIGUEL ESPARZA'].
+(26:28)MIZZOU possession: Goal on the shot by ['MIZZOU-JACOB PARKER'].
+(26:48)UTSA possession: ['UTSA-AUSTIN VILLEJO'] passes to ['UTSA-BROOK WILLETT'] at the hoops, GOAL.
+(27:42)MIZZOU possession: Beat by ['UTSA-DANIEL WILLIAMS'] on ['MIZZOU-JACOB PARKER'] forces a TURNOVER. During the play, reset forced by UTSA-JONATHAN GARCIA
+(27:48)UTSA possession: Goal on the drive by ['UTSA-MIGUEL ESPARZA'].
+(28:36)MIZZOU possession: Pass between ['MIZZOU-JACOB PARKER', 'MIZZOU-24'] defended by ['UTSA-MIGUEL ESPARZA']. Turnover
+(28:47)UTSA possession: Goal on the shot by ['UTSA-AUSTIN VILLEJO'].
+(29:27)MIZZOU possession: ['MIZZOU-JACOB PARKER'] passes to ['MIZZOU-NATALIE TERZICH'] at the hoops, GOAL.
+(30:12)UTSA possession: Goal on the drive by ['UTSA-MIGUEL ESPARZA'].
+(30:53)MIZZOU possession: Goal on the shot by ['MIZZOU-JACOB PARKER']. During the play, yellow card on UTSA-RENN LEBER
+(31:22)UTSA possession: Goal on the drive by ['UTSA-RENN LEBER'].
+(32:03)MIZZOU possession: Goal on the drive by ['MIZZOU-JACOB PARKER'].
+(32:56)UTSA possession: Goal on the shot by ['UTSA-AUSTIN VILLEJO'].
+(33:37)MIZZOU possession: Pass between ['MIZZOU-NATALIE TERZICH', 'MIZZOU-JACOB PARKER'] defended by ['UTSA-BROOK WILLETT']. Turnover
+(34:07)UTSA possession: Goal on the shot by ['UTSA-BROOK WILLETT'], assist by ['UTSA-AUSTIN VILLEJO'] During the play, yellow card on MIZZOU-JACOB PARKER
+(34:23)MIZZOU possession: Snitch catch by ['UTSA-DAVID KEIM'] is GOOD.

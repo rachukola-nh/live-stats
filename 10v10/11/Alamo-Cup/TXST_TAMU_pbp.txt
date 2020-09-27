@@ -1,49 +1,49 @@
 (00:00)Brooms Up possession: BROOMS UP! Quaffle Possession by ['TAMU-LOGAN ZAHN'], Bludger Control by ['TXST-0']
-TAMU possession: Turnover forced by physical contact by ['TXST-BRANDON MACDOWRA'] on ['TAMU-LOGAN ZAHN']
-TXST possession: Pass between ['TXST-BRANDON MACDOWRA', 'TXST-MELISSA KITE'] defended by ['TAMU-CONNOR MCINTYRE']. Turnover
-TAMU possession: Pass between ['TAMU-CONNOR MCINTYRE', 'TAMU-RACHEL NICOLETTI'] defended by ['TXST-ERIC REYES']. Turnover During the play, yellow card on TXST-BRANDON MACDOWRA
-TXST possession: ['TXST-ERIC REYES'] passes to ['TXST-MELISSA KITE'] at the hoops, GOAL.
-TAMU possession: Pass between ['TAMU-MIGUEL SOBARZO', 'TAMU-CONNOR MCINTYRE'] defended by ['TXST-MELISSA KITE']. Turnover
-TXST possession: Pass between ['TXST-DONOVAN MITCHELL', 'TXST-MELISSA KITE'] defended by ['TAMU-MIGUEL SOBARZO']. Turnover
-TAMU possession: Drop by ['TAMU-MIGUEL SOBARZO']. Turnover.
-TXST possession: Beat by ['TAMU-NICK ROY'] on ['TXST-MELISSA KITE'] forces a TURNOVER.
-TAMU possession: ['TAMU-LOGAN ZAHN'] passes to ['TAMU-RACHEL NICOLETTI'] at the hoops, GOAL.
-TXST possession: Beat by ['TAMU-NICK ROY'] on ['TXST-DONOVAN MITCHELL'] forces a TURNOVER.
-TAMU possession: Errant pass from ['TAMU-COURTNEY YOUNGS'] to ['TAMU-CONNOR MCINTYRE']. Turnover
-TXST possession: Shot by ['TXST-DONOVAN MITCHELL'] blocked by ['TAMU-NICK ROY']. Turnover.
-TAMU possession: Beat by ['TXST-BAILEE FIELDS'] on ['TAMU-CONNOR MCINTYRE'] forces a TURNOVER.
-TXST possession: Goal on the shot by ['TXST-BRANDON MACDOWRA'].
-TAMU possession: Goal on the shot by ['TAMU-LOGAN ZAHN'], assist by ['TAMU-MIGUEL SOBARZO']
-TXST possession: Errant pass from ['TXST-DONOVAN MITCHELL'] to ['TXST-MELISSA KITE']. Turnover
-TAMU possession: Errant pass from ['TAMU-LOGAN ZAHN'] to ['TAMU-LANDIS WALTHER']. Turnover
-TXST possession: Pass between ['TXST-DONOVAN MITCHELL', 'TXST-STEPHEN VIGIL'] defended by ['TAMU-SAMMY GARZA']. Turnover
-TAMU possession: Turnover forced by physical contact by ['TXST-STEPHEN VIGIL'] on ['TAMU-LOUIS SANCHEZ']
-TXST possession: Goal on the shot by ['TXST-DONOVAN MITCHELL'], assist by ['TXST-STEPHEN VIGIL']
-TAMU possession: Beat by ['TXST-KRIS DELAFUENTE'] on ['TAMU-LOUIS SANCHEZ'] forces a TURNOVER.
-TXST possession: Goal on the shot by ['TXST-STEPHEN VIGIL'].
-TAMU possession: Turnover forced by physical contact by ['TXST-LEIF MONTGOMERY'] on ['TAMU-LANDIS WALTHER']
-TXST possession: Turnover forced by physical contact by ['TAMU-LOUIS SANCHEZ'] on ['TXST-STEPHEN VIGIL']
-TAMU possession: ['TAMU-SAMMY GARZA'] passes to ['TAMU-LOUIS SANCHEZ'] at the hoops, GOAL.
-TXST possession: Beat by ['TAMU-HARRIS COLEMAN'] on ['TXST-ERIC REYES'] forces a TURNOVER.
-TAMU possession: Beat by ['TXST-KRIS DELAFUENTE'] on ['TAMU-LOUIS SANCHEZ'] forces a TURNOVER.
-TXST possession: ['TXST-LEIF MONTGOMERY'] passes to ['TXST-JENNA BOLLWEG'] at the hoops, GOAL.
-TAMU possession: ['TAMU-LOUIS SANCHEZ'] passes to ['TAMU-SAMMY GARZA'] at the hoops, GOAL.
-TXST possession: ['TXST-ERIC REYES'] passes to ['TXST-JENNA BOLLWEG'] at the hoops, GOAL.
-TAMU possession: Missed shot by ['TAMU-SAMMY GARZA']. Turnover.
-TXST possession: Goal on the drive by ['TXST-LEIF MONTGOMERY'], assist by ['TXST-CLAYTON CARLISLE'] During the play, yellow card on TAMU-LOUIS SANCHEZ
-TAMU possession: Errant pass from ['TAMU-19'] to ['TAMU-RACHEL NICOLETTI']. Turnover
-TXST possession: Beat by ['TAMU-ALEXIS WIEN'] on ['TXST-ERIC REYES'] forces a TURNOVER.
-TAMU possession: Drop by ['TAMU-LOUIS SANCHEZ']. Turnover.
-TXST possession: Goal on the drive by ['TXST-ERIC REYES'].
-TAMU possession: Goal on the shot by ['TAMU-UNK'], assist by ['TAMU-1']
-TXST possession: Shot by ['TXST-BRANDON MACDOWRA'] blocked by ['TAMU-19']. Turnover.
-TAMU possession: Shot by ['TAMU-UNK', 'TAMU-LOGAN ZAHN'] blocked by ['TXST-0']. Turnover. During the play, yellow card on TXST-TIM NGUYEN
-TXST possession: ['TXST-BRANDON MACDOWRA'] passes to ['TXST-0'] at the hoops, GOAL.
-TAMU possession: Shot by ['TAMU-1', 'TAMU-99'] blocked by ['TXST-BRANDON MACDOWRA']. Turnover.
-TXST possession: Goal on the shot by ['TXST-BRANDON MACDOWRA'].
-TAMU possession: Goal on the drive by ['TAMU-MCKENZIE CONNELL']. During the play, SNITCH ON PITCH begins
-TXST possession: ['TXST-ERIC REYES'] passes to ['TXST-27'] at the hoops, GOAL. During the play, yellow card on TAMU-99
-TAMU possession: ['TAMU-UNK'] passes to ['TAMU-LANDIS WALTHER'] at the hoops, GOAL.
-TXST possession: Goal on the shot by ['TXST-BRANDON MACDOWRA'], assist by ['TXST-TESS ACOSTA']
-TAMU possession: Shot by ['TAMU-LOGAN ZAHN'] blocked by ['TXST-ERIC REYES']. Turnover. During the play, yellow card on TAMU-NICK ROY
-TXST possession: Snitch catch by ['TXST-KRIS DELAFUENTE'] is GOOD. During the play, second yellow card on TAMU-99, TAMU-99 is ejected from the game
+(00:16)TAMU possession: Turnover forced by physical contact by ['TXST-BRANDON MACDOWRA'] on ['TAMU-LOGAN ZAHN']
+(00:45)TXST possession: Pass between ['TXST-BRANDON MACDOWRA', 'TXST-MELISSA KITE'] defended by ['TAMU-CONNOR MCINTYRE']. Turnover
+(00:50)TAMU possession: Pass between ['TAMU-CONNOR MCINTYRE', 'TAMU-RACHEL NICOLETTI'] defended by ['TXST-ERIC REYES']. Turnover During the play, yellow card on TXST-BRANDON MACDOWRA
+(01:09)TXST possession: ['TXST-ERIC REYES'] passes to ['TXST-MELISSA KITE'] at the hoops, GOAL.
+(01:31)TAMU possession: Pass between ['TAMU-MIGUEL SOBARZO', 'TAMU-CONNOR MCINTYRE'] defended by ['TXST-MELISSA KITE']. Turnover
+(02:00)TXST possession: Pass between ['TXST-DONOVAN MITCHELL', 'TXST-MELISSA KITE'] defended by ['TAMU-MIGUEL SOBARZO']. Turnover
+(02:03)TAMU possession: Drop by ['TAMU-MIGUEL SOBARZO']. Turnover.
+(02:10)TXST possession: Beat by ['TAMU-NICK ROY'] on ['TXST-MELISSA KITE'] forces a TURNOVER.
+(02:34)TAMU possession: ['TAMU-LOGAN ZAHN'] passes to ['TAMU-RACHEL NICOLETTI'] at the hoops, GOAL.
+(02:46)TXST possession: Beat by ['TAMU-NICK ROY'] on ['TXST-DONOVAN MITCHELL'] forces a TURNOVER.
+(03:15)TAMU possession: Errant pass from ['TAMU-MIGUEL SOBARZO'] to ['TAMU-CONNOR MCINTYRE']. Turnover
+(03:30)TXST possession: Shot by ['TXST-DONOVAN MITCHELL'] blocked by ['TAMU-NICK ROY']. Turnover.
+(03:59)TAMU possession: Beat by ['TXST-BAILEE FIELDS'] on ['TAMU-CONNOR MCINTYRE'] forces a TURNOVER.
+(04:08)TXST possession: Goal on the shot by ['TXST-BRANDON MACDOWRA'].
+(04:16)TAMU possession: Goal on the shot by ['TAMU-LOGAN ZAHN'], assist by ['TAMU-MIGUEL SOBARZO']
+(04:35)TXST possession: Errant pass from ['TXST-DONOVAN MITCHELL'] to ['TXST-MELISSA KITE']. Turnover
+(05:03)TAMU possession: Errant pass from ['TAMU-LOGAN ZAHN'] to ['TAMU-LANDIS WALTHER']. Turnover
+(06:01)TXST possession: Pass between ['TXST-DONOVAN MITCHELL', 'TXST-STEPHEN VIGIL'] defended by ['TAMU-SAMMY GARZA']. Turnover
+(06:29)TAMU possession: Turnover forced by physical contact by ['TXST-STEPHEN VIGIL'] on ['TAMU-LOUIS SANCHEZ']
+(06:40)TXST possession: Goal on the shot by ['TXST-DONOVAN MITCHELL'], assist by ['TXST-STEPHEN VIGIL']
+(07:16)TAMU possession: Beat by ['TXST-KRIS DELAFUENTE'] on ['TAMU-LOUIS SANCHEZ'] forces a TURNOVER.
+(07:24)TXST possession: Goal on the shot by ['TXST-STEPHEN VIGIL'].
+(08:08)TAMU possession: Turnover forced by physical contact by ['TXST-LEIF MONTGOMERY'] on ['TAMU-LANDIS WALTHER']
+(09:26)TXST possession: Turnover forced by physical contact by ['TAMU-LOUIS SANCHEZ'] on ['TXST-STEPHEN VIGIL']
+(09:41)TAMU possession: ['TAMU-SAMMY GARZA'] passes to ['TAMU-LOUIS SANCHEZ'] at the hoops, GOAL.
+(09:01)TXST possession: Beat by ['TAMU-HARRIS COLEMAN'] on ['TXST-ERIC REYES'] forces a TURNOVER.
+(09:11)TAMU possession: Beat by ['TXST-KRIS DELAFUENTE'] on ['TAMU-LOUIS SANCHEZ'] forces a TURNOVER.
+(10:01)TXST possession: ['TXST-LEIF MONTGOMERY'] passes to ['TXST-JENNA BOLLWEG'] at the hoops, GOAL.
+(10:47)TAMU possession: ['TAMU-SAMMY GARZA'] passes to ['TAMU-LOUIS SANCHEZ'] at the hoops, GOAL.
+(11:14)TXST possession: ['TXST-ERIC REYES'] passes to ['TXST-JENNA BOLLWEG'] at the hoops, GOAL.
+(11:45)TAMU possession: Missed shot by ['TAMU-SAMMY GARZA']. Turnover.
+(13:00)TXST possession: Goal on the drive by ['TXST-LEIF MONTGOMERY'], assist by ['TXST-CLAYTON CARLISLE'] During the play, yellow card on TAMU-LOUIS SANCHEZ,yellow card on TAMU-HARRIS COLEMAN
+(13:22)TAMU possession: Errant pass from ['TAMU-19'] to ['TAMU-RACHEL NICOLETTI']. Turnover
+(13:37)TXST possession: Beat by ['TAMU-ALEXIS WIEN'] on ['TXST-ERIC REYES'] forces a TURNOVER.
+(14:19)TAMU possession: Drop by ['TAMU-LOUIS SANCHEZ']. Turnover.
+(14:44)TXST possession: Goal on the drive by ['TXST-ERIC REYES'].
+(15:12)TAMU possession: Goal on the shot by ['TAMU-CAMERON VILLAMIL'], assist by ['TAMU-1']
+(15:39)TXST possession: Shot by ['TXST-BRANDON MACDOWRA'] blocked by ['TAMU-1']. Turnover.
+(16:25)TAMU possession: Pass between ['TAMU-1', 'TAMU-LOGAN ZAHN'] defended by ['TXST-0']. Turnover During the play, yellow card on TXST-TIM NGUYEN
+(16:35)TXST possession: ['TXST-BRANDON MACDOWRA'] passes to ['TXST-0'] at the hoops, GOAL.
+(16:42)TAMU possession: Shot by ['TAMU-1', 'TAMU-CAMERON VILLAMIL'] blocked by ['TXST-BRANDON MACDOWRA']. Turnover.
+(16:51)TXST possession: Goal on the shot by ['TXST-BRANDON MACDOWRA'].
+(17:19)TAMU possession: Goal on the drive by ['TAMU-MCKENZIE CONNELL'].
+(18:21)TXST possession: ['TXST-ERIC REYES'] passes to ['TXST-27'] at the hoops, GOAL. During the play, SNITCH ON PITCH begins,yellow card on TAMU-CAMERON VILLAMIL
+(18:39)TAMU possession: ['TAMU-1'] passes to ['TAMU-LANDIS WALTHER'] at the hoops, GOAL.
+(19:13)TXST possession: Goal on the shot by ['TXST-BRANDON MACDOWRA'], assist by ['TXST-TESS ACOSTA']
+(19:49)TAMU possession: Shot by ['TAMU-LOGAN ZAHN'] blocked by ['TXST-ERIC REYES']. Turnover. During the play, yellow card on TAMU-NICK ROY
+(20:07)TXST possession: Snitch catch by ['TXST-KRIS DELAFUENTE'] is GOOD. During the play, second yellow card on TAMU-CAMERON VILLAMIL, TAMU-CAMERON VILLAMIL is ejected from the game
