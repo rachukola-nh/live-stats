@@ -1,213 +1,206 @@
 {
   "0": {
-    "primary": [
-      "TXST-STEPHEN VIGIL"
-    ],
-    "secondary": [
-      null
-    ],
-    "time": "0000",
+    "result": "BU",
     "length": -1,
     "extras": [],
     "offense": "Brooms Up",
-    "result": "BU",
-    "defense": "",
-    "period": "FLOOR"
-  },
-  "1": {
-    "period": "FLOOR",
-    "secondary": [
+    "time": "0000",
+    "primary": [
       "TXST-STEPHEN VIGIL"
     ],
-    "length": -1,
+    "period": "FLOOR",
+    "defense": "",
+    "secondary": [
+      null
+    ]
+  },
+  "1": {
+    "length": 7,
+    "result": "GS",
+    "extras": [],
+    "offense": "TXST",
+    "time": "0007",
     "primary": [
       "TXST-TJ MARTINEZ"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "TXST",
-    "result": "GS",
-    "defense": "CAL"
+    "period": "FLOOR",
+    "defense": "CAL",
+    "secondary": [
+      "TXST-STEPHEN VIGIL"
+    ]
   },
   "2": {
-    "period": "FLOOR",
-    "secondary": [
-      "CAL-UNK"
-    ],
-    "length": -1,
+    "length": 50,
+    "result": "TC",
+    "extras": [],
+    "offense": "CAL",
+    "time": "0057",
     "primary": [
       "TXST-MELISSA KITE"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "CAL",
-    "result": "TC",
-    "defense": "TXST"
+    "period": "FLOOR",
+    "defense": "TXST",
+    "secondary": [
+      "CAL-32"
+    ]
   },
   "3": {
-    "period": "FLOOR",
-    "secondary": [],
-    "length": -1,
+    "length": 61,
+    "result": "GS",
+    "extras": [],
+    "offense": "TXST",
+    "time": "0118",
     "primary": [
       "TXST-STEPHEN VIGIL"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "TXST",
-    "result": "GS",
-    "defense": "CAL"
+    "period": "FLOOR",
+    "defense": "CAL",
+    "secondary": []
   },
   "4": {
-    "period": "FLOOR",
-    "secondary": [
-      "CAL-UNK"
-    ],
-    "length": -1,
+    "length": 32,
+    "result": "EP",
+    "extras": [],
+    "offense": "CAL",
+    "time": "0150",
     "primary": [
       "CAL-RYAN PFENNING"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "CAL",
-    "result": "EP",
-    "defense": "TXST"
+    "period": "FLOOR",
+    "defense": "TXST",
+    "secondary": [
+      "CAL-32"
+    ]
   },
   "5": {
-    "period": "FLOOR",
-    "secondary": [
-      "TXST-4"
-    ],
-    "length": -1,
-    "primary": [
-      "CAL-UNK"
-    ],
-    "time": "",
+    "length": 82,
+    "result": "TL",
     "extras": [],
     "offense": "TXST",
-    "result": "TL",
-    "defense": "CAL"
+    "time": "0232",
+    "primary": [
+      "CAL-52"
+    ],
+    "period": "FLOOR",
+    "defense": "CAL",
+    "secondary": [
+      "TXST-4"
+    ]
   },
   "6": {
-    "period": "FLOOR",
-    "secondary": [],
-    "length": -1,
+    "length": 7,
+    "result": "GS",
+    "extras": [],
+    "offense": "CAL",
+    "time": "0239",
     "primary": [
       "CAL-RYAN PFENNING"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "CAL",
-    "result": "GS",
-    "defense": "TXST"
+    "period": "FLOOR",
+    "defense": "TXST",
+    "secondary": []
   },
   "7": {
-    "period": "FLOOR",
-    "secondary": [],
-    "length": -1,
+    "length": 13,
+    "result": "GD",
+    "extras": [],
+    "offense": "TXST",
+    "time": "0252",
     "primary": [
       "TXST-TJ MARTINEZ"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "TXST",
-    "result": "GD",
-    "defense": "CAL"
+    "period": "FLOOR",
+    "defense": "CAL",
+    "secondary": []
   },
   "8": {
-    "period": "FLOOR",
-    "secondary": [],
-    "length": -1,
+    "length": 85,
+    "result": "EM",
+    "extras": [],
+    "offense": "CAL",
+    "time": "0337",
     "primary": [
       "CAL-RYAN PFENNING"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "CAL",
-    "result": "EM",
-    "defense": "TXST"
+    "period": "FLOOR",
+    "defense": "TXST",
+    "secondary": []
   },
   "9": {
-    "period": "FLOOR",
-    "secondary": [],
-    "length": -1,
+    "length": 8,
+    "result": "GD",
+    "extras": [],
+    "offense": "TXST",
+    "time": "0345",
     "primary": [
       "TXST-4"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "TXST",
-    "result": "GD",
-    "defense": "CAL"
+    "period": "FLOOR",
+    "defense": "CAL",
+    "secondary": []
   },
   "10": {
+    "length": 73,
+    "result": "TD",
+    "extras": [],
+    "offense": "CAL",
+    "time": "0418",
+    "primary": [
+      "TXST-4"
+    ],
     "period": "FLOOR",
+    "defense": "TXST",
     "secondary": [
       "CAL-RYAN PFENNING",
       "CAL-MADDI ERDALL"
-    ],
-    "length": -1,
-    "primary": [
-      "TXST-4"
-    ],
-    "time": "",
-    "extras": [],
-    "offense": "CAL",
-    "result": "TD",
-    "defense": "TXST"
+    ]
   },
   "11": {
-    "period": "FLOOR",
-    "secondary": [
-      "TXST-UNK"
-    ],
-    "length": -1,
+    "length": 33,
+    "result": "TC",
+    "extras": [],
+    "offense": "TXST",
+    "time": "0451",
     "primary": [
       "CAL-RYAN PFENNING"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "TXST",
-    "result": "TC",
-    "defense": "CAL"
+    "period": "FLOOR",
+    "defense": "CAL",
+    "secondary": [
+      "TXST-TJ MARTINEZ"
+    ]
   },
   "12": {
-    "period": "FLOOR",
-    "secondary": [],
-    "length": -1,
+    "length": 55,
+    "result": "EB",
+    "extras": [],
+    "offense": "CAL",
+    "time": "0506",
     "primary": [
       "CAL-42"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "CAL",
-    "result": "EB",
-    "defense": "TXST"
+    "period": "FLOOR",
+    "defense": "TXST",
+    "secondary": []
   },
   "13": {
-    "period": "FLOOR",
-    "secondary": [
-      "TXST-DONOVAN MITCHELL"
-    ],
-    "length": -1,
-    "primary": [
-      "TXST-UNK"
-    ],
-    "time": "",
+    "length": 24,
+    "result": "GD",
     "extras": [],
     "offense": "TXST",
-    "result": "GD",
-    "defense": "CAL"
+    "time": "0530",
+    "primary": [
+      "TXST-CLAYTON CARLISLE"
+    ],
+    "period": "FLOOR",
+    "defense": "CAL",
+    "secondary": [
+      "TXST-DONOVAN MITCHELL"
+    ]
   },
   "14": {
-    "period": "FLOOR",
-    "secondary": [
-      "CAL-UNK"
-    ],
-    "length": -1,
-    "primary": [
-      "TXST-JESS MARKLE"
-    ],
-    "time": "",
+    "length": 79,
+    "result": "TB",
     "extras": [
       [
         "R",
@@ -215,60 +208,62 @@
       ]
     ],
     "offense": "CAL",
-    "result": "TB",
-    "defense": "TXST"
+    "time": "0609",
+    "primary": [
+      "TXST-JESS MARKLE"
+    ],
+    "period": "FLOOR",
+    "defense": "TXST",
+    "secondary": [
+      "CAL-16"
+    ]
   },
   "15": {
-    "period": "FLOOR",
-    "secondary": [],
-    "length": -1,
+    "length": 7,
+    "result": "GS",
+    "extras": [],
+    "offense": "TXST",
+    "time": "0616",
     "primary": [
       "TXST-DONOVAN MITCHELL"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "TXST",
-    "result": "GS",
-    "defense": "CAL"
+    "period": "FLOOR",
+    "defense": "CAL",
+    "secondary": []
   },
   "16": {
-    "period": "FLOOR",
-    "secondary": [
-      "CAL-RYAN PFENNING"
-    ],
-    "length": -1,
+    "length": 19,
+    "result": "GD",
+    "extras": [],
+    "offense": "CAL",
+    "time": "0635",
     "primary": [
       "CAL-MADDI ERDALL"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "CAL",
-    "result": "GD",
-    "defense": "TXST"
+    "period": "FLOOR",
+    "defense": "TXST",
+    "secondary": [
+      "CAL-RYAN PFENNING"
+    ]
   },
   "17": {
-    "period": "FLOOR",
-    "secondary": [
-      "TXST-DONOVAN MITCHELL"
-    ],
-    "length": -1,
-    "primary": [
-      "CAL-RYAN PFENNING"
-    ],
-    "time": "",
+    "length": 14,
+    "result": "TC",
     "extras": [],
     "offense": "TXST",
-    "result": "TC",
-    "defense": "CAL"
-  },
-  "18": {
-    "period": "FLOOR",
-    "secondary": [],
-    "length": -1,
+    "time": "0649",
     "primary": [
       "CAL-RYAN PFENNING"
     ],
-    "time": "",
+    "period": "FLOOR",
+    "defense": "CAL",
+    "secondary": [
+      "TXST-DONOVAN MITCHELL"
+    ]
+  },
+  "18": {
+    "length": 78,
+    "result": "GD",
     "extras": [
       [
         "Y",
@@ -276,347 +271,342 @@
       ]
     ],
     "offense": "CAL",
-    "result": "GD",
-    "defense": "TXST"
+    "time": "0727",
+    "primary": [
+      "CAL-RYAN PFENNING"
+    ],
+    "period": "FLOOR",
+    "defense": "TXST",
+    "secondary": []
   },
   "19": {
-    "period": "FLOOR",
-    "secondary": [
-      "TXST-DONOVAN MITCHELL"
-    ],
-    "length": -1,
+    "length": 16,
+    "result": "GP",
+    "extras": [],
+    "offense": "TXST",
+    "time": "0743",
     "primary": [
       "TXST-TIM NGUYEN"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "TXST",
-    "result": "GP",
-    "defense": "CAL"
+    "period": "FLOOR",
+    "defense": "CAL",
+    "secondary": [
+      "TXST-DONOVAN MITCHELL"
+    ]
   },
   "20": {
-    "period": "FLOOR",
-    "secondary": [],
-    "length": -1,
+    "length": 91,
+    "result": "GD",
+    "extras": [],
+    "offense": "CAL",
+    "time": "0834",
     "primary": [
       "CAL-RYAN PFENNING"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "CAL",
-    "result": "GD",
-    "defense": "TXST"
+    "period": "FLOOR",
+    "defense": "TXST",
+    "secondary": []
   },
   "21": {
-    "period": "FLOOR",
-    "secondary": [
-      "TXST-ABBY LUM"
-    ],
-    "length": -1,
+    "length": 22,
+    "result": "EM",
+    "extras": [],
+    "offense": "TXST",
+    "time": "0856",
     "primary": [
       "TXST-DONOVAN MITCHELL"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "TXST",
-    "result": "EP",
-    "defense": "CAL"
+    "period": "FLOOR",
+    "defense": "CAL",
+    "secondary": []
   },
   "22": {
-    "period": "FLOOR",
-    "secondary": [
-      "CAL-MADDI ERDALL"
-    ],
-    "length": -1,
+    "length": 69,
+    "result": "TC",
+    "extras": [],
+    "offense": "CAL",
+    "time": "0925",
     "primary": [
       "TXST-DONOVAN MITCHELL"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "CAL",
-    "result": "TC",
-    "defense": "TXST"
+    "period": "FLOOR",
+    "defense": "TXST",
+    "secondary": [
+      "CAL-MADDI ERDALL"
+    ]
   },
   "23": {
-    "period": "FLOOR",
-    "secondary": [
-      "TXST-ERIC REYES"
-    ],
-    "length": -1,
+    "length": 29,
+    "result": "GP",
+    "extras": [],
+    "offense": "TXST",
+    "time": "0954",
     "primary": [
       "TXST-ABBY LUM"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "TXST",
-    "result": "GP",
-    "defense": "CAL"
+    "period": "FLOOR",
+    "defense": "CAL",
+    "secondary": [
+      "TXST-ERIC REYES"
+    ]
   },
   "24": {
+    "length": 77,
+    "result": "GP",
+    "extras": [],
+    "offense": "CAL",
+    "time": "1031",
+    "primary": [
+      "CAL-13"
+    ],
     "period": "FLOOR",
+    "defense": "TXST",
     "secondary": [
       "CAL-RYAN PFENNING"
-    ],
-    "length": -1,
-    "primary": [
-      "CAL-13"
-    ],
-    "time": "",
-    "extras": [],
-    "offense": "CAL",
-    "result": "GP",
-    "defense": "TXST"
+    ]
   },
   "25": {
-    "period": "FLOOR",
-    "secondary": [
-      "TXST-ABBY LUM"
-    ],
-    "length": -1,
+    "length": 27,
+    "result": "EP",
+    "extras": [],
+    "offense": "TXST",
+    "time": "1058",
     "primary": [
       "TXST-ERIC REYES"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "TXST",
-    "result": "EP",
-    "defense": "CAL"
+    "period": "FLOOR",
+    "defense": "CAL",
+    "secondary": [
+      "TXST-JENNA BOLLWEG"
+    ]
   },
   "26": {
-    "period": "FLOOR",
-    "secondary": [
-      "CAL-13"
-    ],
-    "length": -1,
-    "primary": [
-      "TXST-BRANDON MACDOWRA"
-    ],
-    "time": "",
+    "length": 68,
+    "result": "TL",
     "extras": [],
     "offense": "CAL",
-    "result": "TL",
-    "defense": "TXST"
-  },
-  "27": {
-    "period": "FLOOR",
-    "secondary": [
-      "TXST-ERIC REYES"
-    ],
-    "length": -1,
+    "time": "1126",
     "primary": [
       "TXST-BRANDON MACDOWRA"
     ],
-    "time": "",
+    "period": "FLOOR",
+    "defense": "TXST",
+    "secondary": [
+      "CAL-13"
+    ]
+  },
+  "27": {
+    "length": 15,
+    "result": "GP",
     "extras": [],
     "offense": "TXST",
-    "result": "GP",
-    "defense": "CAL"
+    "time": "1141",
+    "primary": [
+      "TXST-BRANDON MACDOWRA"
+    ],
+    "period": "FLOOR",
+    "defense": "CAL",
+    "secondary": [
+      "TXST-ERIC REYES"
+    ]
   },
   "28": {
-    "period": "FLOOR",
-    "secondary": [
-      "CAL-UNK"
-    ],
-    "length": -1,
+    "length": 73,
+    "result": "TB",
+    "extras": [],
+    "offense": "CAL",
+    "time": "1214",
     "primary": [
       "TXST-JESS MARKLE"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "CAL",
-    "result": "TB",
-    "defense": "TXST"
+    "period": "FLOOR",
+    "defense": "TXST",
+    "secondary": [
+      "CAL-UNK"
+    ]
   },
   "29": {
-    "period": "FLOOR",
-    "secondary": [],
-    "length": -1,
+    "length": 5,
+    "result": "EM",
+    "extras": [],
+    "offense": "TXST",
+    "time": "1219",
     "primary": [
       "TXST-BRANDON MACDOWRA"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "TXST",
-    "result": "EM",
-    "defense": "CAL"
+    "period": "FLOOR",
+    "defense": "CAL",
+    "secondary": []
   },
   "30": {
-    "period": "FLOOR",
-    "secondary": [
-      "CAL-UNK"
-    ],
-    "length": -1,
+    "length": 30,
+    "result": "EP",
+    "extras": [],
+    "offense": "CAL",
+    "time": "1249",
     "primary": [
       "CAL-RYAN PFENNING"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "CAL",
-    "result": "EP",
-    "defense": "TXST"
+    "period": "FLOOR",
+    "defense": "TXST",
+    "secondary": [
+      "CAL-14"
+    ]
   },
   "31": {
-    "period": "FLOOR",
-    "secondary": [
-      "TXST-ERIC REYES"
-    ],
-    "length": -1,
-    "primary": [
-      "TXST-UNK"
-    ],
-    "time": "",
+    "length": 69,
+    "result": "EP",
     "extras": [],
     "offense": "TXST",
-    "result": "EP",
-    "defense": "CAL"
+    "time": "1318",
+    "primary": [
+      "TXST-6"
+    ],
+    "period": "FLOOR",
+    "defense": "CAL",
+    "secondary": [
+      "TXST-ERIC REYES"
+    ]
   },
   "32": {
+    "length": 33,
+    "result": "GP",
+    "extras": [],
+    "offense": "CAL",
+    "time": "1351",
+    "primary": [
+      "CAL-13"
+    ],
     "period": "FLOOR",
+    "defense": "TXST",
     "secondary": [
       "CAL-RYAN PFENNING"
-    ],
-    "length": -1,
-    "primary": [
-      "CAL-UNK"
-    ],
-    "time": "",
-    "extras": [],
-    "offense": "CAL",
-    "result": "GP",
-    "defense": "TXST"
+    ]
   },
   "33": {
-    "period": "FLOOR",
-    "secondary": [
-      "TXST-4"
-    ],
-    "length": -1,
+    "length": 55,
+    "result": "GP",
+    "extras": [],
+    "offense": "TXST",
+    "time": "1406",
     "primary": [
       "TXST-JENNA BOLLWEG"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "TXST",
-    "result": "GP",
-    "defense": "CAL"
+    "period": "FLOOR",
+    "defense": "CAL",
+    "secondary": [
+      "TXST-4"
+    ]
   },
   "34": {
-    "period": "FLOOR",
-    "secondary": [
-      "CAL-3"
-    ],
-    "length": -1,
+    "length": 46,
+    "result": "GD",
+    "extras": [],
+    "offense": "CAL",
+    "time": "1452",
     "primary": [
       "CAL-MADDI ERDALL"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "CAL",
-    "result": "GD",
-    "defense": "TXST"
-  },
-  "35": {
     "period": "FLOOR",
-    "secondary": [
-      "TXST-BRANDON MACDOWRA"
-    ],
-    "length": -1,
-    "primary": [
-      "TXST-4"
-    ],
-    "time": "",
-    "extras": [],
-    "offense": "TXST",
-    "result": "GS",
-    "defense": "CAL"
-  },
-  "36": {
-    "period": "FLOOR",
-    "secondary": [
-      "CAL-82",
-      "CAL-UNK"
-    ],
-    "length": -1,
-    "primary": [
-      "TXST-4"
-    ],
-    "time": "",
-    "extras": [],
-    "offense": "CAL",
-    "result": "TD",
-    "defense": "TXST"
-  },
-  "37": {
-    "period": "FLOOR",
-    "secondary": [
-      "TXST-4"
-    ],
-    "length": -1,
-    "primary": [
-      "TXST-BRANDON MACDOWRA"
-    ],
-    "time": "",
-    "extras": [],
-    "offense": "TXST",
-    "result": "GP",
-    "defense": "CAL"
-  },
-  "38": {
-    "period": "FLOOR",
+    "defense": "TXST",
     "secondary": [
       "CAL-3"
+    ]
+  },
+  "35": {
+    "length": 68,
+    "result": "GS",
+    "extras": [],
+    "offense": "TXST",
+    "time": "1520",
+    "primary": [
+      "TXST-4"
     ],
-    "length": -1,
+    "period": "FLOOR",
+    "defense": "CAL",
+    "secondary": [
+      "TXST-BRANDON MACDOWRA"
+    ]
+  },
+  "36": {
+    "length": 87,
+    "result": "TD",
+    "extras": [],
+    "offense": "CAL",
+    "time": "1607",
+    "primary": [
+      "TXST-4"
+    ],
+    "period": "FLOOR",
+    "defense": "TXST",
+    "secondary": [
+      "CAL-82",
+      "CAL-3"
+    ]
+  },
+  "37": {
+    "length": 6,
+    "result": "GP",
+    "extras": [],
+    "offense": "TXST",
+    "time": "1613",
+    "primary": [
+      "TXST-BRANDON MACDOWRA"
+    ],
+    "period": "FLOOR",
+    "defense": "CAL",
+    "secondary": [
+      "TXST-4"
+    ]
+  },
+  "38": {
+    "length": 42,
+    "result": "GD",
+    "extras": [],
+    "offense": "CAL",
+    "time": "1655",
     "primary": [
       "CAL-13"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "CAL",
-    "result": "GD",
-    "defense": "TXST"
+    "period": "FLOOR",
+    "defense": "TXST",
+    "secondary": [
+      "CAL-3"
+    ]
   },
   "39": {
-    "period": "FLOOR",
-    "secondary": [
-      "TXST-4"
-    ],
-    "length": -1,
+    "length": 61,
+    "result": "GP",
+    "extras": [],
+    "offense": "TXST",
+    "time": "1716",
     "primary": [
       "TXST-JENNA BOLLWEG"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "TXST",
-    "result": "GP",
-    "defense": "CAL"
+    "period": "FLOOR",
+    "defense": "CAL",
+    "secondary": [
+      "TXST-4"
+    ]
   },
   "40": {
-    "period": "FLOOR",
-    "secondary": [
-      "CAL-MADDI ERDALL"
-    ],
-    "length": -1,
+    "length": 25,
+    "result": "EP",
+    "extras": [],
+    "offense": "CAL",
+    "time": "1741",
     "primary": [
       "CAL-13"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "CAL",
-    "result": "EP",
-    "defense": "TXST"
+    "period": "FLOOR",
+    "defense": "TXST",
+    "secondary": [
+      "CAL-MADDI ERDALL"
+    ]
   },
   "41": {
-    "period": "SOP",
-    "secondary": [
-      "TXST-6",
-      "TXST-ERIC REYES"
-    ],
-    "length": -1,
-    "primary": [
-      "CAL-MADDI ERDALL"
-    ],
-    "time": "",
+    "length": 87,
+    "result": "TD",
     "extras": [
       [
         "SOP",
@@ -624,344 +614,356 @@
       ]
     ],
     "offense": "TXST",
-    "result": "TD",
-    "defense": "CAL"
-  },
-  "42": {
-    "period": "SOP",
-    "secondary": [],
-    "length": -1,
-    "primary": [
-      "CAL-41"
-    ],
-    "time": "",
-    "extras": [],
-    "offense": "CAL",
-    "result": "EY",
-    "defense": "TXST"
-  },
-  "43": {
-    "period": "SOP",
-    "secondary": [],
-    "length": -1,
-    "primary": [
-      "TXST-UNK"
-    ],
-    "time": "",
-    "extras": [],
-    "offense": "TXST",
-    "result": "EM",
-    "defense": "CAL"
-  },
-  "44": {
-    "period": "SOP",
-    "secondary": [
-      "CAL-3"
-    ],
-    "length": -1,
-    "primary": [
-      "TXST-BAILEE FIELDS"
-    ],
-    "time": "",
-    "extras": [],
-    "offense": "CAL",
-    "result": "TB",
-    "defense": "TXST"
-  },
-  "45": {
-    "period": "SOP",
-    "secondary": [
-      "TXST-ERIC REYES"
-    ],
-    "length": -1,
-    "primary": [
-      "CAL-CONNOR HUGHES"
-    ],
-    "time": "",
-    "extras": [],
-    "offense": "TXST",
-    "result": "TB",
-    "defense": "CAL"
-  },
-  "46": {
-    "period": "SOP",
-    "secondary": [],
-    "length": -1,
-    "primary": [
-      "CAL-UNK"
-    ],
-    "time": "",
-    "extras": [],
-    "offense": "CAL",
-    "result": "G",
-    "defense": "TXST"
-  },
-  "47": {
-    "period": "SOP",
-    "secondary": [],
-    "length": -1,
-    "primary": [
-      "TXST-UNK"
-    ],
-    "time": "",
-    "extras": [],
-    "offense": "TXST",
-    "result": "EM",
-    "defense": "CAL"
-  },
-  "48": {
-    "period": "SOP",
-    "secondary": [],
-    "length": -1,
-    "primary": [
-      "CAL-UNK"
-    ],
-    "time": "",
-    "extras": [
-      [
-        "R",
-        "TXST-BAILEE FIELDS"
-      ]
-    ],
-    "offense": "CAL",
-    "result": "EM",
-    "defense": "TXST"
-  },
-  "49": {
-    "period": "SOP",
-    "secondary": [
-      "TXST-4"
-    ],
-    "length": -1,
-    "primary": [
-      "TXST-TIM NGUYEN"
-    ],
-    "time": "",
-    "extras": [],
-    "offense": "TXST",
-    "result": "GP",
-    "defense": "CAL"
-  },
-  "50": {
-    "period": "SOP",
-    "secondary": [
-      "CAL-16"
-    ],
-    "length": -1,
-    "primary": [
-      "TXST-4"
-    ],
-    "time": "",
-    "extras": [],
-    "offense": "CAL",
-    "result": "TC",
-    "defense": "TXST"
-  },
-  "51": {
-    "period": "SOP",
-    "secondary": [],
-    "length": -1,
-    "primary": [
-      "TXST-DONOVAN MITCHELL"
-    ],
-    "time": "",
-    "extras": [],
-    "offense": "TXST",
-    "result": "EM",
-    "defense": "CAL"
-  },
-  "52": {
-    "period": "SOP",
-    "secondary": [
-      "CAL-17"
-    ],
-    "length": -1,
+    "time": "1828",
     "primary": [
       "CAL-MADDI ERDALL"
     ],
-    "time": "",
+    "period": "SOP",
+    "defense": "CAL",
+    "secondary": [
+      "TXST-6",
+      "TXST-ERIC REYES"
+    ]
+  },
+  "42": {
+    "length": 14,
+    "result": "EY",
     "extras": [],
     "offense": "CAL",
-    "result": "EP",
-    "defense": "TXST"
-  },
-  "53": {
-    "period": "SOP",
-    "secondary": [
-      "TXST-UNK"
-    ],
-    "length": -1,
+    "time": "1842",
     "primary": [
-      "TXST-TIM NGUYEN"
+      "CAL-41"
     ],
-    "time": "",
+    "period": "SOP",
+    "defense": "TXST",
+    "secondary": []
+  },
+  "43": {
+    "length": 76,
+    "result": "EM",
     "extras": [],
     "offense": "TXST",
-    "result": "GS",
-    "defense": "CAL"
-  },
-  "54": {
-    "period": "SOP",
-    "secondary": [
-      "CAL-RYAN PFENNING"
+    "time": "1918",
+    "primary": [
+      "TXST-6"
     ],
-    "length": -1,
+    "period": "SOP",
+    "defense": "CAL",
+    "secondary": []
+  },
+  "44": {
+    "length": 90,
+    "result": "TB",
+    "extras": [],
+    "offense": "CAL",
+    "time": "2008",
+    "primary": [
+      "TXST-JESS MARKLE"
+    ],
+    "period": "SOP",
+    "defense": "TXST",
+    "secondary": [
+      "CAL-3"
+    ]
+  },
+  "45": {
+    "length": 6,
+    "result": "TB",
+    "extras": [],
+    "offense": "TXST",
+    "time": "2014",
+    "primary": [
+      "CAL-CONNOR HUGHES"
+    ],
+    "period": "SOP",
+    "defense": "CAL",
+    "secondary": [
+      "TXST-ERIC REYES"
+    ]
+  },
+  "46": {
+    "length": 13,
+    "result": "G",
+    "extras": [],
+    "offense": "CAL",
+    "time": "2027",
     "primary": [
       "CAL-UNK"
     ],
-    "time": "",
+    "period": "SOP",
+    "defense": "TXST",
+    "secondary": []
+  },
+  "47": {
+    "length": 24,
+    "result": "EM",
+    "extras": [],
+    "offense": "TXST",
+    "time": "2051",
+    "primary": [
+      "TXST-UNK"
+    ],
+    "period": "SOP",
+    "defense": "CAL",
+    "secondary": []
+  },
+  "48": {
+    "length": 84,
+    "result": "EM",
+    "extras": [
+      [
+        "R",
+        "TXST-JESS MARKLE"
+      ]
+    ],
+    "offense": "CAL",
+    "time": "2135",
+    "primary": [
+      "CAL-3"
+    ],
+    "period": "SOP",
+    "defense": "TXST",
+    "secondary": []
+  },
+  "49": {
+    "length": 86,
+    "result": "GP",
+    "extras": [],
+    "offense": "TXST",
+    "time": "2221",
+    "primary": [
+      "TXST-TIM NGUYEN"
+    ],
+    "period": "SOP",
+    "defense": "CAL",
+    "secondary": [
+      "TXST-6"
+    ]
+  },
+  "50": {
+    "length": 90,
+    "result": "TC",
     "extras": [],
     "offense": "CAL",
-    "result": "GP",
-    "defense": "TXST"
-  },
-  "55": {
+    "time": "2311",
+    "primary": [
+      "TXST-4"
+    ],
     "period": "SOP",
+    "defense": "TXST",
     "secondary": [
+      "CAL-16"
+    ]
+  },
+  "51": {
+    "length": 33,
+    "result": "EM",
+    "extras": [],
+    "offense": "TXST",
+    "time": "2344",
+    "primary": [
       "TXST-DONOVAN MITCHELL"
     ],
-    "length": -1,
+    "period": "SOP",
+    "defense": "CAL",
+    "secondary": []
+  },
+  "52": {
+    "length": 88,
+    "result": "EP",
+    "extras": [],
+    "offense": "CAL",
+    "time": "2432",
     "primary": [
-      "TXST-JENNA BOLLWEG"
+      "CAL-MADDI ERDALL"
     ],
-    "time": "",
+    "period": "SOP",
+    "defense": "TXST",
+    "secondary": [
+      "CAL-17"
+    ]
+  },
+  "53": {
+    "length": 15,
+    "result": "GS",
+    "extras": [],
+    "offense": "TXST",
+    "time": "2447",
+    "primary": [
+      "TXST-TIM NGUYEN"
+    ],
+    "period": "SOP",
+    "defense": "CAL",
+    "secondary": [
+      "TXST-4"
+    ]
+  },
+  "54": {
+    "length": 103,
+    "result": "GP",
+    "extras": [],
+    "offense": "CAL",
+    "time": "2550",
+    "primary": [
+      "CAL-52"
+    ],
+    "period": "SOP",
+    "defense": "TXST",
+    "secondary": [
+      "CAL-RYAN PFENNING"
+    ]
+  },
+  "55": {
+    "length": 97,
+    "result": "GP",
     "extras": [
       [
         "Y",
         "CAL-MADDI ERDALL"
+      ],
+      [
+        "R",
+        "CAL-UNK"
       ]
     ],
     "offense": "TXST",
-    "result": "GP",
-    "defense": "CAL"
+    "time": "2647",
+    "primary": [
+      "TXST-JENNA BOLLWEG"
+    ],
+    "period": "SOP",
+    "defense": "CAL",
+    "secondary": [
+      "TXST-DONOVAN MITCHELL"
+    ]
   },
   "56": {
-    "period": "SOP",
-    "secondary": [
-      "CAL-UNK"
-    ],
-    "length": -1,
+    "length": 53,
+    "result": "TB",
+    "extras": [],
+    "offense": "CAL",
+    "time": "2700",
     "primary": [
       "TXST-KRIS DELAFUENTE"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "CAL",
-    "result": "TB",
-    "defense": "TXST"
+    "period": "SOP",
+    "defense": "TXST",
+    "secondary": [
+      "CAL-52"
+    ]
   },
   "57": {
-    "period": "SOP",
-    "secondary": [],
-    "length": -1,
-    "primary": [
-      "TXST-UNK"
-    ],
-    "time": "",
+    "length": 4,
+    "result": "GD",
     "extras": [],
     "offense": "TXST",
-    "result": "GD",
-    "defense": "CAL"
+    "time": "2704",
+    "primary": [
+      "TXST-4"
+    ],
+    "period": "SOP",
+    "defense": "CAL",
+    "secondary": []
   },
   "58": {
-    "period": "SOP",
-    "secondary": [
-      "CAL-UNK"
-    ],
-    "length": -1,
-    "primary": [
-      "CAL-UNK"
-    ],
-    "time": "",
+    "length": 28,
+    "result": "EP",
     "extras": [],
     "offense": "CAL",
-    "result": "EP",
-    "defense": "TXST"
+    "time": "2732",
+    "primary": [
+      "CAL-52"
+    ],
+    "period": "SOP",
+    "defense": "TXST",
+    "secondary": [
+      "CAL-17"
+    ]
   },
   "59": {
-    "period": "SOP",
-    "secondary": [
-      "TXST-JENNA BOLLWEG"
-    ],
-    "length": -1,
+    "length": 72,
+    "result": "TB",
+    "extras": [],
+    "offense": "TXST",
+    "time": "2804",
     "primary": [
       "CAL-41"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "TXST",
-    "result": "TB",
-    "defense": "CAL"
+    "period": "SOP",
+    "defense": "CAL",
+    "secondary": [
+      "TXST-JENNA BOLLWEG"
+    ]
   },
   "60": {
-    "period": "SOP",
-    "secondary": [
-      "CAL-RYAN PFENNING"
-    ],
-    "length": -1,
+    "length": 18,
+    "result": "TB",
+    "extras": [],
+    "offense": "CAL",
+    "time": "2822",
     "primary": [
       "TXST-KRIS DELAFUENTE"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "CAL",
-    "result": "TB",
-    "defense": "TXST"
+    "period": "SOP",
+    "defense": "TXST",
+    "secondary": [
+      "CAL-RYAN PFENNING"
+    ]
   },
   "61": {
-    "period": "SOP",
-    "secondary": [
-      "TXST-4"
-    ],
-    "length": -1,
+    "length": 4,
+    "result": "GP",
+    "extras": [],
+    "offense": "TXST",
+    "time": "2826",
     "primary": [
       "TXST-ERIC REYES"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "TXST",
-    "result": "GP",
-    "defense": "CAL"
+    "period": "SOP",
+    "defense": "CAL",
+    "secondary": [
+      "TXST-4"
+    ]
   },
   "62": {
-    "period": "SOP",
-    "secondary": [
-      "CAL-UNK"
-    ],
-    "length": -1,
-    "primary": [
-      "CAL-UNK"
-    ],
-    "time": "",
+    "length": 74,
+    "result": "TC",
     "extras": [],
     "offense": "CAL",
-    "result": "EP",
-    "defense": "TXST"
+    "time": "2900",
+    "primary": [
+      "TXST-ERIC REYES"
+    ],
+    "period": "SOP",
+    "defense": "TXST",
+    "secondary": [
+      "CAL-RYAN PFENNING"
+    ]
   },
   "63": {
-    "period": "SOP",
-    "secondary": [],
-    "length": -1,
+    "length": 19,
+    "result": "EM",
+    "extras": [],
+    "offense": "TXST",
+    "time": "2919",
     "primary": [
       "TXST-DONOVAN MITCHELL"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "TXST",
-    "result": "EM",
-    "defense": "CAL"
+    "period": "SOP",
+    "defense": "CAL",
+    "secondary": []
   },
   "64": {
-    "period": "SOP",
-    "secondary": [],
     "length": -1,
+    "result": "RCA",
+    "extras": [],
+    "offense": "CAL",
+    "time": "2929",
     "primary": [
       "TXST-STEVO GRALINSKI"
     ],
-    "time": "",
-    "extras": [],
-    "offense": "CAL",
-    "result": "RCA",
-    "defense": "TXST"
+    "period": "SOP",
+    "defense": "TXST",
+    "secondary": []
   }
 }

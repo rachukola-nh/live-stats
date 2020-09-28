@@ -1,65 +1,65 @@
 (00:00)Brooms Up possession: BROOMS UP! Quaffle Possession by ['TXST-STEPHEN VIGIL'], Bludger Control by [None]
-TXST possession: Goal on the shot by ['TXST-TJ MARTINEZ'], assist by ['TXST-STEPHEN VIGIL']
-CAL possession: Turnover forced by physical contact by ['TXST-MELISSA KITE'] on ['CAL-UNK']
-TXST possession: Goal on the shot by ['TXST-STEPHEN VIGIL'].
-CAL possession: Errant pass from ['CAL-RYAN PFENNING'] to ['CAL-UNK']. Turnover
-TXST possession: Shot by ['TXST-4'] blocked by ['CAL-UNK']. Turnover.
-CAL possession: Goal on the shot by ['CAL-RYAN PFENNING'].
-TXST possession: Goal on the drive by ['TXST-TJ MARTINEZ'].
-CAL possession: Missed shot by ['CAL-RYAN PFENNING']. Turnover.
-TXST possession: Goal on the drive by ['TXST-4'].
-CAL possession: Pass between ['CAL-RYAN PFENNING', 'CAL-MADDI ERDALL'] defended by ['TXST-4']. Turnover
-TXST possession: Turnover forced by physical contact by ['CAL-RYAN PFENNING'] on ['TXST-UNK']
-CAL possession: Blue card on ['CAL-42'] forces turnover.
-TXST possession: Goal on the drive by ['TXST-UNK'], assist by ['TXST-DONOVAN MITCHELL']
-CAL possession: Beat by ['TXST-JESS MARKLE'] on ['CAL-UNK'] forces a TURNOVER. During the play, reset forced by TXST-KRIS DELAFUENTE
-TXST possession: Goal on the shot by ['TXST-DONOVAN MITCHELL'].
-CAL possession: Goal on the drive by ['CAL-MADDI ERDALL'], assist by ['CAL-RYAN PFENNING']
-TXST possession: Turnover forced by physical contact by ['CAL-RYAN PFENNING'] on ['TXST-DONOVAN MITCHELL']
-CAL possession: Goal on the drive by ['CAL-RYAN PFENNING']. During the play, yellow card on TXST-KRIS DELAFUENTE
-TXST possession: ['TXST-DONOVAN MITCHELL'] passes to ['TXST-TIM NGUYEN'] at the hoops, GOAL.
-CAL possession: Goal on the drive by ['CAL-RYAN PFENNING'].
-TXST possession: Errant pass from ['TXST-DONOVAN MITCHELL'] to ['TXST-ABBY LUM']. Turnover
-CAL possession: Turnover forced by physical contact by ['TXST-DONOVAN MITCHELL'] on ['CAL-MADDI ERDALL']
-TXST possession: ['TXST-ERIC REYES'] passes to ['TXST-ABBY LUM'] at the hoops, GOAL.
-CAL possession: ['CAL-RYAN PFENNING'] passes to ['CAL-13'] at the hoops, GOAL.
-TXST possession: Errant pass from ['TXST-ERIC REYES'] to ['TXST-ABBY LUM']. Turnover
-CAL possession: Shot by ['CAL-13'] blocked by ['TXST-BRANDON MACDOWRA']. Turnover.
-TXST possession: ['TXST-ERIC REYES'] passes to ['TXST-BRANDON MACDOWRA'] at the hoops, GOAL.
-CAL possession: Beat by ['TXST-JESS MARKLE'] on ['CAL-UNK'] forces a TURNOVER.
-TXST possession: Missed shot by ['TXST-BRANDON MACDOWRA']. Turnover.
-CAL possession: Errant pass from ['CAL-RYAN PFENNING'] to ['CAL-UNK']. Turnover
-TXST possession: Errant pass from ['TXST-UNK'] to ['TXST-ERIC REYES']. Turnover
-CAL possession: ['CAL-RYAN PFENNING'] passes to ['CAL-UNK'] at the hoops, GOAL.
-TXST possession: ['TXST-4'] passes to ['TXST-JENNA BOLLWEG'] at the hoops, GOAL.
-CAL possession: Goal on the drive by ['CAL-MADDI ERDALL'], assist by ['CAL-3']
-TXST possession: Goal on the shot by ['TXST-4'], assist by ['TXST-BRANDON MACDOWRA']
-CAL possession: Pass between ['CAL-82', 'CAL-UNK'] defended by ['TXST-4']. Turnover
-TXST possession: ['TXST-4'] passes to ['TXST-BRANDON MACDOWRA'] at the hoops, GOAL.
-CAL possession: Goal on the drive by ['CAL-13'], assist by ['CAL-3']
-TXST possession: ['TXST-4'] passes to ['TXST-JENNA BOLLWEG'] at the hoops, GOAL.
-CAL possession: Errant pass from ['CAL-13'] to ['CAL-MADDI ERDALL']. Turnover
-TXST possession: Pass between ['TXST-6', 'TXST-ERIC REYES'] defended by ['CAL-MADDI ERDALL']. Turnover During the play, SNITCH ON PITCH begins
-CAL possession: Yellow card on ['CAL-41'] forces turnover.
-TXST possession: Missed shot by ['TXST-UNK']. Turnover.
-CAL possession: Beat by ['TXST-BAILEE FIELDS'] on ['CAL-3'] forces a TURNOVER.
-TXST possession: Beat by ['CAL-CONNOR HUGHES'] on ['TXST-ERIC REYES'] forces a TURNOVER.
-CAL possession: Goal by ['CAL-UNK'].
-TXST possession: Missed shot by ['TXST-UNK']. Turnover.
-CAL possession: Missed shot by ['CAL-UNK']. Turnover. During the play, reset forced by TXST-BAILEE FIELDS
-TXST possession: ['TXST-4'] passes to ['TXST-TIM NGUYEN'] at the hoops, GOAL.
-CAL possession: Turnover forced by physical contact by ['TXST-4'] on ['CAL-16']
-TXST possession: Missed shot by ['TXST-DONOVAN MITCHELL']. Turnover.
-CAL possession: Errant pass from ['CAL-MADDI ERDALL'] to ['CAL-17']. Turnover
-TXST possession: Goal on the shot by ['TXST-TIM NGUYEN'], assist by ['TXST-UNK']
-CAL possession: ['CAL-RYAN PFENNING'] passes to ['CAL-UNK'] at the hoops, GOAL.
-TXST possession: ['TXST-DONOVAN MITCHELL'] passes to ['TXST-JENNA BOLLWEG'] at the hoops, GOAL. During the play, yellow card on CAL-MADDI ERDALL
-CAL possession: Beat by ['TXST-KRIS DELAFUENTE'] on ['CAL-UNK'] forces a TURNOVER.
-TXST possession: Goal on the drive by ['TXST-UNK'].
-CAL possession: Errant pass from ['CAL-UNK'] to ['CAL-UNK']. Turnover
-TXST possession: Beat by ['CAL-41'] on ['TXST-JENNA BOLLWEG'] forces a TURNOVER.
-CAL possession: Beat by ['TXST-KRIS DELAFUENTE'] on ['CAL-RYAN PFENNING'] forces a TURNOVER.
-TXST possession: ['TXST-4'] passes to ['TXST-ERIC REYES'] at the hoops, GOAL.
-CAL possession: Errant pass from ['CAL-UNK'] to ['CAL-UNK']. Turnover
-TXST possession: Missed shot by ['TXST-DONOVAN MITCHELL']. Turnover.
-CAL possession: Snitch catch by ['TXST-STEVO GRALINSKI'] is GOOD.
+(00:07)TXST possession: Goal on the shot by ['TXST-TJ MARTINEZ'], assist by ['TXST-STEPHEN VIGIL']
+(00:57)CAL possession: Turnover forced by physical contact by ['TXST-MELISSA KITE'] on ['CAL-32']
+(01:18)TXST possession: Goal on the shot by ['TXST-STEPHEN VIGIL'].
+(01:50)CAL possession: Errant pass from ['CAL-RYAN PFENNING'] to ['CAL-32']. Turnover
+(02:32)TXST possession: Shot by ['TXST-4'] blocked by ['CAL-52']. Turnover.
+(02:39)CAL possession: Goal on the shot by ['CAL-RYAN PFENNING'].
+(02:52)TXST possession: Goal on the drive by ['TXST-TJ MARTINEZ'].
+(03:37)CAL possession: Missed shot by ['CAL-RYAN PFENNING']. Turnover.
+(03:45)TXST possession: Goal on the drive by ['TXST-4'].
+(04:18)CAL possession: Pass between ['CAL-RYAN PFENNING', 'CAL-MADDI ERDALL'] defended by ['TXST-4']. Turnover
+(04:51)TXST possession: Turnover forced by physical contact by ['CAL-RYAN PFENNING'] on ['TXST-TJ MARTINEZ']
+(05:06)CAL possession: Blue card on ['CAL-42'] forces turnover.
+(05:30)TXST possession: Goal on the drive by ['TXST-CLAYTON CARLISLE'], assist by ['TXST-DONOVAN MITCHELL']
+(06:09)CAL possession: Beat by ['TXST-JESS MARKLE'] on ['CAL-16'] forces a TURNOVER. During the play, reset forced by TXST-KRIS DELAFUENTE
+(06:16)TXST possession: Goal on the shot by ['TXST-DONOVAN MITCHELL'].
+(06:35)CAL possession: Goal on the drive by ['CAL-MADDI ERDALL'], assist by ['CAL-RYAN PFENNING']
+(06:49)TXST possession: Turnover forced by physical contact by ['CAL-RYAN PFENNING'] on ['TXST-DONOVAN MITCHELL']
+(07:27)CAL possession: Goal on the drive by ['CAL-RYAN PFENNING']. During the play, yellow card on TXST-KRIS DELAFUENTE
+(07:43)TXST possession: ['TXST-DONOVAN MITCHELL'] passes to ['TXST-TIM NGUYEN'] at the hoops, GOAL.
+(08:34)CAL possession: Goal on the drive by ['CAL-RYAN PFENNING'].
+(08:56)TXST possession: Missed shot by ['TXST-DONOVAN MITCHELL']. Turnover.
+(09:25)CAL possession: Turnover forced by physical contact by ['TXST-DONOVAN MITCHELL'] on ['CAL-MADDI ERDALL']
+(09:54)TXST possession: ['TXST-ERIC REYES'] passes to ['TXST-ABBY LUM'] at the hoops, GOAL.
+(10:31)CAL possession: ['CAL-RYAN PFENNING'] passes to ['CAL-13'] at the hoops, GOAL.
+(10:58)TXST possession: Errant pass from ['TXST-ERIC REYES'] to ['TXST-JENNA BOLLWEG']. Turnover
+(11:26)CAL possession: Shot by ['CAL-13'] blocked by ['TXST-BRANDON MACDOWRA']. Turnover.
+(11:41)TXST possession: ['TXST-ERIC REYES'] passes to ['TXST-BRANDON MACDOWRA'] at the hoops, GOAL.
+(12:14)CAL possession: Beat by ['TXST-JESS MARKLE'] on ['CAL-UNK'] forces a TURNOVER.
+(12:19)TXST possession: Missed shot by ['TXST-BRANDON MACDOWRA']. Turnover.
+(12:49)CAL possession: Errant pass from ['CAL-RYAN PFENNING'] to ['CAL-14']. Turnover
+(13:18)TXST possession: Errant pass from ['TXST-6'] to ['TXST-ERIC REYES']. Turnover
+(13:51)CAL possession: ['CAL-RYAN PFENNING'] passes to ['CAL-13'] at the hoops, GOAL.
+(14:06)TXST possession: ['TXST-4'] passes to ['TXST-JENNA BOLLWEG'] at the hoops, GOAL.
+(14:52)CAL possession: Goal on the drive by ['CAL-MADDI ERDALL'], assist by ['CAL-3']
+(15:20)TXST possession: Goal on the shot by ['TXST-4'], assist by ['TXST-BRANDON MACDOWRA']
+(16:07)CAL possession: Pass between ['CAL-82', 'CAL-3'] defended by ['TXST-4']. Turnover
+(16:13)TXST possession: ['TXST-4'] passes to ['TXST-BRANDON MACDOWRA'] at the hoops, GOAL.
+(16:55)CAL possession: Goal on the drive by ['CAL-13'], assist by ['CAL-3']
+(17:16)TXST possession: ['TXST-4'] passes to ['TXST-JENNA BOLLWEG'] at the hoops, GOAL.
+(17:41)CAL possession: Errant pass from ['CAL-13'] to ['CAL-MADDI ERDALL']. Turnover
+(18:28)TXST possession: Pass between ['TXST-6', 'TXST-ERIC REYES'] defended by ['CAL-MADDI ERDALL']. Turnover During the play, SNITCH ON PITCH begins
+(18:42)CAL possession: Yellow card on ['CAL-41'] forces turnover.
+(19:18)TXST possession: Missed shot by ['TXST-6']. Turnover.
+(20:08)CAL possession: Beat by ['TXST-JESS MARKLE'] on ['CAL-3'] forces a TURNOVER.
+(20:14)TXST possession: Beat by ['CAL-CONNOR HUGHES'] on ['TXST-ERIC REYES'] forces a TURNOVER.
+(20:27)CAL possession: Goal by ['CAL-UNK'].
+(20:51)TXST possession: Missed shot by ['TXST-UNK']. Turnover.
+(21:35)CAL possession: Missed shot by ['CAL-3']. Turnover. During the play, reset forced by TXST-JESS MARKLE
+(22:21)TXST possession: ['TXST-6'] passes to ['TXST-TIM NGUYEN'] at the hoops, GOAL.
+(23:11)CAL possession: Turnover forced by physical contact by ['TXST-4'] on ['CAL-16']
+(23:44)TXST possession: Missed shot by ['TXST-DONOVAN MITCHELL']. Turnover.
+(24:32)CAL possession: Errant pass from ['CAL-MADDI ERDALL'] to ['CAL-17']. Turnover
+(24:47)TXST possession: Goal on the shot by ['TXST-TIM NGUYEN'], assist by ['TXST-4']
+(25:50)CAL possession: ['CAL-RYAN PFENNING'] passes to ['CAL-52'] at the hoops, GOAL.
+(26:47)TXST possession: ['TXST-DONOVAN MITCHELL'] passes to ['TXST-JENNA BOLLWEG'] at the hoops, GOAL. During the play, yellow card on CAL-MADDI ERDALL,reset forced by CAL-UNK
+(27:00)CAL possession: Beat by ['TXST-KRIS DELAFUENTE'] on ['CAL-52'] forces a TURNOVER.
+(27:04)TXST possession: Goal on the drive by ['TXST-4'].
+(27:32)CAL possession: Errant pass from ['CAL-52'] to ['CAL-17']. Turnover
+(28:04)TXST possession: Beat by ['CAL-41'] on ['TXST-JENNA BOLLWEG'] forces a TURNOVER.
+(28:22)CAL possession: Beat by ['TXST-KRIS DELAFUENTE'] on ['CAL-RYAN PFENNING'] forces a TURNOVER.
+(28:26)TXST possession: ['TXST-4'] passes to ['TXST-ERIC REYES'] at the hoops, GOAL.
+(29:00)CAL possession: Turnover forced by physical contact by ['TXST-ERIC REYES'] on ['CAL-RYAN PFENNING']
+(29:19)TXST possession: Missed shot by ['TXST-DONOVAN MITCHELL']. Turnover.
+(29:29)CAL possession: Snitch catch by ['TXST-STEVO GRALINSKI'] is GOOD.
