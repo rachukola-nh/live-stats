@@ -1,44 +1,45 @@
-(00:00)Brooms Up possession: BROOMS UP! Quaffle Possession by [None], Bludger Control by [None]
-SHSU possession: ['SHSU-GRACE ATKINSON'] passes to ['SHSU-RED RUTLEDGE'] at the hoops, GOAL.
-TAMU possession: Goal on the drive by ['TAMU-HAYDEN ALTMAN'].
-SHSU possession: Goal on the drive by ['SHSU-SAM REAGAN'].
-TAMU possession: Goal on the shot by ['TAMU-CONNOR MCINTYRE'], assist by ['TAMU-CAMERON VILLAMIL']
-SHSU possession: Beat by ['TAMU-NICK ROY'] on ['SHSU-SAM REAGAN'] forces a TURNOVER.
-TAMU possession: Goal on the drive by ['TAMU-HAYDEN ALTMAN']. During the play, yellow card on SHSU-SAM REAGAN
-SHSU possession: Beat by ['TAMU-ALEX STEWART'] on ['SHSU-RED RUTLEDGE'] forces a TURNOVER.
-TAMU possession: Shot by ['TAMU-CONNOR MCINTYRE'] blocked by ['SHSU-KAT HAYWORTH']. Turnover.
-SHSU possession: Goal on the shot by ['SHSU-MICAH HEPBURN'].
-TAMU possession: Pass between ['TAMU-HAYDEN ALTMAN', 'TAMU-RANDI DORAN'] defended by ['SHSU-SAM REAGAN']. Turnover
-SHSU possession: Missed shot by ['SHSU-MICAH HEPBURN']. Turnover.
-TAMU possession: Goal on the drive by ['TAMU-CAMERON VILLAMIL'], assist by ['TAMU-HAYDEN ALTMAN']
-SHSU possession: Turnover forced by physical contact by ['TAMU-HAYDEN ALTMAN'] on ['SHSU-MICAH HEPBURN']
-TAMU possession: Pass between ['TAMU-KEATON MALLORY', 'TAMU-CAMERON VILLAMIL'] defended by ['SHSU-JAY ROSS']. Turnover
-SHSU possession: Goal on the shot by ['SHSU-JAY ROSS'].
-TAMU possession: Pass between ['TAMU-KEATON MALLORY', 'TAMU-CAMERON VILLAMIL'] defended by ['SHSU-JAY ROSS']. Turnover
-SHSU possession: ['SHSU-JAY ROSS'] passes to ['SHSU-HALEY DUPRE'] at the hoops, GOAL.
-TAMU possession: Turnover forced by physical contact by ['SHSU-TRAVIS WARD'] on ['TAMU-KODY FOX']
-SHSU possession: Shot by ['SHSU-TRAVIS WARD'] blocked by ['TAMU-BLAINE MCCULLARS']. Turnover.
-TAMU possession: Goal on the drive by ['TAMU-BLAINE MCCULLARS'].
-SHSU possession: Pass by ['SHSU-SAM REAGAN'] dropped by ['SHSU-TRAVIS WARD']. Turnover During the play, reset forced by TAMU-ARON GEBREMICAEL,yellow card on TAMU-KODY FOX
-TAMU possession: Shot by ['TAMU-JACK MCBRIDE'] blocked by ['SHSU-SAM REAGAN']. Turnover.
-SHSU possession: Pass between ['SHSU-SAM REAGAN', 'SHSU-RALF MANDUJANO'] defended by ['TAMU-JACK MCBRIDE']. Turnover
-TAMU possession: Beat by ['SHSU-BALDEMAR NUNEZ'] on ['TAMU-JACK MCBRIDE'] forces a TURNOVER.
-SHSU possession: Goal on the shot by ['SHSU-SAM REAGAN'].
-TAMU possession: Beat by ['SHSU-KAT HAYWORTH'] on ['TAMU-KODY FOX'] forces a TURNOVER.
-SHSU possession: ['SHSU-RALF MANDUJANO'] passes to ['SHSU-RICHARD ARAGORN'] at the hoops, GOAL.
-TAMU possession: Pass between ['TAMU-JACK MCBRIDE', 'TAMU-ADRIENNE DEMOSS'] defended by ['SHSU-JAY ROSS']. Turnover
-SHSU possession: Goal on the shot by ['SHSU-JAY ROSS'].
-TAMU possession: Pass between ['TAMU-KODY FOX', 'TAMU-ADRIENNE DEMOSS'] defended by ['SHSU-JAY ROSS']. Turnover
-SHSU possession: Turnover forced by physical contact by ['TAMU-BLAINE MCCULLARS'] on ['SHSU-MICAH HEPBURN']
-TAMU possession: Goal on the drive by ['TAMU-KODY FOX'], assist by ['TAMU-BLAINE MCCULLARS'] During the play, yellow card on SHSU-MICAH HEPBURN
-SHSU possession: Goal on the shot by ['SHSU-SAM REAGAN'].
-TAMU possession: Goal on the drive by ['TAMU-KODY FOX'], assist by ['TAMU-JACK MCBRIDE']
-SHSU possession: Beat by ['TAMU-44'] on ['SHSU-SAM REAGAN'] forces a TURNOVER.
-TAMU possession: Turnover forced by physical contact by ['SHSU-MICAH HEPBURN'] on ['TAMU-KODY FOX']
-SHSU possession: Missed shot by ['SHSU-MICAH HEPBURN']. Turnover.
-TAMU possession: Pass between ['TAMU-CAMERON VILLAMIL', 'TAMU-JESSICA HEMBREE'] defended by ['SHSU-MICAH HEPBURN']. Turnover
-SHSU possession: Shot by ['SHSU-47'] blocked by ['TAMU-CAMERON VILLAMIL']. Turnover.
-TAMU possession: ['TAMU-JACK MCBRIDE'] passes to ['TAMU-CAMERON VILLAMIL'] at the hoops, GOAL.
-SHSU possession: Turnover forced by physical contact by ['TAMU-CAMERON VILLAMIL'] on ['SHSU-TRAVIS WARD']
-TAMU possession: Goal on the drive by ['TAMU-JACK MCBRIDE']. During the play, SNITCH ON PITCH begins
-SHSU possession: Snitch catch by ['SHSU-JAY ROSS'] is GOOD.
+(00:00)Brooms Up possession: BROOMS UP! Quaffle Possession by ['TAMU-CONNOR MCINTYRE'], Bludger Control by ['TAMU-NICK ROY']
+(00:06)TAMU possession: ['TAMU-CONNOR MCINTYRE'] passes to ['TAMU-CAMERON VILLAMIL'] at the hoops, GOAL.
+(00:34)SHSU possession: ['SHSU-GRACE ATKINSON'] passes to ['SHSU-RED RUTLEDGE'] at the hoops, GOAL.
+(00:52)TAMU possession: Goal on the drive by ['TAMU-HAYDEN ALTMAN'].
+(01:04)SHSU possession: Goal on the drive by ['SHSU-SAM REAGAN'].
+(01:32)TAMU possession: Goal on the drive by ['TAMU-CONNOR MCINTYRE'], assist by ['TAMU-CAMERON VILLAMIL']
+(01:56)SHSU possession: Beat by ['TAMU-NICK ROY'] on ['SHSU-SAM REAGAN'] forces a TURNOVER.
+(02:42)TAMU possession: Goal on the drive by ['TAMU-HAYDEN ALTMAN']. During the play, yellow card on SHSU-SAM REAGAN
+(03:16)SHSU possession: Goal on the shot by ['SHSU-RED RUTLEDGE'], assist by ['SHSU-SAM REAGAN']
+(03:34)TAMU possession: Shot by ['TAMU-CONNOR MCINTYRE'] blocked by ['SHSU-KAT HAYWORTH']. Turnover.
+(04:13)SHSU possession: Goal on the shot by ['SHSU-MICAH HEPBURN'].
+(04:40)TAMU possession: Pass between ['TAMU-HAYDEN ALTMAN', 'TAMU-RANDI DORAN'] defended by ['SHSU-SAM REAGAN']. Turnover
+(04:51)SHSU possession: Missed shot by ['SHSU-MICAH HEPBURN']. Turnover.
+(05:26)TAMU possession: Goal on the drive by ['TAMU-CAMERON VILLAMIL'], assist by ['TAMU-HAYDEN ALTMAN']
+(05:57)SHSU possession: Turnover forced by physical contact by ['TAMU-HAYDEN ALTMAN'] on ['SHSU-MICAH HEPBURN']
+(06:26)TAMU possession: Pass between ['TAMU-KEATON MALLORY', 'TAMU-CAMERON VILLAMIL'] defended by ['SHSU-JAY ROSS']. Turnover
+(06:31)SHSU possession: Goal on the shot by ['SHSU-JAY ROSS'].
+(07:07)TAMU possession: Pass between ['TAMU-KEATON MALLORY', 'TAMU-CAMERON VILLAMIL'] defended by ['SHSU-JAY ROSS']. Turnover
+(07:21)SHSU possession: ['SHSU-JAY ROSS'] passes to ['SHSU-HALEY DUPRE'] at the hoops, GOAL. During the play, yellow card on TAMU-CAMERON VILLAMIL
+(07:37)TAMU possession: Turnover forced by physical contact by ['SHSU-TRAVIS WARD'] on ['TAMU-KODY FOX']
+(08:21)SHSU possession: Shot by ['SHSU-TRAVIS WARD'] blocked by ['TAMU-BLAINE MCCULLARS']. Turnover.
+(08:27)TAMU possession: Goal on the drive by ['TAMU-BLAINE MCCULLARS'].
+(09:55)SHSU possession: Pass by ['SHSU-SAM REAGAN'] dropped by ['SHSU-TRAVIS WARD']. Turnover During the play, reset forced by TAMU-ARON GEBREMICAEL,yellow card on TAMU-KODY FOX
+(10:10)TAMU possession: Shot by ['TAMU-JACK MCBRIDE'] blocked by ['SHSU-SAM REAGAN']. Turnover.
+(10:39)SHSU possession: Pass between ['SHSU-SAM REAGAN', 'SHSU-RALF MANDUJANO'] defended by ['TAMU-JACK MCBRIDE']. Turnover
+(10:51)TAMU possession: Beat by ['SHSU-BALDEMAR NUNEZ'] on ['TAMU-JACK MCBRIDE'] forces a TURNOVER.
+(11:06)SHSU possession: Goal on the shot by ['SHSU-SAM REAGAN'].
+(11:27)TAMU possession: Beat by ['SHSU-KAT HAYWORTH'] on ['TAMU-KODY FOX'] forces a TURNOVER.
+(11:35)SHSU possession: ['SHSU-RALF MANDUJANO'] passes to ['SHSU-RICHARD ARAGORN'] at the hoops, GOAL.
+(12:00)TAMU possession: Pass between ['TAMU-JACK MCBRIDE', 'TAMU-ADRIENNE DEMOSS'] defended by ['SHSU-JAY ROSS']. Turnover
+(12:45)SHSU possession: Goal on the shot by ['SHSU-JAY ROSS'].
+(13:13)TAMU possession: Pass between ['TAMU-KODY FOX', 'TAMU-ADRIENNE DEMOSS'] defended by ['SHSU-JAY ROSS']. Turnover
+(13:42)SHSU possession: Turnover forced by physical contact by ['TAMU-BLAINE MCCULLARS'] on ['SHSU-MICAH HEPBURN']
+(13:58)TAMU possession: Goal on the drive by ['TAMU-KODY FOX'], assist by ['TAMU-BLAINE MCCULLARS'] During the play, yellow card on SHSU-MICAH HEPBURN
+(14:34)SHSU possession: Goal on the shot by ['SHSU-SAM REAGAN'].
+(14:59)TAMU possession: Goal on the drive by ['TAMU-KODY FOX'], assist by ['TAMU-JACK MCBRIDE']
+(15:37)SHSU possession: Beat by ['TAMU-44'] on ['SHSU-SAM REAGAN'] forces a TURNOVER.
+(15:43)TAMU possession: Turnover forced by physical contact by ['SHSU-MICAH HEPBURN'] on ['TAMU-KODY FOX']
+(15:54)SHSU possession: Missed shot by ['SHSU-MICAH HEPBURN']. Turnover.
+(16:02)TAMU possession: Pass between ['TAMU-CAMERON VILLAMIL', 'TAMU-JESSICA HEMBREE'] defended by ['SHSU-MICAH HEPBURN']. Turnover
+(16:51)SHSU possession: Shot by ['SHSU-TRAVIS WARD'] blocked by ['TAMU-CAMERON VILLAMIL']. Turnover. During the play, TIMEOUT by SHSU,reset forced by TAMU-KODY FOX
+(17:02)TAMU possession: ['TAMU-JACK MCBRIDE'] passes to ['TAMU-CAMERON VILLAMIL'] at the hoops, GOAL.
+(17:38)SHSU possession: Turnover forced by physical contact by ['TAMU-CAMERON VILLAMIL'] on ['SHSU-TRAVIS WARD']
+(18:12)TAMU possession: Goal on the drive by ['TAMU-JACK MCBRIDE']. During the play, SNITCH ON PITCH begins
+(18:30)SHSU possession: Snitch catch by ['SHSU-JAY ROSS'] is GOOD.

@@ -1,316 +1,318 @@
 {
   "0": {
+    "length": -1,
     "secondary": [
       "TXST-17"
     ],
+    "offense": "Brooms Up",
+    "extras": [],
     "primary": [
       "SHSU-KEENAN NASH"
     ],
     "result": "BU",
-    "offense": "Brooms Up",
-    "extras": [],
-    "length": -1,
     "defense": "",
     "time": "0000",
     "period": "FLOOR"
   },
   "1": {
+    "length": 7,
     "secondary": [],
-    "result": "GS",
     "offense": "SHSU",
     "extras": [],
-    "length": -1,
     "primary": [
       "SHSU-SAM REAGAN"
     ],
+    "result": "GS",
     "defense": "TXST",
-    "time": "",
+    "time": "0007",
     "period": "FLOOR"
   },
   "2": {
+    "length": 29,
     "secondary": [
       "TXST-JUSTIN DUGIE"
     ],
-    "result": "TB",
     "offense": "TXST",
     "extras": [],
-    "length": -1,
     "primary": [
       "SHSU-KAT HAYWORTH"
     ],
+    "result": "TB",
     "defense": "SHSU",
-    "time": "",
+    "time": "0036",
     "period": "FLOOR"
   },
   "3": {
+    "length": 71,
     "secondary": [
       "SHSU-SAM REAGAN"
     ],
-    "result": "GP",
     "offense": "SHSU",
     "extras": [],
-    "length": -1,
     "primary": [
       "SHSU-RED RUTLEDGE"
     ],
+    "result": "GP",
     "defense": "TXST",
-    "time": "",
+    "time": "0107",
     "period": "FLOOR"
   },
   "4": {
+    "length": 23,
     "secondary": [
       "TXST-NICK ED"
     ],
-    "result": "TC",
     "offense": "TXST",
     "extras": [],
-    "length": -1,
     "primary": [
       "SHSU-KEENAN NASH"
     ],
+    "result": "TC",
     "defense": "SHSU",
-    "time": "",
+    "time": "0130",
     "period": "FLOOR"
   },
   "5": {
+    "length": 5,
     "secondary": [],
-    "result": "GD",
     "offense": "SHSU",
     "extras": [],
-    "length": -1,
     "primary": [
       "SHSU-SAM REAGAN"
     ],
+    "result": "GD",
     "defense": "TXST",
-    "time": "",
+    "time": "0135",
     "period": "FLOOR"
   },
   "6": {
+    "length": 24,
     "secondary": [
       "TXST-TIM NGUYEN"
     ],
-    "result": "EP",
     "offense": "TXST",
     "extras": [],
-    "length": -1,
     "primary": [
       "TXST-NICK ED"
     ],
+    "result": "EP",
     "defense": "SHSU",
-    "time": "",
+    "time": "0159",
     "period": "FLOOR"
   },
   "7": {
+    "length": 70,
     "secondary": [
       "SHSU-SAM REAGAN"
     ],
-    "result": "TB",
     "offense": "SHSU",
     "extras": [],
-    "length": -1,
     "primary": [
       "TXST-RYAN NAWROCKI"
     ],
+    "result": "TB",
     "defense": "TXST",
-    "time": "",
+    "time": "0229",
     "period": "FLOOR"
   },
   "8": {
+    "length": 7,
     "secondary": [
       "TXST-JUSTIN DUGIE"
     ],
-    "result": "TC",
     "offense": "TXST",
     "extras": [],
-    "length": -1,
     "primary": [
       "SHSU-THOMAS MORGAN"
     ],
+    "result": "TC",
     "defense": "SHSU",
-    "time": "",
+    "time": "0236",
     "period": "FLOOR"
   },
   "9": {
+    "length": 6,
     "secondary": [
       "SHSU-THOMAS MORGAN"
     ],
-    "result": "TC",
     "offense": "SHSU",
     "extras": [],
-    "length": -1,
     "primary": [
       "TXST-TIM NGUYEN"
     ],
+    "result": "TC",
     "defense": "TXST",
-    "time": "",
+    "time": "0242",
     "period": "FLOOR"
   },
   "10": {
+    "length": 65,
     "secondary": [
       "TXST-NICK ED"
     ],
-    "result": "GS",
     "offense": "TXST",
     "extras": [],
-    "length": -1,
     "primary": [
       "TXST-AMBER BONHOMME"
     ],
+    "result": "GS",
     "defense": "SHSU",
-    "time": "",
+    "time": "0307",
     "period": "FLOOR"
   },
   "11": {
+    "length": 14,
     "secondary": [],
-    "result": "GS",
     "offense": "SHSU",
     "extras": [],
-    "length": -1,
     "primary": [
       "SHSU-SAM REAGAN"
     ],
+    "result": "GS",
     "defense": "TXST",
-    "time": "",
+    "time": "0321",
     "period": "FLOOR"
   },
   "12": {
+    "length": 90,
     "secondary": [
       "TXST-TIM NGUYEN"
     ],
-    "result": "GP",
     "offense": "TXST",
     "extras": [],
-    "length": -1,
     "primary": [
       "TXST-AMBER BONHOMME"
     ],
+    "result": "GP",
     "defense": "SHSU",
-    "time": "",
+    "time": "0411",
     "period": "FLOOR"
   },
   "13": {
+    "length": 24,
     "secondary": [
       "SHSU-RICHARD ARAGORN"
     ],
-    "result": "TB",
     "offense": "SHSU",
     "extras": [],
-    "length": -1,
     "primary": [
       "TXST-BAILEE FIELDS"
     ],
+    "result": "TB",
     "defense": "TXST",
-    "time": "",
+    "time": "0435",
     "period": "FLOOR"
   },
   "14": {
+    "length": 22,
     "secondary": [
       "TXST-TIM NGUYEN",
       "TXST-NICK ED"
     ],
-    "result": "TD",
     "offense": "TXST",
     "extras": [],
-    "length": -1,
     "primary": [
       "SHSU-RALF MANDUJANO"
     ],
+    "result": "TD",
     "defense": "SHSU",
-    "time": "",
+    "time": "0457",
     "period": "FLOOR"
   },
   "15": {
+    "length": 63,
     "secondary": [
       "SHSU-RICHARD ARAGORN",
       "SHSU-KARLI MCCLELLAND"
     ],
-    "result": "TD",
     "offense": "SHSU",
     "extras": [],
-    "length": -1,
     "primary": [
       "TXST-NICK ED"
     ],
+    "result": "TD",
     "defense": "TXST",
-    "time": "",
+    "time": "0520",
     "period": "FLOOR"
   },
   "16": {
+    "length": 6,
     "secondary": [
       "TXST-JUSTIN DUGIE"
     ],
-    "result": "TB",
     "offense": "TXST",
     "extras": [],
-    "length": -1,
     "primary": [
       "SHSU-BALDEMAR NUNEZ"
     ],
+    "result": "TB",
     "defense": "SHSU",
-    "time": "",
+    "time": "0526",
     "period": "FLOOR"
   },
   "17": {
+    "length": 29,
     "secondary": [
       "SHSU-RICHARD ARAGORN"
     ],
-    "result": "ED",
     "offense": "SHSU",
     "extras": [],
-    "length": -1,
     "primary": [
       "SHSU-RALF MANDUJANO"
     ],
+    "result": "ED",
     "defense": "TXST",
-    "time": "",
+    "time": "0555",
     "period": "FLOOR"
   },
   "18": {
+    "length": 78,
     "secondary": [
       "TXST-ERIC REYES"
     ],
-    "result": "GP",
     "offense": "TXST",
     "extras": [],
-    "length": -1,
     "primary": [
       "TXST-AMBER BONHOMME"
     ],
+    "result": "GP",
     "defense": "SHSU",
-    "time": "",
+    "time": "0633",
     "period": "FLOOR"
   },
   "19": {
-    "secondary": [],
-    "result": "EM",
-    "offense": "SHSU",
-    "extras": [],
-    "length": -1,
-    "primary": [
+    "length": 97,
+    "secondary": [
       "SHSU-KEENAN NASH"
     ],
+    "offense": "SHSU",
+    "extras": [],
+    "primary": [
+      "TXST-BAILEE FIELDS"
+    ],
+    "result": "TB",
     "defense": "TXST",
-    "time": "",
+    "time": "0730",
     "period": "FLOOR"
   },
   "20": {
+    "length": 27,
     "secondary": [
       "TXST-ERIC REYES"
     ],
-    "result": "GP",
     "offense": "TXST",
     "extras": [],
-    "length": -1,
     "primary": [
       "TXST-ELLE PICHARDO"
     ],
+    "result": "GP",
     "defense": "SHSU",
-    "time": "",
+    "time": "0757",
     "period": "FLOOR"
   },
   "21": {
+    "length": 66,
     "secondary": [],
-    "result": "ET",
     "offense": "SHSU",
     "extras": [
       [
@@ -318,71 +320,69 @@
         "SHSU-HAYDEN BOYES"
       ]
     ],
-    "length": -1,
     "primary": [
       "SHSU-MICHAEL SAGER"
     ],
+    "result": "ET",
     "defense": "TXST",
-    "time": "",
+    "time": "0823",
     "period": "FLOOR"
   },
   "22": {
+    "length": -1,
     "secondary": [],
-    "result": "G",
     "offense": "TXST",
     "extras": [],
-    "length": -1,
     "primary": [
       "TXST-UNK"
     ],
+    "result": "G",
     "defense": "SHSU",
     "time": "",
     "period": "FLOOR"
   },
   "23": {
-    "secondary": [
-      "SHSU-SAM REAGAN"
-    ],
-    "result": "G",
+    "length": -1,
+    "secondary": [],
     "offense": "SHSU",
     "extras": [],
-    "length": -1,
     "primary": [
       "SHSU-UNK"
     ],
+    "result": "G",
     "defense": "TXST",
     "time": "",
     "period": "FLOOR"
   },
   "24": {
+    "length": -1,
     "secondary": [],
-    "result": "E",
     "offense": "TXST",
     "extras": [],
-    "length": -1,
     "primary": [
       "TXST-UNK"
     ],
+    "result": "E",
     "defense": "SHSU",
     "time": "",
     "period": "FLOOR"
   },
   "25": {
+    "length": -1,
     "secondary": [],
-    "result": "G",
     "offense": "SHSU",
     "extras": [],
-    "length": -1,
     "primary": [
       "SHSU-UNK"
     ],
+    "result": "G",
     "defense": "TXST",
     "time": "",
     "period": "FLOOR"
   },
   "26": {
+    "length": -1,
     "secondary": [],
-    "result": "GS",
     "offense": "TXST",
     "extras": [
       [
@@ -394,34 +394,32 @@
         "SHSU-KAT HAYWORTH"
       ]
     ],
-    "length": -1,
     "primary": [
       "TXST-ERIC REYES"
     ],
+    "result": "GS",
     "defense": "SHSU",
-    "time": "",
+    "time": "1147",
     "period": "FLOOR"
   },
   "27": {
-    "secondary": [
-      "SHSU-SAM REAGAN"
-    ],
-    "result": "G",
+    "length": 83,
+    "secondary": [],
     "offense": "SHSU",
     "extras": [],
-    "length": -1,
     "primary": [
-      "SHSU-UNK"
+      "SHSU-SAM REAGAN"
     ],
+    "result": "GS",
     "defense": "TXST",
-    "time": "",
+    "time": "1230",
     "period": "FLOOR"
   },
   "28": {
+    "length": 70,
     "secondary": [
       "TXST-CLAYTON CARLISLE"
     ],
-    "result": "TC",
     "offense": "TXST",
     "extras": [
       [
@@ -429,75 +427,77 @@
         "SHSU-KAT HAYWORTH"
       ]
     ],
-    "length": -1,
     "primary": [
       "SHSU-KEENAN NASH"
     ],
+    "result": "TC",
     "defense": "SHSU",
-    "time": "",
+    "time": "1300",
     "period": "FLOOR"
   },
   "29": {
-    "secondary": [],
-    "result": "GD",
-    "offense": "SHSU",
-    "extras": [],
-    "length": -1,
-    "primary": [
-      "SHSU-RICHARD ARAGORN"
-    ],
-    "defense": "TXST",
-    "time": "",
-    "period": "FLOOR"
-  },
-  "30": {
-    "secondary": [
-      "TXST-CONNOR ELLSTON"
-    ],
-    "result": "GP",
-    "offense": "TXST",
-    "extras": [],
-    "length": -1,
-    "primary": [
-      "TXST-ERIC REYES"
-    ],
-    "defense": "SHSU",
-    "time": "",
-    "period": "FLOOR"
-  },
-  "31": {
-    "secondary": [],
-    "result": "EM",
-    "offense": "SHSU",
-    "extras": [],
-    "length": -1,
-    "primary": [
-      "SHSU-RICHARD ARAGORN"
-    ],
-    "defense": "TXST",
-    "time": "",
-    "period": "FLOOR"
-  },
-  "32": {
-    "secondary": [
-      "TXST-TAYLOR AHOYT"
-    ],
-    "result": "TC",
-    "offense": "TXST",
-    "extras": [],
-    "length": -1,
-    "primary": [
-      "SHSU-HAYDEN BOYES"
-    ],
-    "defense": "SHSU",
-    "time": "",
-    "period": "FLOOR"
-  },
-  "33": {
+    "length": 43,
     "secondary": [
       "SHSU-SAM REAGAN"
     ],
-    "result": "TL",
+    "offense": "SHSU",
+    "extras": [],
+    "primary": [
+      "SHSU-RICHARD ARAGORN"
+    ],
+    "result": "GD",
+    "defense": "TXST",
+    "time": "1343",
+    "period": "FLOOR"
+  },
+  "30": {
+    "length": 13,
+    "secondary": [
+      "TXST-CONNOR ELLSTON"
+    ],
+    "offense": "TXST",
+    "extras": [],
+    "primary": [
+      "TXST-ERIC REYES"
+    ],
+    "result": "GP",
+    "defense": "SHSU",
+    "time": "1356",
+    "period": "FLOOR"
+  },
+  "31": {
+    "length": 80,
+    "secondary": [],
+    "offense": "SHSU",
+    "extras": [],
+    "primary": [
+      "SHSU-RICHARD ARAGORN"
+    ],
+    "result": "EM",
+    "defense": "TXST",
+    "time": "1436",
+    "period": "FLOOR"
+  },
+  "32": {
+    "length": 73,
+    "secondary": [
+      "TXST-TAYLOR AHOYT"
+    ],
+    "offense": "TXST",
+    "extras": [],
+    "primary": [
+      "SHSU-HAYDEN BOYES"
+    ],
+    "result": "TC",
+    "defense": "SHSU",
+    "time": "1509",
+    "period": "FLOOR"
+  },
+  "33": {
+    "length": 103,
+    "secondary": [
+      "SHSU-SAM REAGAN"
+    ],
     "offense": "SHSU",
     "extras": [
       [
@@ -509,111 +509,124 @@
         "TXST-JESSICA MARKLE"
       ]
     ],
-    "length": -1,
     "primary": [
       "TXST-NICK ED"
     ],
+    "result": "TL",
     "defense": "TXST",
-    "time": "",
+    "time": "1612",
     "period": "FLOOR"
   },
   "34": {
+    "length": 45,
     "secondary": [
       "TXST-TAYLOR AHOYT"
     ],
-    "result": "GP",
     "offense": "TXST",
     "extras": [],
-    "length": -1,
     "primary": [
       "TXST-MICHAEL GENTEMPO"
     ],
+    "result": "GP",
     "defense": "SHSU",
-    "time": "",
+    "time": "1657",
     "period": "FLOOR"
   },
   "35": {
+    "length": 60,
     "secondary": [
       "SHSU-HAYDEN BOYES"
     ],
-    "result": "EP",
     "offense": "SHSU",
     "extras": [],
-    "length": -1,
     "primary": [
       "SHSU-SAM REAGAN"
     ],
+    "result": "EP",
     "defense": "TXST",
-    "time": "",
+    "time": "1717",
     "period": "FLOOR"
   },
   "36": {
+    "length": 25,
     "secondary": [
       "TXST-NICK ED"
     ],
-    "result": "GP",
     "offense": "TXST",
     "extras": [],
-    "length": -1,
     "primary": [
       "TXST-TAYLOR AHOYT"
     ],
+    "result": "GP",
     "defense": "SHSU",
-    "time": "",
+    "time": "1742",
     "period": "FLOOR"
   },
   "37": {
+    "length": 68,
     "secondary": [],
-    "result": "GS",
     "offense": "SHSU",
     "extras": [],
-    "length": -1,
     "primary": [
       "SHSU-SAM REAGAN"
     ],
+    "result": "GS",
     "defense": "TXST",
-    "time": "",
-    "period": "FLOOR"
+    "time": "1810",
+    "period": "SOP"
   },
   "38": {
+    "length": 17,
     "secondary": [
       "TXST-NICK ED"
     ],
-    "result": "GD",
     "offense": "TXST",
     "extras": [],
-    "length": -1,
     "primary": [
       "TXST-TAYLOR AHOYT"
     ],
+    "result": "GD",
     "defense": "SHSU",
-    "time": "",
-    "period": "FLOOR"
+    "time": "1827",
+    "period": "SOP"
   },
   "39": {
+    "length": 6,
     "secondary": [],
-    "result": "GS",
     "offense": "SHSU",
     "extras": [],
-    "length": -1,
     "primary": [
       "SHSU-SAM REAGAN"
     ],
+    "result": "GS",
     "defense": "TXST",
-    "time": "",
-    "period": "FLOOR"
+    "time": "1833",
+    "period": "SOP"
   },
   "40": {
+    "length": -1,
     "secondary": [],
-    "result": "RCA",
     "offense": "TXST",
     "extras": [],
-    "length": -1,
     "primary": [
-      "SHSU-RALF MANDUJANO"
+      "TXST-UNK"
     ],
+    "result": "E",
     "defense": "SHSU",
     "time": "",
     "period": "FLOOR"
+  },
+  "41": {
+    "length": -1,
+    "secondary": [],
+    "offense": "SHSU",
+    "extras": [],
+    "primary": [
+      "SHSU-RALF MANDUJANO"
+    ],
+    "result": "RCA",
+    "defense": "TXST",
+    "time": "1955",
+    "period": "SOP"
   }
 }

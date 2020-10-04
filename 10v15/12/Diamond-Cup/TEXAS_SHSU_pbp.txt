@@ -1,37 +1,37 @@
 (00:00)Brooms Up possession: BROOMS UP! Quaffle Possession by ['TEXAS-DAVIS ROE'], Bludger Control by ['TEXAS-69']
-TEXAS possession: ['TEXAS-LUKE MEISSNER'] passes to ['TEXAS-KASYE BEVERS'] at the hoops, GOAL.
-SHSU possession: Beat by ['TEXAS-DAVID HUBER'] on ['SHSU-RED RUTLEDGE'] forces a TURNOVER.
-TEXAS possession: Goal on the shot by ['TEXAS-LUKE MEISSNER'].
-SHSU possession: Goal on the shot by ['SHSU-SAM REAGAN'].
-TEXAS possession: Missed shot by ['TEXAS-DAVIS ROE']. Turnover.
-SHSU possession: Missed shot by ['SHSU-SAM REAGAN']. Turnover. During the play, blue card on TEXAS-JOCELYN WHISTLER
-TEXAS possession: Beat by ['SHSU-BALDEMAR NUNEZ'] on ['TEXAS-GRAYSON BRIGGS'] forces a TURNOVER.
-SHSU possession: ['SHSU-HAYDEN BOYES'] passes to ['SHSU-RED RUTLEDGE'] at the hoops, GOAL.
-TEXAS possession: Goal on the shot by ['TEXAS-LUKE MEISSNER'].
-SHSU possession: Pass by ['SHSU-KEENAN NASH'] dropped by ['SHSU-GRACE ATKINSON']. Turnover
-TEXAS possession: Shot by ['TEXAS-GRAYSON BRIGGS'] blocked by ['SHSU-KEENAN NASH']. Turnover.
-SHSU possession: Goal on the shot by ['SHSU-JAY ROSS'], assist by ['SHSU-MICAH HEPBURN']
-TEXAS possession: ['TEXAS-GRAYSON BRIGGS'] passes to ['TEXAS-DAVIS ROE'] at the hoops, GOAL.
-SHSU possession: Pass between ['SHSU-MICAH HEPBURN', 'SHSU-THOMAS MORGAN'] defended by ['TEXAS-GRAYSON BRIGGS']. Turnover
-TEXAS possession: Goal on the drive by ['TEXAS-JOSH JOHNSON'].
-SHSU possession: Goal on the shot by ['SHSU-JAY ROSS'].
-TEXAS possession: Goal on the drive by ['TEXAS-JOSH JOHNSON']. During the play, yellow card on SHSU-KAT HAYWORTH
-SHSU possession: Pass between ['SHSU-MICAH HEPBURN', 'SHSU-2'] defended by ['TEXAS-JOHN ANDERSON']. Turnover
-TEXAS possession: Pass by ['TEXAS-MICHAEL JOHNSTON'] dropped by ['TEXAS-OLIVE JIM-DANIELS']. Turnover
-SHSU possession: Goal on the shot by ['SHSU-SAM REAGAN'].
-TEXAS possession: Goal on the shot by ['TEXAS-MICHAEL JOHNSTON'].
-SHSU possession: Pass by ['SHSU-2'] dropped by ['SHSU-RICHARD ARAGORN']. Turnover
-TEXAS possession: Goal on the drive by ['TEXAS-SETH LAPRAY'].
-SHSU possession: Pass between ['SHSU-SAM REAGAN', 'SHSU-RED RUTLEDGE'] defended by ['TEXAS-NATHAN LEWIS']. Turnover
-TEXAS possession: Errant pass from ['TEXAS-JAYDAN GILSTRAP'] to ['TEXAS-OLIVE JIM-DANIELS']. Turnover
-SHSU possession: Goal on the shot by ['SHSU-SAM REAGAN'].
-TEXAS possession: Goal on the drive by ['TEXAS-JAYDAN GILSTRAP'].
-SHSU possession: Missed shot by ['SHSU-KEENAN NASH']. Turnover.
-TEXAS possession: Turnover forced by physical contact by ['SHSU-SAM REAGAN'] on ['TEXAS-JOSHUA MAGEE'] During the play, yellow card on SHSU-JAY ROSS,yellow card on SHSU-RED RUTLEDGE
-SHSU possession: Goal on the shot by ['SHSU-RALF MANDUJANO']. During the play, yellow card on TEXAS-JOSHUA MAGEE
-TEXAS possession: Goal on the shot by ['TEXAS-JOEY CASTELLANO'].
-SHSU possession: Pass between ['SHSU-RICHARD ARAGORN', 'SHSU-RED RUTLEDGE'] defended by ['TEXAS-LUKE MEISSNER']. Turnover
-TEXAS possession: Pass by ['TEXAS-LUKE MEISSNER'] dropped by ['TEXAS-OLIVE JIM-DANIELS']. Turnover
-SHSU possession: Goal on the shot by ['SHSU-RED RUTLEDGE']. During the play, SNITCH ON PITCH begins
-TEXAS possession: ['TEXAS-LUKE MEISSNER'] passes to ['TEXAS-KASYE BEVERS'] at the hoops, GOAL.
-SHSU possession: Snitch catch by ['TEXAS-JOHN ANDERSON'] is GOOD.
+(00:13)TEXAS possession: ['TEXAS-LUKE MEISSNER'] passes to ['TEXAS-KASYE BEVERS'] at the hoops, GOAL.
+(00:50)SHSU possession: Beat by ['TEXAS-DAVID HUBER'] on ['SHSU-RED RUTLEDGE'] forces a TURNOVER.
+(01:01)TEXAS possession: Goal on the shot by ['TEXAS-LUKE MEISSNER'].
+(01:36)SHSU possession: Goal on the shot by ['SHSU-SAM REAGAN'].
+(02:03)TEXAS possession: Missed shot by ['TEXAS-DAVIS ROE']. Turnover.
+(02:41)SHSU possession: Missed shot by ['SHSU-SAM REAGAN']. Turnover. During the play, reset forced by TEXAS-DAVID HUBER,blue card on TEXAS-JOCELYN WHISTLER
+(02:57)TEXAS possession: Beat by ['SHSU-BALDEMAR NUNEZ'] on ['TEXAS-GRAYSON BRIGGS'] forces a TURNOVER.
+(03:02)SHSU possession: ['SHSU-HAYDEN BOYES'] passes to ['SHSU-RED RUTLEDGE'] at the hoops, GOAL.
+(03:38)TEXAS possession: Goal on the shot by ['TEXAS-LUKE MEISSNER'].
+(04:16)SHSU possession: Pass by ['SHSU-KEENAN NASH'] dropped by ['SHSU-GRACE ATKINSON']. Turnover
+(04:38)TEXAS possession: Shot by ['TEXAS-GRAYSON BRIGGS'] blocked by ['SHSU-KEENAN NASH']. Turnover.
+(05:10)SHSU possession: Goal on the shot by ['SHSU-JAY ROSS'], assist by ['SHSU-MICAH HEPBURN']
+(05:44)TEXAS possession: ['TEXAS-GRAYSON BRIGGS'] passes to ['TEXAS-DAVIS ROE'] at the hoops, GOAL.
+(06:21)SHSU possession: Pass between ['SHSU-MICAH HEPBURN', 'SHSU-THOMAS MORGAN'] defended by ['TEXAS-GRAYSON BRIGGS']. Turnover
+(06:44)TEXAS possession: Goal on the drive by ['TEXAS-JOSH JOHNSON'].
+(07:30)SHSU possession: Goal on the shot by ['SHSU-JAY ROSS'].
+(07:58)TEXAS possession: Goal on the drive by ['TEXAS-JOSH JOHNSON']. During the play, yellow card on SHSU-KAT HAYWORTH
+(08:30)SHSU possession: Pass between ['SHSU-MICAH HEPBURN', 'SHSU-2'] defended by ['TEXAS-JOHN ANDERSON']. Turnover
+(09:24)TEXAS possession: Pass by ['TEXAS-MICHAEL JOHNSTON'] dropped by ['TEXAS-OLIVE JIM-DANIELS']. Turnover
+(09:42)SHSU possession: Goal on the shot by ['SHSU-SAM REAGAN'].
+(10:07)TEXAS possession: Goal on the shot by ['TEXAS-MICHAEL JOHNSTON'].
+(10:40)SHSU possession: Pass by ['SHSU-2'] dropped by ['SHSU-HAYDEN BOYES']. Turnover
+(11:24)TEXAS possession: Goal on the drive by ['TEXAS-SETH LAPRAY'].
+(11:54)SHSU possession: Pass between ['SHSU-SAM REAGAN', 'SHSU-RED RUTLEDGE'] defended by ['TEXAS-NATHAN LEWIS']. Turnover
+(12:29)TEXAS possession: Errant pass from ['TEXAS-JAYDAN GILSTRAP'] to ['TEXAS-OLIVE JIM-DANIELS']. Turnover
+(13:10)SHSU possession: Goal on the shot by ['SHSU-SAM REAGAN'].
+(13:42)TEXAS possession: Goal on the drive by ['TEXAS-JAYDAN GILSTRAP'].
+(13:53)SHSU possession: Missed shot by ['SHSU-KEENAN NASH']. Turnover.
+(14:42)TEXAS possession: Turnover forced by physical contact by ['SHSU-SAM REAGAN'] on ['TEXAS-JOSHUA MAGEE'] During the play, yellow card on SHSU-JAY ROSS,yellow card on SHSU-RED RUTLEDGE
+(15:33)SHSU possession: Goal on the shot by ['SHSU-RALF MANDUJANO']. During the play, yellow card on TEXAS-JOSHUA MAGEE
+(16:03)TEXAS possession: Goal on the shot by ['TEXAS-JOEY CASTELLANO'].
+(16:45)SHSU possession: Pass between ['SHSU-RICHARD ARAGORN', 'SHSU-RED RUTLEDGE'] defended by ['TEXAS-LUKE MEISSNER']. Turnover
+(17:29)TEXAS possession: Pass by ['TEXAS-LUKE MEISSNER'] dropped by ['TEXAS-OLIVE JIM-DANIELS']. Turnover
+(18:18)SHSU possession: Goal on the shot by ['SHSU-RED RUTLEDGE']. During the play, SNITCH ON PITCH begins
+(18:43)TEXAS possession: ['TEXAS-LUKE MEISSNER'] passes to ['TEXAS-KASYE BEVERS'] at the hoops, GOAL.
+(18:51)SHSU possession: Snitch catch by ['TEXAS-JOHN ANDERSON'] is GOOD.

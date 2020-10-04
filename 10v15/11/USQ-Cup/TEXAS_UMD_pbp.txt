@@ -1,44 +1,44 @@
 (00:00)Brooms Up possession: BROOMS UP! Quaffle Possession by ['UMD-JOHN SHERIDAN'], Bludger Control by ['TEXAS-DAVID HUBER']
-TEXAS possession: Missed shot by ['TEXAS-JOHN ANDERSON']. Turnover.
-UMD possession: Shot by ['UMD-BEN WHONG'] blocked by ['TEXAS-JOHN ANDERSON']. Turnover.
-TEXAS possession: ['TEXAS-NICK MARINO'] passes to ['TEXAS-ERIN MCBRIDE'] at the hoops, GOAL.
-UMD possession: Turnover forced by physical contact by ['TEXAS-NICK MARINO', 'TEXAS-AIDAN PARSI'] on ['UMD-4']
-TEXAS possession: ['TEXAS-NICK MARINO'] passes to ['TEXAS-AIDAN PARSI'] at the hoops, GOAL.
-UMD possession: Shot by ['UMD-BEN WHONG'] blocked by ['TEXAS-JOHN ANDERSON']. Turnover.
-TEXAS possession: Goal on the drive by ['TEXAS-AIDAN PARSI'].
-UMD possession: Shot by ['UMD-ABBY POTTER'] blocked by ['TEXAS-JOHN ANDERSON']. Turnover.
-TEXAS possession: Goal on the drive by ['TEXAS-MICHAEL JOHNSTON'], assist by ['TEXAS-AIDAN PARSI'] During the play, yellow card on UMD-BEN WHONG
-UMD possession: Goal on the drive by ['UMD-DALE FARNAN']. During the play, yellow card on TEXAS-AIDAN PARSI
-TEXAS possession: Goal on the shot by ['TEXAS-ERIN MCBRIDE'], assist by ['TEXAS-NICK MARINO'] During the play, yellow card on UMD-NOAH RINDOCK
-UMD possession: Turnover forced by physical contact by ['TEXAS-AIDAN PARSI'] on ['UMD-JOHN SHERIDAN']
-TEXAS possession: Goal on the drive by ['TEXAS-NICK MARINO'].
-UMD possession: Beat by ['TEXAS-HALLIE PACE'] on ['UMD-DALE FARNAN'] forces a TURNOVER. During the play, reset forced by TEXAS-HALLIE PACE
-TEXAS possession: Goal on the shot by ['TEXAS-AIDAN PARSI'], assist by ['TEXAS-NICK MARINO']
-UMD possession: Goal on the shot by ['UMD-DALE FARNAN'], assist by ['UMD-NOAH RINDOCK']
-TEXAS possession: ['TEXAS-ERIN MCBRIDE'] passes to ['TEXAS-DYLAN BOTTOMS'] at the hoops, GOAL. During the play, reset forced by UMD-ZAIN BHAILA
-UMD possession: Blue card on ['UMD-DALE FARNAN'] forces turnover.
-TEXAS possession: ['TEXAS-AIDAN PARSI'] passes to ['TEXAS-JOHN ANDERSON'] at the hoops, GOAL.
-UMD possession: Missed shot by ['UMD-4']. Turnover.
-TEXAS possession: Yellow card on ['TEXAS-KYLIE MCBRIDE'] forces turnover.
-UMD possession: Goal on the shot by ['UMD-MACK MORGAN'], assist by ['UMD-4']
-TEXAS possession: ['TEXAS-DYLAN BOTTOMS'] passes to ['TEXAS-ANDRES GARZA'] at the hoops, GOAL.
-UMD possession: Turnover forced by physical contact by ['TEXAS-ANDRES GARZA'] on ['UMD-MACK MORGAN']
-TEXAS possession: Turnover forced by physical contact by ['UMD-MACK MORGAN'] on ['TEXAS-ERIN MCBRIDE']
-UMD possession: Shot by ['UMD-MACK MORGAN'] blocked by ['TEXAS-ERIN MCBRIDE']. Turnover.
-TEXAS possession: Errant pass from ['TEXAS-AIDAN PARSI'] to ['TEXAS-MICHAEL JOHNSTON']. Turnover During the play, reset forced by UMD-BRENDAN HUTTON
-UMD possession: Shot by ['UMD-MACK MORGAN'] blocked by ['TEXAS-MICHAEL JOHNSTON']. Turnover.
-TEXAS possession: ['TEXAS-AIDAN PARSI'] passes to ['TEXAS-SOPHIA DESALVO'] at the hoops, GOAL.
-UMD possession: Errant pass from ['UMD-4'] to ['UMD-UNK']. Turnover
-TEXAS possession: Goal on the drive by ['TEXAS-AIDAN PARSI'].
-UMD possession: Goal on the shot by ['UMD-UNK'].
-TEXAS possession: ['TEXAS-AIDAN PARSI'] passes to ['TEXAS-JOHN ANDERSON'] at the hoops, GOAL. During the play, SNITCH ON PITCH begins,reset forced by UMD-LAUREN DYKE
-UMD possession: Goal by ['UMD-UNK'].
-TEXAS possession: Goal on the shot by ['TEXAS-JOHN ANDERSON'].
-UMD possession: Missed shot by ['UMD-NOAH RINDOCK']. Turnover. During the play, reset forced by TEXAS-TATE KAY
-TEXAS possession: Goal on the shot by ['TEXAS-JOHN ANDERSON'], assist by ['TEXAS-54']
-UMD possession: Beat by ['TEXAS-JOCELYN WHISTLER'] on ['UMD-NOAH RINDOCK'] forces a TURNOVER.
-TEXAS possession: Goal on the drive by ['TEXAS-54'].
-UMD possession: Beat by ['TEXAS-TATE KAY'] on ['UMD-MACK MORGAN'] forces a TURNOVER.
-TEXAS possession: Errant pass from ['TEXAS-ANDRES GARZA'] to ['TEXAS-CATHERINE HABERL']. Turnover
-UMD possession: Shot by ['UMD-11'] blocked by ['TEXAS-54']. Turnover.
-TEXAS possession: Snitch catch by ['UMD-BRENDAN HUTTON'] is GOOD.
+(00:24)TEXAS possession: Missed shot by ['TEXAS-JOHN ANDERSON']. Turnover.
+(00:59)UMD possession: Pass between ['UMD-BEN WHONG', 'UMD-NATHAN ABBOTT'] defended by ['TEXAS-JOHN ANDERSON']. Turnover
+(01:39)TEXAS possession: ['TEXAS-NICK MARINO'] passes to ['TEXAS-ERIN MCBRIDE'] at the hoops, GOAL.
+(03:06)UMD possession: Turnover forced by physical contact by ['TEXAS-NICK MARINO', 'TEXAS-AIDAN PARSI'] on ['UMD-4']
+(03:22)TEXAS possession: ['TEXAS-NICK MARINO'] passes to ['TEXAS-AIDAN PARSI'] at the hoops, GOAL.
+(03:46)UMD possession: Shot by ['UMD-BEN WHONG'] blocked by ['TEXAS-JOHN ANDERSON']. Turnover.
+(04:28)TEXAS possession: Goal on the drive by ['TEXAS-AIDAN PARSI'].
+(05:01)UMD possession: Shot by ['UMD-ABBY POTTER'] blocked by ['TEXAS-JOHN ANDERSON']. Turnover.
+(05:27)TEXAS possession: Goal on the drive by ['TEXAS-MICHAEL JOHNSTON'], assist by ['TEXAS-AIDAN PARSI'] During the play, yellow card on UMD-BEN WHONG
+(06:00)UMD possession: Goal on the drive by ['UMD-DALE FARNAN']. During the play, yellow card on TEXAS-AIDAN PARSI
+(06:56)TEXAS possession: Goal on the shot by ['TEXAS-ERIN MCBRIDE'], assist by ['TEXAS-NICK MARINO'] During the play, yellow card on UMD-NOAH RINDOCK
+(07:40)UMD possession: Turnover forced by physical contact by ['TEXAS-AIDAN PARSI'] on ['UMD-JOHN SHERIDAN']
+(08:05)TEXAS possession: Goal on the drive by ['TEXAS-NICK MARINO'].
+(08:36)UMD possession: Beat by ['TEXAS-HALLIE PACE'] on ['UMD-DALE FARNAN'] forces a TURNOVER. During the play, reset forced by TEXAS-HALLIE PACE
+(08:50)TEXAS possession: Goal on the shot by ['TEXAS-AIDAN PARSI'], assist by ['TEXAS-NICK MARINO']
+(09:45)UMD possession: Goal on the shot by ['UMD-DALE FARNAN'], assist by ['UMD-NOAH RINDOCK']
+(11:01)TEXAS possession: ['TEXAS-ERIN MCBRIDE'] passes to ['TEXAS-DYLAN BOTTOMS'] at the hoops, GOAL. During the play, reset forced by UMD-ZAIN BHAILA
+(11:15)UMD possession: Blue card on ['UMD-DALE FARNAN'] forces turnover.
+(11:25)TEXAS possession: ['TEXAS-AIDAN PARSI'] passes to ['TEXAS-JOHN ANDERSON'] at the hoops, GOAL.
+(12:09)UMD possession: Missed shot by ['UMD-4']. Turnover.
+(12:26)TEXAS possession: Yellow card on ['TEXAS-KYLIE MCBRIDE'] forces turnover.
+(12:32)UMD possession: Goal on the shot by ['UMD-MACK MORGAN'], assist by ['UMD-4']
+(12:55)TEXAS possession: ['TEXAS-DYLAN BOTTOMS'] passes to ['TEXAS-ANDRES GARZA'] at the hoops, GOAL.
+(13:30)UMD possession: Turnover forced by physical contact by ['TEXAS-ANDRES GARZA'] on ['UMD-MACK MORGAN']
+(14:09)TEXAS possession: Turnover forced by physical contact by ['UMD-MACK MORGAN'] on ['TEXAS-ERIN MCBRIDE']
+(14:55)UMD possession: Shot by ['UMD-MACK MORGAN'] blocked by ['TEXAS-ERIN MCBRIDE']. Turnover.
+(15:45)TEXAS possession: Errant pass from ['TEXAS-AIDAN PARSI'] to ['TEXAS-MICHAEL JOHNSTON']. Turnover During the play, reset forced by UMD-BRENDAN HUTTON
+(16:05)UMD possession: Shot by ['UMD-MACK MORGAN'] blocked by ['TEXAS-MICHAEL JOHNSTON']. Turnover.
+(16:40)TEXAS possession: ['TEXAS-AIDAN PARSI'] passes to ['TEXAS-SOPHIA DESALVO'] at the hoops, GOAL.
+(17:03)UMD possession: Errant pass from ['UMD-4'] to ['UMD-MACK MORGAN']. Turnover
+(17:30)TEXAS possession: Goal on the drive by ['TEXAS-AIDAN PARSI'].
+(17:40)UMD possession: Goal on the shot by ['UMD-4'].
+(19:57)TEXAS possession: ['TEXAS-AIDAN PARSI'] passes to ['TEXAS-JOHN ANDERSON'] at the hoops, GOAL. During the play, SNITCH ON PITCH begins,reset forced by UMD-LAUREN DYKE
+(20:08)UMD possession: Goal by ['UMD-UNK'].
+(21:03)TEXAS possession: Goal on the shot by ['TEXAS-JOHN ANDERSON'].
+(22:01)UMD possession: Missed shot by ['UMD-NOAH RINDOCK']. Turnover. During the play, reset forced by TEXAS-TATE KAY
+(22:52)TEXAS possession: Goal on the shot by ['TEXAS-JOHN ANDERSON'], assist by ['TEXAS-54']
+(23:52)UMD possession: Pass by ['UMD-NOAH RINDOCK'] dropped by ['UMD-ABBY POTTER']. Turnover
+(24:55)TEXAS possession: Goal on the drive by ['TEXAS-54'].
+(25:20)UMD possession: Beat by ['TEXAS-TATE KAY'] on ['UMD-MACK MORGAN'] forces a TURNOVER.
+(25:46)TEXAS possession: Errant pass from ['TEXAS-ANDRES GARZA'] to ['TEXAS-CATHERINE HABERL']. Turnover
+(26:17)UMD possession: Shot by ['UMD-NATHAN ABBOTT'] blocked by ['TEXAS-54']. Turnover.
+(26:20)TEXAS possession: Snitch catch by ['UMD-BRENDAN HUTTON'] is GOOD.
