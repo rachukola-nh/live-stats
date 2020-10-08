@@ -1,0 +1,39 @@
+(00:00)Brooms Up possession: BROOMS UP! Quaffle Possession by [None], Bludger Control by [None]
+NYU possession: Pass by ['NYU-SEAMUS SLADE'] dropped by ['NYU-SIDNEY MONTAGUE']. Turnover
+TUFTS possession: Turnover by ['NYU-FRANK MINSON']
+NYU possession: Beat by ['TUFTS-THOMAS CHANG-DAVIDSON'] on ['NYU-SEAMUS SLADE'] forces a TURNOVER.
+TUFTS possession: ['TUFTS-FINN MCGARGHAN'] passes to ['TUFTS-JOHN PARRISH'] at the hoops, GOAL.
+NYU possession: Goal on the shot by ['NYU-FRANK MINSON'].
+TUFTS possession: Beat by ['NYU-ANTOINE GIRON'] on ['TUFTS-SOPHIE COBURN'] forces a TURNOVER. During the play, reset forced by NYU-ANTOINE GIRON
+NYU possession: Goal on the shot by ['NYU-FRANK MINSON'].
+TUFTS possession: Missed shot by ['TUFTS-JOHN PARRISH']. Turnover.
+NYU possession: Beat by ['TUFTS-THOMAS CHANG-DAVIDSON'] on ['NYU-FRANK MINSON'] forces a TURNOVER.
+TUFTS possession: Turnover forced by physical contact by ['NYU-SEAMUS SLADE'] on ['TUFTS-JOHN PARRISH']
+NYU possession: Goal on the shot by ['NYU-FRANK MINSON'].
+TUFTS possession: Missed shot by ['TUFTS-FINN MCGARGHAN']. Turnover.
+NYU possession: Pass between ['NYU-JOHN MUDGETT', 'NYU-SEAMUS SLADE'] defended by ['TUFTS-DONOVAN BRADY']. Turnover
+TUFTS possession: ['TUFTS-FINN MCGARGHAN'] passes to ['TUFTS-JOHN PARRISH'] at the hoops, GOAL.
+NYU possession: Beat by ['TUFTS-66'] on ['NYU-FRANK MINSON'] forces a TURNOVER.
+TUFTS possession: ['TUFTS-FINN MCGARGHAN'] passes to ['TUFTS-DONOVAN BRADY'] at the hoops, GOAL. During the play, yellow card on NYU-SEAMUS SLADE
+NYU possession: Missed shot by ['NYU-JOHN MUDGETT']. Turnover.
+TUFTS possession: Beat by ['NYU-CAROLYN VACA'] on ['TUFTS-FINN MCGARGHAN'] forces a TURNOVER.
+NYU possession: Beat by ['TUFTS-66'] on ['NYU-AIDAN CLAFFEY'] forces a TURNOVER.
+TUFTS possession: Pass between ['TUFTS-DONOVAN BRADY', 'TUFTS-ATHENA MAYOR'] defended by ['NYU-SEAMUS SLADE']. Turnover
+NYU possession: Pass by ['NYU-SEAMUS SLADE'] dropped by ['NYU-DANIELLE FULLER']. Turnover
+TUFTS possession: Missed shot by ['TUFTS-DONOVAN BRADY']. Turnover.
+NYU possession: Goal on the shot by ['NYU-SEAMUS SLADE'].
+TUFTS possession: Pass between ['TUFTS-FINN MCGARGHAN', 'TUFTS-ATHENA MAYOR'] defended by ['NYU-FRANK MINSON']. Turnover
+NYU possession: Pass between ['NYU-DANIELLE FULLER', 'NYU-SEAMUS SLADE'] defended by ['TUFTS-JOHN PARRISH']. Turnover During the play, yellow card on TUFTS-SERENA MONTEIRO
+TUFTS possession: Missed shot by ['TUFTS-JOHN PARRISH']. Turnover. During the play, reset forced by NYU-42
+NYU possession: Beat by ['TUFTS-66'] on ['NYU-SEAMUS SLADE'] forces a TURNOVER.
+TUFTS possession: Pass by ['TUFTS-JOHN PARRISH'] dropped by ['TUFTS-ATHENA MAYOR']. Turnover
+NYU possession: Shot by ['NYU-FRANK MINSON'] blocked by ['TUFTS-HENRY BAER-BENSON']. Turnover.
+TUFTS possession: Shot by ['TUFTS-SOPHIE COBURN'] blocked by ['NYU-ANTONIO DIMEGLIO']. Turnover.
+NYU possession: Goal on the shot by ['NYU-ANTONIO DIMEGLIO'].
+TUFTS possession: Pass by ['TUFTS-SOPHIE COBURN'] dropped by ['TUFTS-JOHN PARRISH']. Turnover
+NYU possession: Missed shot by ['NYU-FRANK MINSON']. Turnover.
+TUFTS possession: Missed shot by ['TUFTS-FINN MCGARGHAN']. Turnover.
+NYU possession: Shot by ['NYU-GRACE SYMES'] blocked by ['TUFTS-FINN MCGARGHAN']. Turnover.
+TUFTS possession: Goal on the shot by ['TUFTS-JOHN PARRISH'], assist by ['TUFTS-FINN MCGARGHAN'] During the play, SNITCH ON PITCH begins
+NYU possession: Missed shot by ['NYU-ANTONIO DIMEGLIO']. Turnover.
+TUFTS possession: Snitch catch by ['NYU-KELLAN CUPID'] is GOOD.
