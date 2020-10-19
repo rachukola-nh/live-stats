@@ -21,7 +21,7 @@ TXST possession: Goal on the shot by ['TXST-JOHN ALVAREZ']. During the play, blu
 (10:31)UTSA possession: Goal on the shot by ['UTSA-CARSYN DIETZ'], assist by ['UTSA-KEVIN GONZALEZ']
 (10:55)TXST possession: Turnover penalty on ['TXST-BRANDON MACDOWRA'].
 (11:27)UTSA possession: ['UTSA-MATT BLACKWOOD'] passes to ['UTSA-CARSYN DIETZ'] at the hoops, GOAL.
-(12:06)TXST possession: Errant pass from ['TXST-BRANDON MACDOWRA'] to ['TXST-NICK ED']. Turnover
+(12:06)TXST possession: Errant pass from ['TXST-BRANDON MACDOWRA'] in the direction of ['TXST-NICK ED'] . Turnover
 (12:11)UTSA possession: Goal on the drive by ['UTSA-CHRISTIAN CORTEZ'].
 (12:39)TXST possession: Missed shot by ['TXST-NICK ED']. Turnover.
 (13:23)UTSA possession: Beat by ['TXST-CAMERON OGILVIE'] on ['UTSA-MATT BLACKWOOD'] forces a TURNOVER.
@@ -31,7 +31,7 @@ TXST possession: Goal on the shot by ['TXST-JOHN ALVAREZ']. During the play, blu
 (15:05)UTSA possession: Turnover penalty on ['UTSA-TYLER ZREET'].
 (15:56)TXST possession: Beat by ['UTSA-ALLIE MESSENGER'] on ['TXST-CALEB RATLIFF'] forces a TURNOVER.
 (16:50)UTSA possession: Blue card on ['UTSA-CARLOS PRADO'] forces turnover.
-(17:00)TXST possession: Errant pass from ['TXST-NICK ED'] to ['TXST-UNK']. Turnover
+(17:00)TXST possession: Errant pass from ['TXST-NICK ED'] in the direction of ['TXST-UNK'] . Turnover
 (17:46)UTSA possession: ['UTSA-RENN LEBER'] passes to ['UTSA-TYLER ZREET'] at the hoops, GOAL.
 (17:00)TXST possession: Errant pass by ['TXST-NICK ED']. Turnover.
 (17:46)UTSA possession: ['UTSA-RENN LEBER'] passes to ['UTSA-TYLER ZREET'] at the hoops, GOAL.
@@ -45,7 +45,7 @@ TXST possession: Goal on the shot by ['TXST-JOHN ALVAREZ']. During the play, blu
 (21:55)UTSA possession: Pass between ['UTSA-RENN LEBER', 'UTSA-AVERIE MESSENGER'] defended by ['TXST-CALEB RATLIFF']. Turnover
 (22:02)TXST possession: Goal on the drive by ['TXST-CALEB RATLIFF']. During the play, yellow card on UTSA-TYLER ZREET
 (23:00)UTSA possession: Beat by ['TXST-CAMERON OGILVIE'] on ['UTSA-MATT BLACKWOOD'] forces a TURNOVER. During the play, reset forced by TXST-CAMERON OGILVIE,blue card on UTSA-RENN LEBER
-(23:18)TXST possession: Errant pass from ['TXST-NICK ED'] to ['TXST-TIM NGUYEN']. Turnover
+(23:18)TXST possession: Errant pass from ['TXST-NICK ED'] in the direction of ['TXST-TIM NGUYEN'] . Turnover
 (23:46)UTSA possession: Pass between ['UTSA-CARSYN DIETZ', 'UTSA-AVERIE MESSENGER'] defended by ['TXST-NICK ED']. Turnover
 (24:28)TXST possession: Goal on the shot by ['TXST-IAN GAONA'], assist by ['TXST-CALEB RATLIFF']
 (25:23)UTSA possession: Turnover forced by physical contact by ['TXST-CALEB RATLIFF'] on ['UTSA-CARSYN DIETZ'] During the play, yellow card on UTSA-RENN LEBER

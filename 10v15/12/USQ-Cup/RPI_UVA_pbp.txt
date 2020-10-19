@@ -13,17 +13,17 @@
 (07:26)RPI possession: Missed shot by ['RPI-ERIK BERGLAND']. Turnover.
 (08:02)UVA possession: Shot by ['UVA-GATES YOUNG'] blocked by ['RPI-ERIK BERGLAND']. Turnover.
 (08:47)RPI possession: ['RPI-MAX CAREY'] passes to ['RPI-NICK DUPRE'] at the hoops, GOAL.
-(09:06)UVA possession: Errant pass from ['UVA-BEN PHILLIPS'] to ['UVA-GATES YOUNG']. Turnover
+(09:06)UVA possession: Errant pass from ['UVA-BEN PHILLIPS'] in the direction of ['UVA-GATES YOUNG'] . Turnover
 (09:12)RPI possession: Turnover forced by physical contact by ['UVA-PEYTON BURROW'] on ['RPI-VANESSA KEATING']
 (09:29)UVA possession: Pass by ['UVA-BEN PHILLIPS'] dropped by ['UVA-MATTHEW COOPER']. Turnover
 (09:57)RPI possession: Goal on the shot by ['RPI-MAX CAREY'].
-(10:32)UVA possession: Errant pass from ['UVA-MATTHEW COOPER'] to ['UVA-PEYTON BURROW']. Turnover
+(10:32)UVA possession: Errant pass from ['UVA-MATTHEW COOPER'] in the direction of ['UVA-PEYTON BURROW'] . Turnover
 (10:53)RPI possession: Blue card on ['RPI-KEVIN IOTT'] forces turnover.
 (10:58)UVA possession: Goal on the drive by ['UVA-MATTHEW COOPER'].
 (11:24)RPI possession: Missed shot by ['RPI-MAX CAREY']. Turnover.
 (11:56)UVA possession: Goal on the shot by ['UVA-BEN PHILLIPS'].
 (12:25)RPI possession: Pass by ['RPI-NICK DUPRE'] dropped by ['RPI-MAX CAREY']. Turnover
-(12:43)UVA possession: Errant pass from ['UVA-DAVID LITTLETON'] to ['UVA-JULIA MARKS']. Turnover
+(12:43)UVA possession: Errant pass from ['UVA-DAVID LITTLETON'] in the direction of ['UVA-JULIA MARKS'] . Turnover
 (13:18)RPI possession: Turnover forced by physical contact by ['UVA-CARLEE KLEPPIN'] on ['RPI-ELLIE LISEC'] During the play, yellow card on UVA-MATTHEW COOPER
 (14:11)UVA possession: Beat by ['RPI-CARSEN OLAZABA'] on ['UVA-CARLEE KLEPPIN'] forces a TURNOVER.
 (14:14)RPI possession: Turnover forced by physical contact by ['UVA-MATTHEW COOPER'] on ['RPI-ELLIE LISEC']

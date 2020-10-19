@@ -6,7 +6,7 @@
 (02:27)ASU possession: Beat by ['ROCHESTER-PERRY WANG'] on ['ASU-QUINN PITCHER'] forces a TURNOVER.
 (03:14)ROCHESTER possession: Missed shot by ['ROCHESTER-JUSTIN KING']. Turnover. During the play, yellow card on ASU-JOSHUA COVERICK
 (03:51)ASU possession: Turnover forced by physical contact by ['ROCHESTER-MADDISON JORDAN'] on ['ASU-1']
-(04:17)ROCHESTER possession: Errant pass from ['ROCHESTER-BASEM ASHKAR'] to ['ROCHESTER-SAMANTHA DINGA']. Turnover
+(04:17)ROCHESTER possession: Errant pass from ['ROCHESTER-BASEM ASHKAR'] in the direction of ['ROCHESTER-SAMANTHA DINGA'] . Turnover
 (04:52)ASU possession: Turnover penalty on ['ASU-9'].
 (05:15)ROCHESTER possession: Beat by ['ASU-VICKY SANFORD'] on ['ROCHESTER-BASEM ASHKAR'] forces a TURNOVER.
 (05:20)ASU possession: Goal on the drive by ['ASU-JOSHUA COVERICK'].

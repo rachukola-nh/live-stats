@@ -10,16 +10,16 @@
 (04:14)TXST possession: Goal on the drive by ['TXST-ERIC REYES'].
 (04:41)TAMU possession: ['TAMU-LOUIS SANCHEZ'] passes to ['TAMU-LANDIS WALTHER'] at the hoops, GOAL.
 (05:13)TXST possession: Turnover penalty on ['TXST-TAYLOR AHOYT'].
-(05:40)TAMU possession: Errant pass from ['TAMU-HAYDAN ALTMAN'] to ['TAMU-KEATON MALLORY']. Turnover
+(05:40)TAMU possession: Errant pass from ['TAMU-HAYDAN ALTMAN'] in the direction of ['TAMU-KEATON MALLORY'] . Turnover
 (06:01)TXST possession: Goal on the drive by ['TXST-TIM NGUYEN'], assist by ['TXST-TAYLOR AHOYT']
-(06:37)TAMU possession: Errant pass from ['TAMU-MALIK DOUGLAS'] to ['TAMU-LANDIS WALTHER']. Turnover During the play, reset forced by TXST-RYAN NAWROCKI
+(06:37)TAMU possession: Errant pass from ['TAMU-MALIK DOUGLAS'] in the direction of ['TAMU-LANDIS WALTHER'] . Turnover During the play, reset forced by TXST-RYAN NAWROCKI
 (06:58)TXST possession: ['TXST-TIM NGUYEN'] passes to ['TXST-AMBER BONHOMME'] at the hoops, GOAL. During the play, yellow card on TAMU-MIGUEL SOBARZO
 (07:27)TAMU possession: Goal on the drive by ['TAMU-LOUIS SANCHEZ']. During the play, yellow card on TXST-TIM NGUYEN
 (07:51)TXST possession: Goal on the drive by ['TXST-TIM NGUYEN'], assist by ['TXST-HECTOR MOQUETE'] During the play, yellow card on TAMU-NICK ROY
 (08:14)TAMU possession: Pass between ['TAMU-MIGUEL SOBARZO', 'TAMU-LOUIS SANCHEZ'] defended by ['TXST-AMBER BONHOMME']. Turnover
 (08:21)TXST possession: Goal on the drive by ['TXST-DAVID AVILA'], assist by ['TXST-AMBER BONHOMME']
 (08:50)TAMU possession: Beat by ['TXST-BAILEE FIELDS'] on ['TAMU-JESSICA HEMBREE'] forces a TURNOVER.
-(09:17)TXST possession: Errant pass from ['TXST-MICHAEL GENTEMPO'] to ['TXST-DAVID AVILA']. Turnover
+(09:17)TXST possession: Errant pass from ['TXST-MICHAEL GENTEMPO'] in the direction of ['TXST-DAVID AVILA'] . Turnover
 (09:58)TAMU possession: Goal on the drive by ['TAMU-CAMERON VILLAMIL'].
 (10:28)TXST possession: Beat by ['TAMU-NICK ROY'] on ['TXST-AMBER BONHOMME'] forces a TURNOVER.
 (10:45)TAMU possession: Pass between ['TAMU-MIGUEL SOBARZO', 'TAMU-ADRIENNE DEMOSS'] defended by ['TXST-AMBER BONHOMME']. Turnover
@@ -47,7 +47,7 @@
 (20:10)TAMU possession: Goal on the drive by ['TAMU-HAYDAN ALTMAN'], assist by ['TAMU-NATHON SANCHEZ']
 (20:19)TXST possession: ['TXST-ERIC REYES'] passes to ['TXST-JOHN ALVAREZ'] at the hoops, GOAL.
 (21:05)TAMU possession: Beat by ['TXST-PAUL RODRIGUEZ'] on ['TAMU-UNK'] forces a TURNOVER.
-(21:21)TXST possession: Errant pass from ['TXST-MELISSA KITE'] to ['TXST-AMBER BONHOMME']. Turnover
+(21:21)TXST possession: Errant pass from ['TXST-MELISSA KITE'] in the direction of ['TXST-AMBER BONHOMME'] . Turnover
 (21:47)TAMU possession: Beat by ['TXST-RYAN NAWROCKI'] on ['TAMU-LOUIS SANCHEZ'] forces a TURNOVER. During the play, yellow card on TXST-AMBER BONHOMME
 (22:13)TXST possession: Error by ['TXST-UNK']. During the play, TIMEOUT by TXST
 (22:20)TAMU possession: Goal on the drive by ['TAMU-HAYDAN ALTMAN']. During the play, TIMEOUT by TAMU

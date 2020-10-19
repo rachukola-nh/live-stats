@@ -31,7 +31,7 @@
 (16:38)UTSA possession: Beat by ['MIZZOU-JUSTIN DEWICK'] on ['UTSA-4'] forces a TURNOVER.
 (17:20)MIZZOU possession: Beat by ['UTSA-JONATHAN GARCIA'] on ['MIZZOU-DREW MATZES'] forces a TURNOVER.
 (17:44)UTSA possession: Pass between ['UTSA-AUSTIN VILLEJO', 'UTSA-BROOK WILLETT'] defended by ['MIZZOU-DREW MATZES']. Turnover
-(18:56)MIZZOU possession: Errant pass from ['MIZZOU-JACOB PARKER'] to ['MIZZOU-MIKE HOLIDAY']. Turnover During the play, SNITCH ON PITCH begins,reset forced by UTSA-TYLER ZREET
+(18:56)MIZZOU possession: Errant pass from ['MIZZOU-JACOB PARKER'] in the direction of ['MIZZOU-MIKE HOLIDAY'] . Turnover During the play, SNITCH ON PITCH begins,reset forced by UTSA-TYLER ZREET
 (19:17)UTSA possession: ['UTSA-AUSTIN VILLEJO'] passes to ['UTSA-4'] at the hoops, GOAL.
 (19:58)MIZZOU possession: Drop by ['MIZZOU-JACOB PARKER']. Turnover. During the play, reset forced by UTSA-JONATHAN GARCIA
 (20:07)UTSA possession: Beat by ['MIZZOU-DAVID BECKER'] on ['UTSA-4'] forces a TURNOVER.

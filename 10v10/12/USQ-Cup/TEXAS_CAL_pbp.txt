@@ -14,7 +14,7 @@
 (07:17)TEXAS possession: ['TEXAS-LUKE MEISSNER'] passes to ['TEXAS-KASYE BEVERS'] at the hoops, GOAL.
 (07:44)CAL possession: Pass between ['CAL-RYAN PFENNING', 'CAL-ELIJAH PHIPPS'] defended by ['TEXAS-DYLAN BOTTOMS']. Turnover
 (08:14)TEXAS possession: Beat by ['CAL-CONNOR HUGHES'] on ['TEXAS-JOSH JOHNSON'] forces a TURNOVER.
-(08:16)CAL possession: Errant pass from ['CAL-MADDI ERDALL'] to ['CAL-AJ MORGAN']. Turnover
+(08:16)CAL possession: Errant pass from ['CAL-MADDI ERDALL'] in the direction of ['CAL-AJ MORGAN'] . Turnover
 (08:41)TEXAS possession: Goal on the shot by ['TEXAS-LUKE MEISSNER'].
 (09:21)CAL possession: ['CAL-RYAN PFENNING'] passes to ['CAL-MADDI ERDALL'] at the hoops, GOAL.
 (09:56)TEXAS possession: Beat by ['CAL-IVAN AVALOS'] on ['TEXAS-JOSH JOHNSON'] forces a TURNOVER.
@@ -25,10 +25,10 @@
 (12:30)CAL possession: Pass by ['CAL-RYAN PFENNING'] dropped by ['CAL-AJ MORGAN']. Turnover
 (13:17)TEXAS possession: Goal on the drive by ['TEXAS-DYLAN BOTTOMS'].
 (13:52)CAL possession: ['CAL-RYAN PFENNING'] passes to ['CAL-ELIJAH PHIPPS'] at the hoops, GOAL.
-(14:26)TEXAS possession: Errant pass from ['TEXAS-GRAYSON BRIGGS'] to ['TEXAS-MICHAEL JOHNSTON']. Turnover
+(14:26)TEXAS possession: Errant pass from ['TEXAS-GRAYSON BRIGGS'] in the direction of ['TEXAS-MICHAEL JOHNSTON'] . Turnover
 (14:57)CAL possession: Pass between ['CAL-RYAN PFENNING', 'CAL-ELIJAH PHIPPS'] defended by ['TEXAS-GRAYSON BRIGGS']. Turnover
 (15:25)TEXAS possession: Goal on the drive by ['TEXAS-DAVIS ROE'], assist by ['TEXAS-LUKE MEISSNER']
-(15:53)CAL possession: Errant pass from ['CAL-RYAN PFENNING'] to ['CAL-AJ MORGAN']. Turnover
+(15:53)CAL possession: Errant pass from ['CAL-RYAN PFENNING'] in the direction of ['CAL-AJ MORGAN'] . Turnover
 (16:28)TEXAS possession: Goal on the shot by ['TEXAS-GRAYSON BRIGGS'].
 (16:58)CAL possession: Pass between ['CAL-RYAN PFENNING', 'CAL-AJ MORGAN'] defended by ['TEXAS-MICHAEL JOHNSTON']. Turnover
 (17:09)TEXAS possession: Turnover forced by physical contact by ['CAL-ELIJAH PHIPPS'] on ['TEXAS-MICHAEL JOHNSTON']

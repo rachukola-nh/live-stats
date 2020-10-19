@@ -5,7 +5,7 @@ UCLA possession: Goal on the shot by ['UCLA-JONATHAN GARCIA-ROVETTA'].
 MIAMIU possession: Yellow card on ['MIAMIU-9'] forces turnover.
 UCLA possession: Goal on the shot by ['UCLA-JONATHAN GARCIA-ROVETTA'].
 MIAMIU possession: ['MIAMIU-HAYDEN MCCLEARY'] passes to ['MIAMIU-12'] at the hoops, GOAL.
-UCLA possession: Errant pass from ['UCLA-JONATHAN GARCIA-ROVETTA'] to ['UCLA-ELIZABETH NG']. Turnover
+UCLA possession: Errant pass from ['UCLA-JONATHAN GARCIA-ROVETTA'] in the direction of ['UCLA-ELIZABETH NG'] . Turnover
 MIAMIU possession: Goal on the shot by ['MIAMIU-HAYDEN MCCLEARY'].
 UCLA possession: Pass between ['UCLA-JONATHAN GARCIA-ROVETTA', 'UCLA-ELIZABETH NG'] defended by ['MIAMIU-HAYDEN MCCLEARY']. Turnover
 MIAMIU possession: Beat by ['UCLA-DANI CLARKE'] on ['MIAMIU-HAYDEN MCCLEARY'] forces a TURNOVER.
@@ -25,7 +25,7 @@ UCLA possession: Goal on the drive by ['UCLA-RYAN HARRIS'].
 MIAMIU possession: Goal on the drive by ['MIAMIU-HAYDEN MCCLEARY']. During the play, yellow card on UCLA-RYAN HARRIS
 UCLA possession: Pass between ['UCLA-RYAN HARRIS', 'UCLA-CHRISTIAN KRIEGER'] defended by ['MIAMIU-34']. Turnover
 MIAMIU possession: ['MIAMIU-HAYDEN MCCLEARY'] passes to ['MIAMIU-12'] at the hoops, GOAL.
-UCLA possession: Errant pass from ['UCLA-KEVIN GALLAGHER'] to ['UCLA-UNK']. Turnover
+UCLA possession: Errant pass from ['UCLA-KEVIN GALLAGHER'] in the direction of ['UCLA-UNK'] . Turnover
 MIAMIU possession: Beat by ['UCLA-UNK'] on ['MIAMIU-34'] forces a TURNOVER.
 UCLA possession: Error by ['UCLA-UNK'].
 MIAMIU possession: Turnover forced by physical contact by ['UCLA-CHRISTIAN KRIEGER'] on ['MIAMIU-41']

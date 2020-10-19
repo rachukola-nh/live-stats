@@ -1,57 +1,50 @@
 {
   "0": {
+    "extras": [],
+    "offense": "Brooms Up",
+    "defense": "",
+    "length": -1,
+    "time": "0000",
+    "result": "BU",
     "primary": [
       "TEXAS-CULLEN FRIDAY"
     ],
     "secondary": [
       "TEXAS-DAVID HUBER"
     ],
-    "time": "0000",
-    "length": -1,
-    "extras": [],
-    "offense": "Brooms Up",
-    "result": "BU",
-    "defense": "",
     "period": "FLOOR"
   },
   "1": {
-    "period": "FLOOR",
-    "secondary": [
-      "TEXAS-CULLEN FRIDAY"
-    ],
-    "length": 9,
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "UCLA",
+    "time": "0009",
+    "result": "GP",
     "primary": [
       "TEXAS-ERIN MCBRIDE"
     ],
-    "time": "0009",
-    "extras": [],
-    "offense": "TEXAS",
-    "result": "GP",
-    "defense": "UCLA"
+    "secondary": [
+      "TEXAS-CULLEN FRIDAY"
+    ],
+    "period": "FLOOR",
+    "length": 9
   },
   "2": {
-    "period": "FLOOR",
-    "secondary": [
-      "UCLA-JONATHAN GARCIA-ROVETTA"
-    ],
-    "length": 38,
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "TEXAS",
+    "time": "0047",
+    "result": "GS",
     "primary": [
       "UCLA-ELIZABETH NG"
     ],
-    "time": "0047",
-    "extras": [],
-    "offense": "UCLA",
-    "result": "GS",
-    "defense": "TEXAS"
+    "secondary": [
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "period": "FLOOR",
+    "length": 38
   },
   "3": {
-    "period": "FLOOR",
-    "secondary": [],
-    "length": 83,
-    "primary": [
-      "TEXAS-NICK MARINO"
-    ],
-    "time": "0130",
     "extras": [
       [
         "R",
@@ -59,134 +52,132 @@
       ]
     ],
     "offense": "TEXAS",
+    "defense": "UCLA",
+    "time": "0130",
     "result": "GS",
-    "defense": "UCLA"
-  },
-  "4": {
-    "period": "FLOOR",
-    "secondary": [
-      "UCLA-CHARLES CARVALHO"
-    ],
-    "length": 70,
-    "primary": [
-      "TEXAS-EDDIE MOLINA"
-    ],
-    "time": "0200",
-    "extras": [],
-    "offense": "UCLA",
-    "result": "TB",
-    "defense": "TEXAS"
-  },
-  "5": {
-    "period": "FLOOR",
-    "secondary": [],
-    "length": 7,
-    "primary": [
-      "TEXAS-AIDAN PARSI"
-    ],
-    "time": "0207",
-    "extras": [],
-    "offense": "TEXAS",
-    "result": "EM",
-    "defense": "UCLA"
-  },
-  "6": {
-    "period": "FLOOR",
-    "secondary": [
-      "UCLA-JONATHAN GARCIA-ROVETTA"
-    ],
-    "length": 26,
-    "primary": [
-      "TEXAS-EDDIE MOLINA"
-    ],
-    "time": "0233",
-    "extras": [],
-    "offense": "UCLA",
-    "result": "TB",
-    "defense": "TEXAS"
-  },
-  "7": {
-    "period": "FLOOR",
-    "secondary": [],
-    "length": 4,
     "primary": [
       "TEXAS-NICK MARINO"
     ],
-    "time": "0237",
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 83
+  },
+  "4": {
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "TEXAS",
+    "time": "0200",
+    "result": "TB",
+    "primary": [
+      "TEXAS-EDDIE MOLINA"
+    ],
+    "secondary": [
+      "UCLA-CHARLES CARVALHO"
+    ],
+    "period": "FLOOR",
+    "length": 70
+  },
+  "5": {
     "extras": [],
     "offense": "TEXAS",
+    "defense": "UCLA",
+    "time": "0207",
+    "result": "EM",
+    "primary": [
+      "TEXAS-AIDAN PARSI"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 7
+  },
+  "6": {
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "TEXAS",
+    "time": "0233",
+    "result": "TB",
+    "primary": [
+      "TEXAS-EDDIE MOLINA"
+    ],
+    "secondary": [
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "period": "FLOOR",
+    "length": 26
+  },
+  "7": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "UCLA",
+    "time": "0237",
     "result": "GD",
-    "defense": "UCLA"
+    "primary": [
+      "TEXAS-NICK MARINO"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 4
   },
   "8": {
-    "period": "FLOOR",
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "TEXAS",
+    "time": "0335",
+    "result": "TD",
+    "primary": [
+      "TEXAS-CULLEN FRIDAY"
+    ],
     "secondary": [
       "UCLA-UNK",
       "UCLA-CHARLES CARVALHO"
     ],
-    "length": 98,
-    "primary": [
-      "TEXAS-CULLEN FRIDAY"
-    ],
-    "time": "0335",
-    "extras": [],
-    "offense": "UCLA",
-    "result": "TD",
-    "defense": "TEXAS"
+    "period": "FLOOR",
+    "length": 98
   },
   "9": {
-    "period": "FLOOR",
-    "secondary": [
-      "TEXAS-NICK MARINO"
-    ],
-    "length": 68,
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "UCLA",
+    "time": "0403",
+    "result": "GP",
     "primary": [
       "TEXAS-ERIN MCBRIDE"
     ],
-    "time": "0403",
-    "extras": [],
-    "offense": "TEXAS",
-    "result": "GP",
-    "defense": "UCLA"
+    "secondary": [
+      "TEXAS-NICK MARINO"
+    ],
+    "period": "FLOOR",
+    "length": 68
   },
   "10": {
-    "period": "FLOOR",
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "TEXAS",
+    "time": "0513",
+    "result": "GS",
+    "primary": [
+      "UCLA-CHRISTIAN CLARION"
+    ],
     "secondary": [
       "UCLA-JONATHAN GARCIA-ROVETTA"
     ],
-    "length": 110,
-    "primary": [
-      "UCLA-CHRISTIAN CLARION"
-    ],
-    "time": "0513",
-    "extras": [],
-    "offense": "UCLA",
-    "result": "GS",
-    "defense": "TEXAS"
+    "period": "FLOOR",
+    "length": 110
   },
   "11": {
-    "period": "FLOOR",
-    "secondary": [],
-    "length": 24,
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "UCLA",
+    "time": "0537",
+    "result": "EM",
     "primary": [
       "TEXAS-AIDAN PARSI"
     ],
-    "time": "0537",
-    "extras": [],
-    "offense": "TEXAS",
-    "result": "EM",
-    "defense": "UCLA"
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 24
   },
   "12": {
-    "period": "FLOOR",
-    "secondary": [
-      "UCLA-CHRISTIAN CLARION"
-    ],
-    "length": 88,
-    "primary": [
-      "TEXAS-EDDIE MOLINA"
-    ],
-    "time": "0625",
     "extras": [
       [
         "R",
@@ -194,90 +185,90 @@
       ]
     ],
     "offense": "UCLA",
+    "defense": "TEXAS",
+    "time": "0625",
     "result": "TB",
-    "defense": "TEXAS"
+    "primary": [
+      "TEXAS-EDDIE MOLINA"
+    ],
+    "secondary": [
+      "UCLA-CHRISTIAN CLARION"
+    ],
+    "period": "FLOOR",
+    "length": 88
   },
   "13": {
-    "period": "FLOOR",
-    "secondary": [],
-    "length": 3,
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "UCLA",
+    "time": "0628",
+    "result": "GD",
     "primary": [
       "TEXAS-NICK MARINO"
     ],
-    "time": "0628",
-    "extras": [],
-    "offense": "TEXAS",
-    "result": "GD",
-    "defense": "UCLA"
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 3
   },
   "14": {
-    "period": "FLOOR",
-    "secondary": [
-      "UCLA-JONATHAN GARCIA-ROVETTA"
-    ],
-    "length": 88,
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "TEXAS",
+    "time": "0716",
+    "result": "GP",
     "primary": [
       "UCLA-ELIZABETH NG"
     ],
-    "time": "0716",
-    "extras": [],
-    "offense": "UCLA",
-    "result": "GP",
-    "defense": "TEXAS"
-  },
-  "15": {
-    "period": "FLOOR",
-    "secondary": [
-      "TEXAS-MICHAEL JOHNSTON"
-    ],
-    "length": 42,
-    "primary": [
-      "TEXAS-JOEY CASTELLANO"
-    ],
-    "time": "0758",
-    "extras": [],
-    "offense": "TEXAS",
-    "result": "EP",
-    "defense": "UCLA"
-  },
-  "16": {
-    "period": "FLOOR",
-    "secondary": [],
-    "length": 45,
-    "primary": [
-      "UCLA-CHRISTIAN CLARION"
-    ],
-    "time": "0803",
-    "extras": [],
-    "offense": "UCLA",
-    "result": "GD",
-    "defense": "TEXAS"
-  },
-  "17": {
-    "period": "FLOOR",
-    "secondary": [
-      "TEXAS-NICK MARINO"
-    ],
-    "length": 32,
-    "primary": [
-      "TEXAS-SOPHIA DESALVO"
-    ],
-    "time": "0835",
-    "extras": [],
-    "offense": "TEXAS",
-    "result": "ED",
-    "defense": "UCLA"
-  },
-  "18": {
-    "period": "FLOOR",
     "secondary": [
       "UCLA-JONATHAN GARCIA-ROVETTA"
     ],
-    "length": 78,
+    "period": "FLOOR",
+    "length": 88
+  },
+  "15": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "UCLA",
+    "time": "0758",
+    "result": "EP",
     "primary": [
-      "TEXAS-OMAR GARZA"
+      "TEXAS-JOEY CASTELLANO"
     ],
-    "time": "0913",
+    "secondary": [
+      "TEXAS-MICHAEL JOHNSTON"
+    ],
+    "period": "FLOOR",
+    "length": 42
+  },
+  "16": {
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "TEXAS",
+    "time": "0803",
+    "result": "GD",
+    "primary": [
+      "UCLA-CHRISTIAN CLARION"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 45
+  },
+  "17": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "UCLA",
+    "time": "0835",
+    "result": "ED",
+    "primary": [
+      "TEXAS-SOPHIA DESALVO"
+    ],
+    "secondary": [
+      "TEXAS-NICK MARINO"
+    ],
+    "period": "FLOOR",
+    "length": 32
+  },
+  "18": {
     "extras": [
       [
         "R",
@@ -285,208 +276,210 @@
       ]
     ],
     "offense": "UCLA",
+    "defense": "TEXAS",
+    "time": "0913",
     "result": "TB",
-    "defense": "TEXAS"
+    "primary": [
+      "TEXAS-OMAR GARZA"
+    ],
+    "secondary": [
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "period": "FLOOR",
+    "length": 78
   },
   "19": {
-    "period": "FLOOR",
-    "secondary": [],
-    "length": 5,
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "UCLA",
+    "time": "0918",
+    "result": "GS",
     "primary": [
       "TEXAS-NICK MARINO"
     ],
-    "time": "0918",
-    "extras": [],
-    "offense": "TEXAS",
-    "result": "GS",
-    "defense": "UCLA"
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 5
   },
   "20": {
-    "period": "FLOOR",
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "TEXAS",
+    "time": "0958",
+    "result": "TD",
+    "primary": [
+      "TEXAS-MICHAEL JOHNSTON"
+    ],
     "secondary": [
       "UCLA-RYAN HARRIS",
       "UCLA-UNK"
     ],
-    "length": 40,
-    "primary": [
-      "TEXAS-MICHAEL JOHNSTON"
-    ],
-    "time": "0958",
-    "extras": [],
-    "offense": "UCLA",
-    "result": "TD",
-    "defense": "TEXAS"
+    "period": "FLOOR",
+    "length": 40
   },
   "21": {
-    "period": "FLOOR",
-    "secondary": [],
-    "length": 69,
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "UCLA",
+    "time": "1027",
+    "result": "GS",
     "primary": [
       "TEXAS-MICHAEL JOHNSTON"
     ],
-    "time": "1027",
-    "extras": [],
-    "offense": "TEXAS",
-    "result": "GS",
-    "defense": "UCLA"
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 69
   },
   "22": {
-    "period": "FLOOR",
-    "secondary": [],
-    "length": 88,
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "TEXAS",
+    "time": "1115",
+    "result": "GD",
     "primary": [
       "UCLA-RYAN HARRIS"
     ],
-    "time": "1115",
-    "extras": [],
-    "offense": "UCLA",
-    "result": "GD",
-    "defense": "TEXAS"
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 88
   },
   "23": {
-    "period": "FLOOR",
-    "secondary": [
-      "TEXAS-CATHERINE HABERL"
-    ],
-    "length": 92,
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "UCLA",
+    "time": "1207",
+    "result": "EP",
     "primary": [
       "TEXAS-AUSTIN DICKSON"
     ],
-    "time": "1207",
-    "extras": [],
-    "offense": "TEXAS",
-    "result": "EP",
-    "defense": "UCLA"
+    "secondary": [
+      "TEXAS-CATHERINE HABERL"
+    ],
+    "period": "FLOOR",
+    "length": 92
   },
   "24": {
-    "period": "FLOOR",
-    "secondary": [
-      "UCLA-RYAN HARRIS"
-    ],
-    "length": 98,
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "TEXAS",
+    "time": "1305",
+    "result": "TL",
     "primary": [
       "TEXAS-JOHN ANDERSON"
     ],
-    "time": "1305",
-    "extras": [],
-    "offense": "UCLA",
-    "result": "TL",
-    "defense": "TEXAS"
+    "secondary": [
+      "UCLA-RYAN HARRIS"
+    ],
+    "period": "FLOOR",
+    "length": 98
   },
   "25": {
-    "period": "FLOOR",
-    "secondary": [
-      "TEXAS-AIDAN PARSI"
-    ],
-    "length": 22,
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "UCLA",
+    "time": "1327",
+    "result": "TL",
     "primary": [
       "UCLA-RYAN HARRIS"
     ],
-    "time": "1327",
-    "extras": [],
-    "offense": "TEXAS",
-    "result": "TL",
-    "defense": "UCLA"
+    "secondary": [
+      "TEXAS-AIDAN PARSI"
+    ],
+    "period": "FLOOR",
+    "length": 22
   },
   "26": {
-    "period": "FLOOR",
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "TEXAS",
+    "time": "1354",
+    "result": "TD",
+    "primary": [
+      "TEXAS-JOHN ANDERSON"
+    ],
     "secondary": [
       "UCLA-ELIZABETH NG",
       "UCLA-UNK"
     ],
-    "length": 27,
-    "primary": [
-      "TEXAS-JOHN ANDERSON"
-    ],
-    "time": "1354",
-    "extras": [],
-    "offense": "UCLA",
-    "result": "TD",
-    "defense": "TEXAS"
+    "period": "FLOOR",
+    "length": 27
   },
   "27": {
-    "period": "FLOOR",
-    "secondary": [
-      "TEXAS-CATHERINE HABERL"
-    ],
-    "length": 78,
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "UCLA",
+    "time": "1432",
+    "result": "TC",
     "primary": [
       "UCLA-RYAN HARRIS"
     ],
-    "time": "1432",
-    "extras": [],
-    "offense": "TEXAS",
-    "result": "TC",
-    "defense": "UCLA"
+    "secondary": [
+      "TEXAS-CATHERINE HABERL"
+    ],
+    "period": "FLOOR",
+    "length": 78
   },
   "28": {
-    "period": "FLOOR",
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "TEXAS",
+    "time": "1530",
+    "result": "GP",
+    "primary": [
+      "UCLA-ASHLEY GORE"
+    ],
     "secondary": [
       "UCLA-JONATHAN GARCIA-ROVETTA"
     ],
-    "length": 98,
-    "primary": [
-      "UCLA-ASHLEY GORE"
-    ],
-    "time": "1530",
-    "extras": [],
-    "offense": "UCLA",
-    "result": "GP",
-    "defense": "TEXAS"
+    "period": "FLOOR",
+    "length": 98
   },
   "29": {
-    "period": "FLOOR",
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "UCLA",
+    "time": "1602",
+    "result": "GP",
+    "primary": [
+      "TEXAS-NICK MARINO"
+    ],
     "secondary": [
       "TEXAS-CULLEN FRIDAY"
     ],
-    "length": 72,
-    "primary": [
-      "TEXAS-NICK MARINO"
-    ],
-    "time": "1602",
-    "extras": [],
-    "offense": "TEXAS",
-    "result": "GP",
-    "defense": "UCLA"
+    "period": "FLOOR",
+    "length": 72
   },
   "30": {
-    "period": "FLOOR",
-    "secondary": [
-      "UCLA-ASHLEY GORE"
-    ],
-    "length": 31,
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "TEXAS",
+    "time": "1633",
+    "result": "EP",
     "primary": [
       "UCLA-UNK"
     ],
-    "time": "1633",
-    "extras": [],
-    "offense": "UCLA",
-    "result": "EP",
-    "defense": "TEXAS"
+    "secondary": [
+      "UCLA-ASHLEY GORE"
+    ],
+    "period": "FLOOR",
+    "length": 31
   },
   "31": {
-    "period": "FLOOR",
-    "secondary": [
-      "TEXAS-DYLAN BOTTOMS"
-    ],
-    "length": 73,
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "UCLA",
+    "time": "1706",
+    "result": "GD",
     "primary": [
       "TEXAS-NICK MARINO"
     ],
-    "time": "1706",
-    "extras": [],
-    "offense": "TEXAS",
-    "result": "GD",
-    "defense": "UCLA"
+    "secondary": [
+      "TEXAS-DYLAN BOTTOMS"
+    ],
+    "period": "FLOOR",
+    "length": 73
   },
   "32": {
-    "period": "SOP",
-    "secondary": [],
-    "length": 102,
-    "primary": [
-      "UCLA-CHRISTIAN CLARION"
-    ],
-    "time": "1808",
     "extras": [
       [
         "SOP",
@@ -494,63 +487,70 @@
       ]
     ],
     "offense": "UCLA",
+    "defense": "TEXAS",
+    "time": "1808",
     "result": "EM",
-    "defense": "TEXAS"
+    "primary": [
+      "UCLA-CHRISTIAN CLARION"
+    ],
+    "secondary": [],
+    "period": "SOP",
+    "length": 102
   },
   "33": {
-    "period": "SOP",
-    "secondary": [],
-    "length": 30,
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "UCLA",
+    "time": "1838",
+    "result": "GD",
     "primary": [
       "TEXAS-CULLEN FRIDAY"
     ],
-    "time": "1838",
-    "extras": [],
-    "offense": "TEXAS",
-    "result": "GD",
-    "defense": "UCLA"
+    "secondary": [],
+    "period": "SOP",
+    "length": 30
   },
   "34": {
-    "period": "SOP",
-    "secondary": [
-      "UCLA-CHRISTIAN KRIEGER"
-    ],
-    "length": 75,
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "TEXAS",
+    "time": "1913",
+    "result": "TB",
     "primary": [
       "TEXAS-EDDIE MOLINA"
     ],
-    "time": "1913",
-    "extras": [],
-    "offense": "UCLA",
-    "result": "TB",
-    "defense": "TEXAS"
+    "secondary": [
+      "UCLA-CHRISTIAN KRIEGER"
+    ],
+    "period": "SOP",
+    "length": 75
   },
   "35": {
-    "period": "SOP",
-    "secondary": [
-      "TEXAS-ERIN MCBRIDE"
-    ],
-    "length": 5,
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "UCLA",
+    "time": "1918",
+    "result": "GP",
     "primary": [
       "TEXAS-NICK MARINO"
     ],
-    "time": "1918",
-    "extras": [],
-    "offense": "TEXAS",
-    "result": "GP",
-    "defense": "UCLA"
+    "secondary": [
+      "TEXAS-ERIN MCBRIDE"
+    ],
+    "period": "SOP",
+    "length": 5
   },
   "36": {
-    "period": "SOP",
-    "secondary": [],
-    "length": -1,
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "TEXAS",
+    "time": "1929",
+    "result": "RCA",
     "primary": [
       "TEXAS-DAVID HUBER"
     ],
-    "time": "1929",
-    "extras": [],
-    "offense": "UCLA",
-    "result": "RCA",
-    "defense": "TEXAS"
+    "secondary": [],
+    "period": "SOP",
+    "length": -1
   }
 }

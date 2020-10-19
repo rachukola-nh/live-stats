@@ -2,7 +2,7 @@
 (00:26)UTSA possession: ['UTSA-RENN LEBER'] passes to ['UTSA-AVERIE MESSENGER'] at the hoops, GOAL. During the play, yellow card on TAMU-TYLER PEARSON
 (01:02)TAMU possession: Pass between ['TAMU-HAYDAN ALTMAN'] defended by ['UTSA-RENN LEBER']. Turnover
 (01:06)UTSA possession: Goal on the drive by ['UTSA-RENN LEBER'].
-(01:53)TAMU possession: Errant pass from ['TAMU-HAYDAN ALTMAN'] to ['TAMU-TYLER PEARSON']. Turnover
+(01:53)TAMU possession: Errant pass from ['TAMU-HAYDAN ALTMAN'] in the direction of ['TAMU-TYLER PEARSON'] . Turnover
 (02:05)UTSA possession: ['UTSA-CARLOS PRADO'] passes to ['UTSA-AVERIE MESSENGER'] at the hoops, GOAL.
 (02:50)TAMU possession: Beat by ['UTSA-DANIEL WILLIAMS'] on ['TAMU-TYLER PEARSON'] forces a TURNOVER. During the play, reset forced by UTSA-DANIEL WILLIAMS
 (03:34)UTSA possession: Goal on the drive by ['UTSA-CHRISTIAN CORTEZ'].
@@ -31,7 +31,7 @@
 (16:25)TAMU possession: Shot by ['TAMU-87'] blocked by ['UTSA-MATT BLACKWOOD']. Turnover.
 (16:50)UTSA possession: ['UTSA-12'] passes to ['UTSA-MATT BLACKWOOD'] at the hoops, GOAL.
 (17:26)TAMU possession: Goal on the shot by ['TAMU-CONNOR MCINTYRE'].
-(17:40)UTSA possession: Errant pass from ['UTSA-CARLOS PRADO'] to ['UTSA-AVERIE MESSENGER']. Turnover
+(17:40)UTSA possession: Errant pass from ['UTSA-CARLOS PRADO'] in the direction of ['UTSA-AVERIE MESSENGER'] . Turnover
 (17:58)TAMU possession: Goal on the shot by ['TAMU-CONNOR MCINTYRE'].
 (18:58)UTSA possession: Turnover forced by physical contact by ['TAMU-HAYDAN ALTMAN'] on ['UTSA-AUTUMN HAVENS']
 (19:30)TAMU possession: Shot by ['TAMU-CONNOR MCINTYRE'] blocked by ['UTSA-CARLOS PRADO']. Turnover.

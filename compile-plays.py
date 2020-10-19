@@ -17,9 +17,11 @@ def main(argv):
             outputfile = arg
     js = []
     for path in Path(inputpath).rglob('*.json'):
+        print(path)
         try:
-            t,season,tournament,_ = str(path).split("\\")
+            t,season,tournament,_ = str(path).split("/")
         except:
+            print('Exception')
             continue
         game_json = {}
         with open(str(path)) as f:

@@ -9,13 +9,13 @@
 (02:10)TXST possession: Beat by ['TAMU-NICK ROY'] on ['TXST-MELISSA KITE'] forces a TURNOVER.
 (02:34)TAMU possession: ['TAMU-LOGAN ZAHN'] passes to ['TAMU-RACHEL NICOLETTI'] at the hoops, GOAL.
 (02:46)TXST possession: Beat by ['TAMU-NICK ROY'] on ['TXST-DONOVAN MITCHELL'] forces a TURNOVER.
-(03:15)TAMU possession: Errant pass from ['TAMU-MIGUEL SOBARZO'] to ['TAMU-CONNOR MCINTYRE']. Turnover
+(03:15)TAMU possession: Errant pass from ['TAMU-MIGUEL SOBARZO'] in the direction of ['TAMU-CONNOR MCINTYRE'] . Turnover
 (03:30)TXST possession: Shot by ['TXST-DONOVAN MITCHELL'] blocked by ['TAMU-NICK ROY']. Turnover.
 (03:59)TAMU possession: Beat by ['TXST-BAILEE FIELDS'] on ['TAMU-CONNOR MCINTYRE'] forces a TURNOVER.
 (04:08)TXST possession: Goal on the shot by ['TXST-BRANDON MACDOWRA'].
 (04:16)TAMU possession: Goal on the shot by ['TAMU-LOGAN ZAHN'], assist by ['TAMU-MIGUEL SOBARZO']
-(04:35)TXST possession: Errant pass from ['TXST-DONOVAN MITCHELL'] to ['TXST-MELISSA KITE']. Turnover
-(05:03)TAMU possession: Errant pass from ['TAMU-LOGAN ZAHN'] to ['TAMU-LANDIS WALTHER']. Turnover
+(04:35)TXST possession: Errant pass from ['TXST-DONOVAN MITCHELL'] in the direction of ['TXST-MELISSA KITE'] . Turnover
+(05:03)TAMU possession: Errant pass from ['TAMU-LOGAN ZAHN'] in the direction of ['TAMU-LANDIS WALTHER'] . Turnover
 (06:01)TXST possession: Pass between ['TXST-DONOVAN MITCHELL', 'TXST-STEPHEN VIGIL'] defended by ['TAMU-SAMMY GARZA']. Turnover
 (06:29)TAMU possession: Turnover forced by physical contact by ['TXST-STEPHEN VIGIL'] on ['TAMU-LOUIS SANCHEZ']
 (06:40)TXST possession: Goal on the shot by ['TXST-DONOVAN MITCHELL'], assist by ['TXST-STEPHEN VIGIL']
@@ -31,7 +31,7 @@
 (11:14)TXST possession: ['TXST-ERIC REYES'] passes to ['TXST-JENNA BOLLWEG'] at the hoops, GOAL.
 (11:45)TAMU possession: Missed shot by ['TAMU-SAMMY GARZA']. Turnover.
 (13:00)TXST possession: Goal on the drive by ['TXST-LEIF MONTGOMERY'], assist by ['TXST-CLAYTON CARLISLE'] During the play, yellow card on TAMU-LOUIS SANCHEZ,yellow card on TAMU-HARRIS COLEMAN
-(13:22)TAMU possession: Errant pass from ['TAMU-19'] to ['TAMU-RACHEL NICOLETTI']. Turnover
+(13:22)TAMU possession: Errant pass from ['TAMU-19'] in the direction of ['TAMU-RACHEL NICOLETTI'] . Turnover
 (13:37)TXST possession: Beat by ['TAMU-ALEXIS WIEN'] on ['TXST-ERIC REYES'] forces a TURNOVER.
 (14:19)TAMU possession: Drop by ['TAMU-LOUIS SANCHEZ']. Turnover.
 (14:44)TXST possession: Goal on the drive by ['TXST-ERIC REYES'].

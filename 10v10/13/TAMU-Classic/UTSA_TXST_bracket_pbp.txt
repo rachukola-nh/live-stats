@@ -7,13 +7,13 @@
 (03:17)UTSA possession: Pass between ['UTSA-AVERIE MESSENGER', 'UTSA-CHUCKY SEPULVEDA'] defended by ['TXST-IAN GAONA']. Turnover During the play, yellow card on TXST-ERIC REYES
 (03:42)TXST possession: Turnover forced by physical contact by ['UTSA-TYLER ZREET'] on ['TXST-CLAYTON CARLISLE']
 (04:15)UTSA possession: Missed shot by ['UTSA-CHUCKY SEPULVEDA']. Turnover.
-(04:58)TXST possession: Errant pass from ['TXST-CLAYTON CARLISLE'] to ['TXST-MELISSA KITE']. Turnover
+(04:58)TXST possession: Errant pass from ['TXST-CLAYTON CARLISLE'] in the direction of ['TXST-MELISSA KITE'] . Turnover
 (05:37)UTSA possession: Beat by ['TXST-BRADLEY HIMES'] on ['UTSA-CARLOS PRADO'] forces a TURNOVER.
 (05:44)TXST possession: Pass between ['TXST-IAN GAONA', 'TXST-ERIC REYES'] defended by ['UTSA-CHUCKY SEPULVEDA']. Turnover
 (05:52)UTSA possession: Beat by ['TXST-BRADLEY HIMES'] on ['UTSA-TYLER ZREET'] forces a TURNOVER.
 (06:25)TXST possession: Goal on the shot by ['TXST-NICK ED'], assist by ['TXST-ERIC REYES']
 (07:08)UTSA possession: Beat by ['TXST-CAMBRIE CODY'] on ['UTSA-MATT BLACKWOOD'] forces a TURNOVER.
-(07:37)TXST possession: Errant pass from ['TXST-22'] to ['TXST-JOHN ALVAREZ']. Turnover
+(07:37)TXST possession: Errant pass from ['TXST-22'] in the direction of ['TXST-JOHN ALVAREZ'] . Turnover
 (08:16)UTSA possession: Turnover forced by physical contact by ['TXST-JOHN ALVAREZ'] on ['UTSA-MATT BLACKWOOD']
 (08:44)TXST possession: Beat by ['UTSA-ALLIE MESSENGER'] on ['TXST-22'] forces a TURNOVER.
 (09:30)UTSA possession: Goal on the drive by ['UTSA-KEVIN GONZALEZ'].
@@ -26,7 +26,7 @@
 (12:47)TXST possession: Goal on the shot by ['TXST-JANETTE GARCIA'], assist by ['TXST-JOHN ALVAREZ']
 (13:42)UTSA possession: Beat by ['TXST-BRADLEY HIMES'] on ['UTSA-TYLER ZREET'] forces a TURNOVER.
 (13:47)TXST possession: Beat by ['UTSA-DANIEL WILLIAMS'] on ['TXST-JOHN ALVAREZ'] forces a TURNOVER.
-(14:32)UTSA possession: Errant pass from ['UTSA-TYLER ZREET'] to ['UTSA-CHUCKY SEPULVEDA']. Turnover
+(14:32)UTSA possession: Errant pass from ['UTSA-TYLER ZREET'] in the direction of ['UTSA-CHUCKY SEPULVEDA'] . Turnover
 (15:19)TXST possession: Shot by ['TXST-JOHN ALVAREZ'] blocked by ['UTSA-TYLER ZREET']. Turnover.
 (15:53)UTSA possession: Goal on the drive by ['UTSA-TYLER ZREET']. During the play, yellow card on TXST-JOHN ALVAREZ
 (16:24)TXST possession: Beat by ['UTSA-DANIEL WILLIAMS'] on ['TXST-22'] forces a TURNOVER.

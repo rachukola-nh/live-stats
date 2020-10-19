@@ -16,7 +16,7 @@ MIZZOU possession: Beat by ['TEXAS-KYLIE MCBRIDE'] on ['MIZZOU-UNK'] forces a TU
 TEXAS possession: Goal on the drive by ['TEXAS-DYLAN BOTTOMS'].
 MIZZOU possession: Beat by ['TEXAS-JACK WANG'] on ['MIZZOU-UNK'] forces a TURNOVER.
 TEXAS possession: Goal on the drive by ['TEXAS-JOSH JOHNSON'].
-MIZZOU possession: Errant pass from ['MIZZOU-UNK'] to ['MIZZOU-UNK']. Turnover
+MIZZOU possession: Errant pass from ['MIZZOU-UNK'] in the direction of ['MIZZOU-UNK'] . Turnover
 TEXAS possession: Goal on the shot by ['TEXAS-JOSH JOHNSON'].
 MIZZOU possession: Missed shot by ['MIZZOU-UNK']. Turnover.
 TEXAS possession: Pass between ['TEXAS-DYLAN BOTTOMS', 'TEXAS-SPENCER FORBES'] defended by ['MIZZOU-UNK']. Turnover
@@ -28,8 +28,8 @@ MIZZOU possession: Missed shot by ['MIZZOU-UNK']. Turnover.
 TEXAS possession: Goal on the shot by ['TEXAS-JOSH JOHNSON'].
 MIZZOU possession: Goal on the shot by ['MIZZOU-UNK'].
 TEXAS possession: Goal on the drive by ['TEXAS-DAVIS ROE'], assist by ['TEXAS-MICHAEL JOHNSTON']
-MIZZOU possession: Errant pass from ['MIZZOU-UNK'] to ['MIZZOU-UNK']. Turnover
-TEXAS possession: Errant pass from ['TEXAS-KASYE BEVERS'] to ['TEXAS-DAVIS ROE']. Turnover
+MIZZOU possession: Errant pass from ['MIZZOU-UNK'] in the direction of ['MIZZOU-UNK'] . Turnover
+TEXAS possession: Errant pass from ['TEXAS-KASYE BEVERS'] in the direction of ['TEXAS-DAVIS ROE'] . Turnover
 MIZZOU possession: Pass by ['MIZZOU-UNK'] dropped by ['MIZZOU-UNK']. Turnover
 TEXAS possession: Shot by ['TEXAS-LUKE MEISSNER'] blocked by ['MIZZOU-UNK']. Turnover.
 MIZZOU possession: Turnover forced by physical contact by ['TEXAS-UNK'] on ['MIZZOU-6']

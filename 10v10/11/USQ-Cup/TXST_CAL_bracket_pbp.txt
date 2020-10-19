@@ -20,11 +20,11 @@
 (09:01)TXST possession: ['TXST-TJ MARTINEZ'] passes to ['TXST-ABBY LUM'] at the hoops, GOAL.
 (09:43)CAL possession: Turnover forced by physical contact by ['TXST-DONOVAN MITCHELL'] on ['CAL-MADDI ERDALL']
 (09:56)TXST possession: Pass between ['TXST-STEPHEN VIGIL', 'TXST-TJ MARTINEZ'] defended by ['CAL-3']. Turnover
-(10:17)CAL possession: Errant pass from ['CAL-3'] to ['CAL-MADDI ERDALL']. Turnover
-(11:05)TXST possession: Errant pass from ['TXST-TJ MARTINEZ'] to ['TXST-ABBY LUM']. Turnover
+(10:17)CAL possession: Errant pass from ['CAL-3'] in the direction of ['CAL-MADDI ERDALL'] . Turnover
+(11:05)TXST possession: Errant pass from ['TXST-TJ MARTINEZ'] in the direction of ['TXST-ABBY LUM'] . Turnover
 (11:57)CAL possession: Pass by ['CAL-MADDI ERDALL'] dropped by ['CAL-32']. Turnover
 (12:05)TXST possession: ['TXST-STEPHEN VIGIL'] passes to ['TXST-6'] at the hoops, GOAL.
-(13:30)CAL possession: Errant pass from ['CAL-17'] to ['CAL-MADDI ERDALL']. Turnover During the play, reset forced by TXST-RYAN NAWROCKI
+(13:30)CAL possession: Errant pass from ['CAL-17'] in the direction of ['CAL-MADDI ERDALL'] . Turnover During the play, reset forced by TXST-RYAN NAWROCKI
 (14:28)TXST possession: Goal on the drive by ['TXST-6'].
 (15:13)CAL possession: Goal on the drive by ['CAL-3'].
 (16:00)TXST possession: ['TXST-TJ MARTINEZ'] passes to ['TXST-HOPE EATON'] at the hoops, GOAL.

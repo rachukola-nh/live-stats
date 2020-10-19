@@ -1,489 +1,487 @@
 {
   "0": {
-    "defense": "",
-    "offense": "Brooms Up",
     "extras": [],
+    "offense": "Brooms Up",
+    "defense": "",
+    "length": -1,
+    "time": "0000",
+    "result": "BU",
     "primary": [
       "TAMU-LOGAN ZAHN"
     ],
-    "result": "BU",
     "secondary": [
       "TXST-0"
     ],
-    "period": "FLOOR",
-    "length": -1,
-    "time": "0000"
+    "period": "FLOOR"
   },
   "1": {
-    "defense": "TXST",
-    "offense": "TAMU",
     "extras": [],
+    "offense": "TAMU",
+    "defense": "TXST",
+    "time": "0016",
+    "result": "TC",
     "primary": [
       "TXST-BRANDON MACDOWRA"
     ],
-    "result": "TC",
-    "length": 16,
-    "period": "FLOOR",
     "secondary": [
       "TAMU-LOGAN ZAHN"
     ],
-    "time": "0016"
+    "period": "FLOOR",
+    "length": 16
   },
   "2": {
-    "defense": "TAMU",
-    "offense": "TXST",
     "extras": [],
+    "offense": "TXST",
+    "defense": "TAMU",
+    "time": "0045",
+    "result": "TD",
     "primary": [
       "TAMU-CONNOR MCINTYRE"
     ],
-    "result": "TD",
-    "length": 29,
-    "period": "FLOOR",
     "secondary": [
       "TXST-BRANDON MACDOWRA",
       "TXST-MELISSA KITE"
     ],
-    "time": "0045"
+    "period": "FLOOR",
+    "length": 29
   },
   "3": {
-    "defense": "TXST",
-    "offense": "TAMU",
     "extras": [
       [
         "Y",
         "TXST-BRANDON MACDOWRA"
       ]
     ],
+    "offense": "TAMU",
+    "defense": "TXST",
+    "time": "0050",
+    "result": "TD",
     "primary": [
       "TXST-ERIC REYES"
     ],
-    "result": "TD",
-    "length": 5,
-    "period": "FLOOR",
     "secondary": [
       "TAMU-CONNOR MCINTYRE",
       "TAMU-RACHEL NICOLETTI"
     ],
-    "time": "0050"
+    "period": "FLOOR",
+    "length": 5
   },
   "4": {
-    "defense": "TAMU",
-    "offense": "TXST",
     "extras": [],
+    "offense": "TXST",
+    "defense": "TAMU",
+    "time": "0109",
+    "result": "GP",
     "primary": [
       "TXST-MELISSA KITE"
     ],
-    "result": "GP",
-    "length": 59,
-    "period": "FLOOR",
     "secondary": [
       "TXST-ERIC REYES"
     ],
-    "time": "0109"
+    "period": "FLOOR",
+    "length": 59
   },
   "5": {
-    "defense": "TXST",
-    "offense": "TAMU",
     "extras": [],
+    "offense": "TAMU",
+    "defense": "TXST",
+    "time": "0131",
+    "result": "TD",
     "primary": [
       "TXST-MELISSA KITE"
     ],
-    "result": "TD",
-    "length": 22,
-    "period": "FLOOR",
     "secondary": [
       "TAMU-MIGUEL SOBARZO",
       "TAMU-CONNOR MCINTYRE"
     ],
-    "time": "0131"
+    "period": "FLOOR",
+    "length": 22
   },
   "6": {
-    "defense": "TAMU",
-    "offense": "TXST",
     "extras": [],
+    "offense": "TXST",
+    "defense": "TAMU",
+    "time": "0200",
+    "result": "TD",
     "primary": [
       "TAMU-MIGUEL SOBARZO"
     ],
-    "result": "TD",
-    "length": 69,
-    "period": "FLOOR",
     "secondary": [
       "TXST-DONOVAN MITCHELL",
       "TXST-MELISSA KITE"
     ],
-    "time": "0200"
+    "period": "FLOOR",
+    "length": 69
   },
   "7": {
-    "defense": "TXST",
-    "offense": "TAMU",
     "extras": [],
+    "offense": "TAMU",
+    "defense": "TXST",
+    "time": "0203",
+    "result": "ED",
     "primary": [
       "TAMU-MIGUEL SOBARZO"
     ],
-    "result": "ED",
-    "length": 3,
-    "period": "FLOOR",
     "secondary": [],
-    "time": "0203"
+    "period": "FLOOR",
+    "length": 3
   },
   "8": {
-    "defense": "TAMU",
-    "offense": "TXST",
     "extras": [],
+    "offense": "TXST",
+    "defense": "TAMU",
+    "time": "0210",
+    "result": "TB",
     "primary": [
       "TAMU-NICK ROY"
     ],
-    "result": "TB",
-    "length": 7,
-    "period": "FLOOR",
     "secondary": [
       "TXST-MELISSA KITE"
     ],
-    "time": "0210"
+    "period": "FLOOR",
+    "length": 7
   },
   "9": {
-    "defense": "TXST",
-    "offense": "TAMU",
     "extras": [],
+    "offense": "TAMU",
+    "defense": "TXST",
+    "time": "0234",
+    "result": "GP",
     "primary": [
       "TAMU-RACHEL NICOLETTI"
     ],
-    "result": "GP",
-    "length": 24,
-    "period": "FLOOR",
     "secondary": [
       "TAMU-LOGAN ZAHN"
     ],
-    "time": "0234"
+    "period": "FLOOR",
+    "length": 24
   },
   "10": {
-    "defense": "TAMU",
-    "offense": "TXST",
     "extras": [],
+    "offense": "TXST",
+    "defense": "TAMU",
+    "time": "0246",
+    "result": "TB",
     "primary": [
       "TAMU-NICK ROY"
     ],
-    "result": "TB",
-    "length": 12,
-    "period": "FLOOR",
     "secondary": [
       "TXST-DONOVAN MITCHELL"
     ],
-    "time": "0246"
+    "period": "FLOOR",
+    "length": 12
   },
   "11": {
-    "defense": "TXST",
-    "offense": "TAMU",
     "extras": [],
+    "offense": "TAMU",
+    "defense": "TXST",
+    "time": "0315",
+    "result": "EP",
     "primary": [
       "TAMU-MIGUEL SOBARZO"
     ],
-    "result": "EP",
-    "length": 69,
-    "period": "FLOOR",
     "secondary": [
       "TAMU-CONNOR MCINTYRE"
     ],
-    "time": "0315"
+    "period": "FLOOR",
+    "length": 69
   },
   "12": {
-    "defense": "TAMU",
-    "offense": "TXST",
     "extras": [],
+    "offense": "TXST",
+    "defense": "TAMU",
+    "time": "0330",
+    "result": "TL",
     "primary": [
       "TAMU-NICK ROY"
     ],
-    "result": "TL",
-    "length": 15,
-    "period": "FLOOR",
     "secondary": [
       "TXST-DONOVAN MITCHELL"
     ],
-    "time": "0330"
+    "period": "FLOOR",
+    "length": 15
   },
   "13": {
-    "defense": "TXST",
-    "offense": "TAMU",
     "extras": [],
+    "offense": "TAMU",
+    "defense": "TXST",
+    "time": "0359",
+    "result": "TB",
     "primary": [
       "TXST-BAILEE FIELDS"
     ],
-    "result": "TB",
-    "length": 29,
-    "period": "FLOOR",
     "secondary": [
       "TAMU-CONNOR MCINTYRE"
     ],
-    "time": "0359"
+    "period": "FLOOR",
+    "length": 29
   },
   "14": {
-    "defense": "TAMU",
-    "offense": "TXST",
     "extras": [],
+    "offense": "TXST",
+    "defense": "TAMU",
+    "time": "0408",
+    "result": "GS",
     "primary": [
       "TXST-BRANDON MACDOWRA"
     ],
-    "result": "GS",
-    "length": 49,
-    "period": "FLOOR",
     "secondary": [],
-    "time": "0408"
+    "period": "FLOOR",
+    "length": 49
   },
   "15": {
-    "defense": "TXST",
-    "offense": "TAMU",
     "extras": [],
+    "offense": "TAMU",
+    "defense": "TXST",
+    "time": "0416",
+    "result": "GS",
     "primary": [
       "TAMU-LOGAN ZAHN"
     ],
-    "result": "GS",
-    "length": 8,
-    "period": "FLOOR",
     "secondary": [
       "TAMU-MIGUEL SOBARZO"
     ],
-    "time": "0416"
+    "period": "FLOOR",
+    "length": 8
   },
   "16": {
-    "defense": "TAMU",
-    "offense": "TXST",
     "extras": [],
+    "offense": "TXST",
+    "defense": "TAMU",
+    "time": "0435",
+    "result": "EP",
     "primary": [
       "TXST-DONOVAN MITCHELL"
     ],
-    "result": "EP",
-    "length": 19,
-    "period": "FLOOR",
     "secondary": [
       "TXST-MELISSA KITE"
     ],
-    "time": "0435"
+    "period": "FLOOR",
+    "length": 19
   },
   "17": {
-    "defense": "TXST",
-    "offense": "TAMU",
     "extras": [],
+    "offense": "TAMU",
+    "defense": "TXST",
+    "time": "0503",
+    "result": "EP",
     "primary": [
       "TAMU-LOGAN ZAHN"
     ],
-    "result": "EP",
-    "length": 68,
-    "period": "FLOOR",
     "secondary": [
       "TAMU-LANDIS WALTHER"
     ],
-    "time": "0503"
+    "period": "FLOOR",
+    "length": 68
   },
   "18": {
-    "defense": "TAMU",
-    "offense": "TXST",
     "extras": [],
+    "offense": "TXST",
+    "defense": "TAMU",
+    "time": "0601",
+    "result": "TD",
     "primary": [
       "TAMU-SAMMY GARZA"
     ],
-    "result": "TD",
-    "length": 98,
-    "period": "FLOOR",
     "secondary": [
       "TXST-DONOVAN MITCHELL",
       "TXST-STEPHEN VIGIL"
     ],
-    "time": "0601"
+    "period": "FLOOR",
+    "length": 98
   },
   "19": {
-    "defense": "TXST",
-    "offense": "TAMU",
     "extras": [],
+    "offense": "TAMU",
+    "defense": "TXST",
+    "time": "0629",
+    "result": "TC",
     "primary": [
       "TXST-STEPHEN VIGIL"
     ],
-    "result": "TC",
-    "length": 28,
-    "period": "FLOOR",
     "secondary": [
       "TAMU-LOUIS SANCHEZ"
     ],
-    "time": "0629"
+    "period": "FLOOR",
+    "length": 28
   },
   "20": {
-    "defense": "TAMU",
-    "offense": "TXST",
     "extras": [],
+    "offense": "TXST",
+    "defense": "TAMU",
+    "time": "0640",
+    "result": "GS",
     "primary": [
       "TXST-DONOVAN MITCHELL"
     ],
-    "result": "GS",
-    "length": 11,
-    "period": "FLOOR",
     "secondary": [
       "TXST-STEPHEN VIGIL"
     ],
-    "time": "0640"
+    "period": "FLOOR",
+    "length": 11
   },
   "21": {
-    "defense": "TXST",
-    "offense": "TAMU",
     "extras": [],
+    "offense": "TAMU",
+    "defense": "TXST",
+    "time": "0716",
+    "result": "TB",
     "primary": [
       "TXST-KRIS DELAFUENTE"
     ],
-    "result": "TB",
-    "length": 76,
-    "period": "FLOOR",
     "secondary": [
       "TAMU-LOUIS SANCHEZ"
     ],
-    "time": "0716"
+    "period": "FLOOR",
+    "length": 76
   },
   "22": {
-    "defense": "TAMU",
-    "offense": "TXST",
     "extras": [],
+    "offense": "TXST",
+    "defense": "TAMU",
+    "time": "0724",
+    "result": "GS",
     "primary": [
       "TXST-STEPHEN VIGIL"
     ],
-    "result": "GS",
-    "length": 8,
-    "period": "FLOOR",
     "secondary": [],
-    "time": "0724"
+    "period": "FLOOR",
+    "length": 8
   },
   "23": {
-    "defense": "TXST",
-    "offense": "TAMU",
     "extras": [],
+    "offense": "TAMU",
+    "defense": "TXST",
+    "time": "0808",
+    "result": "TC",
     "primary": [
       "TXST-LEIF MONTGOMERY"
     ],
-    "result": "TC",
-    "length": 84,
-    "period": "FLOOR",
     "secondary": [
       "TAMU-LANDIS WALTHER"
     ],
-    "time": "0808"
+    "period": "FLOOR",
+    "length": 84
   },
   "24": {
-    "defense": "TAMU",
-    "offense": "TXST",
     "extras": [],
+    "offense": "TXST",
+    "defense": "TAMU",
+    "time": "0926",
+    "result": "TC",
     "primary": [
       "TAMU-LOUIS SANCHEZ"
     ],
-    "result": "TC",
-    "length": 118,
-    "period": "FLOOR",
     "secondary": [
       "TXST-STEPHEN VIGIL"
     ],
-    "time": "0926"
+    "period": "FLOOR",
+    "length": 118
   },
   "25": {
-    "defense": "TXST",
-    "offense": "TAMU",
     "extras": [],
+    "offense": "TAMU",
+    "defense": "TXST",
+    "time": "0941",
+    "result": "GP",
     "primary": [
       "TAMU-LOUIS SANCHEZ"
     ],
-    "result": "GP",
-    "length": 15,
-    "period": "FLOOR",
     "secondary": [
       "TAMU-SAMMY GARZA"
     ],
-    "time": "0941"
+    "period": "FLOOR",
+    "length": 15
   },
   "26": {
-    "defense": "TAMU",
-    "offense": "TXST",
     "extras": [],
+    "offense": "TXST",
+    "defense": "TAMU",
+    "time": "0901",
+    "result": "TB",
     "primary": [
       "TAMU-HARRIS COLEMAN"
     ],
-    "result": "TB",
-    "length": -40,
-    "period": "FLOOR",
     "secondary": [
       "TXST-ERIC REYES"
     ],
-    "time": "0901"
+    "period": "FLOOR",
+    "length": -40
   },
   "27": {
-    "defense": "TXST",
-    "offense": "TAMU",
     "extras": [],
+    "offense": "TAMU",
+    "defense": "TXST",
+    "time": "0911",
+    "result": "TB",
     "primary": [
       "TXST-KRIS DELAFUENTE"
     ],
-    "result": "TB",
-    "length": 10,
-    "period": "FLOOR",
     "secondary": [
       "TAMU-LOUIS SANCHEZ"
     ],
-    "time": "0911"
+    "period": "FLOOR",
+    "length": 10
   },
   "28": {
-    "defense": "TAMU",
-    "offense": "TXST",
     "extras": [],
+    "offense": "TXST",
+    "defense": "TAMU",
+    "time": "1001",
+    "result": "GP",
     "primary": [
       "TXST-JENNA BOLLWEG"
     ],
-    "result": "GP",
-    "length": 90,
-    "period": "FLOOR",
     "secondary": [
       "TXST-LEIF MONTGOMERY"
     ],
-    "time": "1001"
+    "period": "FLOOR",
+    "length": 90
   },
   "29": {
-    "defense": "TXST",
-    "offense": "TAMU",
     "extras": [],
+    "offense": "TAMU",
+    "defense": "TXST",
+    "time": "1047",
+    "result": "GP",
     "primary": [
       "TAMU-LOUIS SANCHEZ"
     ],
-    "result": "GP",
-    "length": 46,
-    "period": "FLOOR",
     "secondary": [
       "TAMU-SAMMY GARZA"
     ],
-    "time": "1047"
+    "period": "FLOOR",
+    "length": 46
   },
   "30": {
-    "defense": "TAMU",
-    "offense": "TXST",
     "extras": [],
+    "offense": "TXST",
+    "defense": "TAMU",
+    "time": "1114",
+    "result": "GP",
     "primary": [
       "TXST-JENNA BOLLWEG"
     ],
-    "result": "GP",
-    "length": 67,
-    "period": "FLOOR",
     "secondary": [
       "TXST-ERIC REYES"
     ],
-    "time": "1114"
+    "period": "FLOOR",
+    "length": 67
   },
   "31": {
-    "defense": "TXST",
-    "offense": "TAMU",
     "extras": [],
+    "offense": "TAMU",
+    "defense": "TXST",
+    "time": "1145",
+    "result": "EM",
     "primary": [
       "TAMU-SAMMY GARZA"
     ],
-    "result": "EM",
-    "length": 31,
-    "period": "FLOOR",
     "secondary": [],
-    "time": "1145"
+    "period": "FLOOR",
+    "length": 31
   },
   "32": {
-    "defense": "TAMU",
-    "offense": "TXST",
     "extras": [
       [
         "Y",
@@ -494,184 +492,184 @@
         "TAMU-HARRIS COLEMAN"
       ]
     ],
+    "offense": "TXST",
+    "defense": "TAMU",
+    "time": "1300",
+    "result": "GD",
     "primary": [
       "TXST-LEIF MONTGOMERY"
     ],
-    "result": "GD",
-    "length": 155,
-    "period": "FLOOR",
     "secondary": [
       "TXST-CLAYTON CARLISLE"
     ],
-    "time": "1300"
+    "period": "FLOOR",
+    "length": 155
   },
   "33": {
-    "defense": "TXST",
-    "offense": "TAMU",
     "extras": [],
+    "offense": "TAMU",
+    "defense": "TXST",
+    "time": "1322",
+    "result": "EP",
     "primary": [
       "TAMU-19"
     ],
-    "result": "EP",
-    "length": 22,
-    "period": "FLOOR",
     "secondary": [
       "TAMU-RACHEL NICOLETTI"
     ],
-    "time": "1322"
+    "period": "FLOOR",
+    "length": 22
   },
   "34": {
-    "defense": "TAMU",
-    "offense": "TXST",
     "extras": [],
+    "offense": "TXST",
+    "defense": "TAMU",
+    "time": "1337",
+    "result": "TB",
     "primary": [
       "TAMU-ALEXIS WIEN"
     ],
-    "result": "TB",
-    "length": 15,
-    "period": "FLOOR",
     "secondary": [
       "TXST-ERIC REYES"
     ],
-    "time": "1337"
+    "period": "FLOOR",
+    "length": 15
   },
   "35": {
-    "defense": "TXST",
-    "offense": "TAMU",
     "extras": [],
+    "offense": "TAMU",
+    "defense": "TXST",
+    "time": "1419",
+    "result": "ED",
     "primary": [
       "TAMU-LOUIS SANCHEZ"
     ],
-    "result": "ED",
-    "length": 82,
-    "period": "FLOOR",
     "secondary": [],
-    "time": "1419"
+    "period": "FLOOR",
+    "length": 82
   },
   "36": {
-    "defense": "TAMU",
-    "offense": "TXST",
     "extras": [],
+    "offense": "TXST",
+    "defense": "TAMU",
+    "time": "1444",
+    "result": "GD",
     "primary": [
       "TXST-ERIC REYES"
     ],
-    "result": "GD",
-    "length": 25,
-    "period": "FLOOR",
     "secondary": [],
-    "time": "1444"
+    "period": "FLOOR",
+    "length": 25
   },
   "37": {
-    "defense": "TXST",
-    "offense": "TAMU",
     "extras": [],
+    "offense": "TAMU",
+    "defense": "TXST",
+    "time": "1512",
+    "result": "GS",
     "primary": [
       "TAMU-CAMERON VILLAMIL"
     ],
-    "result": "GS",
-    "length": 68,
-    "period": "FLOOR",
     "secondary": [
       "TAMU-1"
     ],
-    "time": "1512"
+    "period": "FLOOR",
+    "length": 68
   },
   "38": {
-    "defense": "TAMU",
-    "offense": "TXST",
     "extras": [],
+    "offense": "TXST",
+    "defense": "TAMU",
+    "time": "1539",
+    "result": "TL",
     "primary": [
       "TAMU-1"
     ],
-    "result": "TL",
-    "length": 27,
-    "period": "FLOOR",
     "secondary": [
       "TXST-BRANDON MACDOWRA"
     ],
-    "time": "1539"
+    "period": "FLOOR",
+    "length": 27
   },
   "39": {
-    "defense": "TXST",
-    "offense": "TAMU",
     "extras": [
       [
         "Y",
         "TXST-TIM NGUYEN"
       ]
     ],
+    "offense": "TAMU",
+    "defense": "TXST",
+    "time": "1625",
+    "result": "TD",
     "primary": [
       "TXST-0"
     ],
-    "result": "TD",
-    "length": 86,
-    "period": "FLOOR",
     "secondary": [
       "TAMU-1",
       "TAMU-LOGAN ZAHN"
     ],
-    "time": "1625"
+    "period": "FLOOR",
+    "length": 86
   },
   "40": {
-    "defense": "TAMU",
-    "offense": "TXST",
     "extras": [],
+    "offense": "TXST",
+    "defense": "TAMU",
+    "time": "1635",
+    "result": "GP",
     "primary": [
       "TXST-0"
     ],
-    "result": "GP",
-    "length": 10,
-    "period": "FLOOR",
     "secondary": [
       "TXST-BRANDON MACDOWRA"
     ],
-    "time": "1635"
+    "period": "FLOOR",
+    "length": 10
   },
   "41": {
-    "defense": "TXST",
-    "offense": "TAMU",
     "extras": [],
+    "offense": "TAMU",
+    "defense": "TXST",
+    "time": "1642",
+    "result": "TL",
     "primary": [
       "TXST-BRANDON MACDOWRA"
     ],
-    "result": "TL",
-    "length": 7,
-    "period": "FLOOR",
     "secondary": [
       "TAMU-1",
       "TAMU-CAMERON VILLAMIL"
     ],
-    "time": "1642"
+    "period": "FLOOR",
+    "length": 7
   },
   "42": {
-    "defense": "TAMU",
-    "offense": "TXST",
     "extras": [],
+    "offense": "TXST",
+    "defense": "TAMU",
+    "time": "1651",
+    "result": "GS",
     "primary": [
       "TXST-BRANDON MACDOWRA"
     ],
-    "result": "GS",
-    "length": 9,
-    "period": "FLOOR",
     "secondary": [],
-    "time": "1651"
+    "period": "FLOOR",
+    "length": 9
   },
   "43": {
-    "defense": "TXST",
-    "offense": "TAMU",
     "extras": [],
+    "offense": "TAMU",
+    "defense": "TXST",
+    "time": "1719",
+    "result": "GD",
     "primary": [
       "TAMU-MCKENZIE CONNELL"
     ],
-    "result": "GD",
-    "length": 68,
-    "period": "FLOOR",
     "secondary": [],
-    "time": "1719"
+    "period": "FLOOR",
+    "length": 68
   },
   "44": {
-    "defense": "TAMU",
-    "offense": "TXST",
     "extras": [
       [
         "SOP",
@@ -682,83 +680,85 @@
         "TAMU-CAMERON VILLAMIL"
       ]
     ],
+    "offense": "TXST",
+    "defense": "TAMU",
+    "time": "1821",
+    "result": "GP",
     "primary": [
       "TXST-27"
     ],
-    "result": "GP",
-    "length": 102,
-    "period": "SOP",
     "secondary": [
       "TXST-ERIC REYES"
     ],
-    "time": "1821"
+    "period": "SOP",
+    "length": 102
   },
   "45": {
-    "defense": "TXST",
-    "offense": "TAMU",
     "extras": [],
+    "offense": "TAMU",
+    "defense": "TXST",
+    "time": "1839",
+    "result": "GP",
     "primary": [
       "TAMU-LANDIS WALTHER"
     ],
-    "result": "GP",
-    "length": 18,
-    "period": "SOP",
     "secondary": [
       "TAMU-1"
     ],
-    "time": "1839"
+    "period": "SOP",
+    "length": 18
   },
   "46": {
-    "defense": "TAMU",
-    "offense": "TXST",
     "extras": [],
+    "offense": "TXST",
+    "defense": "TAMU",
+    "time": "1913",
+    "result": "GS",
     "primary": [
       "TXST-BRANDON MACDOWRA"
     ],
-    "result": "GS",
-    "length": 74,
-    "period": "SOP",
     "secondary": [
       "TXST-TESS ACOSTA"
     ],
-    "time": "1913"
+    "period": "SOP",
+    "length": 74
   },
   "47": {
-    "defense": "TXST",
-    "offense": "TAMU",
     "extras": [
       [
         "Y",
         "TAMU-NICK ROY"
       ]
     ],
+    "offense": "TAMU",
+    "defense": "TXST",
+    "time": "1949",
+    "result": "TL",
     "primary": [
       "TXST-ERIC REYES"
     ],
-    "result": "TL",
-    "length": 36,
-    "period": "SOP",
     "secondary": [
       "TAMU-LOGAN ZAHN"
     ],
-    "time": "1949"
+    "period": "SOP",
+    "length": 36
   },
   "48": {
-    "defense": "TAMU",
-    "offense": "TXST",
     "extras": [
       [
         "2Y",
         "TAMU-CAMERON VILLAMIL"
       ]
     ],
+    "offense": "TXST",
+    "defense": "TAMU",
+    "time": "2007",
+    "result": "RCA",
     "primary": [
       "TXST-KRIS DELAFUENTE"
     ],
-    "result": "RCA",
-    "length": -1,
-    "period": "SOP",
     "secondary": [],
-    "time": "2007"
+    "period": "SOP",
+    "length": -1
   }
 }

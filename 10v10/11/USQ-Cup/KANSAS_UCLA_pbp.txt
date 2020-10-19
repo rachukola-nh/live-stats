@@ -14,7 +14,7 @@ UCLA possession: Missed shot by ['UCLA-ELIZABETH NG']. Turnover.
 KANSAS possession: Goal on the drive by ['KANSAS-MIKE DEVINE'].
 UCLA possession: Pass between ['UCLA-RYAN HARRIS', 'UCLA-ELIZABETH NG'] defended by ['KANSAS-MATT DWYER']. Turnover
 KANSAS possession: Beat by ['UCLA-JUSTIN VANLIGTEN'] on ['KANSAS-BRYAN WEARY'] forces a TURNOVER. During the play, yellow card on UCLA-ELIZABETH NG
-UCLA possession: Errant pass from ['UCLA-RYAN HARRIS'] to ['UCLA-UNK']. Turnover During the play, reset forced by KANSAS-JAKE SIMON
+UCLA possession: Errant pass from ['UCLA-RYAN HARRIS'] in the direction of ['UCLA-UNK'] . Turnover During the play, reset forced by KANSAS-JAKE SIMON
 KANSAS possession: Shot by ['KANSAS-OLIVIA FEDERICO'] blocked by ['UCLA-KEVIN GALLAGHER']. Turnover.
 UCLA possession: Goal on the drive by ['UCLA-RYAN HARRIS'].
 KANSAS possession: Goal on the shot by ['KANSAS-MATT DWYER'].
@@ -24,12 +24,12 @@ UCLA possession: Beat by ['KANSAS-RACHEL ENGLAND'] on ['UCLA-CHRISTIAN KRIEGER']
 KANSAS possession: Goal on the shot by ['KANSAS-MATT DWYER'].
 UCLA possession: Goal on the drive by ['UCLA-JONATHAN GARCIA-ROVETTA'].
 KANSAS possession: Pass between ['KANSAS-RACHEL HEALD', 'KANSAS-BRANDON TABOR'] defended by ['UCLA-CHRISTIAN KRIEGER']. Turnover
-UCLA possession: Errant pass from ['UCLA-CHRISTIAN CLARION'] to ['UCLA-ELIZABETH NG']. Turnover During the play, reset forced by KANSAS-RYLEY ANDREWS
+UCLA possession: Errant pass from ['UCLA-CHRISTIAN CLARION'] in the direction of ['UCLA-ELIZABETH NG'] . Turnover During the play, reset forced by KANSAS-RYLEY ANDREWS
 KANSAS possession: Goal on the drive by ['KANSAS-BRANDON TABOR'].
 UCLA possession: Goal on the shot by ['UCLA-JONATHAN GARCIA-ROVETTA'].
 KANSAS possession: Goal on the drive by ['KANSAS-PARIS NICHOLS'].
 UCLA possession: ['UCLA-CHRISTIAN CLARION'] passes to ['UCLA-JONATHAN GARCIA-ROVETTA'] at the hoops, GOAL. During the play, SNITCH ON PITCH begins
-KANSAS possession: Errant pass from ['KANSAS-RACHEL HEALD'] to ['KANSAS-OLIVIA FEDERICO']. Turnover
+KANSAS possession: Errant pass from ['KANSAS-RACHEL HEALD'] in the direction of ['KANSAS-OLIVIA FEDERICO'] . Turnover
 UCLA possession: Pass between ['UCLA-CHRISTIAN CLARION', 'UCLA-KEVIN GALLAGHER'] defended by ['KANSAS-OLIVIA FEDERICO']. Turnover
 KANSAS possession: Missed shot by ['KANSAS-BRANDON TABOR']. Turnover.
 UCLA possession: Goal on the drive by ['UCLA-RYAN HARRIS'].
@@ -62,8 +62,8 @@ UCLA possession: Goal on the drive by ['UCLA-RYAN HARRIS'].
 KANSAS possession: Goal by ['KANSAS-UNK'].
 UCLA possession: Snitch catch by ['KANSAS-UNK'] is GOOD.
 UCLA possession: Turnover forced by physical contact by ['KANSAS-IAN MCCABE'] on ['UCLA-CHRISTIAN CLARION']
-KANSAS possession: Errant pass from ['KANSAS-BEN ENGELS'] to ['KANSAS-IAN MCCABE']. Turnover During the play, yellow card on UCLA-CHRISTIAN KRIEGER
-UCLA possession: Errant pass from ['UCLA-UNK'] to ['UCLA-RYAN HARRIS']. Turnover
+KANSAS possession: Errant pass from ['KANSAS-BEN ENGELS'] in the direction of ['KANSAS-IAN MCCABE'] . Turnover During the play, yellow card on UCLA-CHRISTIAN KRIEGER
+UCLA possession: Errant pass from ['UCLA-UNK'] in the direction of ['UCLA-RYAN HARRIS'] . Turnover
 KANSAS possession: Goal on the drive by ['KANSAS-ELI DORSEY'].
 UCLA possession: Goal on the drive by ['UCLA-RYAN HARRIS'], assist by ['UCLA-JONATHAN GARCIA-ROVETTA']
 KANSAS possession: Goal on the drive by ['KANSAS-BEN ENGELS'].

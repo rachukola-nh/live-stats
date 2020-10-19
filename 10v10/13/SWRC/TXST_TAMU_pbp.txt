@@ -17,14 +17,14 @@
 (07:27)TXST possession: Beat by ['TAMU-SHANIAH CARROLL'] on ['TXST-CLAYTON CARLISLE'] forces a TURNOVER.
 (07:40)TAMU possession: Red card on ['TAMU-JOHN GHERING'] forces turnover.
 (08:02)TXST possession: Goal on the shot by ['TXST-NICK ED']. During the play, yellow card on TAMU-TYLER PEARSON
-(08:28)TAMU possession: Errant pass from ['TAMU-CONNOR MCINTYRE'] to ['TAMU-87']. Turnover
+(08:28)TAMU possession: Errant pass from ['TAMU-CONNOR MCINTYRE'] in the direction of ['TAMU-87'] . Turnover
 (09:11)TXST possession: ['TXST-CALEB RATLIFF'] passes to ['TXST-CLAYTON CARLISLE'] at the hoops, GOAL.
 (09:38)TAMU possession: Beat by ['TXST-JOHN MOLINA'] on ['TAMU-13'] forces a TURNOVER.
 (10:01)TXST possession: Shot by ['TXST-IAN GAONA'] blocked by ['TAMU-CAMERON VILLAMIL']. Turnover.
 (10:09)TAMU possession: Turnover forced by physical contact by ['TXST-MIKE MORROW'] on ['TAMU-CAMERON VILLAMIL']
 (10:32)TXST possession: Goal on the shot by ['TXST-NICK ED'].
 (11:33)TAMU possession: Goal on the drive by ['TAMU-HAYDAN ALTMAN']. During the play, reset forced by TXST-MAYA HINEBAUGH
-(12:00)TXST possession: Errant pass from ['TXST-IAN GAONA'] to ['TXST-JANETTE GARCIA']. Turnover
+(12:00)TXST possession: Errant pass from ['TXST-IAN GAONA'] in the direction of ['TXST-JANETTE GARCIA'] . Turnover
 (13:52)TAMU possession: Turnover forced by physical contact by ['TXST-TIM NGUYEN'] on ['TAMU-HAYDAN ALTMAN'] During the play, reset forced by TXST-CAMERON OGILVIE
 (14:21)TXST possession: ['TXST-NICK ED'] passes to ['TXST-TIM NGUYEN'] at the hoops, GOAL.
 (14:58)TAMU possession: Beat by ['TXST-TESS ACOSTA'] on ['TAMU-TYLER PEARSON'] forces a TURNOVER.

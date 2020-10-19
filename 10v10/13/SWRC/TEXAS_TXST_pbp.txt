@@ -17,13 +17,13 @@
 (08:10)TEXAS possession: Missed shot by ['TEXAS-LUKE MEISSNER']. Turnover.
 (09:07)TXST possession: Pass between ['TXST-JANETTE GARCIA', 'TXST-NICK ED'] defended by ['TEXAS-JOSH JOHNSON']. Turnover
 (09:10)TEXAS possession: Goal on the drive by ['TEXAS-JOSH JOHNSON'].
-(09:35)TXST possession: Errant pass from ['TXST-NICK ED'] to ['TXST-IAN GAONA']. Turnover
+(09:35)TXST possession: Errant pass from ['TXST-NICK ED'] in the direction of ['TXST-IAN GAONA'] . Turnover
 (09:54)TEXAS possession: ['TEXAS-LUKE MEISSNER'] passes to ['TEXAS-JOSH JOHNSON'] at the hoops, GOAL.
 (10:00)TXST possession: Beat by ['TEXAS-TATE KAY'] on ['TXST-NICK ED'] forces a TURNOVER.
 (10:34)TEXAS possession: Goal on the drive by ['TEXAS-JOSH JOHNSON'].
 (11:00)TXST possession: Pass between ['TXST-CALEB RATLIFF', 'TXST-TIM NGUYEN'] defended by ['TEXAS-JOSH JOHNSON']. Turnover
 (11:08)TEXAS possession: Missed shot by ['TEXAS-JOSH JOHNSON']. Turnover.
-(11:53)TXST possession: Errant pass from ['TXST-TIM NGUYEN'] to ['TXST-JOHN ALVAREZ']. Turnover
+(11:53)TXST possession: Errant pass from ['TXST-TIM NGUYEN'] in the direction of ['TXST-JOHN ALVAREZ'] . Turnover
 (12:20)TEXAS possession: Goal on the drive by ['TEXAS-LUKE MEISSNER'].
 (12:58)TXST possession: Turnover forced by physical contact by ['TEXAS-JAYDAN GILSTRAP'] on ['TXST-CALEB RATLIFF']
 (13:30)TEXAS possession: Yellow card on ['TEXAS-TATE KAY'] forces turnover. During the play, reset forced by TXST-TESS ACOSTA

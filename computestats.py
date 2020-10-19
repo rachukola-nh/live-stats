@@ -44,10 +44,12 @@ TRANSLATION = {
     'GP':'{1} passes to {0} at the hoops, GOAL.',
     'T' :'Turnover by {0}',
     'TB':'Beat by {0} on {1} forces a TURNOVER.',
+    'TBP':'Beater pressure by {0} on {1} forces a TURNOVER.',
+    'TLB':'Bludger throw by {0} blocks shot/pass by {1}. Turnover',
     'TC':'Turnover forced by physical contact by {0} on {1}',
     'TL':'Shot by {1} blocked by {0}. Turnover.',
     'TD':'Pass between {1} defended by {0}. Turnover',
-    'EP':'Errant pass from {0} to {1}. Turnover',
+    'EP':'Errant pass from {0} in the direction of {1} . Turnover',
     'ED':'Pass by {1} dropped by {0}. Turnover'
     }
 }
@@ -344,6 +346,7 @@ def process_file(ifile):
     possessions = get_possessions(data)
     interpreted = [get_brooms_up(header,roster,teams)]+[interpret(pos,roster,teams) for pos in possessions]
     add_times(interpreted)
+    print(': {} plays'.format(len(interpreted)))
     with open(json_output_file,'w+') as f:
         json.dump({i:v for i,v in enumerate(interpreted)},f,indent=2)
     print('.',end='')

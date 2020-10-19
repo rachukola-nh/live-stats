@@ -1,490 +1,489 @@
 {
   "0": {
-    "offense": "Brooms Up",
     "extras": [],
-    "period": "FLOOR",
-    "secondary": [
-      "UMD-0"
-    ],
-    "time": "0000",
+    "offense": "Brooms Up",
+    "defense": "",
     "length": -1,
+    "time": "0000",
+    "result": "BU",
     "primary": [
       "TAMU-SAM HAIMOWITZ"
     ],
-    "defense": "",
-    "result": "BU"
+    "secondary": [
+      "UMD-0"
+    ],
+    "period": "FLOOR"
   },
   "1": {
-    "offense": "TAMU",
     "extras": [],
-    "length": 41,
-    "period": "FLOOR",
-    "secondary": [
-      "TAMU-CONNOR MCINTYRE",
-      "TAMU-RACHEL NICOLETTI"
-    ],
+    "offense": "TAMU",
+    "defense": "UMD",
     "time": "0041",
     "result": "TD",
     "primary": [
       "UMD-JOHN SHERIDAN"
     ],
-    "defense": "UMD"
+    "secondary": [
+      "TAMU-CONNOR MCINTYRE",
+      "TAMU-RACHEL NICOLETTI"
+    ],
+    "period": "FLOOR",
+    "length": 41
   },
   "2": {
-    "offense": "UMD",
     "extras": [],
-    "length": 62,
-    "period": "FLOOR",
-    "secondary": [],
+    "offense": "UMD",
+    "defense": "TAMU",
     "time": "0103",
     "result": "GD",
     "primary": [
       "UMD-GARRETT SADTLER"
     ],
-    "defense": "TAMU"
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 62
   },
   "3": {
-    "offense": "TAMU",
     "extras": [],
-    "length": 28,
-    "period": "FLOOR",
-    "secondary": [
-      "TAMU-SAM HAIMOWITZ"
-    ],
+    "offense": "TAMU",
+    "defense": "UMD",
     "time": "0131",
     "result": "GP",
     "primary": [
       "TAMU-CONNOR MCINTYRE"
     ],
-    "defense": "UMD"
+    "secondary": [
+      "TAMU-SAM HAIMOWITZ"
+    ],
+    "period": "FLOOR",
+    "length": 28
   },
   "4": {
-    "offense": "UMD",
     "extras": [],
-    "length": 72,
-    "period": "FLOOR",
-    "secondary": [
-      "UMD-GARRETT SADTLER"
-    ],
+    "offense": "UMD",
+    "defense": "TAMU",
     "time": "0203",
     "result": "GP",
     "primary": [
       "UMD-44"
     ],
-    "defense": "TAMU"
+    "secondary": [
+      "UMD-GARRETT SADTLER"
+    ],
+    "period": "FLOOR",
+    "length": 72
   },
   "5": {
-    "offense": "TAMU",
     "extras": [],
-    "length": 23,
-    "period": "FLOOR",
-    "secondary": [
-      "TAMU-SAMMY GARZA"
-    ],
+    "offense": "TAMU",
+    "defense": "UMD",
     "time": "0226",
     "result": "GD",
     "primary": [
       "TAMU-SAM HAIMOWITZ"
     ],
-    "defense": "UMD"
+    "secondary": [
+      "TAMU-SAMMY GARZA"
+    ],
+    "period": "FLOOR",
+    "length": 23
   },
   "6": {
-    "offense": "UMD",
     "extras": [],
-    "length": 92,
-    "period": "FLOOR",
-    "secondary": [],
+    "offense": "UMD",
+    "defense": "TAMU",
     "time": "0318",
     "result": "EM",
     "primary": [
       "UMD-GARRETT SADTLER"
     ],
-    "defense": "TAMU"
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 92
   },
   "7": {
-    "offense": "TAMU",
     "extras": [],
-    "length": 30,
-    "period": "FLOOR",
-    "secondary": [
-      "TAMU-CONNOR MCINTYRE",
-      "TAMU-SAMMY GARZA"
-    ],
+    "offense": "TAMU",
+    "defense": "UMD",
     "time": "0348",
     "result": "TD",
     "primary": [
       "UMD-BEN WHONG"
     ],
-    "defense": "UMD"
+    "secondary": [
+      "TAMU-CONNOR MCINTYRE",
+      "TAMU-SAMMY GARZA"
+    ],
+    "period": "FLOOR",
+    "length": 30
   },
   "8": {
-    "offense": "UMD",
     "extras": [],
-    "length": 63,
-    "period": "FLOOR",
-    "secondary": [
-      "UMD-BEN WHONG"
-    ],
+    "offense": "UMD",
+    "defense": "TAMU",
     "time": "0411",
     "result": "TL",
     "primary": [
       "TAMU-SAMMY GARZA"
     ],
-    "defense": "TAMU"
+    "secondary": [
+      "UMD-BEN WHONG"
+    ],
+    "period": "FLOOR",
+    "length": 63
   },
   "9": {
-    "offense": "TAMU",
     "extras": [],
-    "length": 5,
-    "period": "FLOOR",
-    "secondary": [],
+    "offense": "TAMU",
+    "defense": "UMD",
     "time": "0416",
     "result": "GD",
     "primary": [
       "TAMU-SAMMY GARZA"
     ],
-    "defense": "UMD"
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 5
   },
   "10": {
-    "offense": "UMD",
     "extras": [],
-    "length": 36,
-    "period": "FLOOR",
-    "secondary": [
-      "UMD-BEN WHONG"
-    ],
+    "offense": "UMD",
+    "defense": "TAMU",
     "time": "0452",
     "result": "TB",
     "primary": [
       "TAMU-ALEX STEWART"
     ],
-    "defense": "TAMU"
+    "secondary": [
+      "UMD-BEN WHONG"
+    ],
+    "period": "FLOOR",
+    "length": 36
   },
   "11": {
-    "offense": "TAMU",
     "extras": [],
-    "length": 51,
-    "period": "FLOOR",
-    "secondary": [
-      "TAMU-RACHEL NICOLETTI"
-    ],
+    "offense": "TAMU",
+    "defense": "UMD",
     "time": "0503",
     "result": "TC",
     "primary": [
       "UMD-44"
     ],
-    "defense": "UMD"
+    "secondary": [
+      "TAMU-RACHEL NICOLETTI"
+    ],
+    "period": "FLOOR",
+    "length": 51
   },
   "12": {
-    "offense": "UMD",
     "extras": [
       [
         "Y",
         "TAMU-ALEX STEWART"
       ]
     ],
-    "length": 108,
-    "period": "FLOOR",
-    "secondary": [
-      "UMD-GARRETT SADTLER"
-    ],
+    "offense": "UMD",
+    "defense": "TAMU",
     "time": "0611",
     "result": "GP",
     "primary": [
       "UMD-ABBY POTTER"
     ],
-    "defense": "TAMU"
+    "secondary": [
+      "UMD-GARRETT SADTLER"
+    ],
+    "period": "FLOOR",
+    "length": 108
   },
   "13": {
-    "offense": "TAMU",
     "extras": [],
-    "length": 33,
-    "period": "FLOOR",
-    "secondary": [],
+    "offense": "TAMU",
+    "defense": "UMD",
     "time": "0644",
     "result": "GD",
     "primary": [
       "TAMU-SAM HAIMOWITZ"
     ],
-    "defense": "UMD"
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 33
   },
   "14": {
-    "offense": "UMD",
     "extras": [],
-    "length": 79,
-    "period": "FLOOR",
-    "secondary": [
-      "UMD-BRENDAN HUTTON",
-      "UMD-ABBY POTTER"
-    ],
+    "offense": "UMD",
+    "defense": "TAMU",
     "time": "0723",
     "result": "TD",
     "primary": [
       "TAMU-SAM HAIMOWITZ"
     ],
-    "defense": "TAMU"
+    "secondary": [
+      "UMD-BRENDAN HUTTON",
+      "UMD-ABBY POTTER"
+    ],
+    "period": "FLOOR",
+    "length": 79
   },
   "15": {
-    "offense": "TAMU",
     "extras": [],
-    "length": 9,
-    "period": "FLOOR",
-    "secondary": [
-      "TAMU-SAM HAIMOWITZ"
-    ],
+    "offense": "TAMU",
+    "defense": "UMD",
     "time": "0732",
     "result": "GS",
     "primary": [
       "TAMU-SHAWN ERWIN"
     ],
-    "defense": "UMD"
+    "secondary": [
+      "TAMU-SAM HAIMOWITZ"
+    ],
+    "period": "FLOOR",
+    "length": 9
   },
   "16": {
-    "offense": "UMD",
     "extras": [],
-    "length": 76,
-    "period": "FLOOR",
-    "secondary": [
-      "UMD-DALE FARNAN"
-    ],
+    "offense": "UMD",
+    "defense": "TAMU",
     "time": "0808",
     "result": "TB",
     "primary": [
       "TAMU-DANIEL SOBARZO"
     ],
-    "defense": "TAMU"
+    "secondary": [
+      "UMD-DALE FARNAN"
+    ],
+    "period": "FLOOR",
+    "length": 76
   },
   "17": {
-    "offense": "TAMU",
     "extras": [
       [
         "Y",
         "UMD-DALE FARNAN"
       ]
     ],
-    "length": 34,
-    "period": "FLOOR",
-    "secondary": [
-      "TAMU-LOUIS SANCHEZ"
-    ],
+    "offense": "TAMU",
+    "defense": "UMD",
     "time": "0842",
     "result": "GP",
     "primary": [
       "TAMU-SHAWN ERWIN"
     ],
-    "defense": "UMD"
+    "secondary": [
+      "TAMU-LOUIS SANCHEZ"
+    ],
+    "period": "FLOOR",
+    "length": 34
   },
   "18": {
-    "offense": "UMD",
     "extras": [],
-    "length": 112,
-    "period": "FLOOR",
-    "secondary": [
-      "UMD-DALE FARNAN"
-    ],
+    "offense": "UMD",
+    "defense": "TAMU",
     "time": "0954",
     "result": "TC",
     "primary": [
       "TAMU-1"
     ],
-    "defense": "TAMU"
+    "secondary": [
+      "UMD-DALE FARNAN"
+    ],
+    "period": "FLOOR",
+    "length": 112
   },
   "19": {
-    "offense": "TAMU",
     "extras": [
       [
         "R",
         "UMD-RYAN PIRTLE"
       ]
     ],
-    "length": 154,
-    "period": "FLOOR",
-    "secondary": [
-      "TAMU-1"
-    ],
+    "offense": "TAMU",
+    "defense": "UMD",
     "time": "1108",
     "result": "GD",
     "primary": [
       "TAMU-SHAWN ERWIN"
     ],
-    "defense": "UMD"
+    "secondary": [
+      "TAMU-1"
+    ],
+    "period": "FLOOR",
+    "length": 154
   },
   "20": {
-    "offense": "UMD",
     "extras": [
       [
         "Y",
         "TAMU-SHAWN ERWIN"
       ]
     ],
-    "length": 92,
-    "period": "FLOOR",
-    "secondary": [],
+    "offense": "UMD",
+    "defense": "TAMU",
     "time": "1200",
     "result": "GD",
     "primary": [
       "UMD-JOHN SHERIDAN"
     ],
-    "defense": "TAMU"
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 92
   },
   "21": {
-    "offense": "TAMU",
     "extras": [],
-    "length": 24,
-    "period": "FLOOR",
-    "secondary": [
-      "TAMU-1"
-    ],
+    "offense": "TAMU",
+    "defense": "UMD",
     "time": "1224",
     "result": "GD",
     "primary": [
       "TAMU-LOUIS SANCHEZ"
     ],
-    "defense": "UMD"
+    "secondary": [
+      "TAMU-1"
+    ],
+    "period": "FLOOR",
+    "length": 24
   },
   "22": {
-    "offense": "UMD",
     "extras": [],
-    "length": 15,
-    "period": "FLOOR",
-    "secondary": [],
+    "offense": "UMD",
+    "defense": "TAMU",
     "time": "1239",
     "result": "ED",
     "primary": [
       "UMD-GARRETT SADTLER"
     ],
-    "defense": "TAMU"
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 15
   },
   "23": {
-    "offense": "TAMU",
     "extras": [
       [
         "Y",
         "UMD-JOHN SHERIDAN"
       ]
     ],
-    "length": 89,
-    "period": "FLOOR",
-    "secondary": [
-      "TAMU-LANDIS WALTHER"
-    ],
+    "offense": "TAMU",
+    "defense": "UMD",
     "time": "1328",
     "result": "TC",
     "primary": [
       "UMD-GARRETT SADTLER"
     ],
-    "defense": "UMD"
+    "secondary": [
+      "TAMU-LANDIS WALTHER"
+    ],
+    "period": "FLOOR",
+    "length": 89
   },
   "24": {
-    "offense": "UMD",
     "extras": [],
-    "length": 88,
-    "period": "FLOOR",
-    "secondary": [],
+    "offense": "UMD",
+    "defense": "TAMU",
     "time": "1416",
     "result": "GD",
     "primary": [
       "UMD-GARRETT SADTLER"
     ],
-    "defense": "TAMU"
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 88
   },
   "25": {
-    "offense": "TAMU",
     "extras": [],
-    "length": 23,
-    "period": "FLOOR",
-    "secondary": [
-      "TAMU-JESSICA HEMBREE"
-    ],
+    "offense": "TAMU",
+    "defense": "UMD",
     "time": "1439",
     "result": "EP",
     "primary": [
       "TAMU-19"
     ],
-    "defense": "UMD"
+    "secondary": [
+      "TAMU-JESSICA HEMBREE"
+    ],
+    "period": "FLOOR",
+    "length": 23
   },
   "26": {
-    "offense": "UMD",
     "extras": [],
-    "length": 72,
-    "period": "FLOOR",
-    "secondary": [
-      "UMD-MACK MORGAN"
-    ],
+    "offense": "UMD",
+    "defense": "TAMU",
     "time": "1511",
     "result": "TB",
     "primary": [
       "TAMU-COURTNEY YOUNGS"
     ],
-    "defense": "TAMU"
+    "secondary": [
+      "UMD-MACK MORGAN"
+    ],
+    "period": "FLOOR",
+    "length": 72
   },
   "27": {
-    "offense": "TAMU",
     "extras": [],
-    "length": 34,
-    "period": "FLOOR",
-    "secondary": [
-      "TAMU-LOUIS SANCHEZ"
-    ],
+    "offense": "TAMU",
+    "defense": "UMD",
     "time": "1545",
     "result": "ED",
     "primary": [
       "TAMU-JESSICA HEMBREE"
     ],
-    "defense": "UMD"
+    "secondary": [
+      "TAMU-LOUIS SANCHEZ"
+    ],
+    "period": "FLOOR",
+    "length": 34
   },
   "28": {
-    "offense": "UMD",
     "extras": [],
-    "length": 70,
-    "period": "FLOOR",
-    "secondary": [
-      "UMD-MACK MORGAN"
-    ],
+    "offense": "UMD",
+    "defense": "TAMU",
     "time": "1615",
     "result": "TB",
     "primary": [
       "TAMU-NICK ROY"
     ],
-    "defense": "TAMU"
+    "secondary": [
+      "UMD-MACK MORGAN"
+    ],
+    "period": "FLOOR",
+    "length": 70
   },
   "29": {
-    "offense": "TAMU",
     "extras": [],
-    "length": 35,
-    "period": "FLOOR",
-    "secondary": [
-      "TAMU-LOUIS SANCHEZ"
-    ],
+    "offense": "TAMU",
+    "defense": "UMD",
     "time": "1650",
     "result": "GD",
     "primary": [
       "TAMU-SAM HAIMOWITZ"
     ],
-    "defense": "UMD"
+    "secondary": [
+      "TAMU-LOUIS SANCHEZ"
+    ],
+    "period": "FLOOR",
+    "length": 35
   },
   "30": {
-    "offense": "UMD",
     "extras": [
       [
         "B",
         "TAMU-SAM HAIMOWITZ"
       ]
     ],
-    "length": 74,
-    "period": "FLOOR",
-    "secondary": [
-      "UMD-GARRETT SADTLER"
-    ],
+    "offense": "UMD",
+    "defense": "TAMU",
     "time": "1724",
     "result": "GD",
     "primary": [
       "UMD-NATHAN ABBOTT"
     ],
-    "defense": "TAMU"
+    "secondary": [
+      "UMD-GARRETT SADTLER"
+    ],
+    "period": "FLOOR",
+    "length": 74
   },
   "31": {
-    "offense": "TAMU",
     "extras": [
       [
         "SOP",
@@ -495,133 +494,134 @@
         "TAMU-19"
       ]
     ],
-    "length": 83,
-    "period": "SOP",
-    "secondary": [
-      "TAMU-SAM HAIMOWITZ"
-    ],
+    "offense": "TAMU",
+    "defense": "UMD",
     "time": "1807",
     "result": "TL",
     "primary": [
       "UMD-NOAH RINDOCK"
     ],
-    "defense": "UMD"
+    "secondary": [
+      "TAMU-SAM HAIMOWITZ"
+    ],
+    "period": "SOP",
+    "length": 83
   },
   "32": {
-    "offense": "UMD",
     "extras": [
       [
         "R",
         "TAMU-ALEX STEWART"
       ]
     ],
-    "length": 32,
-    "period": "SOP",
-    "secondary": [
-      "UMD-GARRETT SADTLER"
-    ],
+    "offense": "UMD",
+    "defense": "TAMU",
     "time": "1839",
     "result": "GD",
     "primary": [
       "UMD-NOAH RINDOCK"
     ],
-    "defense": "TAMU"
+    "secondary": [
+      "UMD-GARRETT SADTLER"
+    ],
+    "period": "SOP",
+    "length": 32
   },
   "33": {
-    "offense": "TAMU",
     "extras": [],
-    "length": 19,
-    "period": "SOP",
-    "secondary": [],
+    "offense": "TAMU",
+    "defense": "UMD",
     "time": "1858",
     "result": "GS",
     "primary": [
       "TAMU-SAM HAIMOWITZ"
     ],
-    "defense": "UMD"
+    "secondary": [],
+    "period": "SOP",
+    "length": 19
   },
   "34": {
-    "offense": "UMD",
     "extras": [],
-    "length": 59,
-    "period": "SOP",
-    "secondary": [],
+    "offense": "UMD",
+    "defense": "TAMU",
     "time": "1917",
     "result": "GD",
     "primary": [
       "UMD-NATHAN ABBOTT"
     ],
-    "defense": "TAMU"
+    "secondary": [],
+    "period": "SOP",
+    "length": 59
   },
   "35": {
-    "offense": "TAMU",
     "extras": [],
-    "length": 27,
-    "period": "SOP",
-    "secondary": [
-      "TAMU-RACHEL NICOLETTI"
-    ],
+    "offense": "TAMU",
+    "defense": "UMD",
     "time": "1944",
     "result": "GP",
     "primary": [
       "TAMU-SAMMY GARZA"
     ],
-    "defense": "UMD"
+    "secondary": [
+      "TAMU-RACHEL NICOLETTI"
+    ],
+    "period": "SOP",
+    "length": 27
   },
   "36": {
-    "offense": "UMD",
     "extras": [],
-    "length": 81,
-    "period": "SOP",
-    "secondary": [
-      "UMD-NOAH RINDOCK"
-    ],
+    "offense": "UMD",
+    "defense": "TAMU",
     "time": "2025",
     "result": "TC",
     "primary": [
       "TAMU-LOGAN ZAHN"
     ],
-    "defense": "TAMU"
+    "secondary": [
+      "UMD-NOAH RINDOCK"
+    ],
+    "period": "SOP",
+    "length": 81
   },
   "37": {
-    "offense": "TAMU",
     "extras": [],
-    "length": 18,
-    "period": "SOP",
-    "secondary": [
-      "TAMU-SAMMY GARZA"
-    ],
+    "offense": "TAMU",
+    "defense": "UMD",
     "time": "2043",
     "result": "TB",
     "primary": [
       "UMD-LAUREN DYKE"
     ],
-    "defense": "UMD"
+    "secondary": [
+      "TAMU-SAMMY GARZA"
+    ],
+    "period": "SOP",
+    "length": 18
   },
   "38": {
-    "offense": "UMD",
     "extras": [],
-    "length": 6,
-    "period": "SOP",
-    "secondary": [],
+    "offense": "UMD",
+    "defense": "TAMU",
     "time": "2049",
     "result": "GD",
     "primary": [
       "UMD-JOHN SHERIDAN"
     ],
-    "defense": "TAMU"
+    "secondary": [],
+    "period": "SOP",
+    "length": 6
   },
   "39": {
-    "offense": "TAMU",
     "extras": [],
-    "length": -1,
-    "period": "SOP",
-    "secondary": [],
+    "offense": "TAMU",
+    "defense": "UMD",
     "time": "2052",
     "result": "RCA",
     "primary": [
       "UMD-BEN WHONG"
     ],
-    "defense": "UMD"
+    "secondary": [],
+    "period": "SOP",
+    "length": -1
   }
 }

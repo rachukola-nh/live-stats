@@ -1,326 +1,317 @@
 {
   "0": {
+    "extras": [],
+    "offense": "Brooms Up",
+    "defense": "",
+    "length": -1,
+    "time": "0000",
+    "result": "BU",
     "primary": [
       "CAL-ELIJAH PHIPPS"
     ],
     "secondary": [
       "TAMU-ARON GEBREMICAEL"
     ],
-    "time": "0000",
-    "length": -1,
-    "extras": [],
-    "offense": "Brooms Up",
-    "result": "BU",
-    "defense": "",
     "period": "FLOOR"
   },
   "1": {
-    "period": "FLOOR",
-    "secondary": [
-      "CAL-RYAN PFENNING"
-    ],
-    "length": 10,
+    "extras": [],
+    "offense": "CAL",
+    "defense": "TAMU",
+    "time": "0010",
+    "result": "TB",
     "primary": [
       "TAMU-ARON GEBREMICAEL"
     ],
-    "time": "0010",
-    "extras": [],
-    "offense": "CAL",
-    "result": "TB",
-    "defense": "TAMU"
-  },
-  "2": {
-    "period": "FLOOR",
-    "secondary": [
-      "TAMU-CAMERON VILLAMIL"
-    ],
-    "length": 11,
-    "primary": [
-      "TAMU-CONNOR MCINTYRE"
-    ],
-    "time": "0021",
-    "extras": [],
-    "offense": "TAMU",
-    "result": "GD",
-    "defense": "CAL"
-  },
-  "3": {
-    "period": "FLOOR",
     "secondary": [
       "CAL-RYAN PFENNING"
     ],
-    "length": 28,
+    "period": "FLOOR",
+    "length": 10
+  },
+  "2": {
+    "extras": [],
+    "offense": "TAMU",
+    "defense": "CAL",
+    "time": "0021",
+    "result": "GD",
+    "primary": [
+      "TAMU-CONNOR MCINTYRE"
+    ],
+    "secondary": [
+      "TAMU-CAMERON VILLAMIL"
+    ],
+    "period": "FLOOR",
+    "length": 11
+  },
+  "3": {
+    "extras": [],
+    "offense": "CAL",
+    "defense": "TAMU",
+    "time": "0049",
+    "result": "TL",
     "primary": [
       "TAMU-HAYDAN ALTMAN"
     ],
-    "time": "0049",
-    "extras": [],
-    "offense": "CAL",
-    "result": "TL",
-    "defense": "TAMU"
+    "secondary": [
+      "CAL-RYAN PFENNING"
+    ],
+    "period": "FLOOR",
+    "length": 28
   },
   "4": {
-    "period": "FLOOR",
+    "extras": [],
+    "offense": "TAMU",
+    "defense": "CAL",
+    "time": "0110",
+    "result": "TD",
+    "primary": [
+      "CAL-RYAN PFENNING"
+    ],
     "secondary": [
       "TAMU-HAYDAN ALTMAN",
       "TAMU-LANDIS WALTHER"
     ],
-    "length": 61,
-    "primary": [
-      "CAL-RYAN PFENNING"
-    ],
-    "time": "0110",
-    "extras": [],
-    "offense": "TAMU",
-    "result": "TD",
-    "defense": "CAL"
+    "period": "FLOOR",
+    "length": 61
   },
   "5": {
-    "period": "FLOOR",
-    "secondary": [
-      "CAL-RYAN PFENNING"
-    ],
-    "length": 26,
+    "extras": [],
+    "offense": "CAL",
+    "defense": "TAMU",
+    "time": "0136",
+    "result": "GP",
     "primary": [
       "CAL-ELIJAH PHIPPS"
     ],
-    "time": "0136",
-    "extras": [],
-    "offense": "CAL",
-    "result": "GP",
-    "defense": "TAMU"
+    "secondary": [
+      "CAL-RYAN PFENNING"
+    ],
+    "period": "FLOOR",
+    "length": 26
   },
   "6": {
-    "period": "FLOOR",
-    "secondary": [],
-    "length": 81,
+    "extras": [],
+    "offense": "TAMU",
+    "defense": "CAL",
+    "time": "0217",
+    "result": "GS",
     "primary": [
       "TAMU-CONNOR MCINTYRE"
     ],
-    "time": "0217",
-    "extras": [],
-    "offense": "TAMU",
-    "result": "GS",
-    "defense": "CAL"
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 81
   },
   "7": {
-    "period": "FLOOR",
+    "extras": [],
+    "offense": "CAL",
+    "defense": "TAMU",
+    "time": "0245",
+    "result": "TD",
+    "primary": [
+      "TAMU-HAYDAN ALTMAN"
+    ],
     "secondary": [
       "CAL-AJ MORGAN",
       "CAL-ELIJAH PHIPPS"
     ],
-    "length": 28,
-    "primary": [
-      "TAMU-HAYDAN ALTMAN"
-    ],
-    "time": "0245",
-    "extras": [],
-    "offense": "CAL",
-    "result": "TD",
-    "defense": "TAMU"
+    "period": "FLOOR",
+    "length": 28
   },
   "8": {
-    "period": "FLOOR",
-    "secondary": [
-      "TAMU-HAYDAN ALTMAN"
-    ],
-    "length": 6,
+    "extras": [],
+    "offense": "TAMU",
+    "defense": "CAL",
+    "time": "0251",
+    "result": "TC",
     "primary": [
       "CAL-RYAN PFENNING"
     ],
-    "time": "0251",
-    "extras": [],
-    "offense": "TAMU",
-    "result": "TC",
-    "defense": "CAL"
+    "secondary": [
+      "TAMU-HAYDAN ALTMAN"
+    ],
+    "period": "FLOOR",
+    "length": 6
   },
   "9": {
-    "period": "FLOOR",
-    "secondary": [
-      "CAL-RYAN PFENNING"
-    ],
-    "length": 79,
+    "extras": [],
+    "offense": "CAL",
+    "defense": "TAMU",
+    "time": "0330",
+    "result": "GS",
     "primary": [
       "CAL-ELIJAH PHIPPS"
     ],
-    "time": "0330",
-    "extras": [],
-    "offense": "CAL",
-    "result": "GS",
-    "defense": "TAMU"
+    "secondary": [
+      "CAL-RYAN PFENNING"
+    ],
+    "period": "FLOOR",
+    "length": 79
   },
   "10": {
-    "period": "FLOOR",
+    "extras": [],
+    "offense": "TAMU",
+    "defense": "CAL",
+    "time": "0341",
+    "result": "EP",
+    "primary": [
+      "TAMU-CONNOR MCINTYRE"
+    ],
     "secondary": [
       "TAMU-CAMERON VILLAMIL"
     ],
-    "length": 11,
-    "primary": [
-      "TAMU-CONNOR MCINTYRE"
-    ],
-    "time": "0341",
-    "extras": [],
-    "offense": "TAMU",
-    "result": "EP",
-    "defense": "CAL"
+    "period": "FLOOR",
+    "length": 11
   },
   "11": {
-    "period": "FLOOR",
-    "secondary": [
-      "CAL-RYAN PFENNING"
-    ],
-    "length": 74,
+    "extras": [],
+    "offense": "CAL",
+    "defense": "TAMU",
+    "time": "0415",
+    "result": "GP",
     "primary": [
       "CAL-ELIJAH PHIPPS"
     ],
-    "time": "0415",
-    "extras": [],
-    "offense": "CAL",
-    "result": "GP",
-    "defense": "TAMU"
+    "secondary": [
+      "CAL-RYAN PFENNING"
+    ],
+    "period": "FLOOR",
+    "length": 74
   },
   "12": {
-    "period": "FLOOR",
-    "secondary": [
-      "TAMU-CONNOR MCINTYRE"
-    ],
-    "length": 15,
+    "extras": [],
+    "offense": "TAMU",
+    "defense": "CAL",
+    "time": "0430",
+    "result": "GP",
     "primary": [
       "TAMU-HAYDAN ALTMAN"
     ],
-    "time": "0430",
-    "extras": [],
-    "offense": "TAMU",
-    "result": "GP",
-    "defense": "CAL"
+    "secondary": [
+      "TAMU-CONNOR MCINTYRE"
+    ],
+    "period": "FLOOR",
+    "length": 15
   },
   "13": {
-    "period": "FLOOR",
-    "secondary": [],
-    "length": 73,
+    "extras": [],
+    "offense": "CAL",
+    "defense": "TAMU",
+    "time": "0503",
+    "result": "GD",
     "primary": [
       "CAL-RYAN PFENNING"
     ],
-    "time": "0503",
-    "extras": [],
-    "offense": "CAL",
-    "result": "GD",
-    "defense": "TAMU"
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 73
   },
   "14": {
-    "period": "FLOOR",
+    "extras": [],
+    "offense": "TAMU",
+    "defense": "CAL",
+    "time": "0516",
+    "result": "TD",
+    "primary": [
+      "CAL-MADDI ERDALL"
+    ],
     "secondary": [
       "TAMU-CONNOR MCINTYRE",
       "TAMU-LANDIS WALTHER"
     ],
-    "length": 13,
-    "primary": [
-      "CAL-MADDI ERDALL"
-    ],
-    "time": "0516",
-    "extras": [],
-    "offense": "TAMU",
-    "result": "TD",
-    "defense": "CAL"
+    "period": "FLOOR",
+    "length": 13
   },
   "15": {
-    "period": "FLOOR",
-    "secondary": [],
-    "length": 87,
+    "extras": [],
+    "offense": "CAL",
+    "defense": "TAMU",
+    "time": "0603",
+    "result": "GD",
     "primary": [
       "CAL-RYAN PFENNING"
     ],
-    "time": "0603",
-    "extras": [],
-    "offense": "CAL",
-    "result": "GD",
-    "defense": "TAMU"
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 87
   },
   "16": {
-    "period": "FLOOR",
-    "secondary": [
-      "TAMU-CAMERON VILLAMIL"
-    ],
-    "length": 26,
+    "extras": [],
+    "offense": "TAMU",
+    "defense": "CAL",
+    "time": "0629",
+    "result": "EP",
     "primary": [
       "TAMU-HAYDAN ALTMAN"
     ],
-    "time": "0629",
-    "extras": [],
-    "offense": "TAMU",
-    "result": "EP",
-    "defense": "CAL"
+    "secondary": [
+      "TAMU-CAMERON VILLAMIL"
+    ],
+    "period": "FLOOR",
+    "length": 26
   },
   "17": {
-    "period": "FLOOR",
+    "extras": [],
+    "offense": "CAL",
+    "defense": "TAMU",
+    "time": "0720",
+    "result": "TD",
+    "primary": [
+      "TAMU-CONNOR MCINTYRE"
+    ],
     "secondary": [
       "CAL-ELIJAH PHIPPS",
       "CAL-MADDI ERDALL"
     ],
-    "length": 91,
-    "primary": [
-      "TAMU-CONNOR MCINTYRE"
-    ],
-    "time": "0720",
-    "extras": [],
-    "offense": "CAL",
-    "result": "TD",
-    "defense": "TAMU"
+    "period": "FLOOR",
+    "length": 91
   },
   "18": {
-    "period": "FLOOR",
-    "secondary": [],
-    "length": 24,
+    "extras": [],
+    "offense": "TAMU",
+    "defense": "CAL",
+    "time": "0744",
+    "result": "EM",
     "primary": [
       "TAMU-CONNOR MCINTYRE"
     ],
-    "time": "0744",
-    "extras": [],
-    "offense": "TAMU",
-    "result": "EM",
-    "defense": "CAL"
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 24
   },
   "19": {
-    "period": "FLOOR",
+    "extras": [],
+    "offense": "CAL",
+    "defense": "TAMU",
+    "time": "0812",
+    "result": "TD",
+    "primary": [
+      "TAMU-LANDIS WALTHER"
+    ],
     "secondary": [
       "CAL-RYAN PFENNING",
       "CAL-MADDI ERDALL"
     ],
-    "length": 68,
-    "primary": [
-      "TAMU-LANDIS WALTHER"
-    ],
-    "time": "0812",
-    "extras": [],
-    "offense": "CAL",
-    "result": "TD",
-    "defense": "TAMU"
+    "period": "FLOOR",
+    "length": 68
   },
   "20": {
-    "period": "FLOOR",
-    "secondary": [
-      "TAMU-CAMERON VILLAMIL"
-    ],
-    "length": 9,
+    "extras": [],
+    "offense": "TAMU",
+    "defense": "CAL",
+    "time": "0821",
+    "result": "TB",
     "primary": [
       "CAL-ARDIN LO"
     ],
-    "time": "0821",
-    "extras": [],
-    "offense": "TAMU",
-    "result": "TB",
-    "defense": "CAL"
+    "secondary": [
+      "TAMU-CAMERON VILLAMIL"
+    ],
+    "period": "FLOOR",
+    "length": 9
   },
   "21": {
-    "period": "FLOOR",
-    "secondary": [
-      "CAL-MADDI ERDALL"
-    ],
-    "length": 37,
-    "primary": [
-      "TAMU-MILES TRAVIS"
-    ],
-    "time": "0858",
     "extras": [
       [
         "R",
@@ -328,353 +319,353 @@
       ]
     ],
     "offense": "CAL",
+    "defense": "TAMU",
+    "time": "0858",
     "result": "TB",
-    "defense": "TAMU"
+    "primary": [
+      "TAMU-MILES TRAVIS"
+    ],
+    "secondary": [
+      "CAL-MADDI ERDALL"
+    ],
+    "period": "FLOOR",
+    "length": 37
   },
   "22": {
-    "period": "FLOOR",
-    "secondary": [],
-    "length": 49,
+    "extras": [],
+    "offense": "TAMU",
+    "defense": "CAL",
+    "time": "0907",
+    "result": "GS",
     "primary": [
       "TAMU-CONNOR MCINTYRE"
     ],
-    "time": "0907",
-    "extras": [],
-    "offense": "TAMU",
-    "result": "GS",
-    "defense": "CAL"
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 49
   },
   "23": {
-    "period": "FLOOR",
-    "secondary": [
-      "CAL-RYAN PFENNING"
-    ],
-    "length": 38,
+    "extras": [],
+    "offense": "CAL",
+    "defense": "TAMU",
+    "time": "0945",
+    "result": "TC",
     "primary": [
       "TAMU-HAYDAN ALTMAN"
     ],
-    "time": "0945",
-    "extras": [],
-    "offense": "CAL",
-    "result": "TC",
-    "defense": "TAMU"
+    "secondary": [
+      "CAL-RYAN PFENNING"
+    ],
+    "period": "FLOOR",
+    "length": 38
   },
   "24": {
-    "period": "FLOOR",
-    "secondary": [
-      "TAMU-HAYDAN ALTMAN"
-    ],
-    "length": 2,
+    "extras": [],
+    "offense": "TAMU",
+    "defense": "CAL",
+    "time": "0947",
+    "result": "TB",
     "primary": [
       "CAL-IVAN AVALOS"
     ],
-    "time": "0947",
-    "extras": [],
-    "offense": "TAMU",
-    "result": "TB",
-    "defense": "CAL"
+    "secondary": [
+      "TAMU-HAYDAN ALTMAN"
+    ],
+    "period": "FLOOR",
+    "length": 2
   },
   "25": {
-    "period": "FLOOR",
-    "secondary": [
-      "CAL-RYAN PFENNING"
-    ],
-    "length": 68,
+    "extras": [],
+    "offense": "CAL",
+    "defense": "TAMU",
+    "time": "1015",
+    "result": "TB",
     "primary": [
       "TAMU-MILES TRAVIS"
     ],
-    "time": "1015",
-    "extras": [],
-    "offense": "CAL",
-    "result": "TB",
-    "defense": "TAMU"
+    "secondary": [
+      "CAL-RYAN PFENNING"
+    ],
+    "period": "FLOOR",
+    "length": 68
   },
   "26": {
-    "period": "FLOOR",
-    "secondary": [],
-    "length": 7,
+    "extras": [],
+    "offense": "TAMU",
+    "defense": "CAL",
+    "time": "1022",
+    "result": "GD",
     "primary": [
       "TAMU-CAMERON VILLAMIL"
     ],
-    "time": "1022",
-    "extras": [],
-    "offense": "TAMU",
-    "result": "GD",
-    "defense": "CAL"
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 7
   },
   "27": {
-    "period": "FLOOR",
-    "secondary": [],
-    "length": 83,
+    "extras": [],
+    "offense": "CAL",
+    "defense": "TAMU",
+    "time": "1105",
+    "result": "GS",
     "primary": [
       "CAL-RYAN PFENNING"
     ],
-    "time": "1105",
-    "extras": [],
-    "offense": "CAL",
-    "result": "GS",
-    "defense": "TAMU"
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 83
   },
   "28": {
-    "period": "FLOOR",
+    "extras": [],
+    "offense": "TAMU",
+    "defense": "CAL",
+    "time": "1126",
+    "result": "TC",
+    "primary": [
+      "CAL-RYAN PFENNING"
+    ],
     "secondary": [
       "TAMU-RANDI DORAN"
     ],
-    "length": 21,
-    "primary": [
-      "CAL-RYAN PFENNING"
-    ],
-    "time": "1126",
-    "extras": [],
-    "offense": "TAMU",
-    "result": "TC",
-    "defense": "CAL"
+    "period": "FLOOR",
+    "length": 21
   },
   "29": {
-    "period": "FLOOR",
-    "secondary": [
-      "CAL-MADDI ERDALL"
-    ],
-    "length": 79,
+    "extras": [],
+    "offense": "CAL",
+    "defense": "TAMU",
+    "time": "1205",
+    "result": "TB",
     "primary": [
       "TAMU-MILES TRAVIS"
     ],
-    "time": "1205",
-    "extras": [],
-    "offense": "CAL",
-    "result": "TB",
-    "defense": "TAMU"
+    "secondary": [
+      "CAL-MADDI ERDALL"
+    ],
+    "period": "FLOOR",
+    "length": 79
   },
   "30": {
-    "period": "FLOOR",
-    "secondary": [
-      "TAMU-KODY FOX"
-    ],
-    "length": 23,
+    "extras": [],
+    "offense": "TAMU",
+    "defense": "CAL",
+    "time": "1228",
+    "result": "TC",
     "primary": [
       "CAL-ERIC SHEN"
     ],
-    "time": "1228",
-    "extras": [],
-    "offense": "TAMU",
-    "result": "TC",
-    "defense": "CAL"
+    "secondary": [
+      "TAMU-KODY FOX"
+    ],
+    "period": "FLOOR",
+    "length": 23
   },
   "31": {
-    "period": "FLOOR",
-    "secondary": [
-      "CAL-RYAN PFENNING"
-    ],
-    "length": 18,
+    "extras": [],
+    "offense": "CAL",
+    "defense": "TAMU",
+    "time": "1246",
+    "result": "TC",
     "primary": [
       "TAMU-KODY FOX"
     ],
-    "time": "1246",
-    "extras": [],
-    "offense": "CAL",
-    "result": "TC",
-    "defense": "TAMU"
+    "secondary": [
+      "CAL-RYAN PFENNING"
+    ],
+    "period": "FLOOR",
+    "length": 18
   },
   "32": {
-    "period": "FLOOR",
-    "secondary": [
-      "TAMU-JACK MCBRIDE"
-    ],
-    "length": 6,
+    "extras": [],
+    "offense": "TAMU",
+    "defense": "CAL",
+    "time": "1252",
+    "result": "EP",
     "primary": [
       "TAMU-BLAINE MCCULLARS"
     ],
-    "time": "1252",
-    "extras": [],
-    "offense": "TAMU",
-    "result": "EP",
-    "defense": "CAL"
+    "secondary": [
+      "TAMU-JACK MCBRIDE"
+    ],
+    "period": "FLOOR",
+    "length": 6
   },
   "33": {
-    "period": "FLOOR",
-    "secondary": [
-      "CAL-MADDI ERDALL"
-    ],
-    "length": 79,
+    "extras": [],
+    "offense": "CAL",
+    "defense": "TAMU",
+    "time": "1331",
+    "result": "TC",
     "primary": [
       "TAMU-JACK MCBRIDE"
     ],
-    "time": "1331",
-    "extras": [],
-    "offense": "CAL",
-    "result": "TC",
-    "defense": "TAMU"
+    "secondary": [
+      "CAL-MADDI ERDALL"
+    ],
+    "period": "FLOOR",
+    "length": 79
   },
   "34": {
-    "period": "FLOOR",
-    "secondary": [
-      "TAMU-JACK MCBRIDE"
-    ],
-    "length": 20,
+    "extras": [],
+    "offense": "TAMU",
+    "defense": "CAL",
+    "time": "1351",
+    "result": "GS",
     "primary": [
       "TAMU-BLAINE MCCULLARS"
     ],
-    "time": "1351",
-    "extras": [],
-    "offense": "TAMU",
-    "result": "GS",
-    "defense": "CAL"
+    "secondary": [
+      "TAMU-JACK MCBRIDE"
+    ],
+    "period": "FLOOR",
+    "length": 20
   },
   "35": {
-    "period": "FLOOR",
-    "secondary": [
-      "CAL-MADDI ERDALL"
-    ],
-    "length": 56,
+    "extras": [],
+    "offense": "CAL",
+    "defense": "TAMU",
+    "time": "1407",
+    "result": "EP",
     "primary": [
       "CAL-TJ OHANLON"
     ],
-    "time": "1407",
-    "extras": [],
-    "offense": "CAL",
-    "result": "EP",
-    "defense": "TAMU"
+    "secondary": [
+      "CAL-MADDI ERDALL"
+    ],
+    "period": "FLOOR",
+    "length": 56
   },
   "36": {
-    "period": "FLOOR",
-    "secondary": [
-      "TAMU-JACK MCBRIDE"
-    ],
-    "length": 24,
+    "extras": [],
+    "offense": "TAMU",
+    "defense": "CAL",
+    "time": "1431",
+    "result": "TB",
     "primary": [
       "CAL-CONNOR HUGHES"
     ],
-    "time": "1431",
-    "extras": [],
-    "offense": "TAMU",
-    "result": "TB",
-    "defense": "CAL"
+    "secondary": [
+      "TAMU-JACK MCBRIDE"
+    ],
+    "period": "FLOOR",
+    "length": 24
   },
   "37": {
-    "period": "FLOOR",
-    "secondary": [
-      "CAL-TJ OHANLON"
-    ],
-    "length": 12,
+    "extras": [],
+    "offense": "CAL",
+    "defense": "TAMU",
+    "time": "1443",
+    "result": "TC",
     "primary": [
       "TAMU-HAYDAN ALTMAN"
     ],
-    "time": "1443",
-    "extras": [],
-    "offense": "CAL",
-    "result": "TC",
-    "defense": "TAMU"
+    "secondary": [
+      "CAL-TJ OHANLON"
+    ],
+    "period": "FLOOR",
+    "length": 12
   },
   "38": {
-    "period": "FLOOR",
+    "extras": [],
+    "offense": "TAMU",
+    "defense": "CAL",
+    "time": "1510",
+    "result": "TD",
+    "primary": [
+      "CAL-AJ MORGAN"
+    ],
     "secondary": [
       "TAMU-HAYDAN ALTMAN",
       "TAMU-JACK MCBRIDE"
     ],
-    "length": 67,
-    "primary": [
-      "CAL-AJ MORGAN"
-    ],
-    "time": "1510",
-    "extras": [],
-    "offense": "TAMU",
-    "result": "TD",
-    "defense": "CAL"
+    "period": "FLOOR",
+    "length": 67
   },
   "39": {
-    "period": "FLOOR",
+    "extras": [],
+    "offense": "CAL",
+    "defense": "TAMU",
+    "time": "1552",
+    "result": "TL",
+    "primary": [
+      "TAMU-JACK MCBRIDE"
+    ],
     "secondary": [
       "CAL-TJ OHANLON"
     ],
-    "length": 42,
-    "primary": [
-      "TAMU-JACK MCBRIDE"
-    ],
-    "time": "1552",
-    "extras": [],
-    "offense": "CAL",
-    "result": "TL",
-    "defense": "TAMU"
+    "period": "FLOOR",
+    "length": 42
   },
   "40": {
-    "period": "FLOOR",
-    "secondary": [],
-    "length": 57,
+    "extras": [],
+    "offense": "TAMU",
+    "defense": "CAL",
+    "time": "1609",
+    "result": "GD",
     "primary": [
       "TAMU-JACK MCBRIDE"
     ],
-    "time": "1609",
-    "extras": [],
-    "offense": "TAMU",
-    "result": "GD",
-    "defense": "CAL"
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 57
   },
   "41": {
-    "period": "FLOOR",
+    "extras": [],
+    "offense": "CAL",
+    "defense": "TAMU",
+    "time": "1646",
+    "result": "TL",
+    "primary": [
+      "TAMU-JACK MCBRIDE"
+    ],
     "secondary": [
       "CAL-DARA GAEUMAN"
     ],
-    "length": 37,
-    "primary": [
-      "TAMU-JACK MCBRIDE"
-    ],
-    "time": "1646",
-    "extras": [],
-    "offense": "CAL",
-    "result": "TL",
-    "defense": "TAMU"
+    "period": "FLOOR",
+    "length": 37
   },
   "42": {
-    "period": "FLOOR",
-    "secondary": [],
-    "length": 54,
+    "extras": [],
+    "offense": "TAMU",
+    "defense": "CAL",
+    "time": "1700",
+    "result": "GD",
     "primary": [
       "TAMU-HAYDAN ALTMAN"
     ],
-    "time": "1700",
-    "extras": [],
-    "offense": "TAMU",
-    "result": "GD",
-    "defense": "CAL"
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 54
   },
   "43": {
-    "period": "FLOOR",
-    "secondary": [],
-    "length": 40,
+    "extras": [],
+    "offense": "CAL",
+    "defense": "TAMU",
+    "time": "1740",
+    "result": "EM",
     "primary": [
       "CAL-TJ OHANLON"
     ],
-    "time": "1740",
-    "extras": [],
-    "offense": "CAL",
-    "result": "EM",
-    "defense": "TAMU"
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 40
   },
   "44": {
-    "period": "SOP",
+    "extras": [],
+    "offense": "TAMU",
+    "defense": "CAL",
+    "time": "1816",
+    "result": "TL",
+    "primary": [
+      "CAL-RYAN PFENNING"
+    ],
     "secondary": [
       "TAMU-BLAINE MCCULLARS"
     ],
-    "length": 76,
-    "primary": [
-      "CAL-RYAN PFENNING"
-    ],
-    "time": "1816",
-    "extras": [],
-    "offense": "TAMU",
-    "result": "TL",
-    "defense": "CAL"
+    "period": "SOP",
+    "length": 76
   },
   "45": {
-    "period": "SOP",
-    "secondary": [
-      "CAL-DARA GAEUMAN"
-    ],
-    "length": 85,
-    "primary": [
-      "CAL-RYAN PFENNING"
-    ],
-    "time": "1901",
     "extras": [
       [
         "Y",
@@ -682,35 +673,44 @@
       ]
     ],
     "offense": "CAL",
+    "defense": "TAMU",
+    "time": "1901",
     "result": "GP",
-    "defense": "TAMU"
+    "primary": [
+      "CAL-RYAN PFENNING"
+    ],
+    "secondary": [
+      "CAL-DARA GAEUMAN"
+    ],
+    "period": "SOP",
+    "length": 85
   },
   "46": {
-    "period": "SOP",
-    "secondary": [
-      "TAMU-CONNOR MCINTYRE"
-    ],
-    "length": 24,
+    "extras": [],
+    "offense": "TAMU",
+    "defense": "CAL",
+    "time": "1925",
+    "result": "GS",
     "primary": [
       "TAMU-BLAINE MCCULLARS"
     ],
-    "time": "1925",
-    "extras": [],
-    "offense": "TAMU",
-    "result": "GS",
-    "defense": "CAL"
+    "secondary": [
+      "TAMU-CONNOR MCINTYRE"
+    ],
+    "period": "SOP",
+    "length": 24
   },
   "47": {
-    "period": "SOP",
-    "secondary": [],
-    "length": -1,
+    "extras": [],
+    "offense": "CAL",
+    "defense": "TAMU",
+    "time": "1941",
+    "result": "RCA",
     "primary": [
       "TAMU-KEATON MALLORY"
     ],
-    "time": "1941",
-    "extras": [],
-    "offense": "CAL",
-    "result": "RCA",
-    "defense": "TAMU"
+    "secondary": [],
+    "period": "SOP",
+    "length": -1
   }
 }

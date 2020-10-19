@@ -23,7 +23,7 @@
 (12:39)UMD possession: Drop by ['UMD-GARRETT SADTLER']. Turnover.
 (13:28)TAMU possession: Turnover forced by physical contact by ['UMD-GARRETT SADTLER'] on ['TAMU-LANDIS WALTHER'] During the play, yellow card on UMD-JOHN SHERIDAN
 (14:16)UMD possession: Goal on the drive by ['UMD-GARRETT SADTLER'].
-(14:39)TAMU possession: Errant pass from ['TAMU-19'] to ['TAMU-JESSICA HEMBREE']. Turnover
+(14:39)TAMU possession: Errant pass from ['TAMU-19'] in the direction of ['TAMU-JESSICA HEMBREE'] . Turnover
 (15:11)UMD possession: Beat by ['TAMU-COURTNEY YOUNGS'] on ['UMD-MACK MORGAN'] forces a TURNOVER.
 (15:45)TAMU possession: Pass by ['TAMU-LOUIS SANCHEZ'] dropped by ['TAMU-JESSICA HEMBREE']. Turnover
 (16:15)UMD possession: Beat by ['TAMU-NICK ROY'] on ['UMD-MACK MORGAN'] forces a TURNOVER.

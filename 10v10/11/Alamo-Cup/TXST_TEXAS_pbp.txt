@@ -25,8 +25,8 @@
 (11:01)TXST possession: Beat by ['TEXAS-KYLIE MCBRIDE'] on ['TXST-LEIF MONTGOMERY'] forces a TURNOVER.
 (11:28)TEXAS possession: ['TEXAS-NICK MARINO'] passes to ['TEXAS-SOPHIA DESALVO'] at the hoops, GOAL.
 (11:58)TXST possession: Goal on the drive by ['TXST-STEPHEN VIGIL'].
-(12:40)TEXAS possession: Errant pass from ['TEXAS-CULLEN FRIDAY'] to ['TEXAS-SOPHIA DESALVO']. Turnover
-(12:53)TXST possession: Errant pass from ['TXST-ERIC REYES'] to ['TXST-STEPHEN VIGIL']. Turnover
+(12:40)TEXAS possession: Errant pass from ['TEXAS-CULLEN FRIDAY'] in the direction of ['TEXAS-SOPHIA DESALVO'] . Turnover
+(12:53)TXST possession: Errant pass from ['TXST-ERIC REYES'] in the direction of ['TXST-STEPHEN VIGIL'] . Turnover
 (13:55)TEXAS possession: Turnover forced by physical contact by ['TXST-STEPHEN VIGIL'] on ['TEXAS-MICHAEL JOHNSTON']
 (14:10)TXST possession: Beat by ['TEXAS-KYLIE MCBRIDE'] on ['TXST-LEIF MONTGOMERY'] forces a TURNOVER.
 (14:42)TEXAS possession: Pass by ['TEXAS-CULLEN FRIDAY'] dropped by ['TEXAS-SOPHIA DESALVO']. Turnover
@@ -63,7 +63,7 @@
 (26:30)TXST possession: Beat by ['TEXAS-EDDIE MOLINA'] on ['TXST-DONOVAN MITCHELL'] forces a TURNOVER.
 (26:43)TEXAS possession: Pass between ['TEXAS-MICHAEL JOHNSTON', 'TEXAS-JOCELYN WHISTLER'] defended by ['TXST-JENNA BOLLWEG']. Turnover
 (27:25)TXST possession: ['TXST-DONOVAN MITCHELL'] passes to ['TXST-MELISSA KITE'] at the hoops, GOAL.
-(28:17)TEXAS possession: Errant pass from ['TEXAS-MICHAEL JOHNSTON'] to ['TEXAS-SOPHIA DESALVO']. Turnover During the play, red card on TXST-MELISSA KITE,TXST-MELISSA KITE is ejected from the game
+(28:17)TEXAS possession: Errant pass from ['TEXAS-MICHAEL JOHNSTON'] in the direction of ['TEXAS-SOPHIA DESALVO'] . Turnover During the play, red card on TXST-MELISSA KITE,TXST-MELISSA KITE is ejected from the game
 (28:57)TXST possession: Beat by ['TEXAS-HALLIE PACE'] on ['TXST-ERIC REYES'] forces a TURNOVER.
 (29:03)TEXAS possession: Missed shot by ['TEXAS-JOCELYN WHISTLER']. Turnover.
 (30:56)TXST possession: Pass between ['TXST-ABBY LUM', 'TXST-JENNA BOLLWEG'] defended by ['TEXAS-JOHN ANDERSON']. Turnover
