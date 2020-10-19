@@ -1,0 +1,38 @@
+(00:00)Brooms Up possession: BROOMS UP! Quaffle Possession by ['KANSAS-IAN MCCABE'], Bludger Control by [None]
+KANSAS possession: Missed shot by ['KANSAS-IAN MCCABE']. Turnover.
+CAL possession: Missed shot by ['CAL-RYAN PFENNING']. Turnover.
+KANSAS possession: Goal on the shot by ['KANSAS-BRANDON TABOR'].
+CAL possession: Errant pass from ['CAL-25'] in the direction of ['CAL-MADDI ERDALL'] . Turnover
+KANSAS possession: Goal on the shot by ['KANSAS-BRANDON TABOR'].
+CAL possession: ['CAL-RYAN PFENNING'] passes to ['CAL-AJ MORGAN'] at the hoops, GOAL.
+KANSAS possession: Goal on the drive by ['KANSAS-IAN MCCABE'].
+CAL possession: Bludger throw by ['KANSAS-RYLEY ANDREWS'] blocks shot/pass by ['CAL-RYAN PFENNING']. Turnover
+KANSAS possession: Goal on the drive by ['KANSAS-IAN MCCABE'].
+CAL possession: Pass between ['CAL-MADDI ERDALL', 'CAL-AJ MORGAN'] defended by ['KANSAS-BEN ENGELS']. Turnover During the play, yellow card on KANSAS-JOE HANSON
+KANSAS possession: Missed shot by ['KANSAS-BEN ENGELS']. Turnover. During the play, yellow card on CAL-RYAN PFENNING,reset forced by CAL-ARDIN LO
+CAL possession: Turnover penalty on ['CAL-AJ MORGAN'].
+KANSAS possession: Goal on the drive by ['KANSAS-JOE HANSON'].
+CAL possession: Pass by ['CAL-RYAN PFENNING'] dropped by ['CAL-13']. Turnover
+KANSAS possession: ['KANSAS-BEN ENGELS'] passes to ['KANSAS-JOE HANSON'] at the hoops, GOAL.
+CAL possession: Errant pass from ['CAL-RYAN PFENNING'] in the direction of ['CAL-MADDI ERDALL'] . Turnover
+KANSAS possession: Turnover forced by physical contact by ['CAL-RYAN PFENNING'] on ['KANSAS-BEN ENGELS']
+CAL possession: Goal on the drive by ['CAL-RYAN PFENNING'].
+KANSAS possession: Beat by ['CAL-CONNOR HUGHES'] on ['KANSAS-BEN ENGELS'] forces a TURNOVER.
+CAL possession: Turnover forced by physical contact by ['KANSAS-BEN ENGELS'] on ['CAL-MADDI ERDALL']
+KANSAS possession: Shot by ['KANSAS-RYAN DICKEY'] blocked by ['CAL-RYAN PFENNING']. Turnover. During the play, yellow card on CAL-16
+CAL possession: Shot by ['CAL-13'] blocked by ['KANSAS-RYAN DICKEY']. Turnover.
+KANSAS possession: Turnover forced by physical contact by ['CAL-RYAN PFENNING'] on ['KANSAS-RYAN DICKEY']
+CAL possession: Beat by ['KANSAS-64'] on ['CAL-13'] forces a TURNOVER.
+KANSAS possession: Missed shot by ['KANSAS-IAN MCCABE']. Turnover.
+CAL possession: Missed shot by ['CAL-13']. Turnover.
+KANSAS possession: Turnover forced by physical contact by ['CAL-17'] on ['KANSAS-BRANDON TABOR']
+CAL possession: Beat by ['KANSAS-RYLEY ANDREWS'] on ['CAL-13'] forces a TURNOVER.
+KANSAS possession: Goal on the drive by ['KANSAS-IAN MCCABE'].
+CAL possession: Pass by ['CAL-16'] dropped by ['CAL-17']. Turnover During the play, TIMEOUT by CAL
+KANSAS possession: Missed shot by ['KANSAS-BRANDON TABOR']. Turnover.
+CAL possession: Turnover forced by physical contact by ['KANSAS-BRANDON TABOR'] on ['CAL-RYAN PFENNING']
+KANSAS possession: Goal on the shot by ['KANSAS-JOE HANSON'].
+CAL possession: Errant pass from ['CAL-RYAN PFENNING'] in the direction of ['CAL-17'] . Turnover
+KANSAS possession: Goal on the drive by ['KANSAS-JOE HANSON'].
+CAL possession: ['CAL-RYAN PFENNING'] passes to ['CAL-12'] at the hoops, GOAL. During the play, SNITCH ON PITCH begins
+KANSAS possession: Snitch catch by ['KANSAS-RYLEY ANDREWS'] is GOOD.

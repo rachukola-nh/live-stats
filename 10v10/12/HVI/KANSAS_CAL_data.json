@@ -1,0 +1,568 @@
+{
+  "0": {
+    "extras": [],
+    "offense": "Brooms Up",
+    "defense": "",
+    "length": -1,
+    "time": "0000",
+    "result": "BU",
+    "primary": [
+      "KANSAS-IAN MCCABE"
+    ],
+    "secondary": [
+      null
+    ],
+    "period": "FLOOR"
+  },
+  "1": {
+    "extras": [],
+    "offense": "KANSAS",
+    "defense": "CAL",
+    "time": "",
+    "result": "EM",
+    "primary": [
+      "KANSAS-IAN MCCABE"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "2": {
+    "extras": [],
+    "offense": "CAL",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "EM",
+    "primary": [
+      "CAL-RYAN PFENNING"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "3": {
+    "extras": [],
+    "offense": "KANSAS",
+    "defense": "CAL",
+    "time": "",
+    "result": "GS",
+    "primary": [
+      "KANSAS-BRANDON TABOR"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "4": {
+    "extras": [],
+    "offense": "CAL",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "EP",
+    "primary": [
+      "CAL-25"
+    ],
+    "secondary": [
+      "CAL-MADDI ERDALL"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "5": {
+    "extras": [],
+    "offense": "KANSAS",
+    "defense": "CAL",
+    "time": "",
+    "result": "GS",
+    "primary": [
+      "KANSAS-BRANDON TABOR"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "6": {
+    "extras": [],
+    "offense": "CAL",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "GP",
+    "primary": [
+      "CAL-AJ MORGAN"
+    ],
+    "secondary": [
+      "CAL-RYAN PFENNING"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "7": {
+    "extras": [],
+    "offense": "KANSAS",
+    "defense": "CAL",
+    "time": "",
+    "result": "GD",
+    "primary": [
+      "KANSAS-IAN MCCABE"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "8": {
+    "extras": [],
+    "offense": "CAL",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "TLB",
+    "primary": [
+      "KANSAS-RYLEY ANDREWS"
+    ],
+    "secondary": [
+      "CAL-RYAN PFENNING"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "9": {
+    "extras": [],
+    "offense": "KANSAS",
+    "defense": "CAL",
+    "time": "",
+    "result": "GD",
+    "primary": [
+      "KANSAS-IAN MCCABE"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "10": {
+    "extras": [
+      [
+        "Y",
+        "KANSAS-JOE HANSON"
+      ]
+    ],
+    "offense": "CAL",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "TD",
+    "primary": [
+      "KANSAS-BEN ENGELS"
+    ],
+    "secondary": [
+      "CAL-MADDI ERDALL",
+      "CAL-AJ MORGAN"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "11": {
+    "extras": [
+      [
+        "Y",
+        "CAL-RYAN PFENNING"
+      ],
+      [
+        "R",
+        "CAL-ARDIN LO"
+      ]
+    ],
+    "offense": "KANSAS",
+    "defense": "CAL",
+    "time": "",
+    "result": "EM",
+    "primary": [
+      "KANSAS-BEN ENGELS"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "12": {
+    "extras": [],
+    "offense": "CAL",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "ET",
+    "primary": [
+      "CAL-AJ MORGAN"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "13": {
+    "extras": [],
+    "offense": "KANSAS",
+    "defense": "CAL",
+    "time": "",
+    "result": "GD",
+    "primary": [
+      "KANSAS-JOE HANSON"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "14": {
+    "extras": [],
+    "offense": "CAL",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "ED",
+    "primary": [
+      "CAL-13"
+    ],
+    "secondary": [
+      "CAL-RYAN PFENNING"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "15": {
+    "extras": [],
+    "offense": "KANSAS",
+    "defense": "CAL",
+    "time": "",
+    "result": "GP",
+    "primary": [
+      "KANSAS-JOE HANSON"
+    ],
+    "secondary": [
+      "KANSAS-BEN ENGELS"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "16": {
+    "extras": [],
+    "offense": "CAL",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "EP",
+    "primary": [
+      "CAL-RYAN PFENNING"
+    ],
+    "secondary": [
+      "CAL-MADDI ERDALL"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "17": {
+    "extras": [],
+    "offense": "KANSAS",
+    "defense": "CAL",
+    "time": "",
+    "result": "TC",
+    "primary": [
+      "CAL-RYAN PFENNING"
+    ],
+    "secondary": [
+      "KANSAS-BEN ENGELS"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "18": {
+    "extras": [],
+    "offense": "CAL",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "GD",
+    "primary": [
+      "CAL-RYAN PFENNING"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "19": {
+    "extras": [],
+    "offense": "KANSAS",
+    "defense": "CAL",
+    "time": "",
+    "result": "TB",
+    "primary": [
+      "CAL-CONNOR HUGHES"
+    ],
+    "secondary": [
+      "KANSAS-BEN ENGELS"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "20": {
+    "extras": [],
+    "offense": "CAL",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "TC",
+    "primary": [
+      "KANSAS-BEN ENGELS"
+    ],
+    "secondary": [
+      "CAL-MADDI ERDALL"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "21": {
+    "extras": [
+      [
+        "Y",
+        "CAL-16"
+      ]
+    ],
+    "offense": "KANSAS",
+    "defense": "CAL",
+    "time": "",
+    "result": "TL",
+    "primary": [
+      "CAL-RYAN PFENNING"
+    ],
+    "secondary": [
+      "KANSAS-RYAN DICKEY"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "22": {
+    "extras": [],
+    "offense": "CAL",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "TL",
+    "primary": [
+      "KANSAS-RYAN DICKEY"
+    ],
+    "secondary": [
+      "CAL-13"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "23": {
+    "extras": [],
+    "offense": "KANSAS",
+    "defense": "CAL",
+    "time": "",
+    "result": "TC",
+    "primary": [
+      "CAL-RYAN PFENNING"
+    ],
+    "secondary": [
+      "KANSAS-RYAN DICKEY"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "24": {
+    "extras": [],
+    "offense": "CAL",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "TB",
+    "primary": [
+      "KANSAS-64"
+    ],
+    "secondary": [
+      "CAL-13"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "25": {
+    "extras": [],
+    "offense": "KANSAS",
+    "defense": "CAL",
+    "time": "",
+    "result": "EM",
+    "primary": [
+      "KANSAS-IAN MCCABE"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "26": {
+    "extras": [],
+    "offense": "CAL",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "EM",
+    "primary": [
+      "CAL-13"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "27": {
+    "extras": [],
+    "offense": "KANSAS",
+    "defense": "CAL",
+    "time": "",
+    "result": "TC",
+    "primary": [
+      "CAL-17"
+    ],
+    "secondary": [
+      "KANSAS-BRANDON TABOR"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "28": {
+    "extras": [],
+    "offense": "CAL",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "TB",
+    "primary": [
+      "KANSAS-RYLEY ANDREWS"
+    ],
+    "secondary": [
+      "CAL-13"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "29": {
+    "extras": [],
+    "offense": "KANSAS",
+    "defense": "CAL",
+    "time": "",
+    "result": "GD",
+    "primary": [
+      "KANSAS-IAN MCCABE"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "30": {
+    "extras": [
+      [
+        "TIMEOUT",
+        "CAL"
+      ]
+    ],
+    "offense": "CAL",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "ED",
+    "primary": [
+      "CAL-17"
+    ],
+    "secondary": [
+      "CAL-16"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "31": {
+    "extras": [],
+    "offense": "KANSAS",
+    "defense": "CAL",
+    "time": "",
+    "result": "EM",
+    "primary": [
+      "KANSAS-BRANDON TABOR"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "32": {
+    "extras": [],
+    "offense": "CAL",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "TC",
+    "primary": [
+      "KANSAS-BRANDON TABOR"
+    ],
+    "secondary": [
+      "CAL-RYAN PFENNING"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "33": {
+    "extras": [],
+    "offense": "KANSAS",
+    "defense": "CAL",
+    "time": "",
+    "result": "GS",
+    "primary": [
+      "KANSAS-JOE HANSON"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "34": {
+    "extras": [],
+    "offense": "CAL",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "EP",
+    "primary": [
+      "CAL-RYAN PFENNING"
+    ],
+    "secondary": [
+      "CAL-17"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "35": {
+    "extras": [],
+    "offense": "KANSAS",
+    "defense": "CAL",
+    "time": "",
+    "result": "GD",
+    "primary": [
+      "KANSAS-JOE HANSON"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "36": {
+    "extras": [
+      [
+        "SOP",
+        1
+      ]
+    ],
+    "offense": "CAL",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "GP",
+    "primary": [
+      "CAL-12"
+    ],
+    "secondary": [
+      "CAL-RYAN PFENNING"
+    ],
+    "period": "SOP",
+    "length": -1
+  },
+  "37": {
+    "extras": [],
+    "offense": "KANSAS",
+    "defense": "CAL",
+    "time": "",
+    "result": "RCA",
+    "primary": [
+      "KANSAS-RYLEY ANDREWS"
+    ],
+    "secondary": [],
+    "period": "SOP",
+    "length": -1
+  }
+}

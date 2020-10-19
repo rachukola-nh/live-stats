@@ -1,0 +1,742 @@
+{
+  "0": {
+    "extras": [],
+    "offense": "Brooms Up",
+    "defense": "",
+    "length": -1,
+    "time": "0000",
+    "result": "BU",
+    "primary": [
+      "CAL-25"
+    ],
+    "secondary": [
+      "CAL-ELIJAH PHIPPS"
+    ],
+    "period": "FLOOR"
+  },
+  "1": {
+    "extras": [],
+    "offense": "CAL",
+    "defense": "UCLA",
+    "time": "",
+    "result": "TL",
+    "primary": [
+      "UCLA-15"
+    ],
+    "secondary": [
+      "CAL-RYAN PFENNING"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "2": {
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "CAL",
+    "time": "",
+    "result": "TD",
+    "primary": [
+      "CAL-MADDI ERDALL"
+    ],
+    "secondary": [
+      "UCLA-15",
+      "UCLA-61"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "3": {
+    "extras": [],
+    "offense": "CAL",
+    "defense": "UCLA",
+    "time": "",
+    "result": "GS",
+    "primary": [
+      "CAL-25"
+    ],
+    "secondary": [
+      "CAL-RYAN PFENNING"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "4": {
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "CAL",
+    "time": "",
+    "result": "TB",
+    "primary": [
+      "CAL-ELIJAH PHIPPS"
+    ],
+    "secondary": [
+      "UCLA-23"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "5": {
+    "extras": [],
+    "offense": "CAL",
+    "defense": "UCLA",
+    "time": "",
+    "result": "GD",
+    "primary": [
+      "CAL-RYAN PFENNING"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "6": {
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "CAL",
+    "time": "",
+    "result": "TB",
+    "primary": [
+      "CAL-IVAN AVALOS"
+    ],
+    "secondary": [
+      "UCLA-23"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "7": {
+    "extras": [],
+    "offense": "CAL",
+    "defense": "UCLA",
+    "time": "",
+    "result": "EM",
+    "primary": [
+      "CAL-RYAN PFENNING"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "8": {
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "CAL",
+    "time": "",
+    "result": "TD",
+    "primary": [
+      "CAL-RYAN PFENNING"
+    ],
+    "secondary": [
+      "UCLA-15",
+      "UCLA-38"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "9": {
+    "extras": [
+      [
+        "R",
+        "UCLA-61"
+      ]
+    ],
+    "offense": "CAL",
+    "defense": "UCLA",
+    "time": "",
+    "result": "ED",
+    "primary": [
+      "CAL-AJ MORGAN"
+    ],
+    "secondary": [
+      "CAL-RYAN PFENNING"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "10": {
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "CAL",
+    "time": "",
+    "result": "GD",
+    "primary": [
+      "UCLA-38"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "11": {
+    "extras": [],
+    "offense": "CAL",
+    "defense": "UCLA",
+    "time": "",
+    "result": "TD",
+    "primary": [
+      "UCLA-38"
+    ],
+    "secondary": [
+      "CAL-RYAN PFENNING",
+      "CAL-MADDI ERDALL"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "12": {
+    "extras": [
+      [
+        "R",
+        "CAL-IVAN AVALOS"
+      ]
+    ],
+    "offense": "UCLA",
+    "defense": "CAL",
+    "time": "",
+    "result": "GS",
+    "primary": [
+      "UCLA-35"
+    ],
+    "secondary": [
+      "UCLA-61"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "13": {
+    "extras": [],
+    "offense": "CAL",
+    "defense": "UCLA",
+    "time": "",
+    "result": "GP",
+    "primary": [
+      "CAL-AJ MORGAN"
+    ],
+    "secondary": [
+      "CAL-RYAN PFENNING"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "14": {
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "CAL",
+    "time": "",
+    "result": "GS",
+    "primary": [
+      "UCLA-15"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "15": {
+    "extras": [],
+    "offense": "CAL",
+    "defense": "UCLA",
+    "time": "",
+    "result": "GP",
+    "primary": [
+      "CAL-CATHERINE CONDIT"
+    ],
+    "secondary": [
+      "CAL-MADDI ERDALL"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "16": {
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "CAL",
+    "time": "",
+    "result": "EP",
+    "primary": [
+      "UCLA-15"
+    ],
+    "secondary": [
+      "UCLA-24"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "17": {
+    "extras": [],
+    "offense": "CAL",
+    "defense": "UCLA",
+    "time": "",
+    "result": "TC",
+    "primary": [
+      "UCLA-20"
+    ],
+    "secondary": [
+      "CAL-RYAN PFENNING"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "18": {
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "CAL",
+    "time": "",
+    "result": "GS",
+    "primary": [
+      "UCLA-15"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "19": {
+    "extras": [],
+    "offense": "CAL",
+    "defense": "UCLA",
+    "time": "",
+    "result": "TL",
+    "primary": [
+      "UCLA-15"
+    ],
+    "secondary": [
+      "CAL-MADDI ERDALL"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "20": {
+    "extras": [
+      [
+        "Y",
+        "CAL-RYAN PFENNING"
+      ]
+    ],
+    "offense": "UCLA",
+    "defense": "CAL",
+    "time": "",
+    "result": "GD",
+    "primary": [
+      "UCLA-15"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "21": {
+    "extras": [
+      [
+        "Y",
+        "UCLA-20"
+      ]
+    ],
+    "offense": "CAL",
+    "defense": "UCLA",
+    "time": "",
+    "result": "GS",
+    "primary": [
+      "CAL-RYAN PFENNING"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "22": {
+    "extras": [
+      [
+        "Y",
+        "CAL-17"
+      ]
+    ],
+    "offense": "UCLA",
+    "defense": "CAL",
+    "time": "",
+    "result": "GS",
+    "primary": [
+      "UCLA-15"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "23": {
+    "extras": [],
+    "offense": "CAL",
+    "defense": "UCLA",
+    "time": "",
+    "result": "TL",
+    "primary": [
+      "UCLA-15"
+    ],
+    "secondary": [
+      "CAL-52"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "24": {
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "CAL",
+    "time": "",
+    "result": "TB",
+    "primary": [
+      "CAL-ARDIN LO"
+    ],
+    "secondary": [
+      "UCLA-35"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "25": {
+    "extras": [],
+    "offense": "CAL",
+    "defense": "UCLA",
+    "time": "",
+    "result": "TC",
+    "primary": [
+      "UCLA-1"
+    ],
+    "secondary": [
+      "CAL-14"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "26": {
+    "extras": [
+      [
+        "SOP",
+        1
+      ]
+    ],
+    "offense": "UCLA",
+    "defense": "CAL",
+    "time": "",
+    "result": "ED",
+    "primary": [
+      "UCLA-11"
+    ],
+    "secondary": [
+      "UCLA-32"
+    ],
+    "period": "SOP",
+    "length": -1
+  },
+  "27": {
+    "extras": [],
+    "offense": "CAL",
+    "defense": "UCLA",
+    "time": "",
+    "result": "TC",
+    "primary": [
+      "UCLA-35"
+    ],
+    "secondary": [
+      "CAL-RYAN PFENNING"
+    ],
+    "period": "SOP",
+    "length": -1
+  },
+  "28": {
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "CAL",
+    "time": "",
+    "result": "GS",
+    "primary": [
+      "UCLA-11"
+    ],
+    "secondary": [
+      "UCLA-32"
+    ],
+    "period": "SOP",
+    "length": -1
+  },
+  "29": {
+    "extras": [],
+    "offense": "CAL",
+    "defense": "UCLA",
+    "time": "",
+    "result": "GS",
+    "primary": [
+      "CAL-12"
+    ],
+    "secondary": [],
+    "period": "SOP",
+    "length": -1
+  },
+  "30": {
+    "extras": [
+      [
+        "Y",
+        "CAL-ARDIN LO"
+      ]
+    ],
+    "offense": "UCLA",
+    "defense": "CAL",
+    "time": "",
+    "result": "GD",
+    "primary": [
+      "UCLA-35"
+    ],
+    "secondary": [],
+    "period": "SOP",
+    "length": -1
+  },
+  "31": {
+    "extras": [
+      [
+        "Y",
+        "UCLA-35"
+      ]
+    ],
+    "offense": "CAL",
+    "defense": "UCLA",
+    "time": "",
+    "result": "GD",
+    "primary": [
+      "CAL-RYAN PFENNING"
+    ],
+    "secondary": [],
+    "period": "SOP",
+    "length": -1
+  },
+  "32": {
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "CAL",
+    "time": "",
+    "result": "EM",
+    "primary": [
+      "UCLA-32"
+    ],
+    "secondary": [],
+    "period": "SOP",
+    "length": -1
+  },
+  "33": {
+    "extras": [],
+    "offense": "CAL",
+    "defense": "UCLA",
+    "time": "",
+    "result": "EM",
+    "primary": [
+      "CAL-ELIJAH PHIPPS"
+    ],
+    "secondary": [],
+    "period": "SOP",
+    "length": -1
+  },
+  "34": {
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "CAL",
+    "time": "",
+    "result": "GD",
+    "primary": [
+      "UCLA-15"
+    ],
+    "secondary": [],
+    "period": "SOP",
+    "length": -1
+  },
+  "35": {
+    "extras": [],
+    "offense": "CAL",
+    "defense": "UCLA",
+    "time": "",
+    "result": "TB",
+    "primary": [
+      "UCLA-38"
+    ],
+    "secondary": [
+      "CAL-13"
+    ],
+    "period": "SOP",
+    "length": -1
+  },
+  "36": {
+    "extras": [
+      [
+        "2Y",
+        "CAL-ARDIN LO"
+      ]
+    ],
+    "offense": "UCLA",
+    "defense": "CAL",
+    "time": "",
+    "result": "GD",
+    "primary": [
+      "UCLA-15"
+    ],
+    "secondary": [],
+    "period": "SOP",
+    "length": -1
+  },
+  "37": {
+    "extras": [],
+    "offense": "CAL",
+    "defense": "UCLA",
+    "time": "",
+    "result": "EP",
+    "primary": [
+      "CAL-ELIJAH PHIPPS"
+    ],
+    "secondary": [
+      "CAL-MADDI ERDALL"
+    ],
+    "period": "SOP",
+    "length": -1
+  },
+  "38": {
+    "extras": [
+      [
+        "Y",
+        "CAL-13"
+      ],
+      [
+        "TIMEOUT",
+        "UCLA"
+      ]
+    ],
+    "offense": "UCLA",
+    "defense": "CAL",
+    "time": "",
+    "result": "GD",
+    "primary": [
+      "UCLA-24"
+    ],
+    "secondary": [
+      "UCLA-15"
+    ],
+    "period": "SOP",
+    "length": -1
+  },
+  "39": {
+    "extras": [],
+    "offense": "CAL",
+    "defense": "UCLA",
+    "time": "",
+    "result": "EP",
+    "primary": [
+      "CAL-ELIJAH PHIPPS"
+    ],
+    "secondary": [
+      "CAL-AJ MORGAN"
+    ],
+    "period": "SOP",
+    "length": -1
+  },
+  "40": {
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "CAL",
+    "time": "",
+    "result": "TC",
+    "primary": [
+      "CAL-ELIJAH PHIPPS"
+    ],
+    "secondary": [
+      "UCLA-15"
+    ],
+    "period": "SOP",
+    "length": -1
+  },
+  "41": {
+    "extras": [],
+    "offense": "CAL",
+    "defense": "UCLA",
+    "time": "",
+    "result": "EP",
+    "primary": [
+      "CAL-MADDI ERDALL"
+    ],
+    "secondary": [
+      "CAL-AJ MORGAN"
+    ],
+    "period": "SOP",
+    "length": -1
+  },
+  "42": {
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "CAL",
+    "time": "",
+    "result": "TL",
+    "primary": [
+      "CAL-13"
+    ],
+    "secondary": [
+      "UCLA-24"
+    ],
+    "period": "SOP",
+    "length": -1
+  },
+  "43": {
+    "extras": [],
+    "offense": "CAL",
+    "defense": "UCLA",
+    "time": "",
+    "result": "TB",
+    "primary": [
+      "UCLA-38"
+    ],
+    "secondary": [
+      "CAL-13"
+    ],
+    "period": "SOP",
+    "length": -1
+  },
+  "44": {
+    "extras": [
+      [
+        "R",
+        "CAL-UNK"
+      ]
+    ],
+    "offense": "UCLA",
+    "defense": "CAL",
+    "time": "",
+    "result": "EP",
+    "primary": [
+      "UCLA-35"
+    ],
+    "secondary": [
+      "UCLA-UNK"
+    ],
+    "period": "SOP",
+    "length": -1
+  },
+  "45": {
+    "extras": [
+      [
+        "Y",
+        "UCLA-32"
+      ]
+    ],
+    "offense": "CAL",
+    "defense": "UCLA",
+    "time": "",
+    "result": "TB",
+    "primary": [
+      "UCLA-46"
+    ],
+    "secondary": [
+      "CAL-ELIJAH PHIPPS"
+    ],
+    "period": "SOP",
+    "length": -1
+  },
+  "46": {
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "CAL",
+    "time": "",
+    "result": "RCA",
+    "primary": [
+      "UCLA-61"
+    ],
+    "secondary": [],
+    "period": "SOP",
+    "length": -1
+  }
+}

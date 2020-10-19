@@ -1,0 +1,59 @@
+(00:00)Brooms Up possession: BROOMS UP! Quaffle Possession by ['KANSAS-IAN MCCABE'], Bludger Control by ['UCLA-46']
+KANSAS possession: Goal on the shot by ['KANSAS-IAN MCCABE']. During the play, reset forced by UCLA-46
+UCLA possession: ['UCLA-35'] passes to ['UCLA-DANA DIXON'] at the hoops, GOAL.
+KANSAS possession: Shot by ['KANSAS-JOE HANSON'] blocked by ['UCLA-JONATHAN GARCIA-ROVETTA']. Turnover.
+UCLA possession: Errant pass from ['UCLA-JONATHAN GARCIA-ROVETTA'] in the direction of ['UCLA-ELIZABETH NG'] . Turnover
+KANSAS possession: Goal on the shot by ['KANSAS-RACHEL HEALD'].
+UCLA possession: Errant pass from ['UCLA-32'] in the direction of ['UCLA-DANA DIXON'] . Turnover
+KANSAS possession: Goal on the drive by ['KANSAS-JOE HANSON'].
+UCLA possession: Beat by ['KANSAS-KAIJA DEWSBURY'] on ['UCLA-32'] forces a TURNOVER.
+KANSAS possession: Shot by ['KANSAS-BRANDON TABOR'] blocked by ['UCLA-35']. Turnover.
+UCLA possession: Errant pass from ['UCLA-32'] in the direction of ['UCLA-ELIZABETH NG'] . Turnover
+KANSAS possession: Beat by ['UCLA-38'] on ['KANSAS-53'] forces a TURNOVER.
+UCLA possession: Missed shot by ['UCLA-32']. Turnover.
+KANSAS possession: Missed shot by ['KANSAS-BRANDON TABOR']. Turnover.
+UCLA possession: Missed shot by ['UCLA-KEVIN GALLAGHER']. Turnover.
+KANSAS possession: Errant pass from ['KANSAS-BRANDON TABOR'] in the direction of ['KANSAS-IAN MCCABE'] . Turnover
+UCLA possession: Beat by ['KANSAS-ADAM MCMORRIS'] on ['UCLA-KEVIN GALLAGHER'] forces a TURNOVER.
+KANSAS possession: Errant pass from ['KANSAS-IAN MCCABE'] in the direction of ['KANSAS-RACHEL HEALD'] . Turnover
+UCLA possession: Errant pass from ['UCLA-JONATHAN GARCIA-ROVETTA'] in the direction of ['UCLA-ELIZABETH NG'] . Turnover
+KANSAS possession: Goal on the shot by ['KANSAS-BEN ENGELS'].
+UCLA possession: Beat by ['KANSAS-64'] on ['UCLA-KEVIN GALLAGHER'] forces a TURNOVER. During the play, reset forced by KANSAS-64
+KANSAS possession: Goal on the drive by ['KANSAS-IAN MCCABE'].
+UCLA possession: Turnover forced by physical contact by ['KANSAS-IAN MCCABE'] on ['UCLA-KEVIN GALLAGHER']
+KANSAS possession: Goal on the shot by ['KANSAS-BEN ENGELS'], assist by ['KANSAS-23']
+UCLA possession: Pass between ['UCLA-ELIZABETH NG', 'UCLA-KEVIN GALLAGHER'] defended by ['KANSAS-IAN MCCABE']. Turnover
+KANSAS possession: Missed shot by ['KANSAS-IAN MCCABE']. Turnover.
+UCLA possession: ['UCLA-24'] passes to ['UCLA-ELIZABETH NG'] at the hoops, GOAL.
+KANSAS possession: Pass by ['KANSAS-23'] dropped by ['KANSAS-55']. Turnover
+UCLA possession: Beat by ['KANSAS-RYLEY ANDREWS'] on ['UCLA-JONATHAN GARCIA-ROVETTA'] forces a TURNOVER.
+KANSAS possession: Goal on the drive by ['KANSAS-JOE HANSON'].
+UCLA possession: Beat by ['KANSAS-RYLEY ANDREWS'] on ['UCLA-24'] forces a TURNOVER.
+KANSAS possession: Shot by ['KANSAS-23'] blocked by ['UCLA-24']. Turnover.
+UCLA possession: Errant pass from ['UCLA-24'] in the direction of ['UCLA-UNK'] . Turnover
+KANSAS possession: Goal on the drive by ['KANSAS-RYAN DICKEY'].
+UCLA possession: ['UCLA-35'] passes to ['UCLA-SOFIA DELAVEGA'] at the hoops, GOAL. During the play, TIMEOUT by KANSAS
+KANSAS possession: Missed shot by ['KANSAS-IAN MCCABE']. Turnover.
+UCLA possession: Turnover forced by physical contact by ['KANSAS-UNK'] on ['UCLA-UNK']
+KANSAS possession: Beat by ['UCLA-46'] on ['KANSAS-UNK'] forces a TURNOVER.
+UCLA possession: Errant pass from ['UCLA-SOFIA DELAVEGA'] in the direction of ['UCLA-11'] . Turnover
+KANSAS possession: Goal on the shot by ['KANSAS-BRANDON TABOR']. During the play, SNITCH ON PITCH begins
+UCLA possession: Beat by ['KANSAS-UNK'] on ['UCLA-32'] forces a TURNOVER.
+KANSAS possession: Missed shot by ['KANSAS-BRANDON TABOR']. Turnover.
+UCLA possession: Turnover forced by physical contact by ['KANSAS-53'] on ['UCLA-35']
+KANSAS possession: Errant pass from ['KANSAS-BEN ENGELS'] in the direction of ['KANSAS-RACHEL HEALD'] . Turnover
+UCLA possession: Goal on the shot by ['UCLA-32'].
+KANSAS possession: Beat by ['UCLA-38'] on ['KANSAS-53'] forces a TURNOVER.
+UCLA possession: Beat by ['KANSAS-RACHEL ENGLAND'] on ['UCLA-11'] forces a TURNOVER.
+KANSAS possession: Pass between ['KANSAS-53', 'KANSAS-BRANDON TABOR'] defended by ['UCLA-32']. Turnover
+UCLA possession: Turnover forced by physical contact by ['KANSAS-53'] on ['UCLA-DANA DIXON']
+KANSAS possession: Goal on the shot by ['KANSAS-BRANDON TABOR'].
+UCLA possession: Goal on the drive by ['UCLA-32'].
+KANSAS possession: Goal on the shot by ['KANSAS-IAN MCCABE'].
+UCLA possession: Beat by ['KANSAS-64'] on ['UCLA-32'] forces a TURNOVER.
+KANSAS possession: Beat by ['UCLA-33'] on ['KANSAS-JOE HANSON'] forces a TURNOVER.
+UCLA possession: Errant pass from ['UCLA-SOFIA DELAVEGA'] in the direction of ['UCLA-32'] . Turnover
+KANSAS possession: Goal on the drive by ['KANSAS-IAN MCCABE']. During the play, yellow card on UCLA-32
+UCLA possession: Errant pass from ['UCLA-32'] in the direction of ['UCLA-SOFIA DELAVEGA'] . Turnover
+KANSAS possession: Turnover forced by physical contact by ['UCLA-KEVIN GALLAGHER'] on ['KANSAS-RACHEL HEALD']
+UCLA possession: Snitch catch by ['KANSAS-RYLEY ANDREWS'] is GOOD.

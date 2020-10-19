@@ -1,0 +1,43 @@
+(00:00)Brooms Up possession: BROOMS UP! Quaffle Possession by [None], Bludger Control by [None]
+NYU possession: Missed shot by ['NYU-LANDON GARFINKEL']. Turnover.
+UVA possession: Pass between ['UVA-UNK', 'UVA-DAVID LITTLETON'] defended by ['NYU-LANDON GARFINKEL']. Turnover
+NYU possession: Goal on the drive by ['NYU-FRANK MINSON'].
+UVA possession: Beat by ['NYU-ANTOINE GIRON'] on ['UVA-UNK'] forces a TURNOVER.
+NYU possession: Drop by ['NYU-AIDAN CLAFFEY']. Turnover.
+UVA possession: Shot by ['UVA-UNK'] blocked by ['NYU-AIDAN CLAFFEY']. Turnover.
+NYU possession: Goal on the drive by ['NYU-LANDON GARFINKEL'].
+UVA possession: Pass between ['UVA-UNK', 'UVA-UNK'] defended by ['NYU-AIDAN CLAFFEY']. Turnover
+NYU possession: ['NYU-17'] passes to ['NYU-SHELLEY LOREE'] at the hoops, GOAL.
+UVA possession: Goal on the shot by ['UVA-UNK'].
+NYU possession: Shot by ['NYU-FRANK MINSON'] blocked by ['UVA-UNK']. Turnover.
+UVA possession: ['UVA-UNK'] passes to ['UVA-CARLEE KLEPPIN'] at the hoops, GOAL.
+NYU possession: Missed shot by ['NYU-FRANK MINSON']. Turnover.
+UVA possession: Goal on the shot by ['UVA-BEN PHILLIPS'], assist by ['UVA-UNK']
+NYU possession: Blue card on ['NYU-LANDON GARFINKEL'] forces turnover.
+UVA possession: Errant pass from ['UVA-BEN PHILLIPS'] in the direction of ['UVA-CARLEE KLEPPIN'] . Turnover
+NYU possession: Shot by ['NYU-UNK'] blocked by ['UVA-BEN PHILLIPS']. Turnover.
+UVA possession: Error by ['UVA-UNK'].
+NYU possession: Goal on the shot by ['NYU-FRANK MINSON'].
+UVA possession: Goal on the shot by ['UVA-GATES YOUNG'].
+NYU possession: ['NYU-LANDON GARFINKEL'] passes to ['NYU-NATHAN REY'] at the hoops, GOAL.
+UVA possession: Beat by ['NYU-ANTOINE GIRON'] on ['UVA-UNK'] forces a TURNOVER.
+NYU possession: Goal on the drive by ['NYU-LANDON GARFINKEL']. During the play, yellow card on UVA-47
+UVA possession: Shot by ['UVA-BEN PHILLIPS'] blocked by ['NYU-LANDON GARFINKEL']. Turnover.
+NYU possession: Missed shot by ['NYU-LANDON GARFINKEL']. Turnover.
+UVA possession: Beat by ['NYU-JANICE LU'] on ['UVA-UNK'] forces a TURNOVER.
+NYU possession: Shot by ['NYU-LANDON GARFINKEL'] blocked by ['UVA-BEN PHILLIPS']. Turnover.
+UVA possession: Beat by ['NYU-ELLE DESIR'] on ['UVA-47'] forces a TURNOVER.
+NYU possession: Goal on the drive by ['NYU-FRANK MINSON'], assist by ['NYU-LANDON GARFINKEL']
+UVA possession: Pass between ['UVA-UNK', 'UVA-UNK'] defended by ['NYU-AIDAN CLAFFEY']. Turnover
+NYU possession: Shot by ['NYU-LANDON GARFINKEL'] blocked by ['UVA-UNK']. Turnover.
+UVA possession: Beat by ['NYU-ANTOINE GIRON'] on ['UVA-UNK'] forces a TURNOVER.
+NYU possession: Missed shot by ['NYU-LANDON GARFINKEL']. Turnover.
+UVA possession: Goal on the shot by ['UVA-DAVID LITTLETON']. During the play, yellow card on NYU-DESMOND
+NYU possession: Error by ['NYU-UNK'].
+UVA possession: Goal on the shot by ['UVA-GATES YOUNG'], assist by ['UVA-DAVID LITTLETON']
+NYU possession: Shot by ['NYU-13'] blocked by ['UVA-GATES YOUNG']. Turnover.
+UVA possession: Goal by ['UVA-UNK'].
+NYU possession: Goal on the shot by ['NYU-LANDON GARFINKEL'].
+UVA possession: Beat by ['NYU-JEFF EBNER'] on ['UVA-GATES YOUNG'] forces a TURNOVER.
+NYU possession: Goal on the shot by ['NYU-FRANK MINSON'].
+UVA possession: Snitch catch by ['NYU-UNK'] is GOOD.
