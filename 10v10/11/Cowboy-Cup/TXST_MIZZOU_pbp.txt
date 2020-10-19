@@ -9,7 +9,7 @@
 (05:05)MIZZOU possession: Turnover forced by physical contact by ['TXST-TJ MARTINEZ'] on ['MIZZOU-RUTHIE POLIO'] During the play, reset forced by TXST-KRIS DELAFUENTE
 (05:13)TXST possession: Goal on the drive by ['TXST-TJ MARTINEZ'].
 (05:59)MIZZOU possession: Beat by ['TXST-JOHN MOLINA'] on ['MIZZOU-VINCENT WOOLSEY'] forces a TURNOVER. During the play, reset forced by TXST-JOHN MOLINA
-(06:28)TXST possession: Errant pass from ['TXST-BRANDON MACDOWRA'] to ['TXST-ABBY LUM']. Turnover
+(06:28)TXST possession: Errant pass from ['TXST-BRANDON MACDOWRA'] in the direction of ['TXST-ABBY LUM'] . Turnover
 (06:52)MIZZOU possession: Goal on the drive by ['MIZZOU-JACOB PARKER'].
 (07:56)TXST possession: Shot by ['TXST-BRANDON MACDOWRA'] blocked by ['MIZZOU-JACOB PARKER']. Turnover.
 (08:09)MIZZOU possession: Goal on the shot by ['MIZZOU-JACOB PARKER'], assist by ['MIZZOU-VINCENT WOOLSEY']
@@ -22,13 +22,13 @@
 (12:11)TXST possession: Goal on the shot by ['TXST-TIM NGUYEN'].
 (12:45)MIZZOU possession: Turnover forced by physical contact by ['TXST-TJ MARTINEZ'] on ['MIZZOU-VINCENT WOOLSEY']
 (12:50)TXST possession: Goal on the shot by ['TXST-TJ MARTINEZ'].
-(13:58)MIZZOU possession: Errant pass from ['MIZZOU-VINCENT WOOLSEY'] to ['MIZZOU-RUTHIE POLIO']. Turnover
+(13:58)MIZZOU possession: Errant pass from ['MIZZOU-VINCENT WOOLSEY'] in the direction of ['MIZZOU-RUTHIE POLIO'] . Turnover
 (14:33)TXST possession: Pass between ['TXST-ERIC REYES', 'TXST-BRANDON MACDOWRA'] defended by ['MIZZOU-VINCENT WOOLSEY']. Turnover
 (15:46)MIZZOU possession: ['MIZZOU-VINCENT WOOLSEY'] passes to ['MIZZOU-NATALIE TERZICH'] at the hoops, GOAL. During the play, reset forced by TXST-KRIS DELAFUENTE
 (16:17)TXST possession: Shot by ['TXST-BRANDON MACDOWRA'] blocked by ['MIZZOU-VINCENT WOOLSEY']. Turnover.
 (16:25)MIZZOU possession: ['MIZZOU-JACOB PARKER'] passes to ['MIZZOU-RUTHIE POLIO'] at the hoops, GOAL.
 (17:03)TXST possession: Goal on the shot by ['TXST-STEPHEN VIGIL'].
-(17:20)MIZZOU possession: Errant pass from ['MIZZOU-JACOB PARKER'] to ['MIZZOU-NATALIE TERZICH']. Turnover
+(17:20)MIZZOU possession: Errant pass from ['MIZZOU-JACOB PARKER'] in the direction of ['MIZZOU-NATALIE TERZICH'] . Turnover
 (17:30)TXST possession: Shot by ['TXST-BRANDON MACDOWRA'] blocked by ['MIZZOU-LAFE ARENS']. Turnover.
 (18:03)MIZZOU possession: Beat by ['TXST-TESS ACOSTA'] on ['MIZZOU-LAFE ARENS'] forces a TURNOVER. During the play, reset forced by TXST-KRIS DELAFUENTE
 (18:04)TXST possession: Goal by ['TXST-STEPHEN VIGIL'].

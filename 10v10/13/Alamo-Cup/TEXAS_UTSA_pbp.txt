@@ -5,7 +5,7 @@
 (02:30)TEXAS possession: Goal on the drive by ['TEXAS-LUKE MEISSNER'].
 (02:48)UTSA possession: Goal on the drive by ['UTSA-CARLOS PRADO'].
 (03:57)TEXAS possession: Missed shot by ['TEXAS-COLE BURKE']. Turnover.
-(04:32)UTSA possession: Errant pass from ['UTSA-CHRISTIAN CORTEZ'] to ['UTSA-UNK']. Turnover
+(04:32)UTSA possession: Errant pass from ['UTSA-CHRISTIAN CORTEZ'] in the direction of ['UTSA-UNK'] . Turnover
 (05:00)TEXAS possession: Missed shot by ['TEXAS-COLE BURKE']. Turnover.
 (05:47)UTSA possession: Turnover forced by physical contact by ['TEXAS-DAVIS ROE'] on ['UTSA-CARLOS PRADO']
 (06:52)TEXAS possession: Beat by ['UTSA-DANIEL WILLIAMS'] on ['TEXAS-JOHN ANDERSON'] forces a TURNOVER.
@@ -32,7 +32,7 @@
 (19:48)UTSA possession: Goal on the drive by ['UTSA-TYLER ZREET']. During the play, yellow card on TEXAS-LUKE MEISSNER
 (20:26)TEXAS possession: Goal on the shot by ['TEXAS-LUKE MEISSNER'].
 (20:47)UTSA possession: ['UTSA-RENN LEBER'] passes to ['UTSA-CARLOS PRADO'] at the hoops, GOAL.
-(21:12)TEXAS possession: Errant pass from ['TEXAS-JOSH JOHNSON'] to ['TEXAS-UNK']. Turnover
+(21:12)TEXAS possession: Errant pass from ['TEXAS-JOSH JOHNSON'] in the direction of ['TEXAS-UNK'] . Turnover
 (21:35)UTSA possession: Goal on the drive by ['UTSA-CARLOS PRADO'].
 (22:30)TEXAS possession: Goal on the drive by ['TEXAS-LUKE MEISSNER'].
 (23:11)UTSA possession: Goal by ['UTSA-UNK'].

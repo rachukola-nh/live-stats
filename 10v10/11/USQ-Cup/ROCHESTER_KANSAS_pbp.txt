@@ -23,14 +23,14 @@
 (10:35)ROCHESTER possession: Beat by ['KANSAS-ADAM MCMORRIS'] on ['ROCHESTER-EMMA FOLEY'] forces a TURNOVER.
 (11:30)KANSAS possession: Pass between ['KANSAS-BEN ENGELS', 'KANSAS-MATT DWYER'] defended by ['ROCHESTER-MADDISON JORDAN']. Turnover During the play, reset forced by ROCHESTER-TIM KWAN
 (11:35)ROCHESTER possession: Goal on the drive by ['ROCHESTER-BASEM ASHKAR'].
-(12:18)KANSAS possession: Errant pass from ['KANSAS-KEVIN MCMORRIS'] to ['KANSAS-BRANDON TABOR']. Turnover
+(12:18)KANSAS possession: Errant pass from ['KANSAS-KEVIN MCMORRIS'] in the direction of ['KANSAS-BRANDON TABOR'] . Turnover
 (12:52)ROCHESTER possession: Goal on the drive by ['ROCHESTER-BASEM ASHKAR'].
 (13:30)KANSAS possession: Missed shot by ['KANSAS-MIKE DEVINE']. Turnover.
 (14:01)ROCHESTER possession: Goal on the drive by ['ROCHESTER-BASEM ASHKAR'].
 (14:44)KANSAS possession: Goal on the shot by ['KANSAS-KEVIN MCMORRIS'].
 (16:09)ROCHESTER possession: Goal on the shot by ['ROCHESTER-MIKE PASCUTOI']. During the play, reset forced by KANSAS-RYLEY ANDREWS
 (16:51)KANSAS possession: Beat by ['ROCHESTER-TIM KWAN'] on ['KANSAS-BRANDON TABOR'] forces a TURNOVER.
-(17:45)ROCHESTER possession: Errant pass from ['ROCHESTER-BASEM ASHKAR'] to ['ROCHESTER-OWYN GUINNIP']. Turnover During the play, reset forced by KANSAS-15
+(17:45)ROCHESTER possession: Errant pass from ['ROCHESTER-BASEM ASHKAR'] in the direction of ['ROCHESTER-OWYN GUINNIP'] . Turnover During the play, reset forced by KANSAS-15
 (18:37)KANSAS possession: Goal by ['KANSAS-UNK']. During the play, SNITCH ON PITCH begins,yellow card on ROCHESTER-MIKE PASCUTOI
 (18:50)ROCHESTER possession: Goal by ['ROCHESTER-UNK'].
 (19:18)KANSAS possession: Goal by ['KANSAS-UNK'].

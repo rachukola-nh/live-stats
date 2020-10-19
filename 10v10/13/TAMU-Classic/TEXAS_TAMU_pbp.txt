@@ -4,7 +4,7 @@
 (01:39)TEXAS possession: Missed shot by ['TEXAS-DAVIS ROE']. Turnover.
 (02:19)TAMU possession: Beat by ['TEXAS-TATE KAY'] on ['TAMU-TYLER PEARSON'] forces a TURNOVER.
 (02:27)TEXAS possession: Goal on the drive by ['TEXAS-DAVIS ROE'].
-(02:49)TAMU possession: Errant pass from ['TAMU-CONNOR MCINTYRE'] to ['TAMU-HAYDAN ALTMAN']. Turnover
+(02:49)TAMU possession: Errant pass from ['TAMU-CONNOR MCINTYRE'] in the direction of ['TAMU-HAYDAN ALTMAN'] . Turnover
 (03:16)TEXAS possession: Turnover forced by physical contact by ['TAMU-CONNOR MCINTYRE'] on ['TEXAS-JAYDAN GILSTRAP']
 (03:58)TAMU possession: Missed shot by ['TAMU-LANDIS WALTHER']. Turnover. During the play, reset forced by TEXAS-KASYE BEVERS
 (04:35)TEXAS possession: Goal on the shot by ['TEXAS-JAYDAN GILSTRAP'], assist by ['TEXAS-DAVIS ROE'] During the play, yellow card on TAMU-SAMUEL SOBARZO
@@ -18,12 +18,12 @@
 (09:35)TEXAS possession: Goal on the drive by ['TEXAS-JOSH JOHNSON'].
 (10:08)TAMU possession: Goal on the shot by ['TAMU-CONNOR MCINTYRE'].
 (10:26)TEXAS possession: Goal on the shot by ['TEXAS-JOHN ANDERSON'].
-(11:27)TAMU possession: Errant pass from ['TAMU-MIGUEL SOBARZO'] to ['TAMU-MCKENZIE ONEAL']. Turnover During the play, reset forced by TEXAS-JACK WANG
+(11:27)TAMU possession: Errant pass from ['TAMU-MIGUEL SOBARZO'] in the direction of ['TAMU-MCKENZIE ONEAL'] . Turnover During the play, reset forced by TEXAS-JACK WANG
 (12:08)TEXAS possession: Missed shot by ['TEXAS-COLE BURKE']. Turnover.
 (12:55)TAMU possession: Pass between ['TAMU-MIGUEL SOBARZO', 'TAMU-TYLER PEARSON'] defended by ['TEXAS-SPENCER FORBES']. Turnover
 (13:23)TEXAS possession: Missed shot by ['TEXAS-GRAYSON BRIGGS']. Turnover.
 (14:16)TAMU possession: Beat by ['TEXAS-KASYE BEVERS'] on ['TAMU-HAYDAN ALTMAN'] forces a TURNOVER.
-(14:31)TEXAS possession: Errant pass from ['TEXAS-GRAYSON BRIGGS'] to ['TEXAS-SPENCER FORBES']. Turnover
+(14:31)TEXAS possession: Errant pass from ['TEXAS-GRAYSON BRIGGS'] in the direction of ['TEXAS-SPENCER FORBES'] . Turnover
 (15:06)TAMU possession: Missed shot by ['TAMU-HAYDAN ALTMAN']. Turnover.
 (15:32)TEXAS possession: ['TEXAS-SPENCER FORBES'] passes to ['TEXAS-COLE BURKE'] at the hoops, GOAL.
 (16:15)TAMU possession: Missed shot by ['TAMU-CONNOR MCINTYRE']. Turnover.

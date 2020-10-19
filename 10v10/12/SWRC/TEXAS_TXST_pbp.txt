@@ -11,7 +11,7 @@
 (04:50)TEXAS possession: Missed shot by ['TEXAS-AIDAN PARSI']. Turnover.
 (05:28)TXST possession: Pass between ['TXST-MELISSA KITE', 'TXST-TAYLOR AHOYT'] defended by ['TEXAS-AIDAN PARSI']. Turnover
 (05:57)TEXAS possession: Goal on the shot by ['TEXAS-KASYE BEVERS'], assist by ['TEXAS-DAVIS ROE']
-(06:23)TXST possession: Errant pass from ['TXST-NICK ED'] to ['TXST-MELISSA KITE']. Turnover
+(06:23)TXST possession: Errant pass from ['TXST-NICK ED'] in the direction of ['TXST-MELISSA KITE'] . Turnover
 (07:12)TEXAS possession: Shot by ['TEXAS-DAVIS ROE'] blocked by ['TXST-NICK ED']. Turnover.
 (07:39)TXST possession: Shot by ['TXST-JOHN ALVAREZ'] blocked by ['TEXAS-UNK']. Turnover.
 (08:22)TEXAS possession: Beat by ['TXST-CAMERON OGILVIE'] on ['TEXAS-DAVIS ROE'] forces a TURNOVER. During the play, reset forced by TXST-BAILEE FIELDS
@@ -19,13 +19,13 @@
 (08:56)TEXAS possession: ['TEXAS-DAVIS ROE'] passes to ['TEXAS-KASYE BEVERS'] at the hoops, GOAL.
 (09:30)TXST possession: Turnover forced by physical contact by ['TEXAS-DAVIS ROE'] on ['TXST-TIM NGUYEN']
 (09:59)TEXAS possession: Beat by ['TXST-BAILEE FIELDS'] on ['TEXAS-JAYDAN GILSTRAP'] forces a TURNOVER.
-(10:36)TXST possession: Errant pass from ['TXST-TIM NGUYEN'] to ['TXST-UNK']. Turnover
+(10:36)TXST possession: Errant pass from ['TXST-TIM NGUYEN'] in the direction of ['TXST-UNK'] . Turnover
 (10:58)TEXAS possession: Beat by ['TXST-BAILEE FIELDS'] on ['TEXAS-MICHAEL JOHNSTON'] forces a TURNOVER.
 (11:02)TXST possession: Beat by ['TEXAS-JACK WANG'] on ['TXST-TIM NGUYEN'] forces a TURNOVER.
 (11:46)TEXAS possession: Goal on the shot by ['TEXAS-LUKE MEISSNER'].
 (13:35)TXST possession: Turnover forced by physical contact by ['TEXAS-GRAYSON BRIGGS'] on ['TXST-JOHN ALVAREZ'] During the play, reset forced by TEXAS-UNK
 (14:07)TEXAS possession: Goal on the drive by ['TEXAS-GRAYSON BRIGGS'].
-TXST possession: Errant pass from ['TXST-CLAYTON CARLISLE'] to ['TXST-AUDREY FRY']. Turnover During the play, reset forced by TEXAS-RICHMOND KEELING
+TXST possession: Errant pass from ['TXST-CLAYTON CARLISLE'] in the direction of ['TXST-AUDREY FRY'] . Turnover During the play, reset forced by TEXAS-RICHMOND KEELING
 (15:23)TEXAS possession: Goal on the drive by ['TEXAS-LUKE MEISSNER'].
 (15:37)TXST possession: Beat by ['TEXAS-RICHMOND KEELING'] on ['TXST-ERIC REYES'] forces a TURNOVER.
 (15:45)TEXAS possession: ['TEXAS-MICHAEL JOHNSTON'] passes to ['TEXAS-GRAYSON BRIGGS'] at the hoops, GOAL. During the play, yellow card on TXST-MARKO SOLIS
@@ -39,9 +39,9 @@ TXST possession: Errant pass from ['TXST-CLAYTON CARLISLE'] to ['TXST-AUDREY FRY
 (20:36)TEXAS possession: Goal on the drive by ['TEXAS-AIDAN PARSI']. During the play, second yellow card on TXST-MARKO SOLIS, TXST-MARKO SOLIS is ejected from the game
 (21:12)TXST possession: Missed shot by ['TXST-NICK ED']. Turnover.
 (21:59)TEXAS possession: Turnover forced by physical contact by ['TXST-DANIEL LOPEZ-MARTINEZ'] on ['TEXAS-SOPHIA DESALVO']
-(22:20)TXST possession: Errant pass from ['TXST-DANIEL LOPEZ-MARTINEZ'] to ['TXST-UNK']. Turnover
+(22:20)TXST possession: Errant pass from ['TXST-DANIEL LOPEZ-MARTINEZ'] in the direction of ['TXST-UNK'] . Turnover
 (22:32)TEXAS possession: ['TEXAS-DAVIS ROE'] passes to ['TEXAS-KASYE BEVERS'] at the hoops, GOAL.
-(23:07)TXST possession: Errant pass from ['TXST-TAYLOR AHOYT'] to ['TXST-UNK']. Turnover
+(23:07)TXST possession: Errant pass from ['TXST-TAYLOR AHOYT'] in the direction of ['TXST-UNK'] . Turnover
 (23:54)TEXAS possession: Missed shot by ['TEXAS-DAVIS ROE']. Turnover.
 (24:12)TXST possession: Shot by ['TXST-JUSTIN DUGIE'] blocked by ['TEXAS-DAVIS ROE']. Turnover.
 (24:41)TEXAS possession: Beat by ['TXST-BAILEE FIELDS'] on ['TEXAS-GRAYSON BRIGGS'] forces a TURNOVER.

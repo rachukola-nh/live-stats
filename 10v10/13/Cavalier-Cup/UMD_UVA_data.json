@@ -1,496 +1,490 @@
 {
   "0": {
+    "extras": [],
+    "offense": "Brooms Up",
     "defense": "",
+    "length": -1,
+    "time": "0000",
     "result": "BU",
-    "period": "FLOOR",
     "primary": [
       "UMD-JOHN SHERIDAN"
     ],
-    "extras": [],
     "secondary": [
       "UMD-ZAIN BHAILA"
     ],
-    "time": "0000",
-    "length": -1,
-    "offense": "Brooms Up"
+    "period": "FLOOR"
   },
   "1": {
+    "extras": [],
+    "offense": "UMD",
     "defense": "UVA",
+    "time": "0007",
     "result": "GD",
-    "period": "FLOOR",
     "primary": [
       "UMD-JOHN SHERIDAN"
     ],
-    "extras": [],
     "secondary": [],
-    "time": "0007",
-    "length": 7,
-    "offense": "UMD"
+    "period": "FLOOR",
+    "length": 7
   },
   "2": {
+    "extras": [],
+    "offense": "UVA",
     "defense": "UMD",
+    "time": "0044",
     "result": "GP",
-    "period": "FLOOR",
     "primary": [
       "UVA-CARLEE KLEPPIN"
     ],
-    "extras": [],
     "secondary": [
       "UVA-BEN PHILLIPS"
     ],
-    "time": "0044",
-    "length": 37,
-    "offense": "UVA"
+    "period": "FLOOR",
+    "length": 37
   },
   "3": {
-    "defense": "UVA",
-    "result": "TC",
-    "period": "FLOOR",
-    "primary": [
-      "UVA-CARLEE KLEPPIN"
-    ],
     "extras": [
       [
         "R",
         "UVA-LANE BURGESS"
       ]
     ],
+    "offense": "UMD",
+    "defense": "UVA",
+    "time": "0148",
+    "result": "TC",
+    "primary": [
+      "UVA-CARLEE KLEPPIN"
+    ],
     "secondary": [
       "UMD-MACK MORGAN"
     ],
-    "time": "0148",
-    "length": 104,
-    "offense": "UMD"
+    "period": "FLOOR",
+    "length": 104
   },
   "4": {
+    "extras": [],
+    "offense": "UVA",
     "defense": "UMD",
+    "time": "0206",
     "result": "EM",
-    "period": "FLOOR",
     "primary": [
       "UVA-BEN PHILLIPS"
     ],
-    "extras": [],
     "secondary": [],
-    "time": "0206",
-    "length": 58,
-    "offense": "UVA"
+    "period": "FLOOR",
+    "length": 58
   },
   "5": {
+    "extras": [],
+    "offense": "UMD",
     "defense": "UVA",
+    "time": "0223",
     "result": "EM",
-    "period": "FLOOR",
     "primary": [
       "UMD-MACK MORGAN"
     ],
-    "extras": [],
     "secondary": [],
-    "time": "0223",
-    "length": 17,
-    "offense": "UMD"
+    "period": "FLOOR",
+    "length": 17
   },
   "6": {
+    "extras": [],
+    "offense": "UVA",
     "defense": "UMD",
+    "time": "0256",
     "result": "EP",
-    "period": "FLOOR",
     "primary": [
       "UVA-BEN PHILLIPS"
     ],
-    "extras": [],
     "secondary": [
       "UVA-MATTHEW COOPER"
     ],
-    "time": "0256",
-    "length": 33,
-    "offense": "UVA"
+    "period": "FLOOR",
+    "length": 33
   },
   "7": {
+    "extras": [],
+    "offense": "UMD",
     "defense": "UVA",
+    "time": "0320",
     "result": "EM",
-    "period": "FLOOR",
     "primary": [
       "UMD-MACK MORGAN"
     ],
-    "extras": [],
     "secondary": [],
-    "time": "0320",
-    "length": 64,
-    "offense": "UMD"
+    "period": "FLOOR",
+    "length": 64
   },
   "8": {
+    "extras": [],
+    "offense": "UVA",
     "defense": "UMD",
+    "time": "0354",
     "result": "EP",
-    "period": "FLOOR",
     "primary": [
       "UVA-MATTHEW COOPER"
     ],
-    "extras": [],
     "secondary": [
       "UVA-BEN PHILLIPS"
     ],
-    "time": "0354",
-    "length": 34,
-    "offense": "UVA"
+    "period": "FLOOR",
+    "length": 34
   },
   "9": {
+    "extras": [],
+    "offense": "UMD",
     "defense": "UVA",
+    "time": "0410",
     "result": "ED",
-    "period": "FLOOR",
     "primary": [
       "UMD-KRISTEN COILEY"
     ],
-    "extras": [],
     "secondary": [
       "UMD-MACK MORGAN"
     ],
-    "time": "0410",
-    "length": 56,
-    "offense": "UMD"
+    "period": "FLOOR",
+    "length": 56
   },
   "10": {
+    "extras": [],
+    "offense": "UVA",
     "defense": "UMD",
+    "time": "0430",
     "result": "TB",
-    "period": "FLOOR",
     "primary": [
       "UMD-44"
     ],
-    "extras": [],
     "secondary": [
       "UVA-LILY BIRCHFIELD"
     ],
-    "time": "0430",
-    "length": 20,
-    "offense": "UVA"
+    "period": "FLOOR",
+    "length": 20
   },
   "11": {
+    "extras": [],
+    "offense": "UMD",
     "defense": "UVA",
+    "time": "0520",
     "result": "GS",
-    "period": "FLOOR",
     "primary": [
       "UMD-KRISTEN COILEY"
     ],
-    "extras": [],
     "secondary": [
       "UMD-ABBY POTTER"
     ],
-    "time": "0520",
-    "length": 90,
-    "offense": "UMD"
+    "period": "FLOOR",
+    "length": 90
   },
   "12": {
+    "extras": [],
+    "offense": "UVA",
     "defense": "UMD",
+    "time": "0555",
     "result": "TL",
-    "period": "FLOOR",
     "primary": [
       "UMD-JOHN SHERIDAN"
     ],
-    "extras": [],
     "secondary": [
       "UVA-BEN PHILLIPS"
     ],
-    "time": "0555",
-    "length": 35,
-    "offense": "UVA"
+    "period": "FLOOR",
+    "length": 35
   },
   "13": {
+    "extras": [],
+    "offense": "UMD",
     "defense": "UVA",
+    "time": "0645",
     "result": "TC",
-    "period": "FLOOR",
     "primary": [
       "UVA-BEN PHILLIPS"
     ],
-    "extras": [],
     "secondary": [
       "UMD-JOHN SHERIDAN"
     ],
-    "time": "0645",
-    "length": 90,
-    "offense": "UMD"
+    "period": "FLOOR",
+    "length": 90
   },
   "14": {
+    "extras": [],
+    "offense": "UVA",
     "defense": "UMD",
+    "time": "0732",
     "result": "TB",
-    "period": "FLOOR",
     "primary": [
       "UMD-ZAIN BHAILA"
     ],
-    "extras": [],
     "secondary": [
       "UVA-BEN PHILLIPS"
     ],
-    "time": "0732",
-    "length": 87,
-    "offense": "UVA"
+    "period": "FLOOR",
+    "length": 87
   },
   "15": {
+    "extras": [],
+    "offense": "UMD",
     "defense": "UVA",
+    "time": "0817",
     "result": "TD",
-    "period": "FLOOR",
     "primary": [
       "UVA-MATTHEW COOPER"
     ],
-    "extras": [],
     "secondary": [
       "UMD-NOAH RINDOCK",
       "UMD-JOHN SHERIDAN"
     ],
-    "time": "0817",
-    "length": 85,
-    "offense": "UMD"
+    "period": "FLOOR",
+    "length": 85
   },
   "16": {
+    "extras": [],
+    "offense": "UVA",
     "defense": "UMD",
+    "time": "0846",
     "result": "GS",
-    "period": "FLOOR",
     "primary": [
       "UVA-BEN PHILLIPS"
     ],
-    "extras": [],
     "secondary": [],
-    "time": "0846",
-    "length": 29,
-    "offense": "UVA"
+    "period": "FLOOR",
+    "length": 29
   },
   "17": {
+    "extras": [],
+    "offense": "UMD",
     "defense": "UVA",
+    "time": "0924",
     "result": "TL",
-    "period": "FLOOR",
     "primary": [
       "UVA-BEN PHILLIPS"
     ],
-    "extras": [],
     "secondary": [
       "UMD-NOAH RINDOCK"
     ],
-    "time": "0924",
-    "length": 78,
-    "offense": "UMD"
+    "period": "FLOOR",
+    "length": 78
   },
   "18": {
+    "extras": [],
+    "offense": "UVA",
     "defense": "UMD",
+    "time": "1010",
     "result": "EM",
-    "period": "FLOOR",
     "primary": [
       "UVA-MATTHEW COOPER"
     ],
-    "extras": [],
     "secondary": [],
-    "time": "1010",
-    "length": 86,
-    "offense": "UVA"
+    "period": "FLOOR",
+    "length": 86
   },
   "19": {
+    "extras": [],
+    "offense": "UMD",
     "defense": "UVA",
+    "time": "1110",
     "result": "TB",
-    "period": "FLOOR",
     "primary": [
       "UVA-94"
     ],
-    "extras": [],
     "secondary": [
       "UMD-JOHN SHERIDAN"
     ],
-    "time": "1110",
-    "length": 100,
-    "offense": "UMD"
+    "period": "FLOOR",
+    "length": 100
   },
   "20": {
+    "extras": [],
+    "offense": "UVA",
     "defense": "UMD",
+    "time": "1205",
     "result": "ED",
-    "period": "FLOOR",
     "primary": [
       "UVA-MICHAEL HOWELL"
     ],
-    "extras": [],
     "secondary": [
       "UVA-BEN PHILLIPS"
     ],
-    "time": "1205",
-    "length": 95,
-    "offense": "UVA"
+    "period": "FLOOR",
+    "length": 95
   },
   "21": {
+    "extras": [],
+    "offense": "UMD",
     "defense": "UVA",
+    "time": "1304",
     "result": "TL",
-    "period": "FLOOR",
     "primary": [
       "UVA-BEN PHILLIPS"
     ],
-    "extras": [],
     "secondary": [
       "UMD-JERRICK KNIPPEL"
     ],
-    "time": "1304",
-    "length": 99,
-    "offense": "UMD"
+    "period": "FLOOR",
+    "length": 99
   },
   "22": {
+    "extras": [],
+    "offense": "UVA",
     "defense": "UMD",
+    "time": "1352",
     "result": "GS",
-    "period": "FLOOR",
     "primary": [
       "UVA-MICHAEL HOWELL"
     ],
-    "extras": [],
     "secondary": [],
-    "time": "1352",
-    "length": 48,
-    "offense": "UVA"
+    "period": "FLOOR",
+    "length": 48
   },
   "23": {
+    "extras": [],
+    "offense": "UMD",
     "defense": "UVA",
+    "time": "1451",
     "result": "GS",
-    "period": "FLOOR",
     "primary": [
       "UMD-NOAH RINDOCK"
     ],
-    "extras": [],
     "secondary": [],
-    "time": "1451",
-    "length": 99,
-    "offense": "UMD"
+    "period": "FLOOR",
+    "length": 99
   },
   "24": {
+    "extras": [],
+    "offense": "UVA",
     "defense": "UMD",
+    "time": "1524",
     "result": "ED",
-    "period": "FLOOR",
     "primary": [
       "UVA-MICHAEL HOWELL"
     ],
-    "extras": [],
     "secondary": [
       "UVA-BEN PHILLIPS"
     ],
-    "time": "1524",
-    "length": 73,
-    "offense": "UVA"
+    "period": "FLOOR",
+    "length": 73
   },
   "25": {
-    "defense": "UVA",
-    "result": "TD",
-    "period": "FLOOR",
-    "primary": [
-      "UVA-MICHAEL HOWELL"
-    ],
     "extras": [
       [
         "R",
         "UVA-68"
       ]
     ],
+    "offense": "UMD",
+    "defense": "UVA",
+    "time": "1550",
+    "result": "TD",
+    "primary": [
+      "UVA-MICHAEL HOWELL"
+    ],
     "secondary": [
       "UMD-MIKE SINDALL",
       "UMD-JERRICK KNIPPEL"
     ],
-    "time": "1550",
-    "length": 26,
-    "offense": "UMD"
+    "period": "FLOOR",
+    "length": 26
   },
   "26": {
+    "extras": [],
+    "offense": "UVA",
     "defense": "UMD",
+    "time": "1554",
     "result": "TD",
-    "period": "FLOOR",
     "primary": [
       "UMD-JERRICK KNIPPEL"
     ],
-    "extras": [],
     "secondary": [
       "UVA-CARLEE KLEPPIN",
       "UVA-MICHAEL HOWELL"
     ],
-    "time": "1554",
-    "length": 4,
-    "offense": "UVA"
+    "period": "FLOOR",
+    "length": 4
   },
   "27": {
+    "extras": [],
+    "offense": "UMD",
     "defense": "UVA",
+    "time": "1623",
     "result": "TB",
-    "period": "FLOOR",
     "primary": [
       "UVA-94"
     ],
-    "extras": [],
     "secondary": [
       "UMD-JERRICK KNIPPEL"
     ],
-    "time": "1623",
-    "length": 69,
-    "offense": "UMD"
+    "period": "FLOOR",
+    "length": 69
   },
   "28": {
+    "extras": [],
+    "offense": "UVA",
     "defense": "UMD",
+    "time": "1644",
     "result": "TD",
-    "period": "FLOOR",
     "primary": [
       "UMD-MIKE SINDALL"
     ],
-    "extras": [],
     "secondary": [
       "UVA-MICHAEL HOWELL",
       "UVA-ALLY CHIN"
     ],
-    "time": "1644",
-    "length": 21,
-    "offense": "UVA"
+    "period": "FLOOR",
+    "length": 21
   },
   "29": {
+    "extras": [],
+    "offense": "UMD",
     "defense": "UVA",
+    "time": "1653",
     "result": "EY",
-    "period": "FLOOR",
     "primary": [
       "UMD-JERRICK KNIPPEL"
     ],
-    "extras": [],
     "secondary": [],
-    "time": "1653",
-    "length": 9,
-    "offense": "UMD"
+    "period": "FLOOR",
+    "length": 9
   },
   "30": {
+    "extras": [],
+    "offense": "UVA",
     "defense": "UMD",
+    "time": "1740",
     "result": "GD",
-    "period": "FLOOR",
     "primary": [
       "UVA-MICHAEL HOWELL"
     ],
-    "extras": [],
     "secondary": [],
-    "time": "1740",
-    "length": 87,
-    "offense": "UVA"
+    "period": "FLOOR",
+    "length": 87
   },
   "31": {
+    "extras": [],
+    "offense": "UMD",
     "defense": "UVA",
+    "time": "1814",
     "result": "EY",
-    "period": "SOP",
     "primary": [
       "UMD-44"
     ],
-    "extras": [],
     "secondary": [],
-    "time": "1814",
-    "length": 74,
-    "offense": "UMD"
+    "period": "SOP",
+    "length": 74
   },
   "32": {
+    "extras": [],
+    "offense": "UVA",
     "defense": "UMD",
+    "time": "1820",
     "result": "GD",
-    "period": "SOP",
     "primary": [
       "UVA-MICHAEL HOWELL"
     ],
-    "extras": [],
     "secondary": [],
-    "time": "1820",
-    "length": 6,
-    "offense": "UVA"
+    "period": "SOP",
+    "length": 6
   },
   "33": {
-    "defense": "UVA",
-    "result": "GD",
-    "period": "SOP",
-    "primary": [
-      "UMD-JOHN SHERIDAN"
-    ],
     "extras": [
       [
         "SOP",
@@ -501,224 +495,224 @@
         "UVA-HANNAH ROLLINS"
       ]
     ],
-    "secondary": [],
+    "offense": "UMD",
+    "defense": "UVA",
     "time": "1939",
-    "length": 119,
-    "offense": "UMD"
+    "result": "GD",
+    "primary": [
+      "UMD-JOHN SHERIDAN"
+    ],
+    "secondary": [],
+    "period": "SOP",
+    "length": 119
   },
   "34": {
+    "extras": [],
+    "offense": "UVA",
     "defense": "UMD",
+    "time": "2015",
     "result": "GS",
-    "period": "SOP",
     "primary": [
       "UVA-MATTHEW COOPER"
     ],
-    "extras": [],
     "secondary": [
       "UVA-MATTHEW STEELBERG"
     ],
-    "time": "2015",
-    "length": 76,
-    "offense": "UVA"
+    "period": "SOP",
+    "length": 76
   },
   "35": {
-    "defense": "UVA",
-    "result": "EP",
-    "period": "SOP",
-    "primary": [
-      "UMD-MIKE SINDALL"
-    ],
     "extras": [
       [
         "R",
         "UVA-LANE BURGESS"
       ]
+    ],
+    "offense": "UMD",
+    "defense": "UVA",
+    "time": "2057",
+    "result": "EP",
+    "primary": [
+      "UMD-MIKE SINDALL"
     ],
     "secondary": [
       "UMD-ABBY POTTER"
     ],
-    "time": "2057",
-    "length": 42,
-    "offense": "UMD"
+    "period": "SOP",
+    "length": 42
   },
   "36": {
+    "extras": [],
+    "offense": "UVA",
     "defense": "UMD",
+    "time": "2118",
     "result": "GP",
-    "period": "SOP",
     "primary": [
       "UVA-BEN PHILLIPS"
     ],
-    "extras": [],
     "secondary": [
       "UVA-49"
     ],
-    "time": "2118",
-    "length": 61,
-    "offense": "UVA"
+    "period": "SOP",
+    "length": 61
   },
   "37": {
-    "defense": "UVA",
-    "result": "TL",
-    "period": "SOP",
-    "primary": [
-      "UVA-49"
-    ],
     "extras": [
       [
         "R",
         "UVA-LANE BURGESS"
       ]
     ],
-    "secondary": [
-      "UMD-MIKE SINDALL"
-    ],
+    "offense": "UMD",
+    "defense": "UVA",
     "time": "2148",
-    "length": 30,
-    "offense": "UMD"
-  },
-  "38": {
-    "defense": "UMD",
-    "result": "ET",
-    "period": "SOP",
+    "result": "TL",
     "primary": [
       "UVA-49"
     ],
+    "secondary": [
+      "UMD-MIKE SINDALL"
+    ],
+    "period": "SOP",
+    "length": 30
+  },
+  "38": {
     "extras": [],
-    "secondary": [],
+    "offense": "UVA",
+    "defense": "UMD",
     "time": "2154",
-    "length": 6,
-    "offense": "UVA"
+    "result": "ET",
+    "primary": [
+      "UVA-49"
+    ],
+    "secondary": [],
+    "period": "SOP",
+    "length": 6
   },
   "39": {
+    "extras": [],
+    "offense": "UMD",
     "defense": "UVA",
+    "time": "2216",
     "result": "TL",
-    "period": "SOP",
     "primary": [
       "UVA-BEN PHILLIPS"
     ],
-    "extras": [],
     "secondary": [
       "UMD-JOHN SHERIDAN"
     ],
-    "time": "2216",
-    "length": 62,
-    "offense": "UMD"
+    "period": "SOP",
+    "length": 62
   },
   "40": {
+    "extras": [],
+    "offense": "UVA",
     "defense": "UMD",
+    "time": "2228",
     "result": "GP",
-    "period": "SOP",
     "primary": [
       "UVA-MATTHEW COOPER"
     ],
-    "extras": [],
     "secondary": [
       "UVA-BEN PHILLIPS"
     ],
-    "time": "2228",
-    "length": 12,
-    "offense": "UVA"
+    "period": "SOP",
+    "length": 12
   },
   "41": {
+    "extras": [],
+    "offense": "UMD",
     "defense": "UVA",
+    "time": "2309",
     "result": "TB",
-    "period": "SOP",
     "primary": [
       "UVA-LANE BURGESS"
     ],
-    "extras": [],
     "secondary": [
       "UMD-NOAH RINDOCK"
     ],
-    "time": "2309",
-    "length": 81,
-    "offense": "UMD"
+    "period": "SOP",
+    "length": 81
   },
   "42": {
+    "extras": [],
+    "offense": "UVA",
     "defense": "UMD",
+    "time": "2337",
     "result": "TL",
-    "period": "SOP",
     "primary": [
       "UMD-NOAH RINDOCK"
     ],
-    "extras": [],
     "secondary": [
       "UVA-BEN PHILLIPS"
     ],
-    "time": "2337",
-    "length": 28,
-    "offense": "UVA"
+    "period": "SOP",
+    "length": 28
   },
   "43": {
-    "defense": "UVA",
-    "result": "GD",
-    "period": "SOP",
-    "primary": [
-      "UMD-NOAH RINDOCK"
-    ],
     "extras": [
       [
         "Y",
         "UVA-MATTHEW COOPER"
       ]
     ],
-    "secondary": [],
+    "offense": "UMD",
+    "defense": "UVA",
     "time": "2444",
-    "length": 107,
-    "offense": "UMD"
+    "result": "GD",
+    "primary": [
+      "UMD-NOAH RINDOCK"
+    ],
+    "secondary": [],
+    "period": "SOP",
+    "length": 107
   },
   "44": {
+    "extras": [],
+    "offense": "UVA",
     "defense": "UMD",
+    "time": "2510",
     "result": "TB",
-    "period": "SOP",
     "primary": [
       "UMD-ZAIN BHAILA"
     ],
-    "extras": [],
     "secondary": [
       "UVA-MICHAEL HOWELL"
     ],
-    "time": "2510",
-    "length": 66,
-    "offense": "UVA"
+    "period": "SOP",
+    "length": 66
   },
   "45": {
+    "extras": [],
+    "offense": "UMD",
     "defense": "UVA",
+    "time": "2522",
     "result": "GP",
-    "period": "SOP",
     "primary": [
       "UMD-JOHN SHERIDAN"
     ],
-    "extras": [],
     "secondary": [
       "UMD-MACK MORGAN"
     ],
-    "time": "2522",
-    "length": 12,
-    "offense": "UMD"
+    "period": "SOP",
+    "length": 12
   },
   "46": {
+    "extras": [],
+    "offense": "UVA",
     "defense": "UMD",
+    "time": "2541",
     "result": "EP",
-    "period": "SOP",
     "primary": [
       "UVA-MATTHEW COOPER"
     ],
-    "extras": [],
     "secondary": [
       "UVA-BEN PHILLIPS"
     ],
-    "time": "2541",
-    "length": 19,
-    "offense": "UVA"
+    "period": "SOP",
+    "length": 19
   },
   "47": {
-    "defense": "UVA",
-    "result": "GD",
-    "period": "SOP",
-    "primary": [
-      "UMD-JOHN SHERIDAN"
-    ],
     "extras": [
       [
         "2Y",
@@ -729,24 +723,30 @@
         "UVA-BEN PHILLIPS"
       ]
     ],
-    "secondary": [],
+    "offense": "UMD",
+    "defense": "UVA",
     "time": "2655",
-    "length": 114,
-    "offense": "UMD"
+    "result": "GD",
+    "primary": [
+      "UMD-JOHN SHERIDAN"
+    ],
+    "secondary": [],
+    "period": "SOP",
+    "length": 114
   },
   "48": {
+    "extras": [],
+    "offense": "UVA",
     "defense": "UMD",
+    "time": "2758",
     "result": "GS",
-    "period": "SOP",
     "primary": [
       "UVA-MATTHEW STEELBERG"
     ],
-    "extras": [],
     "secondary": [
       "UVA-BEN PHILLIPS"
     ],
-    "time": "2758",
-    "length": 103,
-    "offense": "UVA"
+    "period": "SOP",
+    "length": 103
   }
 }

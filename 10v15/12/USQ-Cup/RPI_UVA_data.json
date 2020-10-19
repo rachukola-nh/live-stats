@@ -1,644 +1,644 @@
 {
   "0": {
-    "time": "0000",
+    "extras": [],
     "offense": "Brooms Up",
-    "result": "BU",
     "defense": "",
-    "secondary": [
-      "UVA-BRETT CURTIS"
-    ],
     "length": -1,
+    "time": "0000",
+    "result": "BU",
     "primary": [
       "UVA-FARAAZ SIDDIQUI"
     ],
-    "extras": [],
+    "secondary": [
+      "UVA-BRETT CURTIS"
+    ],
     "period": "FLOOR"
   },
   "1": {
-    "time": "0036",
+    "extras": [],
     "offense": "UVA",
-    "result": "GP",
     "defense": "RPI",
-    "secondary": [
-      "UVA-BEN PHILLIPS"
-    ],
-    "length": 36,
+    "time": "0036",
+    "result": "GP",
     "primary": [
       "UVA-JULIA MARKS"
     ],
-    "extras": [],
-    "period": "FLOOR"
+    "secondary": [
+      "UVA-BEN PHILLIPS"
+    ],
+    "period": "FLOOR",
+    "length": 36
   },
   "2": {
-    "time": "0110",
+    "extras": [],
     "offense": "RPI",
-    "result": "EM",
     "defense": "UVA",
-    "secondary": [],
-    "length": 74,
+    "time": "0110",
+    "result": "EM",
     "primary": [
       "RPI-TYLER BECKMANN"
     ],
-    "extras": [],
-    "period": "FLOOR"
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 74
   },
   "3": {
-    "time": "0141",
+    "extras": [],
     "offense": "UVA",
-    "result": "TD",
     "defense": "RPI",
+    "time": "0141",
+    "result": "TD",
+    "primary": [
+      "RPI-TYLER BECKMANN"
+    ],
     "secondary": [
       "UVA-CARLEE KLEPPIN",
       "UVA-JULIA MARKS"
     ],
-    "length": 31,
-    "primary": [
-      "RPI-TYLER BECKMANN"
-    ],
-    "extras": [],
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 31
   },
   "4": {
-    "time": "0219",
+    "extras": [],
     "offense": "RPI",
-    "result": "EM",
     "defense": "UVA",
-    "secondary": [],
-    "length": 78,
+    "time": "0219",
+    "result": "EM",
     "primary": [
       "RPI-VANESSA KEATING"
     ],
-    "extras": [],
-    "period": "FLOOR"
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 78
   },
   "5": {
-    "time": "0308",
+    "extras": [],
     "offense": "UVA",
-    "result": "TB",
     "defense": "RPI",
-    "secondary": [
-      "UVA-BEN PHILLIPS"
-    ],
-    "length": 89,
+    "time": "0308",
+    "result": "TB",
     "primary": [
       "RPI-CARSEN OLAZABA"
     ],
-    "extras": [],
-    "period": "FLOOR"
+    "secondary": [
+      "UVA-BEN PHILLIPS"
+    ],
+    "period": "FLOOR",
+    "length": 89
   },
   "6": {
-    "time": "0315",
+    "extras": [],
     "offense": "RPI",
-    "result": "TD",
     "defense": "UVA",
+    "time": "0315",
+    "result": "TD",
+    "primary": [
+      "UVA-FARAAZ SIDDIQUI"
+    ],
     "secondary": [
       "RPI-TYLER BECKMANN",
       "RPI-NICK DUPRE"
     ],
-    "length": 7,
-    "primary": [
-      "UVA-FARAAZ SIDDIQUI"
-    ],
-    "extras": [],
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 7
   },
   "7": {
-    "time": "0342",
+    "extras": [],
     "offense": "UVA",
-    "result": "TC",
     "defense": "RPI",
-    "secondary": [
-      "UVA-FARAAZ SIDDIQUI"
-    ],
-    "length": 27,
+    "time": "0342",
+    "result": "TC",
     "primary": [
       "RPI-NICK DUPRE"
     ],
-    "extras": [],
-    "period": "FLOOR"
+    "secondary": [
+      "UVA-FARAAZ SIDDIQUI"
+    ],
+    "period": "FLOOR",
+    "length": 27
   },
   "8": {
-    "time": "0438",
+    "extras": [],
     "offense": "RPI",
-    "result": "TB",
     "defense": "UVA",
-    "secondary": [
-      "RPI-ERIK BERGLAND"
-    ],
-    "length": 96,
+    "time": "0438",
+    "result": "TB",
     "primary": [
       "UVA-AIDAN MOSSIP"
     ],
-    "extras": [],
-    "period": "FLOOR"
+    "secondary": [
+      "RPI-ERIK BERGLAND"
+    ],
+    "period": "FLOOR",
+    "length": 96
   },
   "9": {
-    "time": "0503",
+    "extras": [],
     "offense": "UVA",
-    "result": "GP",
     "defense": "RPI",
+    "time": "0503",
+    "result": "GP",
+    "primary": [
+      "UVA-CARLEE KLEPPIN"
+    ],
     "secondary": [
       "UVA-FARAAZ SIDDIQUI"
     ],
-    "length": 65,
-    "primary": [
-      "UVA-CARLEE KLEPPIN"
-    ],
-    "extras": [],
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 65
   },
   "10": {
-    "time": "0535",
+    "extras": [],
     "offense": "RPI",
-    "result": "GS",
     "defense": "UVA",
-    "secondary": [],
-    "length": 32,
+    "time": "0535",
+    "result": "GS",
     "primary": [
       "RPI-ERIK BERGLAND"
     ],
-    "extras": [],
-    "period": "FLOOR"
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 32
   },
   "11": {
-    "time": "0653",
+    "extras": [],
     "offense": "UVA",
-    "result": "GP",
     "defense": "RPI",
-    "secondary": [
-      "UVA-GATES YOUNG"
-    ],
-    "length": 118,
+    "time": "0653",
+    "result": "GP",
     "primary": [
       "UVA-JULIA MARKS"
     ],
-    "extras": [],
-    "period": "FLOOR"
-  },
-  "12": {
-    "time": "0726",
-    "offense": "RPI",
-    "result": "EM",
-    "defense": "UVA",
-    "secondary": [],
-    "length": 73,
-    "primary": [
-      "RPI-ERIK BERGLAND"
-    ],
-    "extras": [],
-    "period": "FLOOR"
-  },
-  "13": {
-    "time": "0802",
-    "offense": "UVA",
-    "result": "TL",
-    "defense": "RPI",
     "secondary": [
       "UVA-GATES YOUNG"
     ],
-    "length": 76,
+    "period": "FLOOR",
+    "length": 118
+  },
+  "12": {
+    "extras": [],
+    "offense": "RPI",
+    "defense": "UVA",
+    "time": "0726",
+    "result": "EM",
     "primary": [
       "RPI-ERIK BERGLAND"
     ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 73
+  },
+  "13": {
     "extras": [],
-    "period": "FLOOR"
+    "offense": "UVA",
+    "defense": "RPI",
+    "time": "0802",
+    "result": "TL",
+    "primary": [
+      "RPI-ERIK BERGLAND"
+    ],
+    "secondary": [
+      "UVA-GATES YOUNG"
+    ],
+    "period": "FLOOR",
+    "length": 76
   },
   "14": {
-    "time": "0847",
+    "extras": [],
     "offense": "RPI",
-    "result": "GP",
     "defense": "UVA",
-    "secondary": [
-      "RPI-MAX CAREY"
-    ],
-    "length": 45,
+    "time": "0847",
+    "result": "GP",
     "primary": [
       "RPI-NICK DUPRE"
     ],
-    "extras": [],
-    "period": "FLOOR"
+    "secondary": [
+      "RPI-MAX CAREY"
+    ],
+    "period": "FLOOR",
+    "length": 45
   },
   "15": {
-    "time": "0906",
+    "extras": [],
     "offense": "UVA",
-    "result": "EP",
     "defense": "RPI",
-    "secondary": [
-      "UVA-GATES YOUNG"
-    ],
-    "length": 59,
+    "time": "0906",
+    "result": "EP",
     "primary": [
       "UVA-BEN PHILLIPS"
     ],
-    "extras": [],
-    "period": "FLOOR"
+    "secondary": [
+      "UVA-GATES YOUNG"
+    ],
+    "period": "FLOOR",
+    "length": 59
   },
   "16": {
-    "time": "0912",
+    "extras": [],
     "offense": "RPI",
-    "result": "TC",
     "defense": "UVA",
+    "time": "0912",
+    "result": "TC",
+    "primary": [
+      "UVA-PEYTON BURROW"
+    ],
     "secondary": [
       "RPI-VANESSA KEATING"
     ],
-    "length": 6,
-    "primary": [
-      "UVA-PEYTON BURROW"
-    ],
-    "extras": [],
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 6
   },
   "17": {
-    "time": "0929",
+    "extras": [],
     "offense": "UVA",
-    "result": "ED",
     "defense": "RPI",
+    "time": "0929",
+    "result": "ED",
+    "primary": [
+      "UVA-MATTHEW COOPER"
+    ],
     "secondary": [
       "UVA-BEN PHILLIPS"
     ],
-    "length": 17,
-    "primary": [
-      "UVA-MATTHEW COOPER"
-    ],
-    "extras": [],
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 17
   },
   "18": {
-    "time": "0957",
+    "extras": [],
     "offense": "RPI",
-    "result": "GS",
     "defense": "UVA",
-    "secondary": [],
-    "length": 28,
+    "time": "0957",
+    "result": "GS",
     "primary": [
       "RPI-MAX CAREY"
     ],
-    "extras": [],
-    "period": "FLOOR"
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 28
   },
   "19": {
-    "time": "1032",
+    "extras": [],
     "offense": "UVA",
-    "result": "EP",
     "defense": "RPI",
-    "secondary": [
-      "UVA-PEYTON BURROW"
-    ],
-    "length": 75,
+    "time": "1032",
+    "result": "EP",
     "primary": [
       "UVA-MATTHEW COOPER"
     ],
-    "extras": [],
-    "period": "FLOOR"
+    "secondary": [
+      "UVA-PEYTON BURROW"
+    ],
+    "period": "FLOOR",
+    "length": 75
   },
   "20": {
-    "time": "1053",
+    "extras": [],
     "offense": "RPI",
-    "result": "EB",
     "defense": "UVA",
-    "secondary": [],
-    "length": 21,
+    "time": "1053",
+    "result": "EB",
     "primary": [
       "RPI-KEVIN IOTT"
     ],
-    "extras": [],
-    "period": "FLOOR"
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 21
   },
   "21": {
-    "time": "1058",
+    "extras": [],
     "offense": "UVA",
-    "result": "GD",
     "defense": "RPI",
-    "secondary": [],
-    "length": 5,
+    "time": "1058",
+    "result": "GD",
     "primary": [
       "UVA-MATTHEW COOPER"
     ],
-    "extras": [],
-    "period": "FLOOR"
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 5
   },
   "22": {
-    "time": "1124",
+    "extras": [],
     "offense": "RPI",
-    "result": "EM",
     "defense": "UVA",
-    "secondary": [],
-    "length": 66,
+    "time": "1124",
+    "result": "EM",
     "primary": [
       "RPI-MAX CAREY"
     ],
-    "extras": [],
-    "period": "FLOOR"
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 66
   },
   "23": {
-    "time": "1156",
+    "extras": [],
     "offense": "UVA",
-    "result": "GS",
     "defense": "RPI",
-    "secondary": [],
-    "length": 32,
+    "time": "1156",
+    "result": "GS",
     "primary": [
       "UVA-BEN PHILLIPS"
     ],
-    "extras": [],
-    "period": "FLOOR"
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 32
   },
   "24": {
-    "time": "1225",
+    "extras": [],
     "offense": "RPI",
-    "result": "ED",
     "defense": "UVA",
-    "secondary": [
-      "RPI-NICK DUPRE"
-    ],
-    "length": 69,
+    "time": "1225",
+    "result": "ED",
     "primary": [
       "RPI-MAX CAREY"
     ],
-    "extras": [],
-    "period": "FLOOR"
+    "secondary": [
+      "RPI-NICK DUPRE"
+    ],
+    "period": "FLOOR",
+    "length": 69
   },
   "25": {
-    "time": "1243",
+    "extras": [],
     "offense": "UVA",
-    "result": "EP",
     "defense": "RPI",
-    "secondary": [
-      "UVA-JULIA MARKS"
-    ],
-    "length": 18,
+    "time": "1243",
+    "result": "EP",
     "primary": [
       "UVA-DAVID LITTLETON"
     ],
-    "extras": [],
-    "period": "FLOOR"
+    "secondary": [
+      "UVA-JULIA MARKS"
+    ],
+    "period": "FLOOR",
+    "length": 18
   },
   "26": {
-    "time": "1318",
-    "offense": "RPI",
-    "result": "TC",
-    "defense": "UVA",
-    "secondary": [
-      "RPI-ELLIE LISEC"
-    ],
-    "length": 75,
-    "primary": [
-      "UVA-CARLEE KLEPPIN"
-    ],
     "extras": [
       [
         "Y",
         "UVA-MATTHEW COOPER"
       ]
     ],
-    "period": "FLOOR"
-  },
-  "27": {
-    "time": "1411",
-    "offense": "UVA",
-    "result": "TB",
-    "defense": "RPI",
-    "secondary": [
+    "offense": "RPI",
+    "defense": "UVA",
+    "time": "1318",
+    "result": "TC",
+    "primary": [
       "UVA-CARLEE KLEPPIN"
     ],
-    "length": 93,
-    "primary": [
-      "RPI-CARSEN OLAZABA"
-    ],
-    "extras": [],
-    "period": "FLOOR"
-  },
-  "28": {
-    "time": "1414",
-    "offense": "RPI",
-    "result": "TC",
-    "defense": "UVA",
     "secondary": [
       "RPI-ELLIE LISEC"
     ],
-    "length": 3,
+    "period": "FLOOR",
+    "length": 75
+  },
+  "27": {
+    "extras": [],
+    "offense": "UVA",
+    "defense": "RPI",
+    "time": "1411",
+    "result": "TB",
+    "primary": [
+      "RPI-CARSEN OLAZABA"
+    ],
+    "secondary": [
+      "UVA-CARLEE KLEPPIN"
+    ],
+    "period": "FLOOR",
+    "length": 93
+  },
+  "28": {
+    "extras": [],
+    "offense": "RPI",
+    "defense": "UVA",
+    "time": "1414",
+    "result": "TC",
     "primary": [
       "UVA-MATTHEW COOPER"
     ],
-    "extras": [],
-    "period": "FLOOR"
+    "secondary": [
+      "RPI-ELLIE LISEC"
+    ],
+    "period": "FLOOR",
+    "length": 3
   },
   "29": {
-    "time": "1445",
+    "extras": [],
     "offense": "UVA",
-    "result": "GS",
     "defense": "RPI",
-    "secondary": [],
-    "length": 31,
+    "time": "1445",
+    "result": "GS",
     "primary": [
       "UVA-DAVID LITTLETON"
     ],
-    "extras": [],
-    "period": "FLOOR"
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 31
   },
   "30": {
-    "time": "1519",
+    "extras": [],
     "offense": "RPI",
-    "result": "GS",
     "defense": "UVA",
-    "secondary": [
-      "RPI-TYLER BECKMANN"
-    ],
-    "length": 74,
+    "time": "1519",
+    "result": "GS",
     "primary": [
       "RPI-NICK ZONER"
     ],
-    "extras": [],
-    "period": "FLOOR"
-  },
-  "31": {
-    "time": "1533",
-    "offense": "UVA",
-    "result": "GD",
-    "defense": "RPI",
-    "secondary": [],
-    "length": 14,
-    "primary": [
-      "UVA-DAVID LITTLETON"
-    ],
-    "extras": [],
-    "period": "FLOOR"
-  },
-  "32": {
-    "time": "1555",
-    "offense": "RPI",
-    "result": "TL",
-    "defense": "UVA",
     "secondary": [
       "RPI-TYLER BECKMANN"
     ],
-    "length": 22,
+    "period": "FLOOR",
+    "length": 74
+  },
+  "31": {
+    "extras": [],
+    "offense": "UVA",
+    "defense": "RPI",
+    "time": "1533",
+    "result": "GD",
     "primary": [
       "UVA-DAVID LITTLETON"
     ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 14
+  },
+  "32": {
     "extras": [],
-    "period": "FLOOR"
+    "offense": "RPI",
+    "defense": "UVA",
+    "time": "1555",
+    "result": "TL",
+    "primary": [
+      "UVA-DAVID LITTLETON"
+    ],
+    "secondary": [
+      "RPI-TYLER BECKMANN"
+    ],
+    "period": "FLOOR",
+    "length": 22
   },
   "33": {
-    "time": "1725",
+    "extras": [],
     "offense": "UVA",
-    "result": "TL",
     "defense": "RPI",
+    "time": "1725",
+    "result": "TL",
+    "primary": [
+      "RPI-ERIK BERGLAND"
+    ],
     "secondary": [
       "UVA-FARAAZ SIDDIQUI"
     ],
-    "length": 170,
-    "primary": [
-      "RPI-ERIK BERGLAND"
-    ],
-    "extras": [],
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 170
   },
   "34": {
-    "time": "1807",
-    "offense": "RPI",
-    "result": "GS",
-    "defense": "UVA",
-    "secondary": [],
-    "length": 82,
-    "primary": [
-      "RPI-ERIK BERGLAND"
-    ],
     "extras": [
       [
         "SOP",
         1
       ]
     ],
-    "period": "SOP"
+    "offense": "RPI",
+    "defense": "UVA",
+    "time": "1807",
+    "result": "GS",
+    "primary": [
+      "RPI-ERIK BERGLAND"
+    ],
+    "secondary": [],
+    "period": "SOP",
+    "length": 82
   },
   "35": {
-    "time": "1847",
+    "extras": [],
     "offense": "UVA",
-    "result": "GS",
     "defense": "RPI",
-    "secondary": [
-      "UVA-GATES YOUNG"
-    ],
-    "length": 40,
+    "time": "1847",
+    "result": "GS",
     "primary": [
       "UVA-JULIA MARKS"
     ],
-    "extras": [],
-    "period": "SOP"
+    "secondary": [
+      "UVA-GATES YOUNG"
+    ],
+    "period": "SOP",
+    "length": 40
   },
   "36": {
-    "time": "1858",
+    "extras": [],
     "offense": "RPI",
-    "result": "GD",
     "defense": "UVA",
-    "secondary": [],
-    "length": 11,
+    "time": "1858",
+    "result": "GD",
     "primary": [
       "RPI-NICK DUPRE"
     ],
-    "extras": [],
-    "period": "SOP"
+    "secondary": [],
+    "period": "SOP",
+    "length": 11
   },
   "37": {
-    "time": "1913",
+    "extras": [],
     "offense": "UVA",
-    "result": "ED",
     "defense": "RPI",
+    "time": "1913",
+    "result": "ED",
+    "primary": [
+      "UVA-JULIA MARKS"
+    ],
     "secondary": [
       "UVA-GATES YOUNG"
     ],
-    "length": 55,
-    "primary": [
-      "UVA-JULIA MARKS"
-    ],
-    "extras": [],
-    "period": "SOP"
+    "period": "SOP",
+    "length": 55
   },
   "38": {
-    "time": "2025",
+    "extras": [],
     "offense": "RPI",
-    "result": "EM",
     "defense": "UVA",
-    "secondary": [],
-    "length": 112,
+    "time": "2025",
+    "result": "EM",
     "primary": [
       "RPI-ERIK BERGLAND"
     ],
-    "extras": [],
-    "period": "SOP"
+    "secondary": [],
+    "period": "SOP",
+    "length": 112
   },
   "39": {
-    "time": "2048",
-    "offense": "UVA",
-    "result": "TD",
-    "defense": "RPI",
-    "secondary": [
-      "UVA-BEN PHILLIPS",
-      "UVA-JULIA MARKS"
-    ],
-    "length": 23,
-    "primary": [
-      "RPI-ERIK BERGLAND"
-    ],
     "extras": [
       [
         "TIMEOUT",
         "RPI"
       ]
     ],
-    "period": "SOP"
-  },
-  "40": {
-    "time": "2105",
-    "offense": "RPI",
-    "result": "GD",
-    "defense": "UVA",
-    "secondary": [],
-    "length": 57,
+    "offense": "UVA",
+    "defense": "RPI",
+    "time": "2048",
+    "result": "TD",
     "primary": [
       "RPI-ERIK BERGLAND"
     ],
+    "secondary": [
+      "UVA-BEN PHILLIPS",
+      "UVA-JULIA MARKS"
+    ],
+    "period": "SOP",
+    "length": 23
+  },
+  "40": {
     "extras": [],
-    "period": "SOP"
+    "offense": "RPI",
+    "defense": "UVA",
+    "time": "2105",
+    "result": "GD",
+    "primary": [
+      "RPI-ERIK BERGLAND"
+    ],
+    "secondary": [],
+    "period": "SOP",
+    "length": 57
   },
   "41": {
-    "time": "2135",
+    "extras": [],
     "offense": "UVA",
-    "result": "GD",
     "defense": "RPI",
-    "secondary": [],
-    "length": 30,
+    "time": "2135",
+    "result": "GD",
     "primary": [
       "UVA-FARAAZ SIDDIQUI"
     ],
-    "extras": [],
-    "period": "SOP"
+    "secondary": [],
+    "period": "SOP",
+    "length": 30
   },
   "42": {
-    "time": "2152",
+    "extras": [],
     "offense": "RPI",
-    "result": "GD",
     "defense": "UVA",
-    "secondary": [],
-    "length": 17,
+    "time": "2152",
+    "result": "GD",
     "primary": [
       "RPI-NICK DUPRE"
     ],
-    "extras": [],
-    "period": "SOP"
+    "secondary": [],
+    "period": "SOP",
+    "length": 17
   },
   "43": {
-    "time": "2204",
+    "extras": [],
     "offense": "UVA",
-    "result": "RCA",
     "defense": "RPI",
-    "secondary": [],
-    "length": -1,
+    "time": "2204",
+    "result": "RCA",
     "primary": [
       "RPI-TYLER BECKMANN"
     ],
-    "extras": [],
-    "period": "SOP"
+    "secondary": [],
+    "period": "SOP",
+    "length": -1
   }
 }

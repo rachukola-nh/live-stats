@@ -2,11 +2,11 @@
 (00:17)UTSA possession: Goal on the drive by ['UTSA-AUSTIN VILLEJO']. During the play, yellow card on ROCHESTER-EMMA FOLEY
 (00:49)ROCHESTER possession: ['ROCHESTER-JUSTIN KING'] passes to ['ROCHESTER-MADDISON JORDAN'] at the hoops, GOAL.
 (01:55)UTSA possession: ['UTSA-AUSTIN VILLEJO'] passes to ['UTSA-RENN LEBER'] at the hoops, GOAL.
-(02:24)ROCHESTER possession: Errant pass from ['ROCHESTER-JUSTIN KING'] to ['ROCHESTER-UNK']. Turnover
+(02:24)ROCHESTER possession: Errant pass from ['ROCHESTER-JUSTIN KING'] in the direction of ['ROCHESTER-UNK'] . Turnover
 (02:45)UTSA possession: Goal on the drive by ['UTSA-AUSTIN VILLEJO']. During the play, yellow card on UTSA-95
 (03:14)ROCHESTER possession: Beat by ['UTSA-DANIEL WILLIAMS'] on ['ROCHESTER-OWYN GUINNIP'] forces a TURNOVER.
 (03:21)UTSA possession: ['UTSA-17'] passes to ['UTSA-AUSTIN VILLEJO'] at the hoops, GOAL.
-(04:01)ROCHESTER possession: Errant pass from ['ROCHESTER-BASEM ASHKAR'] to ['ROCHESTER-SAMANTHA DINGA']. Turnover
+(04:01)ROCHESTER possession: Errant pass from ['ROCHESTER-BASEM ASHKAR'] in the direction of ['ROCHESTER-SAMANTHA DINGA'] . Turnover
 (05:01)UTSA possession: Goal on the shot by ['UTSA-AUSTIN VILLEJO'].
 (05:30)ROCHESTER possession: Goal on the drive by ['ROCHESTER-BASEM ASHKAR'].
 (06:03)UTSA possession: Pass between ['UTSA-CHUCKY SEPULVEDA', 'UTSA-AUSTIN VILLEJO'] defended by ['ROCHESTER-MIKE PASCUTOI']. Turnover
@@ -15,7 +15,7 @@
 (07:19)ROCHESTER possession: Goal on the drive by ['ROCHESTER-BASEM ASHKAR'].
 (08:00)UTSA possession: Beat by ['ROCHESTER-PERRY WANG'] on ['UTSA-17'] forces a TURNOVER.
 (08:17)ROCHESTER possession: Goal on the drive by ['ROCHESTER-BASEM ASHKAR']. During the play, yellow card on UTSA-MIGUEL ESPARZA
-(09:07)UTSA possession: Errant pass from ['UTSA-17'] to ['UTSA-4']. Turnover
+(09:07)UTSA possession: Errant pass from ['UTSA-17'] in the direction of ['UTSA-4'] . Turnover
 (10:03)ROCHESTER possession: Goal on the drive by ['ROCHESTER-BASEM ASHKAR'].
 (10:26)UTSA possession: Missed shot by ['UTSA-RENN LEBER']. Turnover.
 (10:52)ROCHESTER possession: ['ROCHESTER-BASEM ASHKAR'] passes to ['ROCHESTER-EMMA FOLEY'] at the hoops, GOAL.
@@ -26,7 +26,7 @@
 (12:58)UTSA possession: Pass between ['UTSA-25', 'UTSA-CHUCKY SEPULVEDA'] defended by ['ROCHESTER-OWYN GUINNIP']. Turnover
 (13:35)ROCHESTER possession: Pass by ['ROCHESTER-OWYN GUINNIP'] dropped by ['ROCHESTER-EMMA FOLEY']. Turnover
 (15:28)UTSA possession: Turnover forced by physical contact by ['ROCHESTER-OWYN GUINNIP'] on ['UTSA-MIGUEL ESPARZA'] During the play, reset forced by ROCHESTER-STEVEN BELITZKY,yellow card on ROCHESTER-OWYN GUINNIP
-(16:09)ROCHESTER possession: Errant pass from ['ROCHESTER-BASEM ASHKAR'] to ['ROCHESTER-MADDISON JORDAN']. Turnover During the play, yellow card on UTSA-CHUCKY SEPULVEDA
+(16:09)ROCHESTER possession: Errant pass from ['ROCHESTER-BASEM ASHKAR'] in the direction of ['ROCHESTER-MADDISON JORDAN'] . Turnover During the play, yellow card on UTSA-CHUCKY SEPULVEDA
 (16:13)UTSA possession: Missed shot by ['UTSA-DAVID KEIM']. Turnover.
 (16:59)ROCHESTER possession: Beat by ['UTSA-DANIEL WILLIAMS'] on ['ROCHESTER-SAMANTHA DINGA'] forces a TURNOVER.
 (17:18)UTSA possession: Turnover forced by physical contact by ['ROCHESTER-MADDISON JORDAN'] on ['UTSA-MIGUEL ESPARZA']

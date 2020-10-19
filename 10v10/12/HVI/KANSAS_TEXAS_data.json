@@ -1,0 +1,899 @@
+{
+  "0": {
+    "extras": [],
+    "offense": "Brooms Up",
+    "defense": "",
+    "length": -1,
+    "time": "0000",
+    "result": "BU",
+    "primary": [
+      "KANSAS-IAN MCCABE"
+    ],
+    "secondary": [
+      "KANSAS-22"
+    ],
+    "period": "FLOOR"
+  },
+  "1": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "ED",
+    "primary": [
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "2": {
+    "extras": [],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "TC",
+    "primary": [
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "secondary": [
+      "KANSAS-RACHEL HEALD"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "3": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "GS",
+    "primary": [
+      "TEXAS-DAVIS ROE"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "4": {
+    "extras": [],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "GS",
+    "primary": [
+      "KANSAS-BRANDON TABOR"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "5": {
+    "extras": [
+      [
+        "R",
+        "KANSAS-RYLEY ANDREWS"
+      ]
+    ],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "GP",
+    "primary": [
+      "TEXAS-DAVIS ROE"
+    ],
+    "secondary": [
+      "TEXAS-AIDAN PARSI"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "6": {
+    "extras": [
+      [
+        "Y",
+        "TEXAS-TATE KAY"
+      ]
+    ],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "TD",
+    "primary": [
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "secondary": [
+      "KANSAS-BRANDON TABOR",
+      "KANSAS-RACHEL HEALD"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "7": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "TB",
+    "primary": [
+      "KANSAS-RYLEY ANDREWS"
+    ],
+    "secondary": [
+      "TEXAS-DAVIS ROE"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "8": {
+    "extras": [],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "EP",
+    "primary": [
+      "KANSAS-BRANDON TABOR"
+    ],
+    "secondary": [
+      "KANSAS-53"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "9": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "TB",
+    "primary": [
+      "KANSAS-RYLEY ANDREWS"
+    ],
+    "secondary": [
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "10": {
+    "extras": [],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "EM",
+    "primary": [
+      "KANSAS-JOE HANSON"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "11": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "GS",
+    "primary": [
+      "TEXAS-JOHN ANDERSON"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "12": {
+    "extras": [],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "TD",
+    "primary": [
+      "TEXAS-GRAYSON BRIGGS"
+    ],
+    "secondary": [
+      "KANSAS-JOE HANSON",
+      "KANSAS-MIKE DEVINE"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "13": {
+    "extras": [
+      [
+        "Y",
+        "KANSAS-JOE HANSON"
+      ]
+    ],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "GP",
+    "primary": [
+      "TEXAS-JOHN ANDERSON"
+    ],
+    "secondary": [
+      "TEXAS-GRAYSON BRIGGS"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "14": {
+    "extras": [],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "GD",
+    "primary": [
+      "KANSAS-MIKE DEVINE"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "15": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "EM",
+    "primary": [
+      "TEXAS-OLIVE JIM-DANIELS"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "16": {
+    "extras": [],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "TL",
+    "primary": [
+      "TEXAS-GRAYSON BRIGGS"
+    ],
+    "secondary": [
+      "KANSAS-BEN ENGELS"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "17": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "GP",
+    "primary": [
+      "TEXAS-KASYE BEVERS"
+    ],
+    "secondary": [
+      "TEXAS-AIDAN PARSI"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "18": {
+    "extras": [],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "GS",
+    "primary": [
+      "KANSAS-BRANDON TABOR"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "19": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "EP",
+    "primary": [
+      "TEXAS-SPENCER FORBES"
+    ],
+    "secondary": [
+      "TEXAS-JOEY CASTELLANO"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "20": {
+    "extras": [],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "GS",
+    "primary": [
+      "KANSAS-BRANDON TABOR"
+    ],
+    "secondary": [
+      "KANSAS-RYLEY ANDREWS"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "21": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "GS",
+    "primary": [
+      "TEXAS-JOEY CASTELLANO"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "22": {
+    "extras": [
+      [
+        "R",
+        "TEXAS-JACK WANG"
+      ]
+    ],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "GS",
+    "primary": [
+      "KANSAS-BRANDON TABOR"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "23": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "TB",
+    "primary": [
+      "KANSAS-22"
+    ],
+    "secondary": [
+      "TEXAS-JOEY CASTELLANO"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "24": {
+    "extras": [
+      [
+        "Y",
+        "TEXAS-MICHAEL JOHNSTON"
+      ]
+    ],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "GD",
+    "primary": [
+      "KANSAS-RYLEY ANDREWS"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "25": {
+    "extras": [
+      [
+        "TIMEOUT",
+        "TEXAS"
+      ]
+    ],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "EP",
+    "primary": [
+      "TEXAS-MICHAEL JOHNSTON"
+    ],
+    "secondary": [
+      "TEXAS-SPENCER FORBES"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "26": {
+    "extras": [],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "GS",
+    "primary": [
+      "KANSAS-RYLEY ANDREWS"
+    ],
+    "secondary": [
+      "KANSAS-BEN ENGELS"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "27": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "EM",
+    "primary": [
+      "TEXAS-CARLY JORDAN"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "28": {
+    "extras": [],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "TB",
+    "primary": [
+      "TEXAS-KYLIE MCBRIDE"
+    ],
+    "secondary": [
+      "KANSAS-RYLEY ANDREWS"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "29": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "TB",
+    "primary": [
+      "KANSAS-22"
+    ],
+    "secondary": [
+      "TEXAS-JOSH JOHNSON"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "30": {
+    "extras": [],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "TB",
+    "primary": [
+      "TEXAS-KYLIE MCBRIDE"
+    ],
+    "secondary": [
+      "KANSAS-MIKE DEVINE"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "31": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "TB",
+    "primary": [
+      "KANSAS-CHEYENNE LONG"
+    ],
+    "secondary": [
+      "TEXAS-CARLY JORDAN"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "32": {
+    "extras": [],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "TB",
+    "primary": [
+      "TEXAS-DAVID HUBER"
+    ],
+    "secondary": [
+      "KANSAS-RYAN DICKEY"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "33": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "TB",
+    "primary": [
+      "KANSAS-45"
+    ],
+    "secondary": [
+      "TEXAS-DAVIS ROE"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "34": {
+    "extras": [],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "GD",
+    "primary": [
+      "KANSAS-IAN MCCABE"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "35": {
+    "extras": [
+      [
+        "Y",
+        "KANSAS-RYAN DICKEY"
+      ]
+    ],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "EM",
+    "primary": [
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "36": {
+    "extras": [],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "EM",
+    "primary": [
+      "KANSAS-BRANDON TABOR"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "37": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "TC",
+    "primary": [
+      "KANSAS-RYAN DICKEY"
+    ],
+    "secondary": [
+      "TEXAS-JAYDAN GILSTRAP"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "38": {
+    "extras": [
+      [
+        "TIMEOUT",
+        "KANSAS"
+      ],
+      [
+        "SOP",
+        1
+      ]
+    ],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "TB",
+    "primary": [
+      "TEXAS-TATE KAY"
+    ],
+    "secondary": [
+      "KANSAS-53"
+    ],
+    "period": "SOP",
+    "length": -1
+  },
+  "39": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "GD",
+    "primary": [
+      "TEXAS-DAVIS ROE"
+    ],
+    "secondary": [],
+    "period": "SOP",
+    "length": -1
+  },
+  "40": {
+    "extras": [
+      [
+        "Y",
+        "TEXAS-LUKE MEISSNER"
+      ]
+    ],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "GD",
+    "primary": [
+      "KANSAS-MIKE DEVINE"
+    ],
+    "secondary": [],
+    "period": "SOP",
+    "length": -1
+  },
+  "41": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "GD",
+    "primary": [
+      "TEXAS-AIDAN PARSI"
+    ],
+    "secondary": [],
+    "period": "SOP",
+    "length": -1
+  },
+  "42": {
+    "extras": [],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "TC",
+    "primary": [
+      "TEXAS-KASYE BEVERS"
+    ],
+    "secondary": [
+      "KANSAS-RACHEL HEALD"
+    ],
+    "period": "SOP",
+    "length": -1
+  },
+  "43": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "GS",
+    "primary": [
+      "TEXAS-AIDAN PARSI"
+    ],
+    "secondary": [],
+    "period": "SOP",
+    "length": -1
+  },
+  "44": {
+    "extras": [],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "TC",
+    "primary": [
+      "TEXAS-KASYE BEVERS"
+    ],
+    "secondary": [
+      "KANSAS-BEN ENGELS"
+    ],
+    "period": "SOP",
+    "length": -1
+  },
+  "45": {
+    "extras": [
+      [
+        "R",
+        "KANSAS-UNK"
+      ],
+      [
+        "Y",
+        "KANSAS-BEN ENGELS"
+      ]
+    ],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "GD",
+    "primary": [
+      "TEXAS-AIDAN PARSI"
+    ],
+    "secondary": [],
+    "period": "SOP",
+    "length": -1
+  },
+  "46": {
+    "extras": [],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "EM",
+    "primary": [
+      "KANSAS-IAN MCCABE"
+    ],
+    "secondary": [],
+    "period": "SOP",
+    "length": -1
+  },
+  "47": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "GP",
+    "primary": [
+      "TEXAS-OLIVE JIM-DANIELS"
+    ],
+    "secondary": [
+      "TEXAS-KASYE BEVERS"
+    ],
+    "period": "SOP",
+    "length": -1
+  },
+  "48": {
+    "extras": [],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "GD",
+    "primary": [
+      "KANSAS-JOE HANSON"
+    ],
+    "secondary": [],
+    "period": "SOP",
+    "length": -1
+  },
+  "49": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "GS",
+    "primary": [
+      "TEXAS-MICHAEL JOHNSTON"
+    ],
+    "secondary": [
+      "TEXAS-DYLAN BOTTOMS"
+    ],
+    "period": "SOP",
+    "length": -1
+  },
+  "50": {
+    "extras": [],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "GP",
+    "primary": [
+      "KANSAS-BRANDON TABOR"
+    ],
+    "secondary": [
+      "KANSAS-BEN ENGELS"
+    ],
+    "period": "SOP",
+    "length": -1
+  },
+  "51": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "TC",
+    "primary": [
+      "KANSAS-BEN ENGELS"
+    ],
+    "secondary": [
+      "TEXAS-MICHAEL JOHNSTON"
+    ],
+    "period": "SOP",
+    "length": -1
+  },
+  "52": {
+    "extras": [],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "GD",
+    "primary": [
+      "KANSAS-JOE HANSON"
+    ],
+    "secondary": [],
+    "period": "SOP",
+    "length": -1
+  },
+  "53": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "EM",
+    "primary": [
+      "TEXAS-DYLAN BOTTOMS"
+    ],
+    "secondary": [],
+    "period": "SOP",
+    "length": -1
+  },
+  "54": {
+    "extras": [
+      [
+        "Y",
+        "TEXAS-DYLAN BOTTOMS"
+      ]
+    ],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "GD",
+    "primary": [
+      "KANSAS-BRANDON TABOR"
+    ],
+    "secondary": [],
+    "period": "SOP",
+    "length": -1
+  },
+  "55": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "EP",
+    "primary": [
+      "TEXAS-AIDAN PARSI"
+    ],
+    "secondary": [
+      "TEXAS-CARLY JORDAN"
+    ],
+    "period": "SOP",
+    "length": -1
+  },
+  "56": {
+    "extras": [],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "GD",
+    "primary": [
+      "KANSAS-53"
+    ],
+    "secondary": [],
+    "period": "SOP",
+    "length": -1
+  },
+  "57": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "KANSAS",
+    "time": "",
+    "result": "TD",
+    "primary": [
+      "KANSAS-IAN MCCABE"
+    ],
+    "secondary": [
+      "TEXAS-AIDAN PARSI",
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "period": "SOP",
+    "length": -1
+  },
+  "58": {
+    "extras": [],
+    "offense": "KANSAS",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "RCA",
+    "primary": [
+      "KANSAS-RYLEY ANDREWS"
+    ],
+    "secondary": [],
+    "period": "SOP",
+    "length": -1
+  }
+}

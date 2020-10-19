@@ -1,17 +1,17 @@
 (00:00)Brooms Up possession: BROOMS UP! Quaffle Possession by ['TEXAS-DAVIS ROE'], Bludger Control by ['TEXAS-RICHMOND KEELING']
 (00:48)TEXAS possession: Drop by ['TEXAS-CAROLINE TAO']. Turnover.
 (01:10)SHSU possession: ['SHSU-HAYDEN BOYES'] passes to ['SHSU-HALEY DUPRE'] at the hoops, GOAL.
-(02:20)TEXAS possession: Errant pass from ['TEXAS-LUKE MEISSNER'] to ['TEXAS-KASYE BEVERS']. Turnover
+(02:20)TEXAS possession: Errant pass from ['TEXAS-LUKE MEISSNER'] in the direction of ['TEXAS-KASYE BEVERS'] . Turnover
 (03:00)SHSU possession: Goal on the drive by ['SHSU-CHRIS DORSEY'], assist by ['SHSU-THOMAS MORGAN']
 (03:17)TEXAS possession: Goal on the drive by ['TEXAS-LUKE MEISSNER'].
-(03:40)SHSU possession: Errant pass from ['SHSU-KEENAN NASH'] to ['SHSU-HAYDEN BOYES']. Turnover
+(03:40)SHSU possession: Errant pass from ['SHSU-KEENAN NASH'] in the direction of ['SHSU-HAYDEN BOYES'] . Turnover
 (04:03)TEXAS possession: Goal on the drive by ['TEXAS-JOSH JOHNSON'], assist by ['TEXAS-GRAYSON BRIGGS']
 (04:21)SHSU possession: Pass by ['SHSU-KEENAN NASH'] dropped by ['SHSU-HALEY DUPRE']. Turnover
 (04:47)TEXAS possession: Beat by ['SHSU-BALDEMAR NUNEZ'] on ['TEXAS-GRAYSON BRIGGS'] forces a TURNOVER.
-(05:05)SHSU possession: Errant pass from ['SHSU-HALEY DUPRE'] to ['SHSU-KEENAN NASH']. Turnover
+(05:05)SHSU possession: Errant pass from ['SHSU-HALEY DUPRE'] in the direction of ['SHSU-KEENAN NASH'] . Turnover
 (06:07)TEXAS possession: Goal on the shot by ['TEXAS-KASYE BEVERS'], assist by ['TEXAS-DAVIS ROE']
 (06:30)SHSU possession: Pass between ['SHSU-BRANDON KUBENA', 'SHSU-HALEY DUPRE'] defended by ['TEXAS-MICHAEL JOHNSTON']. Turnover
-(07:20)TEXAS possession: Errant pass from ['TEXAS-DAVIS ROE'] to ['TEXAS-KASYE BEVERS']. Turnover
+(07:20)TEXAS possession: Errant pass from ['TEXAS-DAVIS ROE'] in the direction of ['TEXAS-KASYE BEVERS'] . Turnover
 (08:05)SHSU possession: Shot by ['SHSU-HALEY DUPRE'] blocked by ['TEXAS-MICHAEL JOHNSTON']. Turnover.
 (08:27)TEXAS possession: Blue card on ['TEXAS-TATE KAY'] forces turnover.
 (08:36)SHSU possession: Goal on the shot by ['SHSU-KEENAN NASH'], assist by ['SHSU-BRANDON KUBENA']
@@ -40,5 +40,5 @@
 (21:21)TEXAS possession: ['TEXAS-JOSH JOHNSON'] passes to ['TEXAS-CAROLINE TAO'] at the hoops, GOAL.
 (22:05)SHSU possession: Drop by ['SHSU-25']. Turnover.
 (22:08)TEXAS possession: Goal on the shot by ['TEXAS-JOSH JOHNSON'].
-(22:53)SHSU possession: Errant pass from ['SHSU-KEENAN NASH'] to ['SHSU-21']. Turnover
+(22:53)SHSU possession: Errant pass from ['SHSU-KEENAN NASH'] in the direction of ['SHSU-21'] . Turnover
 (22:59)TEXAS possession: Snitch catch by ['TEXAS-JOHN ANDERSON'] is GOOD.

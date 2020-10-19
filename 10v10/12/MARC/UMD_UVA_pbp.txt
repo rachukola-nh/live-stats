@@ -4,7 +4,7 @@ UMD possession: ['UMD-DALE FARNAN'] passes to ['UMD-JOHN SHERIDAN'] at the hoops
 UVA possession: ['UVA-BEN PHILLIPS'] passes to ['UVA-JULIA MARKS'] at the hoops, GOAL.
 UMD possession: Beat by ['UVA-UNK'] on ['UMD-JOHN SHERIDAN'] forces a TURNOVER.
 UVA possession: Turnover forced by physical contact by ['UMD-JOHN SHERIDAN'] on ['UVA-BEN PHILLIPS']
-UMD possession: Errant pass from ['UMD-DALE FARNAN'] to ['UMD-ABBY POTTER']. Turnover During the play, reset forced by UVA-LANE BURGESS
+UMD possession: Errant pass from ['UMD-DALE FARNAN'] in the direction of ['UMD-ABBY POTTER'] . Turnover During the play, reset forced by UVA-LANE BURGESS
 UVA possession: Beat by ['UMD-MELISSA SMITH'] on ['UVA-DAVID LITTLETON'] forces a TURNOVER. During the play, reset forced by UMD-ZAIN BHAILA
 UMD possession: Missed shot by ['UMD-DALE FARNAN']. Turnover.
 UVA possession: Pass between ['UVA-DAVID LITTLETON', 'UVA-UNK'] defended by ['UMD-DALE FARNAN']. Turnover

@@ -14,7 +14,7 @@ UVA possession: ['UVA-UNK'] passes to ['UVA-CARLEE KLEPPIN'] at the hoops, GOAL.
 NYU possession: Missed shot by ['NYU-FRANK MINSON']. Turnover.
 UVA possession: Goal on the shot by ['UVA-BEN PHILLIPS'], assist by ['UVA-UNK']
 NYU possession: Blue card on ['NYU-LANDON GARFINKEL'] forces turnover.
-UVA possession: Errant pass from ['UVA-BEN PHILLIPS'] to ['UVA-CARLEE KLEPPIN']. Turnover
+UVA possession: Errant pass from ['UVA-BEN PHILLIPS'] in the direction of ['UVA-CARLEE KLEPPIN'] . Turnover
 NYU possession: Shot by ['NYU-UNK'] blocked by ['UVA-BEN PHILLIPS']. Turnover.
 UVA possession: Error by ['UVA-UNK'].
 NYU possession: Goal on the shot by ['NYU-FRANK MINSON'].

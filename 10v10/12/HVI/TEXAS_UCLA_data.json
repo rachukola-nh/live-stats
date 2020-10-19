@@ -1,0 +1,687 @@
+{
+  "0": {
+    "extras": [],
+    "offense": "Brooms Up",
+    "defense": "",
+    "length": -1,
+    "time": "0000",
+    "result": "BU",
+    "primary": [
+      "TEXAS-DAVIS ROE"
+    ],
+    "secondary": [
+      "TEXAS-RICHMOND KEELING"
+    ],
+    "period": "FLOOR"
+  },
+  "1": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "UCLA",
+    "time": "",
+    "result": "GS",
+    "primary": [
+      "TEXAS-DAVIS ROE"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "2": {
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "GD",
+    "primary": [
+      "UCLA-ELIZABETH NG"
+    ],
+    "secondary": [
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "3": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "UCLA",
+    "time": "",
+    "result": "EM",
+    "primary": [
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "4": {
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "TC",
+    "primary": [
+      "TEXAS-SPENCER FORBES"
+    ],
+    "secondary": [
+      "UCLA-ELIZABETH NG"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "5": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "UCLA",
+    "time": "",
+    "result": "TD",
+    "primary": [
+      "UCLA-35"
+    ],
+    "secondary": [
+      "TEXAS-JOSH JOHNSON",
+      "TEXAS-OLIVE JIM-DANIELS"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "6": {
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "GD",
+    "primary": [
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "7": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "UCLA",
+    "time": "",
+    "result": "EM",
+    "primary": [
+      "TEXAS-JOEY CASTELLANO"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "8": {
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "GD",
+    "primary": [
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "9": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "UCLA",
+    "time": "",
+    "result": "TB",
+    "primary": [
+      "UCLA-ASHLEY GORE"
+    ],
+    "secondary": [
+      "TEXAS-OLIVE JIM-DANIELS"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "10": {
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "TB",
+    "primary": [
+      "TEXAS-KYLIE MCBRIDE"
+    ],
+    "secondary": [
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "11": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "UCLA",
+    "time": "",
+    "result": "EP",
+    "primary": [
+      "TEXAS-DYLAN BOTTOMS"
+    ],
+    "secondary": [
+      "TEXAS-KASYE BEVERS"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "12": {
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "GP",
+    "primary": [
+      "UCLA-ELIZABETH NG"
+    ],
+    "secondary": [
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "13": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "UCLA",
+    "time": "",
+    "result": "TC",
+    "primary": [
+      "UCLA-20"
+    ],
+    "secondary": [
+      "TEXAS-DYLAN BOTTOMS"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "14": {
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "TC",
+    "primary": [
+      "TEXAS-GRAYSON BRIGGS"
+    ],
+    "secondary": [
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "15": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "UCLA",
+    "time": "",
+    "result": "EM",
+    "primary": [
+      "TEXAS-NATHAN LEWIS"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "16": {
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "TD",
+    "primary": [
+      "TEXAS-NATHAN LEWIS"
+    ],
+    "secondary": [
+      "UCLA-JONATHAN GARCIA-ROVETTA",
+      "UCLA-34"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "17": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "UCLA",
+    "time": "",
+    "result": "GS",
+    "primary": [
+      "TEXAS-GRAYSON BRIGGS"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "18": {
+    "extras": [
+      [
+        "Y",
+        "TEXAS-GRAYSON BRIGGS"
+      ]
+    ],
+    "offense": "UCLA",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "TB",
+    "primary": [
+      "TEXAS-JACK WANG"
+    ],
+    "secondary": [
+      "UCLA-24"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "19": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "UCLA",
+    "time": "",
+    "result": "TD",
+    "primary": [
+      "UCLA-20"
+    ],
+    "secondary": [
+      "TEXAS-NATHAN LEWIS",
+      "TEXAS-KASYE BEVERS"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "20": {
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "EP",
+    "primary": [
+      "UCLA-20"
+    ],
+    "secondary": [
+      "UCLA-24"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "21": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "UCLA",
+    "time": "",
+    "result": "GS",
+    "primary": [
+      "TEXAS-AIDAN PARSI"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "22": {
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "TB",
+    "primary": [
+      "TEXAS-JACK WANG"
+    ],
+    "secondary": [
+      "UCLA-32"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "23": {
+    "extras": [
+      [
+        "Y",
+        "UCLA-34"
+      ]
+    ],
+    "offense": "TEXAS",
+    "defense": "UCLA",
+    "time": "",
+    "result": "EM",
+    "primary": [
+      "TEXAS-AIDAN PARSI"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "24": {
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "TB",
+    "primary": [
+      "TEXAS-JACK WANG"
+    ],
+    "secondary": [
+      "UCLA-32"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "25": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "UCLA",
+    "time": "",
+    "result": "GD",
+    "primary": [
+      "TEXAS-JOHN ANDERSON"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "26": {
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "GS",
+    "primary": [
+      "UCLA-ELIZABETH NG"
+    ],
+    "secondary": [
+      "UCLA-32"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "27": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "UCLA",
+    "time": "",
+    "result": "GP",
+    "primary": [
+      "TEXAS-CARLY JORDAN"
+    ],
+    "secondary": [
+      "TEXAS-22"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "28": {
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "GS",
+    "primary": [
+      "UCLA-ELIZABETH NG"
+    ],
+    "secondary": [
+      "UCLA-TYE RUSH"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "29": {
+    "extras": [
+      [
+        "R",
+        "UCLA-RYAN HARRIS"
+      ]
+    ],
+    "offense": "TEXAS",
+    "defense": "UCLA",
+    "time": "",
+    "result": "TD",
+    "primary": [
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "secondary": [
+      "TEXAS-JOHN ANDERSON",
+      "TEXAS-CARLY JORDAN"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "30": {
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "EM",
+    "primary": [
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "31": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "UCLA",
+    "time": "",
+    "result": "GS",
+    "primary": [
+      "TEXAS-AIDAN PARSI"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "32": {
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "TL",
+    "primary": [
+      "TEXAS-JOHN ANDERSON"
+    ],
+    "secondary": [
+      "UCLA-SOFIA DELAVEGA"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "33": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "UCLA",
+    "time": "",
+    "result": "TC",
+    "primary": [
+      "UCLA-TYE RUSH"
+    ],
+    "secondary": [
+      "TEXAS-DAVIS ROE"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "34": {
+    "extras": [
+      [
+        "Y",
+        "TEXAS-DAVIS ROE"
+      ]
+    ],
+    "offense": "UCLA",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "EP",
+    "primary": [
+      "UCLA-TYE RUSH"
+    ],
+    "secondary": [
+      "UCLA-35"
+    ],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "35": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "UCLA",
+    "time": "",
+    "result": "EM",
+    "primary": [
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "36": {
+    "extras": [
+      [
+        "SOP",
+        1
+      ]
+    ],
+    "offense": "UCLA",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "TC",
+    "primary": [
+      "TEXAS-DAVIS ROE"
+    ],
+    "secondary": [
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "period": "SOP",
+    "length": -1
+  },
+  "37": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "UCLA",
+    "time": "",
+    "result": "GP",
+    "primary": [
+      "TEXAS-OLIVE JIM-DANIELS"
+    ],
+    "secondary": [
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "period": "SOP",
+    "length": -1
+  },
+  "38": {
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "TC",
+    "primary": [
+      "TEXAS-JAYDAN GILSTRAP"
+    ],
+    "secondary": [
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "period": "SOP",
+    "length": -1
+  },
+  "39": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "UCLA",
+    "time": "",
+    "result": "GD",
+    "primary": [
+      "TEXAS-OLIVE JIM-DANIELS"
+    ],
+    "secondary": [],
+    "period": "SOP",
+    "length": -1
+  },
+  "40": {
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "GD",
+    "primary": [
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "secondary": [],
+    "period": "SOP",
+    "length": -1
+  },
+  "41": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "UCLA",
+    "time": "",
+    "result": "GS",
+    "primary": [
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "secondary": [],
+    "period": "SOP",
+    "length": -1
+  },
+  "42": {
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "TL",
+    "primary": [
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "secondary": [
+      "UCLA-JONATHAN GARCIA-ROVETTA"
+    ],
+    "period": "SOP",
+    "length": -1
+  },
+  "43": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "UCLA",
+    "time": "",
+    "result": "TB",
+    "primary": [
+      "UCLA-JUSTIN VAN LIGTEN"
+    ],
+    "secondary": [
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "period": "SOP",
+    "length": -1
+  },
+  "44": {
+    "extras": [],
+    "offense": "UCLA",
+    "defense": "TEXAS",
+    "time": "",
+    "result": "TB",
+    "primary": [
+      "TEXAS-KYLIE MCBRIDE"
+    ],
+    "secondary": [
+      "UCLA-35"
+    ],
+    "period": "SOP",
+    "length": -1
+  },
+  "45": {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "UCLA",
+    "time": "",
+    "result": "RCA",
+    "primary": [
+      "TEXAS-JOHN ANDERSON"
+    ],
+    "secondary": [],
+    "period": "SOP",
+    "length": -1
+  }
+}

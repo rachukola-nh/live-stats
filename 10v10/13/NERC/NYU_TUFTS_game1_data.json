@@ -1,588 +1,588 @@
 {
   "0": {
+    "extras": [],
+    "offense": "Brooms Up",
+    "defense": "",
+    "length": -1,
+    "time": "0000",
+    "result": "BU",
+    "primary": [
+      null
+    ],
     "secondary": [
       null
     ],
-    "extras": [],
-    "length": -1,
-    "offense": "Brooms Up",
-    "defense": "",
-    "period": "FLOOR",
-    "result": "BU",
-    "time": "0000",
-    "primary": [
-      null
-    ]
+    "period": "FLOOR"
   },
   "1": {
+    "extras": [],
+    "offense": "NYU",
+    "defense": "TUFTS",
+    "time": "",
+    "result": "ED",
+    "primary": [
+      "NYU-SIDNEY MONTAGUE"
+    ],
     "secondary": [
       "NYU-SEAMUS SLADE"
     ],
-    "extras": [],
-    "length": -1,
     "period": "FLOOR",
-    "offense": "NYU",
-    "defense": "TUFTS",
-    "result": "ED",
-    "time": "",
-    "primary": [
-      "NYU-SIDNEY MONTAGUE"
-    ]
+    "length": -1
   },
   "2": {
+    "extras": [],
+    "offense": "TUFTS",
+    "defense": "NYU",
+    "time": "",
+    "result": "T",
+    "primary": [
+      "NYU-FRANK MINSON"
+    ],
     "secondary": [
       "TUFTS-UNK"
     ],
-    "extras": [],
-    "length": -1,
     "period": "FLOOR",
-    "offense": "TUFTS",
-    "defense": "NYU",
-    "result": "T",
-    "time": "",
-    "primary": [
-      "NYU-FRANK MINSON"
-    ]
+    "length": -1
   },
   "3": {
+    "extras": [],
+    "offense": "NYU",
+    "defense": "TUFTS",
+    "time": "",
+    "result": "TB",
+    "primary": [
+      "TUFTS-THOMAS CHANG-DAVIDSON"
+    ],
     "secondary": [
       "NYU-SEAMUS SLADE"
     ],
-    "extras": [],
-    "length": -1,
     "period": "FLOOR",
-    "offense": "NYU",
-    "defense": "TUFTS",
-    "result": "TB",
-    "time": "",
-    "primary": [
-      "TUFTS-THOMAS CHANG-DAVIDSON"
-    ]
+    "length": -1
   },
   "4": {
+    "extras": [],
+    "offense": "TUFTS",
+    "defense": "NYU",
+    "time": "",
+    "result": "GP",
+    "primary": [
+      "TUFTS-JOHN PARRISH"
+    ],
     "secondary": [
       "TUFTS-FINN MCGARGHAN"
     ],
-    "extras": [],
-    "length": -1,
     "period": "FLOOR",
-    "offense": "TUFTS",
-    "defense": "NYU",
-    "result": "GP",
-    "time": "",
-    "primary": [
-      "TUFTS-JOHN PARRISH"
-    ]
+    "length": -1
   },
   "5": {
-    "secondary": [],
     "extras": [],
-    "length": -1,
-    "period": "FLOOR",
     "offense": "NYU",
     "defense": "TUFTS",
-    "result": "GS",
     "time": "",
+    "result": "GS",
     "primary": [
       "NYU-FRANK MINSON"
-    ]
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
   },
   "6": {
-    "secondary": [
-      "TUFTS-SOPHIE COBURN"
-    ],
     "extras": [
       [
         "R",
         "NYU-ANTOINE GIRON"
       ]
     ],
-    "length": -1,
-    "period": "FLOOR",
     "offense": "TUFTS",
     "defense": "NYU",
-    "result": "TB",
     "time": "",
+    "result": "TB",
     "primary": [
       "NYU-ANTOINE GIRON"
-    ]
+    ],
+    "secondary": [
+      "TUFTS-SOPHIE COBURN"
+    ],
+    "period": "FLOOR",
+    "length": -1
   },
   "7": {
-    "secondary": [],
     "extras": [],
-    "length": -1,
-    "period": "FLOOR",
     "offense": "NYU",
     "defense": "TUFTS",
-    "result": "GS",
     "time": "",
+    "result": "GS",
     "primary": [
       "NYU-FRANK MINSON"
-    ]
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
   },
   "8": {
-    "secondary": [],
     "extras": [],
-    "length": -1,
-    "period": "FLOOR",
     "offense": "TUFTS",
     "defense": "NYU",
-    "result": "EM",
     "time": "",
+    "result": "EM",
     "primary": [
       "TUFTS-JOHN PARRISH"
-    ]
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
   },
   "9": {
+    "extras": [],
+    "offense": "NYU",
+    "defense": "TUFTS",
+    "time": "",
+    "result": "TB",
+    "primary": [
+      "TUFTS-THOMAS CHANG-DAVIDSON"
+    ],
     "secondary": [
       "NYU-FRANK MINSON"
     ],
-    "extras": [],
-    "length": -1,
     "period": "FLOOR",
-    "offense": "NYU",
-    "defense": "TUFTS",
-    "result": "TB",
-    "time": "",
-    "primary": [
-      "TUFTS-THOMAS CHANG-DAVIDSON"
-    ]
+    "length": -1
   },
   "10": {
+    "extras": [],
+    "offense": "TUFTS",
+    "defense": "NYU",
+    "time": "",
+    "result": "TC",
+    "primary": [
+      "NYU-SEAMUS SLADE"
+    ],
     "secondary": [
       "TUFTS-JOHN PARRISH"
     ],
-    "extras": [],
-    "length": -1,
     "period": "FLOOR",
-    "offense": "TUFTS",
-    "defense": "NYU",
-    "result": "TC",
-    "time": "",
-    "primary": [
-      "NYU-SEAMUS SLADE"
-    ]
+    "length": -1
   },
   "11": {
-    "secondary": [],
     "extras": [],
-    "length": -1,
-    "period": "FLOOR",
     "offense": "NYU",
     "defense": "TUFTS",
-    "result": "GS",
     "time": "",
+    "result": "GS",
     "primary": [
       "NYU-FRANK MINSON"
-    ]
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
   },
   "12": {
-    "secondary": [],
     "extras": [],
-    "length": -1,
-    "period": "FLOOR",
     "offense": "TUFTS",
     "defense": "NYU",
-    "result": "EM",
     "time": "",
+    "result": "EM",
     "primary": [
       "TUFTS-FINN MCGARGHAN"
-    ]
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
   },
   "13": {
+    "extras": [],
+    "offense": "NYU",
+    "defense": "TUFTS",
+    "time": "",
+    "result": "TD",
+    "primary": [
+      "TUFTS-DONOVAN BRADY"
+    ],
     "secondary": [
       "NYU-JOHN MUDGETT",
       "NYU-SEAMUS SLADE"
     ],
-    "extras": [],
-    "length": -1,
     "period": "FLOOR",
-    "offense": "NYU",
-    "defense": "TUFTS",
-    "result": "TD",
-    "time": "",
-    "primary": [
-      "TUFTS-DONOVAN BRADY"
-    ]
+    "length": -1
   },
   "14": {
+    "extras": [],
+    "offense": "TUFTS",
+    "defense": "NYU",
+    "time": "",
+    "result": "GP",
+    "primary": [
+      "TUFTS-JOHN PARRISH"
+    ],
     "secondary": [
       "TUFTS-FINN MCGARGHAN"
     ],
-    "extras": [],
-    "length": -1,
     "period": "FLOOR",
-    "offense": "TUFTS",
-    "defense": "NYU",
-    "result": "GP",
-    "time": "",
-    "primary": [
-      "TUFTS-JOHN PARRISH"
-    ]
+    "length": -1
   },
   "15": {
+    "extras": [],
+    "offense": "NYU",
+    "defense": "TUFTS",
+    "time": "",
+    "result": "TB",
+    "primary": [
+      "TUFTS-66"
+    ],
     "secondary": [
       "NYU-FRANK MINSON"
     ],
-    "extras": [],
-    "length": -1,
     "period": "FLOOR",
-    "offense": "NYU",
-    "defense": "TUFTS",
-    "result": "TB",
-    "time": "",
-    "primary": [
-      "TUFTS-66"
-    ]
+    "length": -1
   },
   "16": {
-    "secondary": [
-      "TUFTS-FINN MCGARGHAN"
-    ],
     "extras": [
       [
         "Y",
         "NYU-SEAMUS SLADE"
       ]
     ],
-    "length": -1,
-    "period": "FLOOR",
     "offense": "TUFTS",
     "defense": "NYU",
-    "result": "GP",
     "time": "",
+    "result": "GP",
     "primary": [
       "TUFTS-DONOVAN BRADY"
-    ]
-  },
-  "17": {
-    "secondary": [],
-    "extras": [],
-    "length": -1,
-    "period": "FLOOR",
-    "offense": "NYU",
-    "defense": "TUFTS",
-    "result": "EM",
-    "time": "",
-    "primary": [
-      "NYU-JOHN MUDGETT"
-    ]
-  },
-  "18": {
+    ],
     "secondary": [
       "TUFTS-FINN MCGARGHAN"
     ],
-    "extras": [],
-    "length": -1,
     "period": "FLOOR",
+    "length": -1
+  },
+  "17": {
+    "extras": [],
+    "offense": "NYU",
+    "defense": "TUFTS",
+    "time": "",
+    "result": "EM",
+    "primary": [
+      "NYU-JOHN MUDGETT"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
+  },
+  "18": {
+    "extras": [],
     "offense": "TUFTS",
     "defense": "NYU",
-    "result": "TB",
     "time": "",
+    "result": "TB",
     "primary": [
       "NYU-CAROLYN VACA"
-    ]
+    ],
+    "secondary": [
+      "TUFTS-FINN MCGARGHAN"
+    ],
+    "period": "FLOOR",
+    "length": -1
   },
   "19": {
+    "extras": [],
+    "offense": "NYU",
+    "defense": "TUFTS",
+    "time": "",
+    "result": "TB",
+    "primary": [
+      "TUFTS-66"
+    ],
     "secondary": [
       "NYU-AIDAN CLAFFEY"
     ],
-    "extras": [],
-    "length": -1,
     "period": "FLOOR",
-    "offense": "NYU",
-    "defense": "TUFTS",
-    "result": "TB",
-    "time": "",
-    "primary": [
-      "TUFTS-66"
-    ]
+    "length": -1
   },
   "20": {
+    "extras": [],
+    "offense": "TUFTS",
+    "defense": "NYU",
+    "time": "",
+    "result": "TD",
+    "primary": [
+      "NYU-SEAMUS SLADE"
+    ],
     "secondary": [
       "TUFTS-DONOVAN BRADY",
       "TUFTS-ATHENA MAYOR"
     ],
-    "extras": [],
-    "length": -1,
     "period": "FLOOR",
-    "offense": "TUFTS",
-    "defense": "NYU",
-    "result": "TD",
-    "time": "",
-    "primary": [
-      "NYU-SEAMUS SLADE"
-    ]
+    "length": -1
   },
   "21": {
+    "extras": [],
+    "offense": "NYU",
+    "defense": "TUFTS",
+    "time": "",
+    "result": "ED",
+    "primary": [
+      "NYU-DANIELLE FULLER"
+    ],
     "secondary": [
       "NYU-SEAMUS SLADE"
     ],
-    "extras": [],
-    "length": -1,
     "period": "FLOOR",
-    "offense": "NYU",
-    "defense": "TUFTS",
-    "result": "ED",
-    "time": "",
-    "primary": [
-      "NYU-DANIELLE FULLER"
-    ]
+    "length": -1
   },
   "22": {
-    "secondary": [],
     "extras": [],
-    "length": -1,
-    "period": "FLOOR",
     "offense": "TUFTS",
     "defense": "NYU",
-    "result": "EM",
     "time": "",
+    "result": "EM",
     "primary": [
       "TUFTS-DONOVAN BRADY"
-    ]
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
   },
   "23": {
-    "secondary": [],
     "extras": [],
-    "length": -1,
-    "period": "FLOOR",
     "offense": "NYU",
     "defense": "TUFTS",
-    "result": "GS",
     "time": "",
+    "result": "GS",
     "primary": [
       "NYU-SEAMUS SLADE"
-    ]
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
   },
   "24": {
+    "extras": [],
+    "offense": "TUFTS",
+    "defense": "NYU",
+    "time": "",
+    "result": "TD",
+    "primary": [
+      "NYU-FRANK MINSON"
+    ],
     "secondary": [
       "TUFTS-FINN MCGARGHAN",
       "TUFTS-ATHENA MAYOR"
     ],
-    "extras": [],
-    "length": -1,
     "period": "FLOOR",
-    "offense": "TUFTS",
-    "defense": "NYU",
-    "result": "TD",
-    "time": "",
-    "primary": [
-      "NYU-FRANK MINSON"
-    ]
+    "length": -1
   },
   "25": {
-    "secondary": [
-      "NYU-DANIELLE FULLER",
-      "NYU-SEAMUS SLADE"
-    ],
     "extras": [
       [
         "Y",
         "TUFTS-SERENA MONTEIRO"
       ]
     ],
-    "length": -1,
-    "period": "FLOOR",
     "offense": "NYU",
     "defense": "TUFTS",
-    "result": "TD",
     "time": "",
+    "result": "TD",
     "primary": [
       "TUFTS-JOHN PARRISH"
-    ]
+    ],
+    "secondary": [
+      "NYU-DANIELLE FULLER",
+      "NYU-SEAMUS SLADE"
+    ],
+    "period": "FLOOR",
+    "length": -1
   },
   "26": {
-    "secondary": [],
     "extras": [
       [
         "R",
         "NYU-42"
       ]
     ],
-    "length": -1,
-    "period": "FLOOR",
     "offense": "TUFTS",
     "defense": "NYU",
-    "result": "EM",
     "time": "",
+    "result": "EM",
     "primary": [
       "TUFTS-JOHN PARRISH"
-    ]
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
   },
   "27": {
+    "extras": [],
+    "offense": "NYU",
+    "defense": "TUFTS",
+    "time": "",
+    "result": "TB",
+    "primary": [
+      "TUFTS-66"
+    ],
     "secondary": [
       "NYU-SEAMUS SLADE"
     ],
-    "extras": [],
-    "length": -1,
     "period": "FLOOR",
-    "offense": "NYU",
-    "defense": "TUFTS",
-    "result": "TB",
-    "time": "",
-    "primary": [
-      "TUFTS-66"
-    ]
+    "length": -1
   },
   "28": {
-    "secondary": [
-      "TUFTS-JOHN PARRISH"
-    ],
     "extras": [],
-    "length": -1,
-    "period": "FLOOR",
     "offense": "TUFTS",
     "defense": "NYU",
-    "result": "ED",
     "time": "",
+    "result": "ED",
     "primary": [
       "TUFTS-ATHENA MAYOR"
-    ]
+    ],
+    "secondary": [
+      "TUFTS-JOHN PARRISH"
+    ],
+    "period": "FLOOR",
+    "length": -1
   },
   "29": {
-    "secondary": [
-      "NYU-FRANK MINSON"
-    ],
     "extras": [],
-    "length": -1,
-    "period": "FLOOR",
     "offense": "NYU",
     "defense": "TUFTS",
-    "result": "TL",
     "time": "",
+    "result": "TL",
     "primary": [
       "TUFTS-HENRY BAER-BENSON"
-    ]
+    ],
+    "secondary": [
+      "NYU-FRANK MINSON"
+    ],
+    "period": "FLOOR",
+    "length": -1
   },
   "30": {
+    "extras": [],
+    "offense": "TUFTS",
+    "defense": "NYU",
+    "time": "",
+    "result": "TL",
+    "primary": [
+      "NYU-ANTONIO DIMEGLIO"
+    ],
     "secondary": [
       "TUFTS-SOPHIE COBURN"
     ],
-    "extras": [],
-    "length": -1,
     "period": "FLOOR",
-    "offense": "TUFTS",
-    "defense": "NYU",
-    "result": "TL",
-    "time": "",
-    "primary": [
-      "NYU-ANTONIO DIMEGLIO"
-    ]
+    "length": -1
   },
   "31": {
-    "secondary": [],
     "extras": [],
-    "length": -1,
-    "period": "FLOOR",
     "offense": "NYU",
     "defense": "TUFTS",
-    "result": "GS",
     "time": "",
+    "result": "GS",
     "primary": [
       "NYU-ANTONIO DIMEGLIO"
-    ]
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
   },
   "32": {
+    "extras": [],
+    "offense": "TUFTS",
+    "defense": "NYU",
+    "time": "",
+    "result": "ED",
+    "primary": [
+      "TUFTS-JOHN PARRISH"
+    ],
     "secondary": [
       "TUFTS-SOPHIE COBURN"
     ],
-    "extras": [],
-    "length": -1,
     "period": "FLOOR",
-    "offense": "TUFTS",
-    "defense": "NYU",
-    "result": "ED",
-    "time": "",
-    "primary": [
-      "TUFTS-JOHN PARRISH"
-    ]
+    "length": -1
   },
   "33": {
-    "secondary": [],
     "extras": [],
-    "length": -1,
-    "period": "FLOOR",
     "offense": "NYU",
     "defense": "TUFTS",
-    "result": "EM",
     "time": "",
+    "result": "EM",
     "primary": [
       "NYU-FRANK MINSON"
-    ]
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
   },
   "34": {
-    "secondary": [],
     "extras": [],
-    "length": -1,
-    "period": "FLOOR",
     "offense": "TUFTS",
     "defense": "NYU",
-    "result": "EM",
     "time": "",
+    "result": "EM",
     "primary": [
       "TUFTS-FINN MCGARGHAN"
-    ]
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": -1
   },
   "35": {
+    "extras": [],
+    "offense": "NYU",
+    "defense": "TUFTS",
+    "time": "",
+    "result": "TL",
+    "primary": [
+      "TUFTS-FINN MCGARGHAN"
+    ],
     "secondary": [
       "NYU-GRACE SYMES"
     ],
-    "extras": [],
-    "length": -1,
     "period": "FLOOR",
-    "offense": "NYU",
-    "defense": "TUFTS",
-    "result": "TL",
-    "time": "",
-    "primary": [
-      "TUFTS-FINN MCGARGHAN"
-    ]
+    "length": -1
   },
   "36": {
-    "secondary": [
-      "TUFTS-FINN MCGARGHAN"
-    ],
     "extras": [
       [
         "SOP",
         1
       ]
     ],
-    "length": -1,
-    "period": "SOP",
     "offense": "TUFTS",
     "defense": "NYU",
-    "result": "GS",
     "time": "",
+    "result": "GS",
     "primary": [
       "TUFTS-JOHN PARRISH"
-    ]
+    ],
+    "secondary": [
+      "TUFTS-FINN MCGARGHAN"
+    ],
+    "period": "SOP",
+    "length": -1
   },
   "37": {
-    "secondary": [],
     "extras": [],
-    "length": -1,
-    "period": "SOP",
     "offense": "NYU",
     "defense": "TUFTS",
-    "result": "EM",
     "time": "",
+    "result": "EM",
     "primary": [
       "NYU-ANTONIO DIMEGLIO"
-    ]
+    ],
+    "secondary": [],
+    "period": "SOP",
+    "length": -1
   },
   "38": {
-    "secondary": [],
     "extras": [],
-    "length": -1,
-    "period": "SOP",
     "offense": "TUFTS",
     "defense": "NYU",
-    "result": "RCA",
     "time": "",
+    "result": "RCA",
     "primary": [
       "NYU-KELLAN CUPID"
-    ]
+    ],
+    "secondary": [],
+    "period": "SOP",
+    "length": -1
   }
 }

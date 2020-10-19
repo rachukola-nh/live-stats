@@ -13,7 +13,7 @@
 (06:25)UCLA possession: Beat by ['TEXAS-EDDIE MOLINA'] on ['UCLA-CHRISTIAN CLARION'] forces a TURNOVER. During the play, reset forced by TEXAS-HALLIE PACE
 (06:28)TEXAS possession: Goal on the drive by ['TEXAS-NICK MARINO'].
 (07:16)UCLA possession: ['UCLA-JONATHAN GARCIA-ROVETTA'] passes to ['UCLA-ELIZABETH NG'] at the hoops, GOAL.
-(07:58)TEXAS possession: Errant pass from ['TEXAS-JOEY CASTELLANO'] to ['TEXAS-MICHAEL JOHNSTON']. Turnover
+(07:58)TEXAS possession: Errant pass from ['TEXAS-JOEY CASTELLANO'] in the direction of ['TEXAS-MICHAEL JOHNSTON'] . Turnover
 (08:03)UCLA possession: Goal on the drive by ['UCLA-CHRISTIAN CLARION'].
 (08:35)TEXAS possession: Pass by ['TEXAS-NICK MARINO'] dropped by ['TEXAS-SOPHIA DESALVO']. Turnover
 (09:13)UCLA possession: Beat by ['TEXAS-OMAR GARZA'] on ['UCLA-JONATHAN GARCIA-ROVETTA'] forces a TURNOVER. During the play, reset forced by TEXAS-OMAR GARZA
@@ -21,14 +21,14 @@
 (09:58)UCLA possession: Pass between ['UCLA-RYAN HARRIS', 'UCLA-UNK'] defended by ['TEXAS-MICHAEL JOHNSTON']. Turnover
 (10:27)TEXAS possession: Goal on the shot by ['TEXAS-MICHAEL JOHNSTON'].
 (11:15)UCLA possession: Goal on the drive by ['UCLA-RYAN HARRIS'].
-(12:07)TEXAS possession: Errant pass from ['TEXAS-AUSTIN DICKSON'] to ['TEXAS-CATHERINE HABERL']. Turnover
+(12:07)TEXAS possession: Errant pass from ['TEXAS-AUSTIN DICKSON'] in the direction of ['TEXAS-CATHERINE HABERL'] . Turnover
 (13:05)UCLA possession: Shot by ['UCLA-RYAN HARRIS'] blocked by ['TEXAS-JOHN ANDERSON']. Turnover.
 (13:27)TEXAS possession: Shot by ['TEXAS-AIDAN PARSI'] blocked by ['UCLA-RYAN HARRIS']. Turnover.
 (13:54)UCLA possession: Pass between ['UCLA-ELIZABETH NG', 'UCLA-UNK'] defended by ['TEXAS-JOHN ANDERSON']. Turnover
 (14:32)TEXAS possession: Turnover forced by physical contact by ['UCLA-RYAN HARRIS'] on ['TEXAS-CATHERINE HABERL']
 (15:30)UCLA possession: ['UCLA-JONATHAN GARCIA-ROVETTA'] passes to ['UCLA-ASHLEY GORE'] at the hoops, GOAL.
 (16:02)TEXAS possession: ['TEXAS-CULLEN FRIDAY'] passes to ['TEXAS-NICK MARINO'] at the hoops, GOAL.
-(16:33)UCLA possession: Errant pass from ['UCLA-UNK'] to ['UCLA-ASHLEY GORE']. Turnover
+(16:33)UCLA possession: Errant pass from ['UCLA-UNK'] in the direction of ['UCLA-ASHLEY GORE'] . Turnover
 (17:06)TEXAS possession: Goal on the drive by ['TEXAS-NICK MARINO'], assist by ['TEXAS-DYLAN BOTTOMS']
 (18:08)UCLA possession: Missed shot by ['UCLA-CHRISTIAN CLARION']. Turnover. During the play, SNITCH ON PITCH begins
 (18:38)TEXAS possession: Goal on the drive by ['TEXAS-CULLEN FRIDAY'].

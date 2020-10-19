@@ -1,16 +1,16 @@
 (00:00)Brooms Up possession: BROOMS UP! Quaffle Possession by ['TUFTS-JOHN PARRISH'], Bludger Control by ['HARVARD-RYAN CHESTER']
 (00:13)TUFTS possession: Beat by ['HARVARD-MICHAEL CHENEVEY'] on ['TUFTS-JAKE ZASLAV'] forces a TURNOVER.
 (00:26)HARVARD possession: Turnover forced by physical contact by ['TUFTS-HENRY BAER-BENSON'] on ['HARVARD-JAMES DEVANEY']
-(00:58)TUFTS possession: Errant pass from ['TUFTS-HENRY BAER-BENSON'] to ['TUFTS-UNK']. Turnover
+(00:58)TUFTS possession: Errant pass from ['TUFTS-HENRY BAER-BENSON'] in the direction of ['TUFTS-UNK'] . Turnover
 (01:08)HARVARD possession: Pass by ['HARVARD-LEO FRIED'] dropped by ['HARVARD-ANALUIZA NICOLAE']. Turnover
 (01:37)TUFTS possession: Goal on the shot by ['TUFTS-HENRY BAER-BENSON'], assist by ['TUFTS-JAKE ZASLAV']
 (02:27)HARVARD possession: Goal on the drive by ['HARVARD-JAMES DEVANEY'].
 (02:57)TUFTS possession: Missed shot by ['TUFTS-JOHN PARRISH']. Turnover.
 (03:05)HARVARD possession: Goal on the drive by ['HARVARD-JAMES DEVANEY'].
 (03:49)TUFTS possession: Shot by ['TUFTS-JOHN PARRISH'] blocked by ['HARVARD-FRANKIE MATOS']. Turnover.
-(04:41)HARVARD possession: Errant pass from ['HARVARD-FRANKIE MATOS'] to ['HARVARD-ANALUIZA NICOLAE']. Turnover
+(04:41)HARVARD possession: Errant pass from ['HARVARD-FRANKIE MATOS'] in the direction of ['HARVARD-ANALUIZA NICOLAE'] . Turnover
 (05:17)TUFTS possession: Goal on the shot by ['TUFTS-DONOVAN BRADY'], assist by ['TUFTS-HENRY BAER-BENSON']
-(06:20)HARVARD possession: Errant pass from ['HARVARD-ANALUIZA NICOLAE'] to ['HARVARD-LEO FRIED']. Turnover During the play, reset forced by TUFTS-EMMA WOLFE
+(06:20)HARVARD possession: Errant pass from ['HARVARD-ANALUIZA NICOLAE'] in the direction of ['HARVARD-LEO FRIED'] . Turnover During the play, reset forced by TUFTS-EMMA WOLFE
 (06:50)TUFTS possession: Pass between ['TUFTS-ATHENA MAYOR', 'TUFTS-HENRY BAER-BENSON'] defended by ['HARVARD-FRANKIE MATOS']. Turnover
 (06:59)HARVARD possession: Missed shot by ['HARVARD-FRANKIE MATOS']. Turnover.
 (08:14)TUFTS possession: Shot by ['TUFTS-DONOVAN BRADY'] blocked by ['HARVARD-FRANKIE MATOS']. Turnover.

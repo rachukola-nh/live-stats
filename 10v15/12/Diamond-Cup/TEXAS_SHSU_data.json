@@ -1,28 +1,28 @@
 {
   "0": {
+    "extras": [],
     "offense": "Brooms Up",
-    "time": "0000",
+    "defense": "",
     "length": -1,
+    "time": "0000",
+    "result": "BU",
     "primary": [
       "TEXAS-DAVIS ROE"
     ],
-    "extras": [],
-    "defense": "",
     "secondary": [
       "TEXAS-69"
     ],
-    "period": "FLOOR",
-    "result": "BU"
+    "period": "FLOOR"
   },
   "1": {
+    "extras": [],
     "offense": "TEXAS",
+    "defense": "SHSU",
     "time": "0013",
     "result": "GP",
     "primary": [
       "TEXAS-KASYE BEVERS"
     ],
-    "extras": [],
-    "defense": "SHSU",
     "secondary": [
       "TEXAS-LUKE MEISSNER"
     ],
@@ -30,14 +30,14 @@
     "length": 13
   },
   "2": {
+    "extras": [],
     "offense": "SHSU",
+    "defense": "TEXAS",
     "time": "0050",
     "result": "TB",
     "primary": [
       "TEXAS-DAVID HUBER"
     ],
-    "extras": [],
-    "defense": "TEXAS",
     "secondary": [
       "SHSU-RED RUTLEDGE"
     ],
@@ -45,51 +45,45 @@
     "length": 37
   },
   "3": {
+    "extras": [],
     "offense": "TEXAS",
+    "defense": "SHSU",
     "time": "0101",
     "result": "GS",
     "primary": [
       "TEXAS-LUKE MEISSNER"
     ],
-    "extras": [],
-    "defense": "SHSU",
     "secondary": [],
     "period": "FLOOR",
     "length": 51
   },
   "4": {
+    "extras": [],
     "offense": "SHSU",
+    "defense": "TEXAS",
     "time": "0136",
     "result": "GS",
     "primary": [
       "SHSU-SAM REAGAN"
     ],
-    "extras": [],
-    "defense": "TEXAS",
     "secondary": [],
     "period": "FLOOR",
     "length": 35
   },
   "5": {
+    "extras": [],
     "offense": "TEXAS",
+    "defense": "SHSU",
     "time": "0203",
     "result": "EM",
     "primary": [
       "TEXAS-DAVIS ROE"
     ],
-    "extras": [],
-    "defense": "SHSU",
     "secondary": [],
     "period": "FLOOR",
     "length": 67
   },
   "6": {
-    "offense": "SHSU",
-    "time": "0241",
-    "result": "EM",
-    "primary": [
-      "SHSU-SAM REAGAN"
-    ],
     "extras": [
       [
         "R",
@@ -100,20 +94,26 @@
         "TEXAS-JOCELYN WHISTLER"
       ]
     ],
+    "offense": "SHSU",
     "defense": "TEXAS",
+    "time": "0241",
+    "result": "EM",
+    "primary": [
+      "SHSU-SAM REAGAN"
+    ],
     "secondary": [],
     "period": "FLOOR",
     "length": 38
   },
   "7": {
+    "extras": [],
     "offense": "TEXAS",
+    "defense": "SHSU",
     "time": "0257",
     "result": "TB",
     "primary": [
       "SHSU-BALDEMAR NUNEZ"
     ],
-    "extras": [],
-    "defense": "SHSU",
     "secondary": [
       "TEXAS-GRAYSON BRIGGS"
     ],
@@ -121,14 +121,14 @@
     "length": 16
   },
   "8": {
+    "extras": [],
     "offense": "SHSU",
+    "defense": "TEXAS",
     "time": "0302",
     "result": "GP",
     "primary": [
       "SHSU-RED RUTLEDGE"
     ],
-    "extras": [],
-    "defense": "TEXAS",
     "secondary": [
       "SHSU-HAYDEN BOYES"
     ],
@@ -136,27 +136,27 @@
     "length": 45
   },
   "9": {
+    "extras": [],
     "offense": "TEXAS",
+    "defense": "SHSU",
     "time": "0338",
     "result": "GS",
     "primary": [
       "TEXAS-LUKE MEISSNER"
     ],
-    "extras": [],
-    "defense": "SHSU",
     "secondary": [],
     "period": "FLOOR",
     "length": 36
   },
   "10": {
+    "extras": [],
     "offense": "SHSU",
+    "defense": "TEXAS",
     "time": "0416",
     "result": "ED",
     "primary": [
       "SHSU-GRACE ATKINSON"
     ],
-    "extras": [],
-    "defense": "TEXAS",
     "secondary": [
       "SHSU-KEENAN NASH"
     ],
@@ -164,14 +164,14 @@
     "length": 78
   },
   "11": {
+    "extras": [],
     "offense": "TEXAS",
+    "defense": "SHSU",
     "time": "0438",
     "result": "TL",
     "primary": [
       "SHSU-KEENAN NASH"
     ],
-    "extras": [],
-    "defense": "SHSU",
     "secondary": [
       "TEXAS-GRAYSON BRIGGS"
     ],
@@ -179,14 +179,14 @@
     "length": 22
   },
   "12": {
+    "extras": [],
     "offense": "SHSU",
+    "defense": "TEXAS",
     "time": "0510",
     "result": "GS",
     "primary": [
       "SHSU-JAY ROSS"
     ],
-    "extras": [],
-    "defense": "TEXAS",
     "secondary": [
       "SHSU-MICAH HEPBURN"
     ],
@@ -194,14 +194,14 @@
     "length": 72
   },
   "13": {
+    "extras": [],
     "offense": "TEXAS",
+    "defense": "SHSU",
     "time": "0544",
     "result": "GP",
     "primary": [
       "TEXAS-DAVIS ROE"
     ],
-    "extras": [],
-    "defense": "SHSU",
     "secondary": [
       "TEXAS-GRAYSON BRIGGS"
     ],
@@ -209,14 +209,14 @@
     "length": 34
   },
   "14": {
+    "extras": [],
     "offense": "SHSU",
+    "defense": "TEXAS",
     "time": "0621",
     "result": "TD",
     "primary": [
       "TEXAS-GRAYSON BRIGGS"
     ],
-    "extras": [],
-    "defense": "TEXAS",
     "secondary": [
       "SHSU-MICAH HEPBURN",
       "SHSU-THOMAS MORGAN"
@@ -225,58 +225,58 @@
     "length": 77
   },
   "15": {
+    "extras": [],
     "offense": "TEXAS",
+    "defense": "SHSU",
     "time": "0644",
     "result": "GD",
     "primary": [
       "TEXAS-JOSH JOHNSON"
     ],
-    "extras": [],
-    "defense": "SHSU",
     "secondary": [],
     "period": "FLOOR",
     "length": 23
   },
   "16": {
+    "extras": [],
     "offense": "SHSU",
+    "defense": "TEXAS",
     "time": "0730",
     "result": "GS",
     "primary": [
       "SHSU-JAY ROSS"
     ],
-    "extras": [],
-    "defense": "TEXAS",
     "secondary": [],
     "period": "FLOOR",
     "length": 86
   },
   "17": {
-    "offense": "TEXAS",
-    "time": "0758",
-    "result": "GD",
-    "primary": [
-      "TEXAS-JOSH JOHNSON"
-    ],
     "extras": [
       [
         "Y",
         "SHSU-KAT HAYWORTH"
       ]
     ],
+    "offense": "TEXAS",
     "defense": "SHSU",
+    "time": "0758",
+    "result": "GD",
+    "primary": [
+      "TEXAS-JOSH JOHNSON"
+    ],
     "secondary": [],
     "period": "FLOOR",
     "length": 28
   },
   "18": {
+    "extras": [],
     "offense": "SHSU",
+    "defense": "TEXAS",
     "time": "0830",
     "result": "TD",
     "primary": [
       "TEXAS-JOHN ANDERSON"
     ],
-    "extras": [],
-    "defense": "TEXAS",
     "secondary": [
       "SHSU-MICAH HEPBURN",
       "SHSU-2"
@@ -285,14 +285,14 @@
     "length": 72
   },
   "19": {
+    "extras": [],
     "offense": "TEXAS",
+    "defense": "SHSU",
     "time": "0924",
     "result": "ED",
     "primary": [
       "TEXAS-OLIVE JIM-DANIELS"
     ],
-    "extras": [],
-    "defense": "SHSU",
     "secondary": [
       "TEXAS-MICHAEL JOHNSTON"
     ],
@@ -300,40 +300,40 @@
     "length": 94
   },
   "20": {
+    "extras": [],
     "offense": "SHSU",
+    "defense": "TEXAS",
     "time": "0942",
     "result": "GS",
     "primary": [
       "SHSU-SAM REAGAN"
     ],
-    "extras": [],
-    "defense": "TEXAS",
     "secondary": [],
     "period": "FLOOR",
     "length": 18
   },
   "21": {
+    "extras": [],
     "offense": "TEXAS",
+    "defense": "SHSU",
     "time": "1007",
     "result": "GS",
     "primary": [
       "TEXAS-MICHAEL JOHNSTON"
     ],
-    "extras": [],
-    "defense": "SHSU",
     "secondary": [],
     "period": "FLOOR",
     "length": 65
   },
   "22": {
+    "extras": [],
     "offense": "SHSU",
+    "defense": "TEXAS",
     "time": "1040",
     "result": "ED",
     "primary": [
       "SHSU-HAYDEN BOYES"
     ],
-    "extras": [],
-    "defense": "TEXAS",
     "secondary": [
       "SHSU-2"
     ],
@@ -341,27 +341,27 @@
     "length": 33
   },
   "23": {
+    "extras": [],
     "offense": "TEXAS",
+    "defense": "SHSU",
     "time": "1124",
     "result": "GD",
     "primary": [
       "TEXAS-SETH LAPRAY"
     ],
-    "extras": [],
-    "defense": "SHSU",
     "secondary": [],
     "period": "FLOOR",
     "length": 84
   },
   "24": {
+    "extras": [],
     "offense": "SHSU",
+    "defense": "TEXAS",
     "time": "1154",
     "result": "TD",
     "primary": [
       "TEXAS-NATHAN LEWIS"
     ],
-    "extras": [],
-    "defense": "TEXAS",
     "secondary": [
       "SHSU-SAM REAGAN",
       "SHSU-RED RUTLEDGE"
@@ -370,14 +370,14 @@
     "length": 30
   },
   "25": {
+    "extras": [],
     "offense": "TEXAS",
+    "defense": "SHSU",
     "time": "1229",
     "result": "EP",
     "primary": [
       "TEXAS-JAYDAN GILSTRAP"
     ],
-    "extras": [],
-    "defense": "SHSU",
     "secondary": [
       "TEXAS-OLIVE JIM-DANIELS"
     ],
@@ -385,51 +385,45 @@
     "length": 75
   },
   "26": {
+    "extras": [],
     "offense": "SHSU",
+    "defense": "TEXAS",
     "time": "1310",
     "result": "GS",
     "primary": [
       "SHSU-SAM REAGAN"
     ],
-    "extras": [],
-    "defense": "TEXAS",
     "secondary": [],
     "period": "FLOOR",
     "length": 81
   },
   "27": {
+    "extras": [],
     "offense": "TEXAS",
+    "defense": "SHSU",
     "time": "1342",
     "result": "GD",
     "primary": [
       "TEXAS-JAYDAN GILSTRAP"
     ],
-    "extras": [],
-    "defense": "SHSU",
     "secondary": [],
     "period": "FLOOR",
     "length": 32
   },
   "28": {
+    "extras": [],
     "offense": "SHSU",
+    "defense": "TEXAS",
     "time": "1353",
     "result": "EM",
     "primary": [
       "SHSU-KEENAN NASH"
     ],
-    "extras": [],
-    "defense": "TEXAS",
     "secondary": [],
     "period": "FLOOR",
     "length": 11
   },
   "29": {
-    "offense": "TEXAS",
-    "time": "1442",
-    "result": "TC",
-    "primary": [
-      "SHSU-SAM REAGAN"
-    ],
     "extras": [
       [
         "Y",
@@ -440,7 +434,13 @@
         "SHSU-RED RUTLEDGE"
       ]
     ],
+    "offense": "TEXAS",
     "defense": "SHSU",
+    "time": "1442",
+    "result": "TC",
+    "primary": [
+      "SHSU-SAM REAGAN"
+    ],
     "secondary": [
       "TEXAS-JOSHUA MAGEE"
     ],
@@ -448,45 +448,45 @@
     "length": 89
   },
   "30": {
-    "offense": "SHSU",
-    "time": "1533",
-    "result": "GS",
-    "primary": [
-      "SHSU-RALF MANDUJANO"
-    ],
     "extras": [
       [
         "Y",
         "TEXAS-JOSHUA MAGEE"
       ]
     ],
+    "offense": "SHSU",
     "defense": "TEXAS",
+    "time": "1533",
+    "result": "GS",
+    "primary": [
+      "SHSU-RALF MANDUJANO"
+    ],
     "secondary": [],
     "period": "FLOOR",
     "length": 91
   },
   "31": {
+    "extras": [],
     "offense": "TEXAS",
+    "defense": "SHSU",
     "time": "1603",
     "result": "GS",
     "primary": [
       "TEXAS-JOEY CASTELLANO"
     ],
-    "extras": [],
-    "defense": "SHSU",
     "secondary": [],
     "period": "FLOOR",
     "length": 70
   },
   "32": {
+    "extras": [],
     "offense": "SHSU",
+    "defense": "TEXAS",
     "time": "1645",
     "result": "TD",
     "primary": [
       "TEXAS-LUKE MEISSNER"
     ],
-    "extras": [],
-    "defense": "TEXAS",
     "secondary": [
       "SHSU-RICHARD ARAGORN",
       "SHSU-RED RUTLEDGE"
@@ -495,14 +495,14 @@
     "length": 42
   },
   "33": {
+    "extras": [],
     "offense": "TEXAS",
+    "defense": "SHSU",
     "time": "1729",
     "result": "ED",
     "primary": [
       "TEXAS-OLIVE JIM-DANIELS"
     ],
-    "extras": [],
-    "defense": "SHSU",
     "secondary": [
       "TEXAS-LUKE MEISSNER"
     ],
@@ -510,32 +510,32 @@
     "length": 84
   },
   "34": {
-    "offense": "SHSU",
-    "time": "1818",
-    "result": "GS",
-    "primary": [
-      "SHSU-RED RUTLEDGE"
-    ],
     "extras": [
       [
         "SOP",
         1
       ]
     ],
+    "offense": "SHSU",
     "defense": "TEXAS",
+    "time": "1818",
+    "result": "GS",
+    "primary": [
+      "SHSU-RED RUTLEDGE"
+    ],
     "secondary": [],
     "period": "SOP",
     "length": 89
   },
   "35": {
+    "extras": [],
     "offense": "TEXAS",
+    "defense": "SHSU",
     "time": "1843",
     "result": "GP",
     "primary": [
       "TEXAS-KASYE BEVERS"
     ],
-    "extras": [],
-    "defense": "SHSU",
     "secondary": [
       "TEXAS-LUKE MEISSNER"
     ],
@@ -543,14 +543,14 @@
     "length": 25
   },
   "36": {
+    "extras": [],
     "offense": "SHSU",
+    "defense": "TEXAS",
     "time": "1851",
     "result": "RCA",
     "primary": [
       "TEXAS-JOHN ANDERSON"
     ],
-    "extras": [],
-    "defense": "TEXAS",
     "secondary": [],
     "period": "SOP",
     "length": -1

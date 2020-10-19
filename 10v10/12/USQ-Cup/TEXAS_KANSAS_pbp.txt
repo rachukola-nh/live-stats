@@ -9,12 +9,12 @@ TEXAS possession: Drop by ['TEXAS-LUKE MEISSNER']. Turnover.
 KANSAS possession: ['KANSAS-RACHEL HEALD'] passes to ['KANSAS-UNK'] at the hoops, GOAL.
 TEXAS possession: Missed shot by ['TEXAS-DAVIS ROE']. Turnover.
 KANSAS possession: Missed shot by ['KANSAS-BRANDON TABOR']. Turnover.
-(04:40)TEXAS possession: Errant pass from ['TEXAS-UNK'] to ['TEXAS-KASYE BEVERS']. Turnover
+(04:40)TEXAS possession: Errant pass from ['TEXAS-UNK'] in the direction of ['TEXAS-KASYE BEVERS'] . Turnover
 (05:13)KANSAS possession: Beat by ['TEXAS-JACK WANG'] on ['KANSAS-85'] forces a TURNOVER.
 (05:27)TEXAS possession: Goal on the drive by ['TEXAS-DAVIS ROE'], assist by ['TEXAS-JOSH JOHNSON'] During the play, yellow card on KANSAS-BEN ENGELS
-(05:58)KANSAS possession: Errant pass from ['KANSAS-85'] to ['KANSAS-RACHEL HEALD']. Turnover
+(05:58)KANSAS possession: Errant pass from ['KANSAS-85'] in the direction of ['KANSAS-RACHEL HEALD'] . Turnover
 (06:29)TEXAS possession: Missed shot by ['TEXAS-JOSH JOHNSON']. Turnover.
-(07:05)KANSAS possession: Errant pass from ['KANSAS-RACHEL HEALD'] to ['KANSAS-BEN ENGELS']. Turnover
+(07:05)KANSAS possession: Errant pass from ['KANSAS-RACHEL HEALD'] in the direction of ['KANSAS-BEN ENGELS'] . Turnover
 (07:41)TEXAS possession: ['TEXAS-LUKE MEISSNER'] passes to ['TEXAS-KASYE BEVERS'] at the hoops, GOAL.
 (08:01)KANSAS possession: Pass between ['KANSAS-RACHEL HEALD', 'KANSAS-85'] defended by ['TEXAS-DYLAN BOTTOMS']. Turnover
 (08:55)TEXAS possession: Pass between ['TEXAS-JOSH JOHNSON', 'TEXAS-KASYE BEVERS'] defended by ['KANSAS-RACHEL HEALD']. Turnover
@@ -36,7 +36,7 @@ KANSAS possession: Missed shot by ['KANSAS-BRANDON TABOR']. Turnover.
 (19:55)TEXAS possession: Goal on the drive by ['TEXAS-AIDAN PARSI'].
 (20:24)KANSAS possession: Beat by ['TEXAS-JACK WANG'] on ['KANSAS-BRANDON TABOR'] forces a TURNOVER.
 (21:32)TEXAS possession: Goal on the drive by ['TEXAS-AIDAN PARSI']. During the play, yellow card on KANSAS-MIKE DEVINE,TIMEOUT by KANSAS
-(22:14)KANSAS possession: Errant pass from ['KANSAS-BRANDON TABOR'] to ['KANSAS-17']. Turnover
+(22:14)KANSAS possession: Errant pass from ['KANSAS-BRANDON TABOR'] in the direction of ['KANSAS-17'] . Turnover
 (22:48)TEXAS possession: Turnover forced by physical contact by ['KANSAS-IAN MCCABE'] on ['TEXAS-LUKE MEISSNER']
 (23:15)KANSAS possession: Beat by ['TEXAS-TATE KAY'] on ['KANSAS-BRANDON TABOR'] forces a TURNOVER.
 (24:43)TEXAS possession: Goal on the shot by ['TEXAS-KASYE BEVERS'], assist by ['TEXAS-LUKE MEISSNER']

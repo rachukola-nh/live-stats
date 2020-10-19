@@ -1,0 +1,64 @@
+(00:00)Brooms Up possession: BROOMS UP! Quaffle Possession by ['TAMU-LOUIS SANCHEZ'], Bludger Control by ['TAMU-NICK ROY']
+TAMU possession: Turnover forced by physical contact by ['TXST-STEPHEN FREEMAN-VIGIL'] on ['TAMU-LOUIS SANCHEZ']
+TXST possession: Missed shot by ['TXST-BRANDON MACDOWRA']. Turnover.
+TAMU possession: Errant pass from ['TAMU-RACHEL NICOLETTI'] in the direction of ['TAMU-MIKE MILLER'] . Turnover
+TXST possession: Shot by ['TXST-STEPHEN FREEMAN-VIGIL'] blocked by ['TAMU-MIKE MILLER']. Turnover.
+TAMU possession: Turnover forced by physical contact by ['TXST-STEPHEN FREEMAN-VIGIL'] on ['TAMU-MIKE MILLER']
+TXST possession: Goal on the shot by ['TXST-BRANDON MACDOWRA'].
+TAMU possession: Goal on the shot by ['TAMU-MIKE MILLER'].
+TXST possession: Goal on the shot by ['TXST-TJ MARTINEZ'], assist by ['TXST-BRANDON MACDOWRA']
+TAMU possession: Beat by ['TXST-MELISSA KITE'] on ['TAMU-RACHEL NICOLETTI'] forces a TURNOVER.
+TXST possession: Goal on the shot by ['TXST-TJ MARTINEZ'].
+TAMU possession: Missed shot by ['TAMU-RACHEL NICOLETTI']. Turnover.
+TXST possession: Goal on the shot by ['TXST-TJ MARTINEZ'], assist by ['TXST-STEPHEN FREEMAN-VIGIL']
+TAMU possession: Goal on the drive by ['TAMU-MIKE MILLER'].
+TXST possession: Goal on the drive by ['TXST-TJ MARTINEZ']. During the play, yellow card on TAMU-NICK ROY
+TAMU possession: Beat by ['TXST-KRIS DELAFUENTE'] on ['TAMU-LOGAN ZAHN'] forces a TURNOVER.
+TXST possession: Goal on the drive by ['TXST-TJ MARTINEZ'].
+TAMU possession: ['TAMU-JUAN ACEVEDO'] passes to ['TAMU-LOGAN ZAHN'] at the hoops, GOAL.
+TXST possession: Shot by ['TXST-STEPHEN FREEMAN-VIGIL'] blocked by ['TAMU-MIKE MILLER']. Turnover.
+TAMU possession: Beat by ['TXST-MELISSA KITE'] on ['TAMU-MIKE MILLER'] forces a TURNOVER.
+TXST possession: Beat by ['TAMU-ALEXIS WIEN'] on ['TXST-ERIC REYES'] forces a TURNOVER.
+TAMU possession: Pass between ['TAMU-JUAN ACEVEDO', 'TAMU-LOUIS SANCHEZ'] defended by ['TXST-JENNA BOLLWEG']. Turnover
+TXST possession: Beat by ['TAMU-DANIEL SOBARZO'] on ['TXST-JENNA BOLLWEG'] forces a TURNOVER.
+TAMU possession: Goal on the shot by ['TAMU-MIGUEL SOBARZO'], assist by ['TAMU-RACHEL NICOLETTI']
+TXST possession: ['TXST-ERIC REYES'] passes to ['TXST-ABBY LUM'] at the hoops, GOAL.
+TAMU possession: Beat by ['TXST-RYAN NAWROCKI'] on ['TAMU-JUAN ACEVEDO'] forces a TURNOVER.
+TXST possession: Pass by ['TXST-BRANDON MACDOWRA'] dropped by ['TXST-ERIC REYES']. Turnover
+TAMU possession: Pass between ['TAMU-JUAN ACEVEDO', 'TAMU-MIGUEL SOBARZO'] defended by ['TXST-ERIC REYES']. Turnover
+TXST possession: Goal on the drive by ['TXST-BRANDON MACDOWRA'].
+TAMU possession: Pass between ['TAMU-JESSICA HEMBREE', 'TAMU-JUAN ACEVEDO'] defended by ['TXST-ERIC REYES']. Turnover
+TXST possession: Beat by ['TAMU-ALEX STEWART'] on ['TXST-ERIC REYES'] forces a TURNOVER.
+TAMU possession: Beat by ['TXST-KRIS DELAFUENTE'] on ['TAMU-CONNOR MCINTYRE'] forces a TURNOVER.
+TXST possession: Beat by ['TAMU-DANIEL SOBARZO'] on ['TXST-BRANDON MACDOWRA'] forces a TURNOVER.
+TAMU possession: Pass between ['TAMU-JUAN ACEVEDO', 'TAMU-JESSICA HEMBREE'] defended by ['TXST-BRANDON MACDOWRA']. Turnover
+TXST possession: ['TXST-BRANDON MACDOWRA'] passes to ['TXST-TIM NGUYEN'] at the hoops, GOAL.
+TAMU possession: Errant pass from ['TAMU-MIGUEL SOBARZO'] in the direction of ['TAMU-JESSICA HEMBREE'] . Turnover
+TXST possession: Missed shot by ['TXST-DONOVAN MITCHELL']. Turnover.
+TAMU possession: Goal on the drive by ['TAMU-JUAN ACEVEDO'], assist by ['TAMU-MIGUEL SOBARZO']
+TXST possession: Beat by ['TAMU-ALEX STEWART'] on ['TXST-DONOVAN MITCHELL'] forces a TURNOVER.
+TAMU possession: Beat by ['TXST-71'] on ['TAMU-JUAN ACEVEDO'] forces a TURNOVER.
+TXST possession: Goal on the drive by ['TXST-CLAYTON CARLISLE'].
+TAMU possession: Goal on the drive by ['TAMU-MIKE MILLER'].
+TXST possession: Pass between ['TXST-DONOVAN MITCHELL', 'TXST-LEIF MONTGOMERY'] defended by ['TAMU-JUAN ACEVEDO']. Turnover
+TAMU possession: Beat by ['TXST-MELISSA KITE'] on ['TAMU-JUAN ACEVEDO'] forces a TURNOVER. During the play, yellow card on TXST-DONOVAN MITCHELL
+TXST possession: Turnover penalty on ['TXST-DONOVAN MITCHELL'].
+TAMU possession: Goal on the drive by ['TAMU-MIKE MILLER'].
+TXST possession: Turnover forced by physical contact by ['TAMU-12'] on ['TXST-DONOVAN MITCHELL']
+TAMU possession: Beat by ['TXST-BRADLEY HIMES'] on ['TAMU-12'] forces a TURNOVER. During the play, second yellow card on TXST-DONOVAN MITCHELL, TXST-DONOVAN MITCHELL is ejected from the game
+TXST possession: Beat by ['TAMU-NICK ROY'] on ['TXST-BRANDON MACDOWRA'] forces a TURNOVER.
+TAMU possession: ['TAMU-12'] passes to ['TAMU-CONNOR MCINTYRE'] at the hoops, GOAL.
+TXST possession: Turnover forced by physical contact by ['TAMU-MIKE MILLER'] on ['TXST-JENNA BOLLWEG']
+TAMU possession: Turnover forced by physical contact by ['TXST-TJ MARTINEZ'] on ['TAMU-CONNOR MCINTYRE']
+TXST possession: Errant pass from ['TXST-BRANDON MACDOWRA'] in the direction of ['TXST-TJ MARTINEZ'] . Turnover
+TAMU possession: Goal on the shot by ['TAMU-MIKE MILLER']. During the play, SNITCH ON PITCH begins
+TXST possession: Goal on the shot by ['TXST-TJ MARTINEZ'].
+TAMU possession: Turnover forced by physical contact by ['TXST-STEPHEN FREEMAN-VIGIL'] on ['TAMU-LOGAN ZAHN']
+TXST possession: Snitch catch by ['TAMU-JUAN ACEVEDO'] is GOOD.
+TXST possession: Shot by ['TXST-JENNA BOLLWEG'] blocked by ['TAMU-RACHEL NICOLETTI']. Turnover.
+TAMU possession: ['TAMU-DANIEL SOBARZO'] passes to ['TAMU-RACHEL NICOLETTI'] at the hoops, GOAL.
+TXST possession: Turnover forced by physical contact by ['TAMU-LOGAN ZAHN'] on ['TXST-TJ MARTINEZ']
+TAMU possession: Beat by ['TXST-RYAN NAWROCKI'] on ['TAMU-LOGAN ZAHN'] forces a TURNOVER.
+TXST possession: Goal on the shot by ['TXST-STEPHEN FREEMAN-VIGIL'], assist by ['TXST-TJ MARTINEZ']
+TAMU possession: Missed shot by ['TAMU-LOGAN ZAHN']. Turnover.
+TXST possession: Snitch catch by ['TXST-19'] is GOOD.

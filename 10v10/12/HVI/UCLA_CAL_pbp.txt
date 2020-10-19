@@ -1,0 +1,47 @@
+(00:00)Brooms Up possession: BROOMS UP! Quaffle Possession by ['CAL-25'], Bludger Control by ['CAL-ELIJAH PHIPPS']
+CAL possession: Shot by ['CAL-RYAN PFENNING'] blocked by ['UCLA-15']. Turnover.
+UCLA possession: Pass between ['UCLA-15', 'UCLA-61'] defended by ['CAL-MADDI ERDALL']. Turnover
+CAL possession: Goal on the shot by ['CAL-25'], assist by ['CAL-RYAN PFENNING']
+UCLA possession: Beat by ['CAL-ELIJAH PHIPPS'] on ['UCLA-23'] forces a TURNOVER.
+CAL possession: Goal on the drive by ['CAL-RYAN PFENNING'].
+UCLA possession: Beat by ['CAL-IVAN AVALOS'] on ['UCLA-23'] forces a TURNOVER.
+CAL possession: Missed shot by ['CAL-RYAN PFENNING']. Turnover.
+UCLA possession: Pass between ['UCLA-15', 'UCLA-38'] defended by ['CAL-RYAN PFENNING']. Turnover
+CAL possession: Pass by ['CAL-RYAN PFENNING'] dropped by ['CAL-AJ MORGAN']. Turnover During the play, reset forced by UCLA-61
+UCLA possession: Goal on the drive by ['UCLA-38'].
+CAL possession: Pass between ['CAL-RYAN PFENNING', 'CAL-MADDI ERDALL'] defended by ['UCLA-38']. Turnover
+UCLA possession: Goal on the shot by ['UCLA-35'], assist by ['UCLA-61'] During the play, reset forced by CAL-IVAN AVALOS
+CAL possession: ['CAL-RYAN PFENNING'] passes to ['CAL-AJ MORGAN'] at the hoops, GOAL.
+UCLA possession: Goal on the shot by ['UCLA-15'].
+CAL possession: ['CAL-MADDI ERDALL'] passes to ['CAL-CATHERINE CONDIT'] at the hoops, GOAL.
+UCLA possession: Errant pass from ['UCLA-15'] in the direction of ['UCLA-24'] . Turnover
+CAL possession: Turnover forced by physical contact by ['UCLA-20'] on ['CAL-RYAN PFENNING']
+UCLA possession: Goal on the shot by ['UCLA-15'].
+CAL possession: Shot by ['CAL-MADDI ERDALL'] blocked by ['UCLA-15']. Turnover.
+UCLA possession: Goal on the drive by ['UCLA-15']. During the play, yellow card on CAL-RYAN PFENNING
+CAL possession: Goal on the shot by ['CAL-RYAN PFENNING']. During the play, yellow card on UCLA-20
+UCLA possession: Goal on the shot by ['UCLA-15']. During the play, yellow card on CAL-17
+CAL possession: Shot by ['CAL-52'] blocked by ['UCLA-15']. Turnover.
+UCLA possession: Beat by ['CAL-ARDIN LO'] on ['UCLA-35'] forces a TURNOVER.
+CAL possession: Turnover forced by physical contact by ['UCLA-1'] on ['CAL-14']
+UCLA possession: Pass by ['UCLA-32'] dropped by ['UCLA-11']. Turnover During the play, SNITCH ON PITCH begins
+CAL possession: Turnover forced by physical contact by ['UCLA-35'] on ['CAL-RYAN PFENNING']
+UCLA possession: Goal on the shot by ['UCLA-11'], assist by ['UCLA-32']
+CAL possession: Goal on the shot by ['CAL-12'].
+UCLA possession: Goal on the drive by ['UCLA-35']. During the play, yellow card on CAL-ARDIN LO
+CAL possession: Goal on the drive by ['CAL-RYAN PFENNING']. During the play, yellow card on UCLA-35
+UCLA possession: Missed shot by ['UCLA-32']. Turnover.
+CAL possession: Missed shot by ['CAL-ELIJAH PHIPPS']. Turnover.
+UCLA possession: Goal on the drive by ['UCLA-15'].
+CAL possession: Beat by ['UCLA-38'] on ['CAL-13'] forces a TURNOVER.
+UCLA possession: Goal on the drive by ['UCLA-15']. During the play, second yellow card on CAL-ARDIN LO, CAL-ARDIN LO is ejected from the game
+CAL possession: Errant pass from ['CAL-ELIJAH PHIPPS'] in the direction of ['CAL-MADDI ERDALL'] . Turnover
+UCLA possession: Goal on the drive by ['UCLA-24'], assist by ['UCLA-15'] During the play, yellow card on CAL-13,TIMEOUT by UCLA
+CAL possession: Errant pass from ['CAL-ELIJAH PHIPPS'] in the direction of ['CAL-AJ MORGAN'] . Turnover
+UCLA possession: Turnover forced by physical contact by ['CAL-ELIJAH PHIPPS'] on ['UCLA-15']
+CAL possession: Errant pass from ['CAL-MADDI ERDALL'] in the direction of ['CAL-AJ MORGAN'] . Turnover
+UCLA possession: Shot by ['UCLA-24'] blocked by ['CAL-13']. Turnover.
+CAL possession: Beat by ['UCLA-38'] on ['CAL-13'] forces a TURNOVER.
+UCLA possession: Errant pass from ['UCLA-35'] in the direction of ['UCLA-UNK'] . Turnover During the play, reset forced by CAL-UNK
+CAL possession: Beat by ['UCLA-46'] on ['CAL-ELIJAH PHIPPS'] forces a TURNOVER. During the play, yellow card on UCLA-32
+UCLA possession: Snitch catch by ['UCLA-61'] is GOOD.

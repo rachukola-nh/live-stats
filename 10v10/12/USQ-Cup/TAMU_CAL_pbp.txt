@@ -8,13 +8,13 @@
 (02:45)CAL possession: Pass between ['CAL-AJ MORGAN', 'CAL-ELIJAH PHIPPS'] defended by ['TAMU-HAYDAN ALTMAN']. Turnover
 (02:51)TAMU possession: Turnover forced by physical contact by ['CAL-RYAN PFENNING'] on ['TAMU-HAYDAN ALTMAN']
 (03:30)CAL possession: Goal on the shot by ['CAL-ELIJAH PHIPPS'], assist by ['CAL-RYAN PFENNING']
-(03:41)TAMU possession: Errant pass from ['TAMU-CONNOR MCINTYRE'] to ['TAMU-CAMERON VILLAMIL']. Turnover
+(03:41)TAMU possession: Errant pass from ['TAMU-CONNOR MCINTYRE'] in the direction of ['TAMU-CAMERON VILLAMIL'] . Turnover
 (04:15)CAL possession: ['CAL-RYAN PFENNING'] passes to ['CAL-ELIJAH PHIPPS'] at the hoops, GOAL.
 (04:30)TAMU possession: ['TAMU-CONNOR MCINTYRE'] passes to ['TAMU-HAYDAN ALTMAN'] at the hoops, GOAL.
 (05:03)CAL possession: Goal on the drive by ['CAL-RYAN PFENNING'].
 (05:16)TAMU possession: Pass between ['TAMU-CONNOR MCINTYRE', 'TAMU-LANDIS WALTHER'] defended by ['CAL-MADDI ERDALL']. Turnover
 (06:03)CAL possession: Goal on the drive by ['CAL-RYAN PFENNING'].
-(06:29)TAMU possession: Errant pass from ['TAMU-HAYDAN ALTMAN'] to ['TAMU-CAMERON VILLAMIL']. Turnover
+(06:29)TAMU possession: Errant pass from ['TAMU-HAYDAN ALTMAN'] in the direction of ['TAMU-CAMERON VILLAMIL'] . Turnover
 (07:20)CAL possession: Pass between ['CAL-ELIJAH PHIPPS', 'CAL-MADDI ERDALL'] defended by ['TAMU-CONNOR MCINTYRE']. Turnover
 (07:44)TAMU possession: Missed shot by ['TAMU-CONNOR MCINTYRE']. Turnover.
 (08:12)CAL possession: Pass between ['CAL-RYAN PFENNING', 'CAL-MADDI ERDALL'] defended by ['TAMU-LANDIS WALTHER']. Turnover
@@ -30,10 +30,10 @@
 (12:05)CAL possession: Beat by ['TAMU-MILES TRAVIS'] on ['CAL-MADDI ERDALL'] forces a TURNOVER.
 (12:28)TAMU possession: Turnover forced by physical contact by ['CAL-ERIC SHEN'] on ['TAMU-KODY FOX']
 (12:46)CAL possession: Turnover forced by physical contact by ['TAMU-KODY FOX'] on ['CAL-RYAN PFENNING']
-(12:52)TAMU possession: Errant pass from ['TAMU-BLAINE MCCULLARS'] to ['TAMU-JACK MCBRIDE']. Turnover
+(12:52)TAMU possession: Errant pass from ['TAMU-BLAINE MCCULLARS'] in the direction of ['TAMU-JACK MCBRIDE'] . Turnover
 (13:31)CAL possession: Turnover forced by physical contact by ['TAMU-JACK MCBRIDE'] on ['CAL-MADDI ERDALL']
 (13:51)TAMU possession: Goal on the shot by ['TAMU-BLAINE MCCULLARS'], assist by ['TAMU-JACK MCBRIDE']
-(14:07)CAL possession: Errant pass from ['CAL-TJ OHANLON'] to ['CAL-MADDI ERDALL']. Turnover
+(14:07)CAL possession: Errant pass from ['CAL-TJ OHANLON'] in the direction of ['CAL-MADDI ERDALL'] . Turnover
 (14:31)TAMU possession: Beat by ['CAL-CONNOR HUGHES'] on ['TAMU-JACK MCBRIDE'] forces a TURNOVER.
 (14:43)CAL possession: Turnover forced by physical contact by ['TAMU-HAYDAN ALTMAN'] on ['CAL-TJ OHANLON']
 (15:10)TAMU possession: Pass between ['TAMU-HAYDAN ALTMAN', 'TAMU-JACK MCBRIDE'] defended by ['CAL-AJ MORGAN']. Turnover

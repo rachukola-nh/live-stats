@@ -1,10 +1,10 @@
 (00:00)Brooms Up possession: BROOMS UP! Quaffle Possession by ['TEXAS-DAVIS ROE'], Bludger Control by ['TEXAS-TATE KAY']
-(00:05)TEXAS possession: Errant pass from ['TEXAS-LUKE MEISSNER'] to ['TEXAS-KASYE BEVERS']. Turnover
+(00:05)TEXAS possession: Errant pass from ['TEXAS-LUKE MEISSNER'] in the direction of ['TEXAS-KASYE BEVERS'] . Turnover
 (00:18)TAMU possession: Goal by ['TAMU-LOUIS SANCHEZ'], assist by ['TAMU-CONNOR MCINTYRE'] During the play, yellow card on TEXAS-JACK WANG,yellow card on TAMU-NICK ROY
 (00:43)TEXAS possession: Goal on the shot by ['TEXAS-LUKE MEISSNER'].
 (01:09)TAMU possession: Beat by ['TEXAS-DAVID HUBER'] on ['TAMU-HAYDAN ALTMAN'] forces a TURNOVER.
 (02:08)TEXAS possession: ['TEXAS-LUKE MEISSNER'] passes to ['TEXAS-DAVIS ROE'] at the hoops, GOAL.
-(02:49)TAMU possession: Errant pass from ['TAMU-CONNOR MCINTYRE'] to ['TAMU-HAYDAN ALTMAN']. Turnover
+(02:49)TAMU possession: Errant pass from ['TAMU-CONNOR MCINTYRE'] in the direction of ['TAMU-HAYDAN ALTMAN'] . Turnover
 (03:34)TEXAS possession: Goal on the shot by ['TEXAS-DAVIS ROE'], assist by ['TEXAS-JOEY CASTELLANO']
 (03:59)TAMU possession: Pass between ['TAMU-LOUIS SANCHEZ', 'TAMU-HAYDAN ALTMAN'] defended by ['TEXAS-JOEY CASTELLANO']. Turnover
 (04:04)TEXAS possession: Turnover forced by physical contact by ['TAMU-HAYDAN ALTMAN'] on ['TEXAS-JOEY CASTELLANO']
@@ -24,7 +24,7 @@
 (09:32)TEXAS possession: Goal on the drive by ['TEXAS-GRAYSON BRIGGS'], assist by ['TEXAS-NATHAN LEWIS']
 (10:06)TAMU possession: Beat by ['TEXAS-TATE KAY'] on ['TAMU-KODY FOX'] forces a TURNOVER. During the play, reset forced by TEXAS-TATE KAY
 (10:18)TEXAS possession: Goal on the drive by ['TEXAS-SETH LAPRAY'].
-(10:47)TAMU possession: Errant pass from ['TAMU-HAYDAN ALTMAN'] to ['TAMU-ADRIENNE DEMOSS']. Turnover
+(10:47)TAMU possession: Errant pass from ['TAMU-HAYDAN ALTMAN'] in the direction of ['TAMU-ADRIENNE DEMOSS'] . Turnover
 (11:11)TEXAS possession: Goal on the drive by ['TEXAS-GRAYSON BRIGGS'].
 (11:31)TAMU possession: Beat by ['TEXAS-TATE KAY'] on ['TAMU-HAYDAN ALTMAN'] forces a TURNOVER.
 (11:38)TEXAS possession: Goal on the drive by ['TEXAS-GRAYSON BRIGGS'].
@@ -37,10 +37,10 @@
 (14:52)TAMU possession: Missed shot by ['TAMU-HAYDAN ALTMAN']. Turnover.
 (15:19)TEXAS possession: ['TEXAS-JAYDAN GILSTRAP'] passes to ['TEXAS-KASYE BEVERS'] at the hoops, GOAL.
 (15:44)TAMU possession: Beat by ['TEXAS-JACK WANG'] on ['TAMU-HAYDAN ALTMAN'] forces a TURNOVER.
-(16:03)TEXAS possession: Errant pass from ['TEXAS-JAYDAN GILSTRAP'] to ['TEXAS-KASYE BEVERS']. Turnover
+(16:03)TEXAS possession: Errant pass from ['TEXAS-JAYDAN GILSTRAP'] in the direction of ['TEXAS-KASYE BEVERS'] . Turnover
 (16:31)TAMU possession: ['TAMU-CONNOR MCINTYRE'] passes to ['TAMU-23'] at the hoops, GOAL. During the play, red card on TEXAS-JOSHUA MAGEE,TEXAS-JOSHUA MAGEE is ejected from the game
 (18:16)TEXAS possession: Beat by ['TAMU-ALEX STEWART'] on ['TEXAS-JAYDAN GILSTRAP'] forces a TURNOVER. During the play, second yellow card on TAMU-NICK ROY, TAMU-NICK ROY is ejected from the game
-(18:35)TAMU possession: Errant pass from ['TAMU-CONNOR MCINTYRE'] to ['TAMU-35']. Turnover
+(18:35)TAMU possession: Errant pass from ['TAMU-CONNOR MCINTYRE'] in the direction of ['TAMU-35'] . Turnover
 (18:59)TEXAS possession: Beat by ['TAMU-ALEX STEWART'] on ['TEXAS-LUKE MEISSNER'] forces a TURNOVER.
 (19:22)TAMU possession: Pass between ['TAMU-CONNOR MCINTYRE', 'TAMU-23'] defended by ['TEXAS-OLIVE JIM-DANIELS']. Turnover
 (19:29)TEXAS possession: Goal on the drive by ['TEXAS-OLIVE JIM-DANIELS'].

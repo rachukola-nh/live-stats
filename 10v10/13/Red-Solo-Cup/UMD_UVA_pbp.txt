@@ -1,7 +1,7 @@
 (00:00)Brooms Up possession: BROOMS UP! Quaffle Possession by ['UVA-FARAAZ SIDDIQUI'], Bludger Control by ['UVA-LANE BURGESS']
 (00:51)UVA possession: Shot by ['UVA-26'] blocked by ['UMD-13']. Turnover.
 (01:11)UMD possession: Goal on the drive by ['UMD-JOHN SHERIDAN'].
-(02:50)UVA possession: Errant pass from ['UVA-FARAAZ SIDDIQUI'] to ['UVA-BEN PHILLIPS']. Turnover During the play, reset forced by UMD-HEATHER FARNAN
+(02:50)UVA possession: Errant pass from ['UVA-FARAAZ SIDDIQUI'] in the direction of ['UVA-BEN PHILLIPS'] . Turnover During the play, reset forced by UMD-HEATHER FARNAN
 (03:23)UMD possession: Goal on the shot by ['UMD-JOHN SHERIDAN'], assist by ['UMD-MACK MORGAN']
 (04:29)UVA possession: Shot by ['UVA-CARLEE KLEPPIN'] blocked by ['UMD-2']. Turnover.
 (04:52)UMD possession: Turnover forced by physical contact by ['UVA-CARLEE KLEPPIN'] on ['UMD-JOHN SHERIDAN']

@@ -23,7 +23,7 @@
 (10:40)SHSU possession: Pass by ['SHSU-2'] dropped by ['SHSU-HAYDEN BOYES']. Turnover
 (11:24)TEXAS possession: Goal on the drive by ['TEXAS-SETH LAPRAY'].
 (11:54)SHSU possession: Pass between ['SHSU-SAM REAGAN', 'SHSU-RED RUTLEDGE'] defended by ['TEXAS-NATHAN LEWIS']. Turnover
-(12:29)TEXAS possession: Errant pass from ['TEXAS-JAYDAN GILSTRAP'] to ['TEXAS-OLIVE JIM-DANIELS']. Turnover
+(12:29)TEXAS possession: Errant pass from ['TEXAS-JAYDAN GILSTRAP'] in the direction of ['TEXAS-OLIVE JIM-DANIELS'] . Turnover
 (13:10)SHSU possession: Goal on the shot by ['SHSU-SAM REAGAN'].
 (13:42)TEXAS possession: Goal on the drive by ['TEXAS-JAYDAN GILSTRAP'].
 (13:53)SHSU possession: Missed shot by ['SHSU-KEENAN NASH']. Turnover.

@@ -1,187 +1,187 @@
 {
   "0": {
-    "length": -1,
-    "defense": "",
-    "offense": "Brooms Up",
     "extras": [],
+    "offense": "Brooms Up",
+    "defense": "",
+    "length": -1,
     "time": "0000",
+    "result": "BU",
     "primary": [
       "KANSAS-IAN MCCABE"
     ],
     "secondary": [
       "KANSAS-JAKE SIMON"
     ],
-    "result": "BU",
     "period": "FLOOR"
   },
   "1": {
-    "length": 5,
-    "defense": "TXST",
-    "offense": "KANSAS",
     "extras": [],
+    "offense": "KANSAS",
+    "defense": "TXST",
     "time": "0005",
+    "result": "GD",
     "primary": [
       "KANSAS-IAN MCCABE"
     ],
     "secondary": [],
-    "result": "GD",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 5
   },
   "2": {
-    "length": 27,
-    "defense": "KANSAS",
-    "offense": "TXST",
     "extras": [],
+    "offense": "TXST",
+    "defense": "KANSAS",
     "time": "0032",
+    "result": "TL",
     "primary": [
       "KANSAS-RACHEL HEALD"
     ],
     "secondary": [
       "TXST-MICHAEL GENTEMPO"
     ],
-    "result": "TL",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 27
   },
   "3": {
-    "length": 26,
-    "defense": "TXST",
-    "offense": "KANSAS",
     "extras": [],
+    "offense": "KANSAS",
+    "defense": "TXST",
     "time": "0058",
+    "result": "GS",
     "primary": [
       "KANSAS-IAN MCCABE"
     ],
     "secondary": [
       "KANSAS-BEN ENGLES"
     ],
-    "result": "GS",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 26
   },
   "4": {
-    "length": 91,
-    "defense": "KANSAS",
-    "offense": "TXST",
     "extras": [],
+    "offense": "TXST",
+    "defense": "KANSAS",
     "time": "0149",
+    "result": "ET",
     "primary": [
       "TXST-MICHAEL GENTEMPO"
     ],
     "secondary": [],
-    "result": "ET",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 91
   },
   "5": {
-    "length": 3,
-    "defense": "TXST",
-    "offense": "KANSAS",
     "extras": [],
+    "offense": "KANSAS",
+    "defense": "TXST",
     "time": "0152",
+    "result": "TB",
     "primary": [
       "TXST-RYAN NAWROCKI"
     ],
     "secondary": [
       "KANSAS-BEN ENGLES"
     ],
-    "result": "TB",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 3
   },
   "6": {
-    "length": 55,
-    "defense": "KANSAS",
-    "offense": "TXST",
     "extras": [],
+    "offense": "TXST",
+    "defense": "KANSAS",
     "time": "0207",
+    "result": "GP",
     "primary": [
       "TXST-MELISSA KITE"
     ],
     "secondary": [
       "TXST-MICHAEL GENTEMPO"
     ],
-    "result": "GP",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 55
   },
   "7": {
-    "length": 24,
-    "defense": "TXST",
-    "offense": "KANSAS",
     "extras": [],
+    "offense": "KANSAS",
+    "defense": "TXST",
     "time": "0231",
+    "result": "EM",
     "primary": [
       "KANSAS-RACHEL HEALD"
     ],
     "secondary": [],
-    "result": "EM",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 24
   },
   "8": {
-    "length": 77,
-    "defense": "KANSAS",
-    "offense": "TXST",
     "extras": [],
+    "offense": "TXST",
+    "defense": "KANSAS",
     "time": "0308",
+    "result": "TL",
     "primary": [
       "KANSAS-RACHEL HEALD"
     ],
     "secondary": [
       "TXST-JENNA BOLLWEG"
     ],
-    "result": "TL",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 77
   },
   "9": {
-    "length": 38,
-    "defense": "TXST",
-    "offense": "KANSAS",
     "extras": [],
+    "offense": "KANSAS",
+    "defense": "TXST",
     "time": "0346",
+    "result": "GP",
     "primary": [
       "KANSAS-BRANDON TABOR"
     ],
     "secondary": [
       "KANSAS-RACHEL HEALD"
     ],
-    "result": "GP",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 38
   },
   "10": {
-    "length": 70,
-    "defense": "KANSAS",
-    "offense": "TXST",
     "extras": [],
+    "offense": "TXST",
+    "defense": "KANSAS",
     "time": "0416",
+    "result": "TB",
     "primary": [
       "KANSAS-JAKE SIMON"
     ],
     "secondary": [
       "TXST-BRANDON MACDOWRA"
     ],
-    "result": "TB",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 70
   },
   "11": {
-    "length": 15,
-    "defense": "TXST",
-    "offense": "KANSAS",
     "extras": [],
+    "offense": "KANSAS",
+    "defense": "TXST",
     "time": "0431",
+    "result": "EM",
     "primary": [
       "KANSAS-BRANDON TABOR"
     ],
     "secondary": [],
-    "result": "EM",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 15
   },
   "12": {
-    "length": 18,
-    "defense": "KANSAS",
-    "offense": "TXST",
     "extras": [
       [
         "Y",
         "KANSAS-KEVIN MCMORRIS"
       ]
     ],
+    "offense": "TXST",
+    "defense": "KANSAS",
     "time": "0449",
+    "result": "TD",
     "primary": [
       "KANSAS-RACHEL HEALD"
     ],
@@ -189,43 +189,43 @@
       "TXST-STEPHEN VIGIL",
       "TXST-JENNA BOLLWEG"
     ],
-    "result": "TD",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 18
   },
   "13": {
-    "length": 63,
-    "defense": "TXST",
-    "offense": "KANSAS",
     "extras": [],
+    "offense": "KANSAS",
+    "defense": "TXST",
     "time": "0512",
+    "result": "TB",
     "primary": [
       "TXST-KRIS DELAFUENTE"
     ],
     "secondary": [
       "KANSAS-RACHEL HEALD"
     ],
-    "result": "TB",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 63
   },
   "14": {
-    "length": 18,
-    "defense": "KANSAS",
-    "offense": "TXST",
     "extras": [],
+    "offense": "TXST",
+    "defense": "KANSAS",
     "time": "0530",
+    "result": "GD",
     "primary": [
       "TXST-BRANDON MACDOWRA"
     ],
     "secondary": [],
-    "result": "GD",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 18
   },
   "15": {
-    "length": 26,
-    "defense": "TXST",
-    "offense": "KANSAS",
     "extras": [],
+    "offense": "KANSAS",
+    "defense": "TXST",
     "time": "0556",
+    "result": "TD",
     "primary": [
       "TXST-MICHAEL GENTEMPO"
     ],
@@ -233,74 +233,74 @@
       "KANSAS-OLIVIA FEDERICO",
       "KANSAS-KEVIN MCMORRIS"
     ],
-    "result": "TD",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 26
   },
   "16": {
-    "length": 52,
-    "defense": "KANSAS",
-    "offense": "TXST",
     "extras": [],
+    "offense": "TXST",
+    "defense": "KANSAS",
     "time": "0608",
+    "result": "GP",
     "primary": [
       "TXST-BRANDON MACDOWRA"
     ],
     "secondary": [
       "TXST-MICHAEL GENTEMPO"
     ],
-    "result": "GP",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 52
   },
   "17": {
-    "length": 44,
-    "defense": "TXST",
-    "offense": "KANSAS",
     "extras": [
       [
         "Y",
         "TXST-DONOVAN MITCHELL"
       ]
     ],
+    "offense": "KANSAS",
+    "defense": "TXST",
     "time": "0652",
+    "result": "EM",
     "primary": [
       "KANSAS-RYAN DICKEY"
     ],
     "secondary": [],
-    "result": "EM",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 44
   },
   "18": {
-    "length": 59,
-    "defense": "KANSAS",
-    "offense": "TXST",
     "extras": [],
+    "offense": "TXST",
+    "defense": "KANSAS",
     "time": "0711",
+    "result": "EY",
     "primary": [
       "TXST-KRIS DELAFUENTE"
     ],
     "secondary": [],
-    "result": "EY",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 59
   },
   "19": {
-    "length": 21,
-    "defense": "TXST",
-    "offense": "KANSAS",
     "extras": [],
+    "offense": "KANSAS",
+    "defense": "TXST",
     "time": "0732",
+    "result": "GD",
     "primary": [
       "KANSAS-BRYAN WEARY"
     ],
     "secondary": [],
-    "result": "GD",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 21
   },
   "20": {
-    "length": 81,
-    "defense": "KANSAS",
-    "offense": "TXST",
     "extras": [],
+    "offense": "TXST",
+    "defense": "KANSAS",
     "time": "0813",
+    "result": "TD",
     "primary": [
       "KANSAS-BRYAN WEARY"
     ],
@@ -308,56 +308,56 @@
       "TXST-BRANDON MACDOWRA",
       "TXST-DONOVAN MITCHELL"
     ],
-    "result": "TD",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 81
   },
   "21": {
-    "length": 27,
-    "defense": "TXST",
-    "offense": "KANSAS",
     "extras": [],
+    "offense": "KANSAS",
+    "defense": "TXST",
     "time": "0840",
+    "result": "GD",
     "primary": [
       "KANSAS-BRYAN WEARY"
     ],
     "secondary": [],
-    "result": "GD",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 27
   },
   "22": {
-    "length": 93,
-    "defense": "KANSAS",
-    "offense": "TXST",
     "extras": [],
+    "offense": "TXST",
+    "defense": "KANSAS",
     "time": "0933",
+    "result": "EM",
     "primary": [
       "TXST-JACOB DOSTAL"
     ],
     "secondary": [],
-    "result": "EM",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 93
   },
   "23": {
-    "length": 81,
-    "defense": "TXST",
-    "offense": "KANSAS",
     "extras": [],
+    "offense": "KANSAS",
+    "defense": "TXST",
     "time": "1014",
+    "result": "TC",
     "primary": [
       "TXST-DONOVAN MITCHELL"
     ],
     "secondary": [
       "KANSAS-MIKE DEVINE"
     ],
-    "result": "TC",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 81
   },
   "24": {
-    "length": 7,
-    "defense": "KANSAS",
-    "offense": "TXST",
     "extras": [],
+    "offense": "TXST",
+    "defense": "KANSAS",
     "time": "1021",
+    "result": "TD",
     "primary": [
       "KANSAS-MATT DWYER"
     ],
@@ -365,314 +365,314 @@
       "TXST-STEPHEN VIGIL",
       "TXST-JACOB DOSTAL"
     ],
-    "result": "TD",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 7
   },
   "25": {
-    "length": 5,
-    "defense": "TXST",
-    "offense": "KANSAS",
     "extras": [],
+    "offense": "KANSAS",
+    "defense": "TXST",
     "time": "1026",
+    "result": "GS",
     "primary": [
       "KANSAS-MATT DWYER"
     ],
     "secondary": [],
-    "result": "GS",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 5
   },
   "26": {
-    "length": 88,
-    "defense": "KANSAS",
-    "offense": "TXST",
     "extras": [],
+    "offense": "TXST",
+    "defense": "KANSAS",
     "time": "1114",
+    "result": "GD",
     "primary": [
       "TXST-TIM NGUYEN"
     ],
     "secondary": [
       "TXST-JACOB DOSTAL"
     ],
-    "result": "GD",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 88
   },
   "27": {
-    "length": 22,
-    "defense": "TXST",
-    "offense": "KANSAS",
     "extras": [],
+    "offense": "KANSAS",
+    "defense": "TXST",
     "time": "1136",
+    "result": "TB",
     "primary": [
       "TXST-BAILEE FIELDS"
     ],
     "secondary": [
       "KANSAS-MATT DWYER"
     ],
-    "result": "TB",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 22
   },
   "28": {
-    "length": 15,
-    "defense": "KANSAS",
-    "offense": "TXST",
     "extras": [],
+    "offense": "TXST",
+    "defense": "KANSAS",
     "time": "1151",
+    "result": "GD",
     "primary": [
       "TXST-JACOB DOSTAL"
     ],
     "secondary": [
       "TXST-DONOVAN MITCHELL"
     ],
-    "result": "GD",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 15
   },
   "29": {
-    "length": 90,
-    "defense": "TXST",
-    "offense": "KANSAS",
     "extras": [],
+    "offense": "KANSAS",
+    "defense": "TXST",
     "time": "1241",
+    "result": "GP",
     "primary": [
       "KANSAS-BRANDON TABOR"
     ],
     "secondary": [
       "KANSAS-MATT DWYER"
     ],
-    "result": "GP",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 90
   },
   "30": {
-    "length": 66,
-    "defense": "KANSAS",
-    "offense": "TXST",
     "extras": [],
+    "offense": "TXST",
+    "defense": "KANSAS",
     "time": "1307",
+    "result": "TB",
     "primary": [
       "KANSAS-RACHEL ENGLAND"
     ],
     "secondary": [
       "TXST-JACOB DOSTAL"
     ],
-    "result": "TB",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 66
   },
   "31": {
-    "length": 5,
-    "defense": "TXST",
-    "offense": "KANSAS",
     "extras": [],
+    "offense": "KANSAS",
+    "defense": "TXST",
     "time": "1312",
+    "result": "GD",
     "primary": [
       "KANSAS-IAN MCCABE"
     ],
     "secondary": [],
-    "result": "GD",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 5
   },
   "32": {
-    "length": 34,
-    "defense": "KANSAS",
-    "offense": "TXST",
     "extras": [
       [
         "Y",
         "KANSAS-IAN MCCABE"
       ]
     ],
+    "offense": "TXST",
+    "defense": "KANSAS",
     "time": "1346",
+    "result": "GD",
     "primary": [
       "TXST-JACOB DOSTAL"
     ],
     "secondary": [],
-    "result": "GD",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 34
   },
   "33": {
-    "length": 69,
-    "defense": "TXST",
-    "offense": "KANSAS",
     "extras": [],
+    "offense": "KANSAS",
+    "defense": "TXST",
     "time": "1415",
+    "result": "TB",
     "primary": [
       "TXST-JESSICA MARKLE"
     ],
     "secondary": [
       "KANSAS-BRANDON TABOR"
     ],
-    "result": "TB",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 69
   },
   "34": {
-    "length": 8,
-    "defense": "KANSAS",
-    "offense": "TXST",
     "extras": [],
+    "offense": "TXST",
+    "defense": "KANSAS",
     "time": "1423",
+    "result": "GD",
     "primary": [
       "TXST-TIM NGUYEN"
     ],
     "secondary": [],
-    "result": "GD",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 8
   },
   "35": {
-    "length": 35,
-    "defense": "TXST",
-    "offense": "KANSAS",
     "extras": [],
+    "offense": "KANSAS",
+    "defense": "TXST",
     "time": "1458",
+    "result": "TB",
     "primary": [
       "TXST-KRIS DELAFUENTE"
     ],
     "secondary": [
       "KANSAS-BRANDON TABOR"
     ],
-    "result": "TB",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 35
   },
   "36": {
-    "length": 52,
-    "defense": "KANSAS",
-    "offense": "TXST",
     "extras": [],
+    "offense": "TXST",
+    "defense": "KANSAS",
     "time": "1510",
+    "result": "GP",
     "primary": [
       "TXST-TIM NGUYEN"
     ],
     "secondary": [
       "TXST-DONOVAN MITCHELL"
     ],
-    "result": "GP",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 52
   },
   "37": {
-    "length": 29,
-    "defense": "TXST",
-    "offense": "KANSAS",
     "extras": [],
+    "offense": "KANSAS",
+    "defense": "TXST",
     "time": "1539",
+    "result": "TL",
     "primary": [
       "TXST-JACOB DOSTAL"
     ],
     "secondary": [
       "KANSAS-RACHEL HEALD"
     ],
-    "result": "TL",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 29
   },
   "38": {
-    "length": 66,
-    "defense": "KANSAS",
-    "offense": "TXST",
     "extras": [],
+    "offense": "TXST",
+    "defense": "KANSAS",
     "time": "1605",
+    "result": "TB",
     "primary": [
       "KANSAS-JAKE SIMON"
     ],
     "secondary": [
       "TXST-ERIC REYES"
     ],
-    "result": "TB",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 66
   },
   "39": {
-    "length": 15,
-    "defense": "TXST",
-    "offense": "KANSAS",
     "extras": [],
+    "offense": "KANSAS",
+    "defense": "TXST",
     "time": "1620",
+    "result": "GP",
     "primary": [
       "KANSAS-BRANDON TABOR"
     ],
     "secondary": [
       "KANSAS-RACHEL HEALD"
     ],
-    "result": "GP",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 15
   },
   "40": {
-    "length": 35,
-    "defense": "KANSAS",
-    "offense": "TXST",
     "extras": [],
+    "offense": "TXST",
+    "defense": "KANSAS",
     "time": "1655",
+    "result": "EM",
     "primary": [
       "TXST-DONOVAN MITCHELL"
     ],
     "secondary": [],
-    "result": "EM",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 35
   },
   "41": {
-    "length": 77,
-    "defense": "TXST",
-    "offense": "KANSAS",
     "extras": [],
+    "offense": "KANSAS",
+    "defense": "TXST",
     "time": "1732",
+    "result": "TB",
     "primary": [
       "TXST-KRIS DELAFUENTE"
     ],
     "secondary": [
       "KANSAS-PARIS NICHOLS"
     ],
-    "result": "TB",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 77
   },
   "42": {
-    "length": 11,
-    "defense": "KANSAS",
-    "offense": "TXST",
     "extras": [],
+    "offense": "TXST",
+    "defense": "KANSAS",
     "time": "1743",
+    "result": "GD",
     "primary": [
       "TXST-DONOVAN MITCHELL"
     ],
     "secondary": [],
-    "result": "GD",
-    "period": "FLOOR"
+    "period": "FLOOR",
+    "length": 11
   },
   "43": {
-    "length": 73,
-    "defense": "TXST",
-    "offense": "KANSAS",
     "extras": [
       [
         "SOP",
         1
       ]
     ],
+    "offense": "KANSAS",
+    "defense": "TXST",
     "time": "1816",
+    "result": "GD",
     "primary": [
       "KANSAS-BEN ENGLES"
     ],
     "secondary": [],
-    "result": "GD",
-    "period": "SOP"
+    "period": "SOP",
+    "length": 73
   },
   "44": {
-    "length": 10,
-    "defense": "KANSAS",
-    "offense": "TXST",
     "extras": [],
+    "offense": "TXST",
+    "defense": "KANSAS",
     "time": "1826",
+    "result": "GD",
     "primary": [
       "TXST-BRANDON MACDOWRA"
     ],
     "secondary": [],
-    "result": "GD",
-    "period": "SOP"
+    "period": "SOP",
+    "length": 10
   },
   "45": {
-    "length": -1,
-    "defense": "TXST",
-    "offense": "KANSAS",
     "extras": [],
+    "offense": "KANSAS",
+    "defense": "TXST",
     "time": "1834",
+    "result": "RCA",
     "primary": [
       "TXST-STEVEN GRALINSKI"
     ],
     "secondary": [],
-    "result": "RCA",
-    "period": "SOP"
+    "period": "SOP",
+    "length": -1
   }
 }

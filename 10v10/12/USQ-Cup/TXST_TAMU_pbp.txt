@@ -5,9 +5,9 @@
 (01:43)TAMU possession: ['TAMU-KODY FOX'] passes to ['TAMU-CONNOR MCINTYRE'] at the hoops, GOAL.
 (02:20)TXST possession: ['TXST-MARK MCQUAGE'] passes to ['TXST-DAVID AVILA'] at the hoops, GOAL.
 (02:46)TAMU possession: Turnover forced by physical contact by ['TXST-MARK MCQUAGE'] on ['TAMU-LANDIS WALTHER']
-(03:54)TXST possession: Errant pass from ['TXST-MARK MCQUAGE'] to ['TXST-AUDREY FRY']. Turnover During the play, yellow card on TAMU-KODY FOX
+(03:54)TXST possession: Errant pass from ['TXST-MARK MCQUAGE'] in the direction of ['TXST-AUDREY FRY'] . Turnover During the play, yellow card on TAMU-KODY FOX
 (04:14)TAMU possession: Beat by ['TXST-JESSICA MARKLE'] on ['TAMU-CONNOR MCINTYRE'] forces a TURNOVER.
-(04:20)TXST possession: Errant pass from ['TXST-AUDREY FRY'] to ['TXST-TIM NGUYEN']. Turnover
+(04:20)TXST possession: Errant pass from ['TXST-AUDREY FRY'] in the direction of ['TXST-TIM NGUYEN'] . Turnover
 (04:51)TAMU possession: Missed shot by ['TAMU-CONNOR MCINTYRE']. Turnover. During the play, reset forced by TXST-RYAN NAWROCKI
 (05:26)TXST possession: ['TXST-ERIC REYES'] passes to ['TXST-AUDREY FRY'] at the hoops, GOAL.
 (06:08)TAMU possession: Goal on the drive by ['TAMU-CONNOR MCINTYRE']. During the play, yellow card on TXST-MARK MCQUAGE
@@ -38,8 +38,8 @@
 (16:08)TXST possession: Turnover forced by physical contact by ['TAMU-JACK MCBRIDE'] on ['TXST-MELISSA KITE']
 (16:37)TAMU possession: Goal on the shot by ['TAMU-JACK MCBRIDE'].
 (17:14)TXST possession: Goal on the drive by ['TXST-JUSTIN DUGIE']. During the play, yellow card on TAMU-ALEX STEWART
-(17:50)TAMU possession: Errant pass from ['TAMU-BLAINE MCCULLARS'] to ['TAMU-HAYDAN ALTMAN']. Turnover
-(18:31)TXST possession: Errant pass from ['TXST-JUSTIN DUGIE'] to ['TXST-AUDREY FRY']. Turnover During the play, SNITCH ON PITCH begins
+(17:50)TAMU possession: Errant pass from ['TAMU-BLAINE MCCULLARS'] in the direction of ['TAMU-HAYDAN ALTMAN'] . Turnover
+(18:31)TXST possession: Errant pass from ['TXST-JUSTIN DUGIE'] in the direction of ['TXST-AUDREY FRY'] . Turnover During the play, SNITCH ON PITCH begins
 (18:46)TAMU possession: Goal on the drive by ['TAMU-JACK MCBRIDE'].
 (19:25)TXST possession: Missed shot by ['TXST-DAVID AVILA']. Turnover.
 (19:33)TAMU possession: Goal on the drive by ['TAMU-JACK MCBRIDE'].

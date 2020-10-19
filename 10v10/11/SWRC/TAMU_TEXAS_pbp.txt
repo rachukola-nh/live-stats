@@ -7,15 +7,15 @@
 (02:18)TEXAS possession: Beat by ['TAMU-ALEX STEWART'] on ['TEXAS-CULLEN FRIDAY'] forces a TURNOVER.
 (02:30)TAMU possession: Pass between ['TAMU-SAMMY GARZA', 'TAMU-LOGAN ZAHN'] defended by ['TEXAS-CULLEN FRIDAY']. Turnover
 (02:47)TEXAS possession: Goal on the drive by ['TEXAS-ERIN MCBRIDE'], assist by ['TEXAS-NICK MARINO']
-(03:07)TAMU possession: Errant pass from ['TAMU-UNK'] to ['TAMU-RACHEL NICOLETTI']. Turnover
+(03:07)TAMU possession: Errant pass from ['TAMU-UNK'] in the direction of ['TAMU-RACHEL NICOLETTI'] . Turnover
 (03:15)TEXAS possession: Goal on the drive by ['TEXAS-CULLEN FRIDAY'].
 (03:40)TAMU possession: Beat by ['TEXAS-HALLIE PACE'] on ['TAMU-RACHEL NICOLETTI'] forces a TURNOVER.
-(03:52)TEXAS possession: Errant pass from ['TEXAS-NICK MARINO'] to ['TEXAS-DYLAN BOTTOMS']. Turnover
+(03:52)TEXAS possession: Errant pass from ['TEXAS-NICK MARINO'] in the direction of ['TEXAS-DYLAN BOTTOMS'] . Turnover
 (04:18)TAMU possession: Beat by ['TEXAS-HALLIE PACE'] on ['TAMU-RACHEL NICOLETTI'] forces a TURNOVER.
 (04:58)TEXAS possession: Turnover forced by physical contact by ['TAMU-SAMMY GARZA'] on ['TEXAS-MICHAEL JOHNSTON']
 (05:23)TAMU possession: Beat by ['TEXAS-EDDIE MOLINA'] on ['TAMU-LOUIS SANCHEZ'] forces a TURNOVER.
 (05:39)TEXAS possession: Missed shot by ['TEXAS-DAVID HUBER']. Turnover.
-(06:04)TAMU possession: Errant pass from ['TAMU-MIKE MILLER'] to ['TAMU-LANDIS WALTHER']. Turnover
+(06:04)TAMU possession: Errant pass from ['TAMU-MIKE MILLER'] in the direction of ['TAMU-LANDIS WALTHER'] . Turnover
 (06:36)TEXAS possession: Goal on the drive by ['TEXAS-JOHN ANDERSON'].
 (07:03)TAMU possession: Pass between ['TAMU-SAMMY GARZA', 'TAMU-LANDIS WALTHER'] defended by ['TEXAS-MICHAEL JOHNSTON']. Turnover
 (07:53)TEXAS possession: Missed shot by ['TEXAS-JOHN ANDERSON']. Turnover. During the play, yellow card on TAMU-ALEX STEWART
@@ -33,7 +33,7 @@
 (13:16)TEXAS possession: Turnover forced by physical contact by ['TAMU-JUAN ACEVEDO'] on ['TEXAS-ANDRES GARZA']
 (14:10)TAMU possession: ['TAMU-1'] passes to ['TAMU-12'] at the hoops, GOAL.
 (14:49)TEXAS possession: Goal on the shot by ['TEXAS-ANDRES GARZA'], assist by ['TEXAS-NICK MARINO']
-(15:20)TAMU possession: Errant pass from ['TAMU-RACHEL NICOLETTI'] to ['TAMU-12']. Turnover
+(15:20)TAMU possession: Errant pass from ['TAMU-RACHEL NICOLETTI'] in the direction of ['TAMU-12'] . Turnover
 (15:50)TEXAS possession: ['TEXAS-NICK MARINO'] passes to ['TEXAS-ANDRES GARZA'] at the hoops, GOAL.
 (15:59)TAMU possession: Pass by ['TAMU-1'] dropped by ['TAMU-DANIEL SOBARZO']. Turnover
 (17:08)TEXAS possession: Pass by ['TEXAS-AUSTIN DICKSON'] dropped by ['TEXAS-NICK MARINO']. Turnover During the play, reset forced by TAMU-NICK ROY
