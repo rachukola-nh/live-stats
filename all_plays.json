@@ -38320,6 +38320,774 @@
     "time": "0000",
     "result": "BU",
     "primary": [
+      "TXST-69"
+    ],
+    "secondary": [
+      "TEXAS-64"
+    ],
+    "period": "FLOOR",
+    "possession_number": 0,
+    "season": "13",
+    "tournament": "Alamo-Cup",
+    "game": "10v10/13/Alamo-Cup/TEXAS_TXST_data.json"
+  },
+  {
+    "extras": [],
+    "offense": "TXST",
+    "defense": "TEXAS",
+    "time": "0030",
+    "result": "TB",
+    "primary": [
+      "TEXAS-TATE KAY"
+    ],
+    "secondary": [
+      "TXST-MELISSA KITE"
+    ],
+    "period": "FLOOR",
+    "length": 30,
+    "possession_number": 1,
+    "season": "13",
+    "tournament": "Alamo-Cup",
+    "game": "10v10/13/Alamo-Cup/TEXAS_TXST_data.json"
+  },
+  {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "TXST",
+    "time": "0144",
+    "result": "GD",
+    "primary": [
+      "TEXAS-COLE BURKE"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 114,
+    "possession_number": 2,
+    "season": "13",
+    "tournament": "Alamo-Cup",
+    "game": "10v10/13/Alamo-Cup/TEXAS_TXST_data.json"
+  },
+  {
+    "extras": [],
+    "offense": "TXST",
+    "defense": "TEXAS",
+    "time": "0222",
+    "result": "TB",
+    "primary": [
+      "TEXAS-PURVI MUJUMDAR"
+    ],
+    "secondary": [
+      "TXST-MELISSA KITE"
+    ],
+    "period": "FLOOR",
+    "length": 78,
+    "possession_number": 3,
+    "season": "13",
+    "tournament": "Alamo-Cup",
+    "game": "10v10/13/Alamo-Cup/TEXAS_TXST_data.json"
+  },
+  {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "TXST",
+    "time": "0227",
+    "result": "GD",
+    "primary": [
+      "TEXAS-COLE BURKE"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 5,
+    "possession_number": 4,
+    "season": "13",
+    "tournament": "Alamo-Cup",
+    "game": "10v10/13/Alamo-Cup/TEXAS_TXST_data.json"
+  },
+  {
+    "extras": [],
+    "offense": "TXST",
+    "defense": "TEXAS",
+    "time": "0309",
+    "result": "EM",
+    "primary": [
+      "TXST-NICK ED"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 82,
+    "possession_number": 5,
+    "season": "13",
+    "tournament": "Alamo-Cup",
+    "game": "10v10/13/Alamo-Cup/TEXAS_TXST_data.json"
+  },
+  {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "TXST",
+    "time": "0349",
+    "result": "GS",
+    "primary": [
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 40,
+    "possession_number": 6,
+    "season": "13",
+    "tournament": "Alamo-Cup",
+    "game": "10v10/13/Alamo-Cup/TEXAS_TXST_data.json"
+  },
+  {
+    "extras": [],
+    "offense": "TXST",
+    "defense": "TEXAS",
+    "time": "0400",
+    "result": "TB",
+    "primary": [
+      "TEXAS-TATE KAY"
+    ],
+    "secondary": [
+      "TXST-NICK ED"
+    ],
+    "period": "FLOOR",
+    "length": 51,
+    "possession_number": 7,
+    "season": "13",
+    "tournament": "Alamo-Cup",
+    "game": "10v10/13/Alamo-Cup/TEXAS_TXST_data.json"
+  },
+  {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "TXST",
+    "time": "0412",
+    "result": "GS",
+    "primary": [
+      "TEXAS-COLE BURKE"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 12,
+    "possession_number": 8,
+    "season": "13",
+    "tournament": "Alamo-Cup",
+    "game": "10v10/13/Alamo-Cup/TEXAS_TXST_data.json"
+  },
+  {
+    "extras": [],
+    "offense": "TXST",
+    "defense": "TEXAS",
+    "time": "0443",
+    "result": "TB",
+    "primary": [
+      "TEXAS-TATE KAY"
+    ],
+    "secondary": [
+      "TXST-MELISSA KITE"
+    ],
+    "period": "FLOOR",
+    "length": 31,
+    "possession_number": 9,
+    "season": "13",
+    "tournament": "Alamo-Cup",
+    "game": "10v10/13/Alamo-Cup/TEXAS_TXST_data.json"
+  },
+  {
+    "extras": [
+      [
+        "R",
+        "TXST-JANETTE GARCIA"
+      ]
+    ],
+    "offense": "TEXAS",
+    "defense": "TXST",
+    "time": "0541",
+    "result": "GS",
+    "primary": [
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "secondary": [
+      "TEXAS-MICHAEL JOHNSTON"
+    ],
+    "period": "FLOOR",
+    "length": 98,
+    "possession_number": 10,
+    "season": "13",
+    "tournament": "Alamo-Cup",
+    "game": "10v10/13/Alamo-Cup/TEXAS_TXST_data.json"
+  },
+  {
+    "extras": [],
+    "offense": "TXST",
+    "defense": "TEXAS",
+    "time": "0603",
+    "result": "TB",
+    "primary": [
+      "TEXAS-JACK WANG"
+    ],
+    "secondary": [
+      "TXST-NICK ED"
+    ],
+    "period": "FLOOR",
+    "length": 62,
+    "possession_number": 11,
+    "season": "13",
+    "tournament": "Alamo-Cup",
+    "game": "10v10/13/Alamo-Cup/TEXAS_TXST_data.json"
+  },
+  {
+    "extras": [
+      [
+        "Y",
+        "TXST-JOHN MOLINA"
+      ]
+    ],
+    "offense": "TEXAS",
+    "defense": "TXST",
+    "time": "0621",
+    "result": "GD",
+    "primary": [
+      "TEXAS-JAYDAN GILSTRAP"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 18,
+    "possession_number": 12,
+    "season": "13",
+    "tournament": "Alamo-Cup",
+    "game": "10v10/13/Alamo-Cup/TEXAS_TXST_data.json"
+  },
+  {
+    "extras": [],
+    "offense": "TXST",
+    "defense": "TEXAS",
+    "time": "0649",
+    "result": "TD",
+    "primary": [
+      "TEXAS-41"
+    ],
+    "secondary": [
+      "TXST-NICK ED",
+      "TXST-69"
+    ],
+    "period": "FLOOR",
+    "length": 28,
+    "possession_number": 13,
+    "season": "13",
+    "tournament": "Alamo-Cup",
+    "game": "10v10/13/Alamo-Cup/TEXAS_TXST_data.json"
+  },
+  {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "TXST",
+    "time": "0707",
+    "result": "GD",
+    "primary": [
+      "TEXAS-MICHAEL JOHNSTON"
+    ],
+    "secondary": [
+      "TEXAS-JAYDAN GILSTRAP"
+    ],
+    "period": "FLOOR",
+    "length": 58,
+    "possession_number": 14,
+    "season": "13",
+    "tournament": "Alamo-Cup",
+    "game": "10v10/13/Alamo-Cup/TEXAS_TXST_data.json"
+  },
+  {
+    "extras": [],
+    "offense": "TXST",
+    "defense": "TEXAS",
+    "time": "0746",
+    "result": "TL",
+    "primary": [
+      "TEXAS-CAROLINE TAO"
+    ],
+    "secondary": [
+      "TXST-UNK"
+    ],
+    "period": "FLOOR",
+    "length": 39,
+    "possession_number": 15,
+    "season": "13",
+    "tournament": "Alamo-Cup",
+    "game": "10v10/13/Alamo-Cup/TEXAS_TXST_data.json"
+  },
+  {
+    "extras": [
+      [
+        "R",
+        "TXST-UNK"
+      ]
+    ],
+    "offense": "TEXAS",
+    "defense": "TXST",
+    "time": "0852",
+    "result": "GS",
+    "primary": [
+      "TEXAS-41"
+    ],
+    "secondary": [
+      "TEXAS-JAYDAN GILSTRAP"
+    ],
+    "period": "FLOOR",
+    "length": 106,
+    "possession_number": 16,
+    "season": "13",
+    "tournament": "Alamo-Cup",
+    "game": "10v10/13/Alamo-Cup/TEXAS_TXST_data.json"
+  },
+  {
+    "extras": [],
+    "offense": "TXST",
+    "defense": "TEXAS",
+    "time": "0938",
+    "result": "GD",
+    "primary": [
+      "TXST-MIKE MORROW"
+    ],
+    "secondary": [
+      "TXST-NICK ED"
+    ],
+    "period": "FLOOR",
+    "length": 86,
+    "possession_number": 17,
+    "season": "13",
+    "tournament": "Alamo-Cup",
+    "game": "10v10/13/Alamo-Cup/TEXAS_TXST_data.json"
+  },
+  {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "TXST",
+    "time": "1008",
+    "result": "ED",
+    "primary": [
+      "TEXAS-41"
+    ],
+    "secondary": [
+      "TEXAS-MICHAEL JOHNSTON"
+    ],
+    "period": "FLOOR",
+    "length": 70,
+    "possession_number": 18,
+    "season": "13",
+    "tournament": "Alamo-Cup",
+    "game": "10v10/13/Alamo-Cup/TEXAS_TXST_data.json"
+  },
+  {
+    "extras": [
+      [
+        "B",
+        "TEXAS-MIA MUNOZ"
+      ]
+    ],
+    "offense": "TXST",
+    "defense": "TEXAS",
+    "time": "1035",
+    "result": "GD",
+    "primary": [
+      "TXST-TIM NGUYEN"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 27,
+    "possession_number": 19,
+    "season": "13",
+    "tournament": "Alamo-Cup",
+    "game": "10v10/13/Alamo-Cup/TEXAS_TXST_data.json"
+  },
+  {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "TXST",
+    "time": "1120",
+    "result": "TB",
+    "primary": [
+      "TXST-UNK"
+    ],
+    "secondary": [
+      "TEXAS-41"
+    ],
+    "period": "FLOOR",
+    "length": 85,
+    "possession_number": 20,
+    "season": "13",
+    "tournament": "Alamo-Cup",
+    "game": "10v10/13/Alamo-Cup/TEXAS_TXST_data.json"
+  },
+  {
+    "extras": [
+      [
+        "Y",
+        "TEXAS-JAYDAN GILSTRAP"
+      ],
+      [
+        "R",
+        "TEXAS-JACK WANG"
+      ]
+    ],
+    "offense": "TXST",
+    "defense": "TEXAS",
+    "time": "1138",
+    "result": "TC",
+    "primary": [
+      "TEXAS-MICHAEL JOHNSTON"
+    ],
+    "secondary": [
+      "TXST-TIM NGUYEN"
+    ],
+    "period": "FLOOR",
+    "length": 18,
+    "possession_number": 21,
+    "season": "13",
+    "tournament": "Alamo-Cup",
+    "game": "10v10/13/Alamo-Cup/TEXAS_TXST_data.json"
+  },
+  {
+    "extras": [
+      [
+        "TIMEOUT",
+        "TEXAS"
+      ]
+    ],
+    "offense": "TEXAS",
+    "defense": "TXST",
+    "time": "1215",
+    "result": "GS",
+    "primary": [
+      "TEXAS-MICHAEL JOHNSTON"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 77,
+    "possession_number": 22,
+    "season": "13",
+    "tournament": "Alamo-Cup",
+    "game": "10v10/13/Alamo-Cup/TEXAS_TXST_data.json"
+  },
+  {
+    "extras": [],
+    "offense": "TXST",
+    "defense": "TEXAS",
+    "time": "1245",
+    "result": "GP",
+    "primary": [
+      "TXST-MIKE MORROW"
+    ],
+    "secondary": [
+      "TXST-DAVID AVILA"
+    ],
+    "period": "FLOOR",
+    "length": 30,
+    "possession_number": 23,
+    "season": "13",
+    "tournament": "Alamo-Cup",
+    "game": "10v10/13/Alamo-Cup/TEXAS_TXST_data.json"
+  },
+  {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "TXST",
+    "time": "1258",
+    "result": "G",
+    "primary": [
+      "TEXAS-UNK"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 13,
+    "possession_number": 24,
+    "season": "13",
+    "tournament": "Alamo-Cup",
+    "game": "10v10/13/Alamo-Cup/TEXAS_TXST_data.json"
+  },
+  {
+    "extras": [],
+    "offense": "TXST",
+    "defense": "TEXAS",
+    "time": "1355",
+    "result": "TL",
+    "primary": [
+      "TEXAS-GRAYSON BRIGGS"
+    ],
+    "secondary": [
+      "TXST-UNK"
+    ],
+    "period": "FLOOR",
+    "length": 97,
+    "possession_number": 25,
+    "season": "13",
+    "tournament": "Alamo-Cup",
+    "game": "10v10/13/Alamo-Cup/TEXAS_TXST_data.json"
+  },
+  {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "TXST",
+    "time": "1428",
+    "result": "TB",
+    "primary": [
+      "TXST-MELISSA KITE"
+    ],
+    "secondary": [
+      "TEXAS-SPENCER FORBES"
+    ],
+    "period": "FLOOR",
+    "length": 73,
+    "possession_number": 26,
+    "season": "13",
+    "tournament": "Alamo-Cup",
+    "game": "10v10/13/Alamo-Cup/TEXAS_TXST_data.json"
+  },
+  {
+    "extras": [],
+    "offense": "TXST",
+    "defense": "TEXAS",
+    "time": "1507",
+    "result": "ED",
+    "primary": [
+      "TXST-DAVID AVILA"
+    ],
+    "secondary": [
+      "TXST-42"
+    ],
+    "period": "FLOOR",
+    "length": 79,
+    "possession_number": 27,
+    "season": "13",
+    "tournament": "Alamo-Cup",
+    "game": "10v10/13/Alamo-Cup/TEXAS_TXST_data.json"
+  },
+  {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "TXST",
+    "time": "1600",
+    "result": "TD",
+    "primary": [
+      "TXST-TIM NGUYEN"
+    ],
+    "secondary": [
+      "TEXAS-KASYE BEVERS",
+      "TEXAS-GRAYSON BRIGGS"
+    ],
+    "period": "FLOOR",
+    "length": 93,
+    "possession_number": 28,
+    "season": "13",
+    "tournament": "Alamo-Cup",
+    "game": "10v10/13/Alamo-Cup/TEXAS_TXST_data.json"
+  },
+  {
+    "extras": [
+      [
+        "R",
+        "TEXAS-DANIEL POPPE"
+      ],
+      [
+        "Y",
+        "TEXAS-GRAYSON BRIGGS"
+      ]
+    ],
+    "offense": "TXST",
+    "defense": "TEXAS",
+    "time": "1711",
+    "result": "GD",
+    "primary": [
+      "TXST-JARED KINCER"
+    ],
+    "secondary": [],
+    "period": "FLOOR",
+    "length": 111,
+    "possession_number": 29,
+    "season": "13",
+    "tournament": "Alamo-Cup",
+    "game": "10v10/13/Alamo-Cup/TEXAS_TXST_data.json"
+  },
+  {
+    "extras": [
+      [
+        "SOP",
+        1
+      ]
+    ],
+    "offense": "TEXAS",
+    "defense": "TXST",
+    "time": "1802",
+    "result": "ED",
+    "primary": [
+      "TEXAS-KASYE BEVERS"
+    ],
+    "secondary": [
+      "TEXAS-LUKE MEISSNER"
+    ],
+    "period": "SOP",
+    "length": 91,
+    "possession_number": 30,
+    "season": "13",
+    "tournament": "Alamo-Cup",
+    "game": "10v10/13/Alamo-Cup/TEXAS_TXST_data.json"
+  },
+  {
+    "extras": [],
+    "offense": "TXST",
+    "defense": "TEXAS",
+    "time": "1839",
+    "result": "E",
+    "primary": [
+      "TXST-UNK"
+    ],
+    "secondary": [],
+    "period": "SOP",
+    "length": 37,
+    "possession_number": 31,
+    "season": "13",
+    "tournament": "Alamo-Cup",
+    "game": "10v10/13/Alamo-Cup/TEXAS_TXST_data.json"
+  },
+  {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "TXST",
+    "time": "1846",
+    "result": "TC",
+    "primary": [
+      "TXST-TIM NGUYEN"
+    ],
+    "secondary": [
+      "TEXAS-UNK"
+    ],
+    "period": "SOP",
+    "length": 7,
+    "possession_number": 32,
+    "season": "13",
+    "tournament": "Alamo-Cup",
+    "game": "10v10/13/Alamo-Cup/TEXAS_TXST_data.json"
+  },
+  {
+    "extras": [],
+    "offense": "TXST",
+    "defense": "TEXAS",
+    "time": "1849",
+    "result": "ED",
+    "primary": [
+      "TXST-JARED KINCER"
+    ],
+    "secondary": [
+      "TXST-TIM NGUYEN"
+    ],
+    "period": "SOP",
+    "length": 3,
+    "possession_number": 33,
+    "season": "13",
+    "tournament": "Alamo-Cup",
+    "game": "10v10/13/Alamo-Cup/TEXAS_TXST_data.json"
+  },
+  {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "TXST",
+    "time": "1918",
+    "result": "GS",
+    "primary": [
+      "TEXAS-COLE BURKE"
+    ],
+    "secondary": [],
+    "period": "SOP",
+    "length": 69,
+    "possession_number": 34,
+    "season": "13",
+    "tournament": "Alamo-Cup",
+    "game": "10v10/13/Alamo-Cup/TEXAS_TXST_data.json"
+  },
+  {
+    "extras": [],
+    "offense": "TXST",
+    "defense": "TEXAS",
+    "time": "2000",
+    "result": "E",
+    "primary": [
+      "TXST-UNK"
+    ],
+    "secondary": [],
+    "period": "SOP",
+    "length": 82,
+    "possession_number": 35,
+    "season": "13",
+    "tournament": "Alamo-Cup",
+    "game": "10v10/13/Alamo-Cup/TEXAS_TXST_data.json"
+  },
+  {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "TXST",
+    "time": "2048",
+    "result": "TB",
+    "primary": [
+      "TXST-CAMERON OGILVIE"
+    ],
+    "secondary": [
+      "TEXAS-COLE BURKE"
+    ],
+    "period": "SOP",
+    "length": 48,
+    "possession_number": 36,
+    "season": "13",
+    "tournament": "Alamo-Cup",
+    "game": "10v10/13/Alamo-Cup/TEXAS_TXST_data.json"
+  },
+  {
+    "extras": [
+      [
+        "B",
+        "TEXAS-COLE BURKE"
+      ]
+    ],
+    "offense": "TXST",
+    "defense": "TEXAS",
+    "time": "2105",
+    "result": "TB",
+    "primary": [
+      "TEXAS-JACK WANG"
+    ],
+    "secondary": [
+      "TXST-UNK"
+    ],
+    "period": "SOP",
+    "length": 57,
+    "possession_number": 37,
+    "season": "13",
+    "tournament": "Alamo-Cup",
+    "game": "10v10/13/Alamo-Cup/TEXAS_TXST_data.json"
+  },
+  {
+    "extras": [],
+    "offense": "TEXAS",
+    "defense": "TXST",
+    "time": "2220",
+    "result": "RCA",
+    "primary": [
+      "TEXAS-41"
+    ],
+    "secondary": [],
+    "period": "SOP",
+    "length": -1,
+    "possession_number": 38,
+    "season": "13",
+    "tournament": "Alamo-Cup",
+    "game": "10v10/13/Alamo-Cup/TEXAS_TXST_data.json"
+  },
+  {
+    "extras": [],
+    "offense": "Brooms Up",
+    "defense": "",
+    "length": -1,
+    "time": "0000",
+    "result": "BU",
+    "primary": [
       "UTSA-JAY STEWART"
     ],
     "secondary": [
@@ -41668,798 +42436,6 @@
     "season": "13",
     "tournament": "NERC",
     "game": "10v10/13/NERC/NYU_TUFTS_game1_data.json"
-  },
-  {
-    "extras": [],
-    "offense": "Brooms Up",
-    "defense": "",
-    "length": -1,
-    "time": "0000",
-    "result": "BU",
-    "primary": [
-      null
-    ],
-    "secondary": [
-      null
-    ],
-    "period": "FLOOR",
-    "possession_number": 0,
-    "season": "13",
-    "tournament": "NERC",
-    "game": "10v10/13/NERC/NYU_TUFTS_game1xlsx_data.json"
-  },
-  {
-    "extras": [],
-    "offense": "NYU",
-    "defense": "UVA",
-    "time": "",
-    "result": "EM",
-    "primary": [
-      "NYU-LANDON GARFINKEL"
-    ],
-    "secondary": [],
-    "period": "FLOOR",
-    "length": -1,
-    "possession_number": 1,
-    "season": "13",
-    "tournament": "NERC",
-    "game": "10v10/13/NERC/NYU_TUFTS_game1xlsx_data.json"
-  },
-  {
-    "extras": [],
-    "offense": "UVA",
-    "defense": "NYU",
-    "time": "",
-    "result": "TD",
-    "primary": [
-      "NYU-LANDON GARFINKEL"
-    ],
-    "secondary": [
-      "UVA-UNK",
-      "UVA-DAVID LITTLETON"
-    ],
-    "period": "FLOOR",
-    "length": -1,
-    "possession_number": 2,
-    "season": "13",
-    "tournament": "NERC",
-    "game": "10v10/13/NERC/NYU_TUFTS_game1xlsx_data.json"
-  },
-  {
-    "extras": [],
-    "offense": "NYU",
-    "defense": "UVA",
-    "time": "",
-    "result": "GD",
-    "primary": [
-      "NYU-FRANK MINSON"
-    ],
-    "secondary": [],
-    "period": "FLOOR",
-    "length": -1,
-    "possession_number": 3,
-    "season": "13",
-    "tournament": "NERC",
-    "game": "10v10/13/NERC/NYU_TUFTS_game1xlsx_data.json"
-  },
-  {
-    "extras": [],
-    "offense": "UVA",
-    "defense": "NYU",
-    "time": "",
-    "result": "TB",
-    "primary": [
-      "NYU-ANTOINE GIRON"
-    ],
-    "secondary": [
-      "UVA-UNK"
-    ],
-    "period": "FLOOR",
-    "length": -1,
-    "possession_number": 4,
-    "season": "13",
-    "tournament": "NERC",
-    "game": "10v10/13/NERC/NYU_TUFTS_game1xlsx_data.json"
-  },
-  {
-    "extras": [],
-    "offense": "NYU",
-    "defense": "UVA",
-    "time": "",
-    "result": "ED",
-    "primary": [
-      "NYU-AIDAN CLAFFEY"
-    ],
-    "secondary": [],
-    "period": "FLOOR",
-    "length": -1,
-    "possession_number": 5,
-    "season": "13",
-    "tournament": "NERC",
-    "game": "10v10/13/NERC/NYU_TUFTS_game1xlsx_data.json"
-  },
-  {
-    "extras": [],
-    "offense": "UVA",
-    "defense": "NYU",
-    "time": "",
-    "result": "TL",
-    "primary": [
-      "NYU-AIDAN CLAFFEY"
-    ],
-    "secondary": [
-      "UVA-UNK"
-    ],
-    "period": "FLOOR",
-    "length": -1,
-    "possession_number": 6,
-    "season": "13",
-    "tournament": "NERC",
-    "game": "10v10/13/NERC/NYU_TUFTS_game1xlsx_data.json"
-  },
-  {
-    "extras": [],
-    "offense": "NYU",
-    "defense": "UVA",
-    "time": "",
-    "result": "GD",
-    "primary": [
-      "NYU-LANDON GARFINKEL"
-    ],
-    "secondary": [],
-    "period": "FLOOR",
-    "length": -1,
-    "possession_number": 7,
-    "season": "13",
-    "tournament": "NERC",
-    "game": "10v10/13/NERC/NYU_TUFTS_game1xlsx_data.json"
-  },
-  {
-    "extras": [],
-    "offense": "UVA",
-    "defense": "NYU",
-    "time": "",
-    "result": "TD",
-    "primary": [
-      "NYU-AIDAN CLAFFEY"
-    ],
-    "secondary": [
-      "UVA-UNK",
-      "UVA-UNK"
-    ],
-    "period": "FLOOR",
-    "length": -1,
-    "possession_number": 8,
-    "season": "13",
-    "tournament": "NERC",
-    "game": "10v10/13/NERC/NYU_TUFTS_game1xlsx_data.json"
-  },
-  {
-    "extras": [],
-    "offense": "NYU",
-    "defense": "UVA",
-    "time": "",
-    "result": "GP",
-    "primary": [
-      "NYU-SHELLEY LOREE"
-    ],
-    "secondary": [
-      "NYU-17"
-    ],
-    "period": "FLOOR",
-    "length": -1,
-    "possession_number": 9,
-    "season": "13",
-    "tournament": "NERC",
-    "game": "10v10/13/NERC/NYU_TUFTS_game1xlsx_data.json"
-  },
-  {
-    "extras": [],
-    "offense": "UVA",
-    "defense": "NYU",
-    "time": "",
-    "result": "GS",
-    "primary": [
-      "UVA-UNK"
-    ],
-    "secondary": [],
-    "period": "FLOOR",
-    "length": -1,
-    "possession_number": 10,
-    "season": "13",
-    "tournament": "NERC",
-    "game": "10v10/13/NERC/NYU_TUFTS_game1xlsx_data.json"
-  },
-  {
-    "extras": [],
-    "offense": "NYU",
-    "defense": "UVA",
-    "time": "",
-    "result": "TL",
-    "primary": [
-      "UVA-UNK"
-    ],
-    "secondary": [
-      "NYU-FRANK MINSON"
-    ],
-    "period": "FLOOR",
-    "length": -1,
-    "possession_number": 11,
-    "season": "13",
-    "tournament": "NERC",
-    "game": "10v10/13/NERC/NYU_TUFTS_game1xlsx_data.json"
-  },
-  {
-    "extras": [],
-    "offense": "UVA",
-    "defense": "NYU",
-    "time": "",
-    "result": "GP",
-    "primary": [
-      "UVA-CARLEE KLEPPIN"
-    ],
-    "secondary": [
-      "UVA-UNK"
-    ],
-    "period": "FLOOR",
-    "length": -1,
-    "possession_number": 12,
-    "season": "13",
-    "tournament": "NERC",
-    "game": "10v10/13/NERC/NYU_TUFTS_game1xlsx_data.json"
-  },
-  {
-    "extras": [],
-    "offense": "NYU",
-    "defense": "UVA",
-    "time": "",
-    "result": "EM",
-    "primary": [
-      "NYU-FRANK MINSON"
-    ],
-    "secondary": [],
-    "period": "FLOOR",
-    "length": -1,
-    "possession_number": 13,
-    "season": "13",
-    "tournament": "NERC",
-    "game": "10v10/13/NERC/NYU_TUFTS_game1xlsx_data.json"
-  },
-  {
-    "extras": [],
-    "offense": "UVA",
-    "defense": "NYU",
-    "time": "",
-    "result": "GS",
-    "primary": [
-      "UVA-BEN PHILLIPS"
-    ],
-    "secondary": [
-      "UVA-UNK"
-    ],
-    "period": "FLOOR",
-    "length": -1,
-    "possession_number": 14,
-    "season": "13",
-    "tournament": "NERC",
-    "game": "10v10/13/NERC/NYU_TUFTS_game1xlsx_data.json"
-  },
-  {
-    "extras": [],
-    "offense": "NYU",
-    "defense": "UVA",
-    "time": "",
-    "result": "EB",
-    "primary": [
-      "NYU-LANDON GARFINKEL"
-    ],
-    "secondary": [],
-    "period": "FLOOR",
-    "length": -1,
-    "possession_number": 15,
-    "season": "13",
-    "tournament": "NERC",
-    "game": "10v10/13/NERC/NYU_TUFTS_game1xlsx_data.json"
-  },
-  {
-    "extras": [],
-    "offense": "UVA",
-    "defense": "NYU",
-    "time": "",
-    "result": "EP",
-    "primary": [
-      "UVA-BEN PHILLIPS"
-    ],
-    "secondary": [
-      "UVA-CARLEE KLEPPIN"
-    ],
-    "period": "FLOOR",
-    "length": -1,
-    "possession_number": 16,
-    "season": "13",
-    "tournament": "NERC",
-    "game": "10v10/13/NERC/NYU_TUFTS_game1xlsx_data.json"
-  },
-  {
-    "extras": [],
-    "offense": "NYU",
-    "defense": "UVA",
-    "time": "",
-    "result": "TL",
-    "primary": [
-      "UVA-BEN PHILLIPS"
-    ],
-    "secondary": [
-      "NYU-UNK"
-    ],
-    "period": "FLOOR",
-    "length": -1,
-    "possession_number": 17,
-    "season": "13",
-    "tournament": "NERC",
-    "game": "10v10/13/NERC/NYU_TUFTS_game1xlsx_data.json"
-  },
-  {
-    "extras": [],
-    "offense": "UVA",
-    "defense": "NYU",
-    "time": "",
-    "result": "E",
-    "primary": [
-      "UVA-UNK"
-    ],
-    "secondary": [],
-    "period": "FLOOR",
-    "length": -1,
-    "possession_number": 18,
-    "season": "13",
-    "tournament": "NERC",
-    "game": "10v10/13/NERC/NYU_TUFTS_game1xlsx_data.json"
-  },
-  {
-    "extras": [],
-    "offense": "NYU",
-    "defense": "UVA",
-    "time": "",
-    "result": "GS",
-    "primary": [
-      "NYU-FRANK MINSON"
-    ],
-    "secondary": [],
-    "period": "FLOOR",
-    "length": -1,
-    "possession_number": 19,
-    "season": "13",
-    "tournament": "NERC",
-    "game": "10v10/13/NERC/NYU_TUFTS_game1xlsx_data.json"
-  },
-  {
-    "extras": [],
-    "offense": "UVA",
-    "defense": "NYU",
-    "time": "",
-    "result": "GS",
-    "primary": [
-      "UVA-GATES YOUNG"
-    ],
-    "secondary": [],
-    "period": "FLOOR",
-    "length": -1,
-    "possession_number": 20,
-    "season": "13",
-    "tournament": "NERC",
-    "game": "10v10/13/NERC/NYU_TUFTS_game1xlsx_data.json"
-  },
-  {
-    "extras": [],
-    "offense": "NYU",
-    "defense": "UVA",
-    "time": "",
-    "result": "GP",
-    "primary": [
-      "NYU-NATHAN REY"
-    ],
-    "secondary": [
-      "NYU-LANDON GARFINKEL"
-    ],
-    "period": "FLOOR",
-    "length": -1,
-    "possession_number": 21,
-    "season": "13",
-    "tournament": "NERC",
-    "game": "10v10/13/NERC/NYU_TUFTS_game1xlsx_data.json"
-  },
-  {
-    "extras": [],
-    "offense": "UVA",
-    "defense": "NYU",
-    "time": "",
-    "result": "TB",
-    "primary": [
-      "NYU-ANTOINE GIRON"
-    ],
-    "secondary": [
-      "UVA-UNK"
-    ],
-    "period": "FLOOR",
-    "length": -1,
-    "possession_number": 22,
-    "season": "13",
-    "tournament": "NERC",
-    "game": "10v10/13/NERC/NYU_TUFTS_game1xlsx_data.json"
-  },
-  {
-    "extras": [
-      [
-        "Y",
-        "UVA-47"
-      ]
-    ],
-    "offense": "NYU",
-    "defense": "UVA",
-    "time": "",
-    "result": "GD",
-    "primary": [
-      "NYU-LANDON GARFINKEL"
-    ],
-    "secondary": [],
-    "period": "FLOOR",
-    "length": -1,
-    "possession_number": 23,
-    "season": "13",
-    "tournament": "NERC",
-    "game": "10v10/13/NERC/NYU_TUFTS_game1xlsx_data.json"
-  },
-  {
-    "extras": [],
-    "offense": "UVA",
-    "defense": "NYU",
-    "time": "",
-    "result": "TL",
-    "primary": [
-      "NYU-LANDON GARFINKEL"
-    ],
-    "secondary": [
-      "UVA-BEN PHILLIPS"
-    ],
-    "period": "FLOOR",
-    "length": -1,
-    "possession_number": 24,
-    "season": "13",
-    "tournament": "NERC",
-    "game": "10v10/13/NERC/NYU_TUFTS_game1xlsx_data.json"
-  },
-  {
-    "extras": [],
-    "offense": "NYU",
-    "defense": "UVA",
-    "time": "",
-    "result": "EM",
-    "primary": [
-      "NYU-LANDON GARFINKEL"
-    ],
-    "secondary": [],
-    "period": "FLOOR",
-    "length": -1,
-    "possession_number": 25,
-    "season": "13",
-    "tournament": "NERC",
-    "game": "10v10/13/NERC/NYU_TUFTS_game1xlsx_data.json"
-  },
-  {
-    "extras": [],
-    "offense": "UVA",
-    "defense": "NYU",
-    "time": "",
-    "result": "TB",
-    "primary": [
-      "NYU-JANICE LU"
-    ],
-    "secondary": [
-      "UVA-UNK"
-    ],
-    "period": "FLOOR",
-    "length": -1,
-    "possession_number": 26,
-    "season": "13",
-    "tournament": "NERC",
-    "game": "10v10/13/NERC/NYU_TUFTS_game1xlsx_data.json"
-  },
-  {
-    "extras": [],
-    "offense": "NYU",
-    "defense": "UVA",
-    "time": "",
-    "result": "TL",
-    "primary": [
-      "UVA-BEN PHILLIPS"
-    ],
-    "secondary": [
-      "NYU-LANDON GARFINKEL"
-    ],
-    "period": "FLOOR",
-    "length": -1,
-    "possession_number": 27,
-    "season": "13",
-    "tournament": "NERC",
-    "game": "10v10/13/NERC/NYU_TUFTS_game1xlsx_data.json"
-  },
-  {
-    "extras": [],
-    "offense": "UVA",
-    "defense": "NYU",
-    "time": "",
-    "result": "TB",
-    "primary": [
-      "NYU-ELLE DESIR"
-    ],
-    "secondary": [
-      "UVA-47"
-    ],
-    "period": "FLOOR",
-    "length": -1,
-    "possession_number": 28,
-    "season": "13",
-    "tournament": "NERC",
-    "game": "10v10/13/NERC/NYU_TUFTS_game1xlsx_data.json"
-  },
-  {
-    "extras": [],
-    "offense": "NYU",
-    "defense": "UVA",
-    "time": "",
-    "result": "GD",
-    "primary": [
-      "NYU-FRANK MINSON"
-    ],
-    "secondary": [
-      "NYU-LANDON GARFINKEL"
-    ],
-    "period": "FLOOR",
-    "length": -1,
-    "possession_number": 29,
-    "season": "13",
-    "tournament": "NERC",
-    "game": "10v10/13/NERC/NYU_TUFTS_game1xlsx_data.json"
-  },
-  {
-    "extras": [],
-    "offense": "UVA",
-    "defense": "NYU",
-    "time": "",
-    "result": "TD",
-    "primary": [
-      "NYU-AIDAN CLAFFEY"
-    ],
-    "secondary": [
-      "UVA-UNK",
-      "UVA-UNK"
-    ],
-    "period": "FLOOR",
-    "length": -1,
-    "possession_number": 30,
-    "season": "13",
-    "tournament": "NERC",
-    "game": "10v10/13/NERC/NYU_TUFTS_game1xlsx_data.json"
-  },
-  {
-    "extras": [],
-    "offense": "NYU",
-    "defense": "UVA",
-    "time": "",
-    "result": "TL",
-    "primary": [
-      "UVA-UNK"
-    ],
-    "secondary": [
-      "NYU-LANDON GARFINKEL"
-    ],
-    "period": "FLOOR",
-    "length": -1,
-    "possession_number": 31,
-    "season": "13",
-    "tournament": "NERC",
-    "game": "10v10/13/NERC/NYU_TUFTS_game1xlsx_data.json"
-  },
-  {
-    "extras": [],
-    "offense": "UVA",
-    "defense": "NYU",
-    "time": "",
-    "result": "TB",
-    "primary": [
-      "NYU-ANTOINE GIRON"
-    ],
-    "secondary": [
-      "UVA-UNK"
-    ],
-    "period": "FLOOR",
-    "length": -1,
-    "possession_number": 32,
-    "season": "13",
-    "tournament": "NERC",
-    "game": "10v10/13/NERC/NYU_TUFTS_game1xlsx_data.json"
-  },
-  {
-    "extras": [],
-    "offense": "NYU",
-    "defense": "UVA",
-    "time": "",
-    "result": "EM",
-    "primary": [
-      "NYU-LANDON GARFINKEL"
-    ],
-    "secondary": [],
-    "period": "FLOOR",
-    "length": -1,
-    "possession_number": 33,
-    "season": "13",
-    "tournament": "NERC",
-    "game": "10v10/13/NERC/NYU_TUFTS_game1xlsx_data.json"
-  },
-  {
-    "extras": [
-      [
-        "Y",
-        "NYU-DESMOND"
-      ]
-    ],
-    "offense": "UVA",
-    "defense": "NYU",
-    "time": "",
-    "result": "GS",
-    "primary": [
-      "UVA-DAVID LITTLETON"
-    ],
-    "secondary": [],
-    "period": "FLOOR",
-    "length": -1,
-    "possession_number": 34,
-    "season": "13",
-    "tournament": "NERC",
-    "game": "10v10/13/NERC/NYU_TUFTS_game1xlsx_data.json"
-  },
-  {
-    "extras": [],
-    "offense": "NYU",
-    "defense": "UVA",
-    "time": "",
-    "result": "E",
-    "primary": [
-      "NYU-UNK"
-    ],
-    "secondary": [],
-    "period": "FLOOR",
-    "length": -1,
-    "possession_number": 35,
-    "season": "13",
-    "tournament": "NERC",
-    "game": "10v10/13/NERC/NYU_TUFTS_game1xlsx_data.json"
-  },
-  {
-    "extras": [],
-    "offense": "UVA",
-    "defense": "NYU",
-    "time": "",
-    "result": "GS",
-    "primary": [
-      "UVA-GATES YOUNG"
-    ],
-    "secondary": [
-      "UVA-DAVID LITTLETON"
-    ],
-    "period": "FLOOR",
-    "length": -1,
-    "possession_number": 36,
-    "season": "13",
-    "tournament": "NERC",
-    "game": "10v10/13/NERC/NYU_TUFTS_game1xlsx_data.json"
-  },
-  {
-    "extras": [],
-    "offense": "NYU",
-    "defense": "UVA",
-    "time": "",
-    "result": "TL",
-    "primary": [
-      "UVA-GATES YOUNG"
-    ],
-    "secondary": [
-      "NYU-13"
-    ],
-    "period": "FLOOR",
-    "length": -1,
-    "possession_number": 37,
-    "season": "13",
-    "tournament": "NERC",
-    "game": "10v10/13/NERC/NYU_TUFTS_game1xlsx_data.json"
-  },
-  {
-    "extras": [],
-    "offense": "UVA",
-    "defense": "NYU",
-    "time": "",
-    "result": "G",
-    "primary": [
-      "UVA-UNK"
-    ],
-    "secondary": [],
-    "period": "FLOOR",
-    "length": -1,
-    "possession_number": 38,
-    "season": "13",
-    "tournament": "NERC",
-    "game": "10v10/13/NERC/NYU_TUFTS_game1xlsx_data.json"
-  },
-  {
-    "extras": [],
-    "offense": "NYU",
-    "defense": "UVA",
-    "time": "",
-    "result": "GS",
-    "primary": [
-      "NYU-LANDON GARFINKEL"
-    ],
-    "secondary": [],
-    "period": "FLOOR",
-    "length": -1,
-    "possession_number": 39,
-    "season": "13",
-    "tournament": "NERC",
-    "game": "10v10/13/NERC/NYU_TUFTS_game1xlsx_data.json"
-  },
-  {
-    "extras": [],
-    "offense": "UVA",
-    "defense": "NYU",
-    "time": "",
-    "result": "TB",
-    "primary": [
-      "NYU-JEFF EBNER"
-    ],
-    "secondary": [
-      "UVA-GATES YOUNG"
-    ],
-    "period": "FLOOR",
-    "length": -1,
-    "possession_number": 40,
-    "season": "13",
-    "tournament": "NERC",
-    "game": "10v10/13/NERC/NYU_TUFTS_game1xlsx_data.json"
-  },
-  {
-    "extras": [],
-    "offense": "NYU",
-    "defense": "UVA",
-    "time": "",
-    "result": "GS",
-    "primary": [
-      "NYU-FRANK MINSON"
-    ],
-    "secondary": [],
-    "period": "FLOOR",
-    "length": -1,
-    "possession_number": 41,
-    "season": "13",
-    "tournament": "NERC",
-    "game": "10v10/13/NERC/NYU_TUFTS_game1xlsx_data.json"
-  },
-  {
-    "extras": [],
-    "offense": "UVA",
-    "defense": "NYU",
-    "time": "",
-    "result": "RCA",
-    "primary": [
-      "NYU-UNK"
-    ],
-    "secondary": [],
-    "period": "FLOOR",
-    "length": -1,
-    "possession_number": 42,
-    "season": "13",
-    "tournament": "NERC",
-    "game": "10v10/13/NERC/NYU_TUFTS_game1xlsx_data.json"
   },
   {
     "extras": [],
